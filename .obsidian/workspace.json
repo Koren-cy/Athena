@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "笔记规范 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "笔记规范 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔记规范 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -186,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af1809182fbf455e",
+  "active": "c9ea62ccf10bf8d7",
   "lastOpenFiles": [
     "笔记规范.md",
     "欢迎.md",
