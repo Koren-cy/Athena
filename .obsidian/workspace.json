@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记规范.md",
+                "file": "笔记规范/数学规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记规范"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f885c6ea86b239ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9ea62ccf10bf8d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "数学规范"
             }
           }
         ]
@@ -49,6 +33,7 @@
       {
         "id": "0609fae4ed666fbc",
         "type": "tabs",
+        "dimension": 35.79387186629526,
         "children": [
           {
             "id": "e404dc29d69887c6",
@@ -91,10 +76,32 @@
             }
           }
         ]
+      },
+      {
+        "id": "400fafc742ba09d3",
+        "type": "tabs",
+        "dimension": 64.20612813370474,
+        "children": [
+          {
+            "id": "840f3a09b4fc1518",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记规范/数学规范.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数学规范 的大纲"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.50271224975586
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -110,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记规范/数学规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "数学规范 的反向链接列表"
             }
           },
           {
@@ -128,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "笔记规范/数学规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "数学规范 的出链列表"
             }
           },
           {
@@ -149,27 +158,14 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "840f3a09b4fc1518",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +176,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c9ea62ccf10bf8d7",
+  "active": "af1809182fbf455e",
   "lastOpenFiles": [
-    "笔记规范.md",
     "欢迎.md",
-    "未命名.canvas",
-    "未命名"
+    "笔记规范/数学规范.md",
+    "笔记规范.md",
+    "笔记规范",
+    "未命名.canvas"
   ]
 }
