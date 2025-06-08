@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-高等数学/其他/差分方程/--差分方程--.md",
+                "file": "7-高等数学/其他/说明/tikz绘图标准.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "--差分方程--"
+              "title": "tikz绘图标准"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-高等数学/其他/差分方程/--差分方程--.md",
+                "file": "7-高等数学/其他/说明/tikz绘图标准.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "--差分方程-- 的大纲"
+              "title": "tikz绘图标准 的大纲"
             }
           }
         ]
@@ -168,6 +168,20 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "cc8ea6eefe32e6fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 3
@@ -182,8 +196,6 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": true,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "github-sync:Sync with Remote": false,
       "copilot:Open Copilot Chat": false,
@@ -202,12 +214,20 @@
       "iconic:打开规则书": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "audio-recorder:开始/结束录音": false
     }
   },
   "active": "efd8512cfc6b3402",
   "lastOpenFiles": [
+    "7-高等数学/其他/说明/仓库文件结构.md",
+    "7-高等数学/其他/说明/招募公告.md",
+    "7-高等数学/其他/数学分类/UI导航.md",
+    "7-高等数学/其他/数学分类/学校学科分类.md",
+    "7-高等数学/其他/数学分类/标准分类.md",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128201611.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128201239.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128201117.png",
+    "7-高等数学/其他/差分方程/--差分方程--.md",
     "2-实用工具/在线工具.md",
     "1-笔记规范/手写与绘图.md",
     "1-笔记规范/未命名.md",
@@ -223,7 +243,6 @@
     "2025-06-08.md",
     "未命名",
     "7-高等数学/其他/说明/使用步骤.md",
-    "7-高等数学/其他/说明/招募公告.md",
     "7-高等数学/其他/说明/数学常用日语.md",
     "7-高等数学/其他/说明/tikz绘图标准.md",
     "7-高等数学/其他/初等数学/数集.md",
@@ -231,11 +250,6 @@
     "7-高等数学/其他/初等数学/映射.md",
     "7-高等数学/其他/初等数学/二项式系数.md",
     "7-高等数学/其他/初等数学/等比数列.md",
-    "7-高等数学/其他/初等数学/半角公式.md",
-    "7-高等数学/其他/初等数学/-初等数学-.md",
-    "7-高等数学/线性代数/相似变换/正交对角化.md",
-    "7-高等数学/线性代数/--线性代数--.md",
-    "7-高等数学/线性代数/相似变换/相似变换.md",
     "7-高等数学/Images/20241030104812.png",
     "7-高等数学/其他/pdf参考资料/linear-guest.pdf",
     "7-高等数学/其他/pdf参考资料/高等数学 第7版 上册 同济大学.pdf",
@@ -251,9 +265,6 @@
     "7-高等数学/Images/20241205163744.png",
     "7-高等数学/Images/2023.12.20-10.47.png",
     "7-高等数学/其他/数学分类/assets/Pasted image 20250203233941.png",
-    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203522.png",
-    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203502.png",
-    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203419.png",
     "未命名.canvas"
   ]
 }
