@@ -1,0 +1,13 @@
+{
+  "useSnippetFirst": true,
+  "maxSuggestionNumber": 3,
+  "alwaysShowExamples": true,
+  "autoEnabling": true,
+  "forceEnabling": false,
+  "matchingSubScript": true,
+  "matchingSuperScript": true,
+  "userDefinedSymbols": {},
+  "userDefineSymbolFilePath": "symbols.md",
+  "fuzzySearchType": "LCS",
+  "debugMode": false
+}

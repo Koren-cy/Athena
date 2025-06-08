@@ -19,10 +19,10 @@
   "deepseekApiKey": "sk-afa0788cdb9a4fddb87d1c8f9faba2e7",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-reasoner|deepseek",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "embeddingModelKey": "text-embedding-3-large|openai",
   "temperature": 0.1,
-  "maxTokens": 1000,
-  "contextTurns": 15,
+  "maxTokens": 16000,
+  "contextTurns": 3,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
@@ -254,37 +254,37 @@
     {
       "name": "Fix grammar and spelling",
       "prompt": "Fix the grammar and spelling of {}. Preserve all formatting, line breaks, and special characters. Do not add or remove any content. Return only the corrected text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Translate to Chinese",
       "prompt": "Translate {} into Chinese:\n    1. Preserve the meaning and tone\n    2. Maintain appropriate cultural context\n    3. Keep formatting and structure\n    Return only the translated text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Summarize",
       "prompt": "Create a bullet-point summary of {}. Each bullet point should capture a key point. Return only the bullet-point summary.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Simplify",
       "prompt": "Simplify {} to a 6th-grade reading level (ages 11-12). Use simple sentences, common words, and clear explanations. Maintain the original key concepts. Return only the simplified text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Emojify",
       "prompt": "Add relevant emojis to enhance {}. Follow these rules:\n    1. Insert emojis at natural breaks in the text\n    2. Never place two emojis next to each other\n    3. Keep all original text unchanged\n    4. Choose emojis that match the context and tone\n    Return only the emojified text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Make shorter",
       "prompt": "Reduce {} to half its length while preserving these elements:\n    1. Main ideas and key points\n    2. Essential details\n    3. Original tone and style\n    Return only the shortened text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Make longer",
       "prompt": "Expand {} to twice its length by:\n    1. Adding relevant details and examples\n    2. Elaborating on key points\n    3. Maintaining the original tone and style\n    Return only the expanded text.",
-      "showInContextMenu": true
+      "showInContextMenu": false
     },
     {
       "name": "Generate table of contents",
@@ -320,6 +320,11 @@
       "name": "Rewrite as press release",
       "prompt": "Transform {} into a professional press release:\n    1. Use formal, journalistic style\n    2. Include headline and dateline\n    3. Follow inverted pyramid structure\n    Return only the press release format.",
       "showInContextMenu": false
+    },
+    {
+      "name": "翻译为中文",
+      "prompt": "你是一名翻译专家，可以将用户输入的内容翻译成中文。\n\n首先你阅读并理解用户输入的内容，之后，你深度思考，并开始翻译。在翻译过程中，你能保持内容的markdown格式，能准确翻译专业术语，能保留专有词汇和缩写，不改变原文的意思。最后，你只需要返回翻译结果，除了译文以外，不要返回任何其他内容。\n\n作为一名专家，你能确保翻译结果符合中文语言习惯，你可以适当调整语气和风格，并考虑到某些词语的文化内涵和地区差异。同时作为翻译家，你能将原文翻译成符合信达雅标准的译文。\"信\" 即忠实于原文的内容与意图；\"达\" 意味着译文应通顺易懂，表达清晰；\"雅\" 则追求译文的文化审美和语言的优美。目标是创作出既忠于原作，准确传递原文想表达的内容，又能让语言符合中文语言文化和中国读者语言习惯与审美的翻译。\n\n\n以下是用户输入（你要翻译的内容）：\n{}",
+      "showInContextMenu": true
     }
   ],
   "lastDismissedVersion": null,
