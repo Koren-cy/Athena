@@ -19,9 +19,9 @@
   "deepseekApiKey": "sk-afa0788cdb9a4fddb87d1c8f9faba2e7",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-reasoner|deepseek",
-  "embeddingModelKey": "text-embedding-3-large|openai",
+  "embeddingModelKey": "bge-m3|ollama",
   "temperature": 0.1,
-  "maxTokens": 16000,
+  "maxTokens": 8100,
   "contextTurns": 3,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
@@ -50,6 +50,7 @@
       "isBuiltIn": true,
       "core": true,
       "plusExclusive": true,
+      "projectEnabled": false,
       "capabilities": [
         "vision"
       ]
@@ -60,6 +61,7 @@
       "enabled": false,
       "isBuiltIn": true,
       "core": true,
+      "projectEnabled": true,
       "capabilities": [
         "vision"
       ]
@@ -70,6 +72,7 @@
       "enabled": false,
       "isBuiltIn": true,
       "core": true,
+      "projectEnabled": true,
       "capabilities": [
         "vision"
       ]
@@ -182,7 +185,8 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
-      "plusExclusive": true
+      "plusExclusive": true,
+      "enableCors": false
     },
     {
       "name": "copilot-plus-large",
@@ -193,7 +197,8 @@
       "core": true,
       "plusExclusive": true,
       "believerExclusive": true,
-      "dimensions": 1024
+      "dimensions": 1024,
+      "enableCors": false
     },
     {
       "name": "copilot-plus-multilingual",
@@ -203,7 +208,8 @@
       "isEmbeddingModel": true,
       "core": true,
       "plusExclusive": true,
-      "dimensions": 512
+      "dimensions": 512,
+      "enableCors": false
     },
     {
       "name": "text-embedding-3-small",
@@ -211,35 +217,62 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "enableCors": false
     },
     {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "enableCors": false
     },
     {
       "name": "embed-multilingual-light-v3.0",
       "provider": "cohereai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "enableCors": false
     },
     {
       "name": "text-embedding-004",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "enableCors": false
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "enableCors": false
+    },
+    {
+      "name": "snowflake-arctic-embed2",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "snowflake"
+    },
+    {
+      "name": "bge-m3",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "bge-m3"
     }
   ],
   "embeddingRequestsPerMin": 90,
@@ -327,7 +360,10 @@
       "showInContextMenu": true
     }
   ],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "2.9.0",
   "passMarkdownImages": true,
-  "enableCustomPromptTemplating": true
+  "enableCustomPromptTemplating": true,
+  "includeActiveNoteAsContext": true,
+  "allowAdditionalContext": true,
+  "enableWordCompletion": false
 }

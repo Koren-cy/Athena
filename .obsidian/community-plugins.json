@@ -41,5 +41,9 @@
   "canvas-format-brush",
   "file-explorer-note-count",
   "obsidian-trash-explorer",
-  "multi-properties"
+  "multi-properties",
+  "number-headings-obsidian",
+  "obsidian-tikzjax",
+  "obsidian-outliner",
+  "auto-card-link"
 ]
