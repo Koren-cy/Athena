@@ -253,17 +253,6 @@
       "enableCors": false
     },
     {
-      "name": "snowflake-arctic-embed2",
-      "provider": "ollama",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "",
-      "apiKey": "",
-      "isEmbeddingModel": true,
-      "capabilities": [],
-      "displayName": "snowflake"
-    },
-    {
       "name": "bge-m3",
       "provider": "ollama",
       "enabled": true,
