@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce49356172eb1864",
+        "id": "270ed31cfa64d956",
         "type": "tabs",
         "children": [
           {
-            "id": "9e469173adba76fb",
+            "id": "efd8512cfc6b3402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记规范/未命名.md",
+                "file": "2-实用工具/在线工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "在线工具"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "0609fae4ed666fbc",
         "type": "tabs",
-        "dimension": 41.70153417015343,
+        "dimension": 72.10599721059972,
         "children": [
           {
             "id": "e404dc29d69887c6",
@@ -80,7 +80,7 @@
       {
         "id": "400fafc742ba09d3",
         "type": "tabs",
-        "dimension": 58.29846582984657,
+        "dimension": 27.89400278940028,
         "children": [
           {
             "id": "840f3a09b4fc1518",
@@ -88,20 +88,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记规范/未命名.md",
+                "file": "2-实用工具/在线工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "在线工具 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.50271224975586
+    "width": 296.50271224975586
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +182,7 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "github-sync:Sync with Remote": false,
@@ -190,33 +190,70 @@
       "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "edge-tts:Read note aloud": false,
+      "edge-tts:Read note aloud": true,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "iconic:打开规则书": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "840f3a09b4fc1518",
   "lastOpenFiles": [
-    "笔记规范/数学符号参考.md",
-    "笔记规范/手写与绘图.md",
-    "未命名.md",
-    "视频笔记",
-    "01JX76KHW6D9EZE7MFW39W7B0H.md",
-    "01JX76KHW6D9EZE7MFW39W7B0H.md.crswap",
-    "笔记规范/未命名.md",
-    "未命名.canvas",
-    "auxiliary/Ink/Writing/2025.6.8 - 3.00am.writing",
-    "auxiliary",
-    "Ink/Drawing/2025.6.8 - 2.49am.drawing",
-    "auxiliary/Ink/Drawing/2025.6.8 - 2.42am.drawing",
-    "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
-    "Ink/Writing/2025.6.8 - 2.39am.writing",
-    "Ink/Drawing/2025.6.8 - 2.40am.drawing",
-    "Ink/Drawing/2025.6.8 - 2.39am.drawing",
-    "欢迎.md",
-    "笔记规范.md"
+    "1-笔记规范/手写与绘图.md",
+    "1-笔记规范/未命名.md",
+    "1-笔记规范/拓展符号参考.md",
+    "1-笔记规范/Callouts语法.md",
+    "1-笔记规范/代码.md",
+    "2-实用工具/在线工具.md",
+    "7-高等数学/其他/差分方程/差分方程基础.md",
+    "3-模板模块/模板/template-微积分.md",
+    "auxiliary/WebPage",
+    "1-笔记规范/数学符号参考.md",
+    "1-笔记规范/数学符号拓展.md",
+    "未命名看板.md",
+    "2025-06-08.md",
+    "未命名",
+    "7-高等数学/其他/说明/使用步骤.md",
+    "7-高等数学/其他/说明/招募公告.md",
+    "7-高等数学/其他/说明/数学常用日语.md",
+    "7-高等数学/其他/说明/tikz绘图标准.md",
+    "7-高等数学/其他/初等数学/数集.md",
+    "7-高等数学/其他/初等数学/手算开根号.md",
+    "7-高等数学/其他/初等数学/映射.md",
+    "7-高等数学/其他/初等数学/二项式系数.md",
+    "7-高等数学/其他/初等数学/等比数列.md",
+    "7-高等数学/其他/初等数学/半角公式.md",
+    "7-高等数学/其他/初等数学/-初等数学-.md",
+    "7-高等数学/线性代数/相似变换/正交对角化.md",
+    "7-高等数学/线性代数/--线性代数--.md",
+    "7-高等数学/线性代数/相似变换/相似变换.md",
+    "7-高等数学/Images/20241030104812.png",
+    "7-高等数学/其他/pdf参考资料/linear-guest.pdf",
+    "7-高等数学/其他/pdf参考资料/高等数学 第7版 上册 同济大学.pdf",
+    "7-高等数学/其他/pdf参考资料/概率论与数理统计(浙大四版).pdf",
+    "7-高等数学/其他/pdf参考资料/高等数学 第7版 下册 同济大学.pdf",
+    "7-高等数学/其他/pdf参考资料/梁灿彬-微分几何入门与广义相对论-2ed（上中下）.pdf",
+    "7-高等数学/其他/pdf参考资料/线性代数 第5版 同济大学.pdf",
+    "7-高等数学/其他/pdf参考资料/確率論_配布_240530_194604.pdf",
+    "7-高等数学/其他/pdf参考资料/数理統計_240602_214210.pdf",
+    "7-高等数学/Images/20241205170744.png",
+    "7-高等数学/Images/20241205205844.png",
+    "7-高等数学/Images/20241205164125.png",
+    "7-高等数学/Images/20241205163744.png",
+    "7-高等数学/Images/2023.12.20-10.47.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250203233941.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203522.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203502.png",
+    "7-高等数学/其他/数学分类/assets/Pasted image 20250128203419.png",
+    "未命名.canvas"
   ]
 }

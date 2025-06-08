@@ -1,0 +1,110 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "1-笔记规范": {
+      "icon": "lucide-graduation-cap",
+      "color": "green",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "2-实用工具": {
+      "icon": "lucide-wrench",
+      "color": "green",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "3-模板模块": {
+      "icon": "lucide-square-dashed-bottom-code",
+      "color": "green",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "4-网页收藏": {
+      "icon": "lucide-chrome",
+      "color": "yellow",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "5-视频笔记": {
+      "icon": "lucide-file-video",
+      "color": "yellow",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "6-电子设计": {
+      "icon": "lucide-microchip",
+      "color": "orange",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "7-高等数学": {
+      "icon": "math",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ],
+      "color": "blue"
+    },
+    "8-数学建模": {
+      "icon": "lucide-function-square",
+      "color": "blue",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    },
+    "9-程序设计": {
+      "icon": "lucide-monitor-cog",
+      "color": "purple",
+      "unsynced": [
+        "d717afd7fa91b737"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "VAPu0",
+      "name": "Markdown文件",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notebook-text"
+    }
+  ],
+  "folderRules": []
+}

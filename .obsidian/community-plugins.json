@@ -27,10 +27,19 @@
   "obsidian-auto-link-title",
   "templater-obsidian",
   "calendar",
-  "obsidian-icon-folder",
   "editing-toolbar",
   "obsidian-pretty-bibtex",
   "obsidian-auto-pair-chinese-symbol",
   "obsidian-bible-reference",
-  "waypoint"
+  "waypoint",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "fast-text-color",
+  "iconic",
+  "canvas-filter",
+  "obsidian-style-settings",
+  "canvas-format-brush",
+  "file-explorer-note-count",
+  "obsidian-trash-explorer",
+  "multi-properties"
 ]
