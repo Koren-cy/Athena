@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-高等数学/其他/说明/tikz绘图标准.md",
+                "file": "1-笔记规范/代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tikz绘图标准"
+              "title": "代码"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-高等数学/其他/说明/tikz绘图标准.md",
+                "file": "1-笔记规范/代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tikz绘图标准 的大纲"
+              "title": "代码 的大纲"
             }
           }
         ]
@@ -217,8 +217,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "efd8512cfc6b3402",
+  "active": "e404dc29d69887c6",
   "lastOpenFiles": [
+    "7-高等数学/目录.md",
+    "数学符号拓展.md",
+    "7-高等数学/其他/说明/tikz绘图标准.md",
     "7-高等数学/其他/说明/仓库文件结构.md",
     "7-高等数学/其他/说明/招募公告.md",
     "7-高等数学/其他/数学分类/UI导航.md",
@@ -244,12 +247,9 @@
     "未命名",
     "7-高等数学/其他/说明/使用步骤.md",
     "7-高等数学/其他/说明/数学常用日语.md",
-    "7-高等数学/其他/说明/tikz绘图标准.md",
     "7-高等数学/其他/初等数学/数集.md",
     "7-高等数学/其他/初等数学/手算开根号.md",
     "7-高等数学/其他/初等数学/映射.md",
-    "7-高等数学/其他/初等数学/二项式系数.md",
-    "7-高等数学/其他/初等数学/等比数列.md",
     "7-高等数学/Images/20241030104812.png",
     "7-高等数学/其他/pdf参考资料/linear-guest.pdf",
     "7-高等数学/其他/pdf参考资料/高等数学 第7版 上册 同济大学.pdf",
