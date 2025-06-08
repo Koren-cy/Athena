@@ -59,10 +59,10 @@
     },
     "6-电子设计": {
       "icon": "lucide-microchip",
-      "color": "orange",
       "unsynced": [
         "d717afd7fa91b737"
-      ]
+      ],
+      "color": "orange"
     },
     "7-高等数学": {
       "icon": "math",
@@ -92,6 +92,36 @@
   "ribbonIcons": {},
   "fileRules": [
     {
+      "id": "hYEov",
+      "name": "电子设计",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-电子设计.*"
+        }
+      ],
+      "enabled": true,
+      "color": "orange",
+      "icon": "lucide-notebook-pen"
+    },
+    {
+      "id": "bLkGp",
+      "name": "笔记规范",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-笔记规范.*"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notepad-text",
+      "color": "green"
+    },
+    {
       "id": "VAPu0",
       "name": "Markdown文件",
       "match": "all",
@@ -103,8 +133,24 @@
         }
       ],
       "enabled": true,
-      "icon": "lucide-notebook-text"
+      "icon": "lucide-notebook"
     }
   ],
-  "folderRules": []
+  "folderRules": [
+    {
+      "id": "reNzE",
+      "name": "电子设计",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-电子设计/.*"
+        }
+      ],
+      "enabled": true,
+      "color": "orange",
+      "icon": "lucide-folder"
+    }
+  ]
 }
