@@ -226,8 +226,48 @@
       "audio-recorder:开始/结束录音": false
     }
   },
+  "floating": {
+    "id": "3baa622c6d9c00b5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a71d887dd9051a7",
+        "type": "window",
+        "children": [
+          {
+            "id": "f0fc1907b4df4f46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26d6962f7e5f7199",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
+                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 56,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
   "active": "33436a2a56d79d7d",
   "lastOpenFiles": [
+    "7-高等数学/概率论/参数估计/区间估计.md",
     "2-实用工具/在线工具.md",
     "1-笔记规范/Callouts参考.md",
     "1-笔记规范/数学符号参考.md",
@@ -256,7 +296,6 @@
     "高数笔记",
     "高等数学 笔记",
     "屏幕截图 2024-12-17 191225.png",
-    "7-高等数学/微积分/微分方程/二阶线性微分方程.md",
     "Clippings",
     "4-网页收藏/本地网页",
     "4-网页收藏/在线网页",
