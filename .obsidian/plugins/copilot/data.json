@@ -175,6 +175,21 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "gemma3:12b",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "vision"
+      ],
+      "stream": true,
+      "displayName": "gemma3-12b",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [

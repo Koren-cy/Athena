@@ -45,5 +45,8 @@
   "number-headings-obsidian",
   "obsidian-tikzjax",
   "obsidian-outliner",
-  "auto-card-link"
+  "auto-card-link",
+  "image-converter",
+  "obsidian-banners",
+  "obsidian-minimal-settings"
 ]

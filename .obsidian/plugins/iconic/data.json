@@ -17,7 +17,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -49,6 +49,10 @@
       "unsynced": [
         "d717afd7fa91b737"
       ]
+    },
+    "4-网页收藏/网站导航.md": {
+      "icon": "lucide-navigation",
+      "color": "yellow"
     },
     "5-视频笔记": {
       "icon": "lucide-file-video",
@@ -92,21 +96,6 @@
   "ribbonIcons": {},
   "fileRules": [
     {
-      "id": "hYEov",
-      "name": "电子设计",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-电子设计.*"
-        }
-      ],
-      "enabled": true,
-      "color": "orange",
-      "icon": "lucide-notebook-pen"
-    },
-    {
       "id": "bLkGp",
       "name": "笔记规范",
       "match": "all",
@@ -115,11 +104,53 @@
           "source": "path",
           "operator": "matches",
           "value": "[0-9]+-笔记规范.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
         }
       ],
       "enabled": true,
       "icon": "lucide-notepad-text",
       "color": "green"
+    },
+    {
+      "id": "GULIb",
+      "name": "网页收藏",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-网页收藏.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-newspaper",
+      "color": "yellow"
+    },
+    {
+      "id": "hYEov",
+      "name": "电子设计",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-电子设计.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "orange",
+      "icon": "lucide-notebook-pen"
     },
     {
       "id": "VAPu0",
@@ -130,6 +161,14 @@
           "source": "extension",
           "operator": "is",
           "value": "md"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        },
+        {
+          "source": "color",
+          "operator": "!hasValue"
         }
       ],
       "enabled": true,
@@ -146,10 +185,33 @@
           "source": "path",
           "operator": "matches",
           "value": "[0-9]+-电子设计/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
         }
       ],
       "enabled": true,
       "color": "orange",
+      "icon": "lucide-folder"
+    },
+    {
+      "id": "wjmaP",
+      "name": "网页收藏",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-网页收藏/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "yellow",
       "icon": "lucide-folder"
     }
   ]
