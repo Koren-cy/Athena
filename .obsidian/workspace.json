@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64e54fbc6fb1cc22",
+            "id": "780053ca3cc1cdc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-电子设计/电赛/历年赛题/2023 F 基于声传播的智能定位系统.md",
+                "file": "6-电子设计/电赛/历年赛题/2019 H 模拟电磁曲射炮.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023 F 基于声传播的智能定位系统"
-            }
-          },
-          {
-            "id": "f2d8d017c044631a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2023 F 基于声传播的智能定位系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023 F 基于声传播的智能定位系统"
-            }
-          },
-          {
-            "id": "2b0eb6eda98648f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023 E 运动目标控制与自动追踪系统"
-            }
-          },
-          {
-            "id": "424a42eccfa4b285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2023 G 空地协同智能消防系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023 G 空地协同智能消防系统"
-            }
-          },
-          {
-            "id": "5f146b7e94b04587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2021 D 基于互联网的摄像测量系统"
-            }
-          },
-          {
-            "id": "b5d76b066522f63f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2021 F 智能送药小车.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2021 F 智能送药小车"
-            }
-          },
-          {
-            "id": "79443d53534774ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2021 G 植保飞行器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2021 G 植保飞行器"
-            }
-          },
-          {
-            "id": "be4c5e2feb9aab5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/2019 B 巡线机器人.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2019 B 巡线机器人"
-            }
-          },
-          {
-            "id": "177cacfd4b420942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-电子设计/电赛/历年赛题/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2019 H 模拟电磁曲射炮"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-电子设计/电赛/历年赛题/未命名.md",
+                "file": "6-电子设计/电赛/历年赛题/2019 H 模拟电磁曲射炮.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2019 H 模拟电磁曲射炮 的大纲"
             }
           }
         ]
@@ -230,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-高等数学/微积分/导数/导数定义.md",
+                "file": "6-电子设计/电赛/历年赛题/2019 H 模拟电磁曲射炮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "导数定义 的反向链接列表"
+              "title": "2019 H 模拟电磁曲射炮 的反向链接列表"
             }
           },
           {
@@ -249,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-高等数学/微积分/导数/导数定义.md",
+                "file": "6-电子设计/电赛/历年赛题/2019 H 模拟电磁曲射炮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "导数定义 的出链列表"
+              "title": "2019 H 模拟电磁曲射炮 的出链列表"
             }
           },
           {
@@ -283,7 +170,17 @@
             }
           },
           {
-            "id": "cc8ea6eefe32e6fc",
+            "id": "54e6b97626da5075",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          },
+          {
+            "id": "a78ce0f426af2fa2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -295,18 +192,9 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "54e6b97626da5075",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {},
-              "icon": "sigma",
-              "title": "Mathpad"
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -339,27 +227,36 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "177cacfd4b420942",
+  "active": "780053ca3cc1cdc4",
   "lastOpenFiles": [
+    "6-电子设计/电赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
+    "6-电子设计/电赛/历年赛题/2021 G 植保飞行器.md",
     "6-电子设计/电赛/历年赛题/2019 B 巡线机器人.md",
-    "6-电子设计/电赛/历年赛题/未命名.md",
+    "6-电子设计/电赛/历年赛题/2019 F 纸张计数显示装置.md",
+    "6-电子设计/电赛/历年赛题/2019 H 模拟电磁曲射炮.md",
+    "6-电子设计/电赛/历年赛题/2021 F 智能送药小车.md",
+    "6-电子设计/电赛/历年赛题/2023 F 基于声传播的智能定位系统.md",
+    "6-电子设计/电赛/历年赛题/2023 G 空地协同智能消防系统.md",
+    "6-电子设计/电赛/可复用模块/机电.md",
+    "6-电子设计/电赛/可复用模块/图像.md",
+    "6-电子设计/电赛/可复用模块/显示.md",
+    "7-高等数学/概率论/参数估计/单侧置信区间.md",
+    "6-电子设计/电赛/可复用模块/电源.md",
+    "6-电子设计/电赛/可复用模块/通信.md",
+    "6-电子设计/电赛/可复用模块/信号.md",
+    "6-电子设计/电赛/可复用模块",
+    "6-电子设计/电赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
+    "6-电子设计/电赛/历年赛题/attachments/image-7.png",
+    "6-电子设计/电赛/历年赛题/attachments/image-6.png",
+    "6-电子设计/电赛/历年赛题/attachments/image-5.png",
+    "6-电子设计/电赛/历年赛题/attachments/image-4.png",
+    "6-电子设计/电赛/历年赛题/attachments/image-3.png",
     "6-电子设计/电赛/历年赛题/attachments/image-2.png",
     "6-电子设计/电赛/历年赛题/attachments/image-1.png",
-    "6-电子设计/电赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
     "6-电子设计/电赛/历年赛题/attachments/image.png",
     "4-网页收藏/本地网页/TI 杯2019年全国大学生电子设计竞赛题B-巡线机器人-信息发布-全国大学生电子设计竞赛培训网.md",
-    "6-电子设计/电赛/历年赛题/2021 G 植保飞行器.md",
     "6-电子设计/电赛/历年赛题/attachments/news_202111089122.png",
     "6-电子设计/电赛/历年赛题/attachments/news_202111081616.png",
-    "6-电子设计/电赛/历年赛题/attachments/news_202111085508-1.png",
-    "6-电子设计/电赛/历年赛题/attachments/news_202111085508.png",
-    "6-电子设计/电赛/历年赛题/attachments/news_202111086583.png",
-    "6-电子设计/电赛/历年赛题/attachments/news_202111083520.png",
-    "6-电子设计/电赛/历年赛题/attachments/news_202111089173.png",
-    "6-电子设计/电赛/历年赛题/2021 F 智能送药小车.md",
-    "6-电子设计/电赛/历年赛题/2023 G 空地协同智能消防系统.md",
-    "6-电子设计/电赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
-    "6-电子设计/电赛/历年赛题/2023 F 基于声传播的智能定位系统.md",
     "6-电子设计/电赛/历年赛题/attachments",
     "auxiliary/附件",
     "4-网页收藏/本地网页/基于声传播的智能定位系统-全国大学生电子设计竞赛培训网.md",
@@ -373,20 +270,11 @@
     "7-高等数学/概率论/参数估计/点估计.md",
     "7-高等数学/微积分/极限/无穷.md",
     "7-高等数学/微积分/微分/泰勒公式.md",
-    "7-高等数学/微积分/极限/---极限与连续---.md",
-    "7-高等数学/微积分/极限/一致连续性.md",
-    "7-高等数学/微积分/极限/连续.md",
-    "7-高等数学/微积分/--微积分--.md",
-    "7-高等数学/微积分/导数/---导数---.md",
-    "7-高等数学/微积分/导数/常用求导公式.md",
-    "7-高等数学/微积分/导数/反函数求导法则.md",
-    "7-高等数学/微积分/导数/求导法则.md",
     "高数笔记",
     "高等数学 笔记",
     "Clippings",
     "4-网页收藏/本地网页",
     "4-网页收藏/在线网页",
-    "6-电子设计/电路基础",
     "未命名.canvas"
   ]
 }
