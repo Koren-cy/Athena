@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "./attachments"
 }
