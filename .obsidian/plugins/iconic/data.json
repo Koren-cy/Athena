@@ -26,28 +26,32 @@
       "icon": "lucide-graduation-cap",
       "color": "green",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "2-实用工具": {
       "icon": "lucide-wrench",
       "color": "green",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "3-模板模块": {
       "icon": "lucide-square-dashed-bottom-code",
       "color": "green",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "4-网页收藏": {
       "icon": "lucide-chrome",
       "color": "yellow",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "4-网页收藏/网站导航.md": {
@@ -58,20 +62,23 @@
       "icon": "lucide-file-video",
       "color": "yellow",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "6-电子设计": {
       "icon": "lucide-microchip",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ],
       "color": "orange"
     },
     "7-高等数学": {
       "icon": "math",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ],
       "color": "blue"
     },
@@ -79,14 +86,16 @@
       "icon": "lucide-function-square",
       "color": "blue",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     },
     "9-程序设计": {
       "icon": "lucide-monitor-cog",
       "color": "purple",
       "unsynced": [
-        "d717afd7fa91b737"
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
       ]
     }
   },
