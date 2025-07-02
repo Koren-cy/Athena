@@ -179,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -189,8 +189,8 @@
             "state": {
               "type": "mathpad-view",
               "state": {},
-              "icon": "sigma",
-              "title": "Mathpad"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -221,25 +221,21 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
       "github-sync:Sync with Remote": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "edge-tts:Read note aloud": true,
+      "edge-tts:Read note aloud": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "iconic:打开规则书": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "audio-recorder:开始/结束录音": false,
-      "hide-folders:Show hidden folders": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "772ec6f6275715fb",
