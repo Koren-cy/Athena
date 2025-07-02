@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-模板模块/模板/PCA降维.md",
+                "file": "8-数学建模/降维/PCA降维.md",
                 "mode": "source",
                 "source": false
               },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-模板模块/模板/PCA降维.md",
+                "file": "8-数学建模/降维/PCA降维.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,10 +242,12 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "6adeca6c1bd9be3b",
+  "active": "772ec6f6275715fb",
   "lastOpenFiles": [
-    "6-电子设计/电子设计大赛/复用模块/通信.md",
     "3-模板模块/模板/PCA降维.md",
+    "8-数学建模/降维/PCA降维.md",
+    "3-模板模块/模板/未命名.md",
+    "6-电子设计/电子设计大赛/复用模块/通信.md",
     "8-数学建模/未命名.md",
     "8-数学建模/降维",
     "3-模板模块/模板/template-复分析.md",
@@ -273,7 +275,6 @@
     "6-电子设计/电子设计大赛/历年赛题/2023 F 基于声传播的智能定位系统.md",
     "5-视频笔记/01JX9QXMZGRFJYBPG9M9JBAXWW.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 G 植保飞行器.md",
-    "6-电子设计/电子设计大赛/历年赛题/2019 F 纸张计数显示装置.md",
     "6-电子设计/电子设计大赛/复用模块",
     "6-电子设计/电子设计大赛/历年赛题/attachments/image-7.png",
     "6-电子设计/电子设计大赛/历年赛题/attachments/image-6.png",
