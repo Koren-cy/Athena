@@ -102,13 +102,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/降维/PCA降维.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PCA降维 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -242,10 +241,49 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6adeca6c1bd9be3b",
+  "floating": {
+    "id": "cdc131079e1df8ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2b8b4bf0f87081c8",
+        "type": "window",
+        "children": [
+          {
+            "id": "e7910d40dce36202",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abfe336efae40c6e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
+                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 288,
+        "y": 100,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "abfe336efae40c6e",
   "lastOpenFiles": [
-    "3-模板模块/模板/PCA降维.md",
     "8-数学建模/降维/PCA降维.md",
+    "3-模板模块/模板/PCA降维.md",
     "3-模板模块/模板/未命名.md",
     "6-电子设计/电子设计大赛/复用模块/通信.md",
     "8-数学建模/未命名.md",
