@@ -217,6 +217,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
+      "iconic:打开规则书": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "hide-folders:Show hidden folders": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
