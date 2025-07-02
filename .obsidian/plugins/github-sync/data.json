@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/Koren-cy/Athena.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true
 }

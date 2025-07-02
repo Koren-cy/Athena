@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.50271224975586
+    "width": 279.504695892334
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -242,7 +242,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "772ec6f6275715fb",
+  "active": "6adeca6c1bd9be3b",
   "lastOpenFiles": [
     "3-模板模块/模板/PCA降维.md",
     "8-数学建模/降维/PCA降维.md",
