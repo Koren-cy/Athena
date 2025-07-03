@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-电子设计/电子设计大赛/复用模块/其他.md",
+                "file": "8-数学建模/降维/PCA降维.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "其他"
+              "title": "PCA降维"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-电子设计/电子设计大赛/复用模块/其他.md",
+                "file": "8-数学建模/降维/PCA降维.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "其他 的大纲"
+              "title": "PCA降维 的大纲"
             }
           }
         ]
@@ -244,8 +244,8 @@
   },
   "active": "6adeca6c1bd9be3b",
   "lastOpenFiles": [
-    "6-电子设计/电子设计大赛/复用模块/平台.md",
     "6-电子设计/电子设计大赛/复用模块/其他.md",
+    "6-电子设计/电子设计大赛/复用模块/平台.md",
     "6-电子设计/电子设计大赛/复用模块/控制.md",
     "6-电子设计/电子设计大赛/复用模块/机电.md",
     "6-电子设计/电子设计大赛/复用模块/感知.md",
