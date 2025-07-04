@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-数学建模/降维算法/降维算法.md",
+                "file": "8-数学建模/降维算法/PCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "降维算法"
+              "title": "PCA"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/降维算法/降维算法.md",
+                "file": "8-数学建模/降维算法/PCA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "降维算法 的大纲"
+              "title": "PCA 的大纲"
             }
           }
         ]
@@ -228,10 +228,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aaff010f5c31ebc3",
+  "active": "772ec6f6275715fb",
   "lastOpenFiles": [
-    "8-数学建模/降维算法/PCA.md",
     "8-数学建模/降维算法/降维算法.md",
+    "8-数学建模/降维算法/PCA.md",
     "8-数学建模/术语/多重共线性.md",
     "8-数学建模/降维/未命名.md",
     "4-网页收藏/在线网页/官方文档.md",
