@@ -105,6 +105,25 @@
   "ribbonIcons": {},
   "fileRules": [
     {
+      "id": "CaA7y",
+      "name": "数学建模",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-数学建模.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notebook-text",
+      "color": "blue"
+    },
+    {
       "id": "bLkGp",
       "name": "笔记规范",
       "match": "all",
@@ -221,6 +240,25 @@
       ],
       "enabled": true,
       "color": "yellow",
+      "icon": "lucide-folder"
+    },
+    {
+      "id": "cTv2Q",
+      "name": "数学建模",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-数学建模/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "blue",
       "icon": "lucide-folder"
     }
   ]
