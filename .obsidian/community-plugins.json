@@ -22,12 +22,10 @@
   "omnisearch",
   "text-extractor",
   "ai-image-analyzer",
-  "dynamic-outline",
   "insta-toc",
   "obsidian-auto-link-title",
   "templater-obsidian",
   "calendar",
-  "editing-toolbar",
   "obsidian-pretty-bibtex",
   "obsidian-auto-pair-chinese-symbol",
   "obsidian-bible-reference",
@@ -39,7 +37,6 @@
   "canvas-filter",
   "obsidian-style-settings",
   "canvas-format-brush",
-  "file-explorer-note-count",
   "obsidian-trash-explorer",
   "multi-properties",
   "number-headings-obsidian",
@@ -47,6 +44,8 @@
   "obsidian-outliner",
   "auto-card-link",
   "image-converter",
-  "obsidian-banners",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "dynamic-outline",
+  "folder-notes",
+  "hide-folders"
 ]
