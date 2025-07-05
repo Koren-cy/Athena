@@ -1,5 +1,7 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "accentColor": "#1e65c2"
+  "accentColor": "#1e65c2",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "interfaceFontFamily": "HarmonyOS Sans SC"
 }
