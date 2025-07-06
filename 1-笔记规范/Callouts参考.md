@@ -7,7 +7,7 @@
 
 ---
 
->[!abstract] Abstract
+> [!abstract] Abstract
 >
 >```md
 >> [!abstract]
@@ -18,7 +18,7 @@ Aliases: `summary`, `tldr`
 
 ---
 
->[!info] Info
+> [!info] Info
 >
 >```md
 >> [!info]
@@ -27,7 +27,7 @@ Aliases: `summary`, `tldr`
 
 ---
 
->[!todo] Todo
+> [!todo] Todo
 >
 >```md
 >> [!todo]
@@ -36,7 +36,7 @@ Aliases: `summary`, `tldr`
 
 ---
 
->[!tip] Tip
+> [!tip] Tip
 >
 >```md
 >> [!tip]
@@ -47,7 +47,7 @@ Aliases: `hint`, `important`
 
 ---
 
->[!success] Success
+> [!success] Success
 >```md
 >> [!success]
 >>
@@ -56,7 +56,7 @@ Aliases: `check`, `done`
 
 ---
 
->[!question] Question
+> [!question] Question
 >
 >```md
 >> [!question]
@@ -67,7 +67,7 @@ Aliases: `help`, `faq`
 
 ---
 
->[!warning] Warning
+> [!warning] Warning
 >
 >```md
 >> [!warning]
@@ -78,7 +78,7 @@ Aliases: `caution`, `attention`
 
 ---
 
->[!failure] Failure
+> [!failure] Failure
 >
 >```md
 >> [!failure]
@@ -89,7 +89,7 @@ Aliases: `fail`, `missing`
 
 ---
 
->[!danger] Danger
+> [!danger] Danger
 >
 >```md
 >> [!danger]
@@ -100,7 +100,7 @@ Alias: `error`
 
 ---
 
->[!bug] Bug
+> [!bug] Bug
 >
 >```md
 >> [!bug]
@@ -109,7 +109,7 @@ Alias: `error`
 
 ---
 
->[!example] Example
+> [!example] Example
 >
 >```md
 >> [!example]
@@ -118,10 +118,28 @@ Alias: `error`
 
 ---
 
->[!quote]
+> [!quote]
 >
 >```md
 >> [!quote]
+>>
+>```
+
+---
+
+> [!success] 证明
+>
+>```md
+>> [!success] 证明
+>>
+>```
+
+---
+
+> [!note] 定义
+>
+>```md
+>> [!note] 定义
 >>
 >```
 

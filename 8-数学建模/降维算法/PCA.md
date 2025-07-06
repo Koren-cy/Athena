@@ -5,7 +5,7 @@ tags:
   - 数据分析
   - 无监督
   - 线性
-finished: false
+finished: true
 ---
 # 算法简介
 ## 什么是PCA
@@ -13,11 +13,12 @@ finished: false
 
 >[!tip] Tip
 > 简要说明什么是PCA算法，PCA算法的作用，和PCA算法的特性
+
 ## PCA解决了什么问题
 - [[多重共线性]]
 - 计算量大
 
->[!tip] Tip
+> [!tip] Tip
 > - 应使用无序列表列举问题，并通过引用解释术语含义。
 > - 术语解释存放在 `8-数学建模/术语及概念/` 文件夹下。
 > - 右上角开启阅读模式将鼠标置于引用之上，即可速览引用。
@@ -46,12 +47,57 @@ finished: false
 | --------- | ------------------ |
 | [[协方差]]   | 方差在多元问题下的一般形式      |
 | [[SVD分解]] | 将数据拆解成更简单、更具解释性的成分 |
-|           |                    |
+
 ## 算法流程与数学原理
+### 数据中心化
+对 $\mathbf{X}$ 的每一列（每个特征）进行中心化，使均值为零：
+$$
+  \mathbf{X}_c = \mathbf{X} - \mathbf{1}\boldsymbol{\mu}^T
+$$
+其中 $\boldsymbol{\mu} \in \mathbb{R}^p$ 是各特征的均值向量 ($\mu_j = \frac{1}{n}\sum_{i=1}^n x_{ij}$)，$\mathbf{1} \in \mathbb{R}^n$ 是全 1 向量。后续讨论默认 $\mathbf{X}$ 已中心化。
+
+### 奇异值分解 (SVD)
+对中心化数据矩阵 $\mathbf{X}$ 进行 **Full SVD**：
+$$
+  \mathbf{X} = \mathbf{U} \boldsymbol{\Sigma} \mathbf{V}^T
+$$
+- $\mathbf{U} \in \mathbb{R}^{n \times n}$：左奇异向量矩阵，列向量 $\mathbf{u}_i$ 正交 ($\mathbf{U}^T\mathbf{U} = \mathbf{I}_n$)。
+- $\boldsymbol{\Sigma} \in \mathbb{R}^{n \times p}$：奇异值矩阵，**对角元素** $\sigma_1 \geq \sigma_2 \geq \cdots \geq \sigma_r > 0$ ，其余元素为 0。
+- $\mathbf{V} \in \mathbb{R}^{p \times p}$：右奇异向量矩阵，列向量 $\mathbf{v}_j$ 正交 ($\mathbf{V}^T\mathbf{V} = \mathbf{V}\mathbf{V}^T = \mathbf{I}_p$)。
+
+### 主成分的提取
+**主成分方向 (载荷向量)**: 右奇异向量 $\mathbf{V}$ 的列向量 $\mathbf{v}_j$ 即为主成分方向。
+
+> [!success] 证明
+> 证明*：样本协方差矩阵为 $\mathbf{C} = \frac{1}{n-1}\mathbf{X}^T\mathbf{X}$。代入 SVD：
+> $$
+\mathbf{C} = \frac{1}{n-1}(\mathbf{V}\boldsymbol{\Sigma}^T\mathbf{U}^T)(\mathbf{U}\boldsymbol{\Sigma}\mathbf{V}^T) = \frac{1}{n-1}\mathbf{V}\boldsymbol{\Sigma}^T\boldsymbol{\Sigma}\mathbf{V}^T
+> $$
+> 因为 $\boldsymbol{\Sigma}^T\boldsymbol{\Sigma} = \text{diag}(\sigma_1^2, \sigma_2^2, ..., \sigma_r^2, 0, ..., 0) \in \mathbb{R}^{p \times p}$。上式表明：
+> $$
+\mathbf{C}\mathbf{V} = \mathbf{V} \left( \frac{1}{n-1}\boldsymbol{\Sigma}^T\boldsymbol{\Sigma} \right)
+> $$
+> 这正是协方差矩阵 $\mathbf{C}$ 的特征值分解：$\mathbf{V}$ 的列是 $\mathbf{C}$ 的特征向量（主成分方向），特征值为 $\lambda_j = \frac{\sigma_j^2}{n-1}$。
+
+* **主成分得分 (Principal Scores)**: 数据在主成分方向上的投影坐标。
+$$
+\mathbf{T} = \mathbf{X}\mathbf{V} = (\mathbf{U}\boldsymbol{\Sigma}\mathbf{V}^T)\mathbf{V} = \mathbf{U}\boldsymbol{\Sigma}
+$$
+$\mathbf{T} \in \mathbb{R}^{n \times p}$ 称为得分矩阵，其第 $j$ 列是数据在第 $j$ 个主成分上的投影值。
+
+### 降维投影 (Truncated SVD)
+- 选择保留前 $k$ 个主成分 ($k \leq r$)。
+- **降维投影矩阵**: $\mathbf{W}_k = \mathbf{V}_{[:, 1:k]} \in \mathbb{R}^{p \times k}$，其列是前 $k$ 个主成分方向 ($\mathbf{v}_1, \mathbf{v}_2, ..., \mathbf{v}_k$)。
+- **降维后的数据 (低维表示)**:$\mathbf{Z} = \mathbf{X}\mathbf{W}_k \in \mathbb{R}^{n \times k}$ 其中 $\mathbf{Z}$ 的每一行是原始样本 $\mathbf{x}_i$ 在 $k$ 维主成分子空间中的坐标。
 
 # 超参数及其直观解释
 
+| 超参数   | 解释           |
+| ------- | ------------- |
+| 主成分数 | 即降维后的的维数 |
+
 # 可视化方法
+
 1. **载荷图**
 	- 展示原始特征在低维主成分空间中的方向和重要性。
 2. **双标图**
@@ -64,11 +110,13 @@ finished: false
 	- 展示随着主成分数量增加，累积解释方差比例的变化。
 6. **变量贡献图**
 	- 针对单个主成分，展示各个原始变量对该主成分方差的贡献度。
+
 # 评价指标
-| 指标   | 介绍                   |
-| ---- | -------------------- |
+
+| 指标   | 介绍                                 |
+| ----- | ------------------------------------ |
 | 解释方差 | 主成分总共能够解释原始数据总方差的百分比 |
-|      |                      |
+
 # 注意事项
 1. **数据标准化/归一化**
     - PCA对变量的尺度非常敏感。如果特征的单位和量纲不同，那么方差大的特征会主导主成分的方向，即使它可能并不包含最重要的信息。
@@ -88,3 +136,4 @@ finished: false
     - 如果目标是分类或回归，并且有标签信息`y`，那么监督降维方法可能更有效。
 9. **高维稀疏数据**
     - PCA处理此类数据的效果可能不理想。
+
