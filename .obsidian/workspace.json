@@ -11,15 +11,10 @@
             "id": "8ce01934ea10d1c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-数学建模/聚类算法/算法模板.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "算法模板"
+              "title": "新标签页"
             }
           }
         ]
@@ -89,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/聚类算法/算法模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法模板 的大纲"
+              "title": "大纲"
             }
           }
         ]
