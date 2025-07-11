@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-数学建模/降维算法/PCA.md",
+                "file": "8-数学建模/聚类算法/K-Means.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCA"
+              "title": "K-Means"
             }
           }
         ],
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/降维算法/PCA.md",
+                "file": "8-数学建模/聚类算法/K-Means.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PCA 的大纲"
+              "title": "K-Means 的大纲"
             }
           }
         ]
@@ -259,9 +259,10 @@
   },
   "active": "9aec03b2cedf9686",
   "lastOpenFiles": [
+    "8-数学建模/聚类算法/HDBSCAN.md",
+    "8-数学建模/降维算法/PCA.md",
     "8-数学建模/聚类算法/层次聚类.md",
     "8-数学建模/聚类算法/聚类算法.md",
-    "8-数学建模/降维算法/PCA.md",
     "8-数学建模/降维算法/降维算法.md",
     "8-数学建模/聚类算法/K-Means.md",
     "8-数学建模/8-数学建模.md",
@@ -286,7 +287,6 @@
     "8-数学建模/术语及概念/协方差.md",
     "8-数学建模/特征工程",
     "8-数学建模/术语及概念/特征冗余.md",
-    "6-电子设计/电子设计大赛/历年赛题/2019 B 巡线机器人.md",
     "8-数学建模/预处理",
     "8-数学建模/新建文件夹",
     "8-数学建模/聚类算法",
