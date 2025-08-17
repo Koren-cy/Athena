@@ -11,14 +11,12 @@
             "id": "8ce01934ea10d1c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ink_writing-view",
               "state": {
-                "file": "8-数学建模/术语及概念/协方差.md",
-                "mode": "preview",
-                "source": false
+                "file": "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing"
               },
               "icon": "lucide-file",
-              "title": "协方差"
+              "title": "2025.6.8 - 2.41am"
             }
           }
         ]
@@ -88,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/术语及概念/协方差.md",
+                "file": "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "协方差 的大纲"
+              "title": "2025.6.8 - 2.41am 的大纲"
             }
           }
         ]
@@ -230,14 +228,16 @@
   },
   "active": "8ce01934ea10d1c7",
   "lastOpenFiles": [
+    "auxiliary/Ink/Drawing/2025.6.8 - 2.42am.drawing",
+    "8-数学建模/术语及概念/多重共线性.md",
+    "8-数学建模/术语及概念/特征冗余.md",
+    "8-数学建模/术语及概念/SVD分解.md",
+    "8-数学建模/聚类算法/AP.md",
+    "8-数学建模/术语及概念/协方差.md",
     "8-数学建模/聚类算法/谱聚类.md",
     "8-数学建模/聚类算法/层次聚类.md",
     "8-数学建模/降维算法/PCA.md",
-    "8-数学建模/术语及概念/多重共线性.md",
-    "8-数学建模/术语及概念/特征冗余.md",
     "8-数学建模/术语及概念/维度灾难.md",
-    "8-数学建模/术语及概念/协方差.md",
-    "8-数学建模/术语及概念/SVD分解.md",
     "8-数学建模/8-数学建模.md",
     "8-数学建模/聚类算法/K-Means.md",
     "8-数学建模/聚类算法/HDBSCAN.md",
@@ -255,8 +255,6 @@
     "3-模板模块/数模模板/目录模板.md",
     "8-数学建模/降维算法 1/PCA.md",
     "8-数学建模/降维算法 1",
-    "1-笔记规范/Callouts参考.md",
-    "8-数学建模/未命名看板 1.md",
     "8-数学建模/特征工程",
     "8-数学建模/预处理",
     "8-数学建模/新建文件夹",
