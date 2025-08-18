@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "8-数学建模/降维算法/PCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "PCA"
             }
           }
         ],
@@ -101,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md",
+                "file": "8-数学建模/降维算法/PCA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "PCA 的大纲"
             }
           }
         ]
@@ -243,6 +243,8 @@
   },
   "active": "8482009e495f34c3",
   "lastOpenFiles": [
+    "8-数学建模/聚类算法/AP.md",
+    "8-数学建模/聚类算法/谱聚类.md",
     "未命名 1.md",
     "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
     "6-电子设计/电子设计大赛/计算机视觉/未命名 2.md",
@@ -251,9 +253,7 @@
     "8-数学建模/术语及概念/多重共线性.md",
     "8-数学建模/术语及概念/特征冗余.md",
     "8-数学建模/术语及概念/SVD分解.md",
-    "8-数学建模/聚类算法/AP.md",
     "8-数学建模/术语及概念/协方差.md",
-    "8-数学建模/聚类算法/谱聚类.md",
     "8-数学建模/聚类算法/层次聚类.md",
     "8-数学建模/降维算法/PCA.md",
     "8-数学建模/术语及概念/维度灾难.md",
