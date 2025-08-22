@@ -11,12 +11,26 @@
             "id": "8ce01934ea10d1c7",
             "type": "leaf",
             "state": {
-              "type": "ink_writing-view",
+              "type": "markdown",
               "state": {
-                "file": "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing"
+                "file": "8-数学建模/聚类算法/层次聚类.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.6.8 - 2.41am"
+              "title": "层次聚类"
+            }
+          },
+          {
+            "id": "1064e689dedb5234",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
             }
           },
           {
@@ -33,8 +47,7 @@
               "title": "协方差"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-数学建模/术语及概念/协方差.md",
+                "file": "8-数学建模/聚类算法/层次聚类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "协方差 的大纲"
+              "title": "层次聚类 的大纲"
             }
           }
         ]
@@ -216,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-kanban:创建新看板": false,
       "iconic:打开规则书": false,
       "obsidian-trash-explorer:Open trash explorer": true,
@@ -241,29 +255,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8482009e495f34c3",
+  "active": "8ce01934ea10d1c7",
   "lastOpenFiles": [
+    "2-实用工具/在线工具.md",
+    "3-模板模块/数模模板/算法模板.md",
+    "3-模板模块/数模模板/目录模板.md",
+    "8-数学建模/术语及概念/多重共线性.md",
+    "8-数学建模/术语及概念/特征冗余.md",
+    "8-数学建模/术语及概念/维度灾难.md",
+    "8-数学建模/术语及概念/协方差.md",
+    "8-数学建模/聚类算法/层次聚类.md",
+    "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
     "未命名 1.md",
     "8-数学建模/8-数学建模.md",
-    "3-模板模块/数模模板/目录模板.md",
     "8-数学建模/降维算法/PCA.md",
     "8-数学建模/聚类算法/AP.md",
     "8-数学建模/聚类算法/谱聚类.md",
-    "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
     "6-电子设计/电子设计大赛/计算机视觉/未命名 2.md",
     "6-电子设计/电子设计大赛/计算机视觉",
     "auxiliary/Ink/Drawing/2025.6.8 - 2.42am.drawing",
-    "8-数学建模/术语及概念/多重共线性.md",
-    "8-数学建模/术语及概念/特征冗余.md",
     "8-数学建模/术语及概念/SVD分解.md",
-    "8-数学建模/术语及概念/协方差.md",
-    "8-数学建模/聚类算法/层次聚类.md",
-    "8-数学建模/术语及概念/维度灾难.md",
     "8-数学建模/聚类算法/K-Means.md",
     "8-数学建模/聚类算法/HDBSCAN.md",
     "8-数学建模/聚类算法/聚类算法.md",
     "8-数学建模/降维算法/降维算法.md",
-    "2-实用工具/在线工具.md",
     "8-数学建模/术语及概念/采样噪音.md",
     "8-数学建模/聚类算法/OPTICS.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 G 植保飞行器.md",
@@ -271,7 +286,6 @@
     "6-电子设计/电子设计大赛/历年赛题/2023 G 空地协同智能消防系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 F 智能送药小车.md",
     "8-数学建模/聚类算法/算法模板.md",
-    "3-模板模块/数模模板/算法模板.md",
     "8-数学建模/降维算法 1",
     "8-数学建模/特征工程",
     "8-数学建模/预处理",
