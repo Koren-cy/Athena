@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
-                "mode": "source",
+                "file": "8-数学建模/8-数学建模.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023 E 运动目标控制与自动追踪系统"
+              "title": "8-数学建模"
+            }
+          },
+          {
+            "id": "5f5076ed13fc3657",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +101,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2023 E 运动目标控制与自动追踪系统 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -192,17 +204,27 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "36c20ca2409af49f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-kanban:创建新看板": false,
       "iconic:打开规则书": false,
       "obsidian-trash-explorer:Open trash explorer": true,
@@ -228,8 +250,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b5b4ae210383bd58",
+  "active": "36c20ca2409af49f",
   "lastOpenFiles": [
+    "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 F 纸张计数显示装置.md",
     "6-电子设计/电子设计大赛/计算机视觉/未命名 2.md",
     "未命名.md",
@@ -241,7 +264,6 @@
     "6-电子设计/电子设计大赛/历年赛题/2023 G 空地协同智能消防系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 G 植保飞行器.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 B 巡线机器人.md",
-    "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 H 模拟电磁曲射炮.md",
     "6-电子设计/电子设计大赛/复用模块/平台.md",
     "6-电子设计/电子设计大赛/复用模块/机电.md",
