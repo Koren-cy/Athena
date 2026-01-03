@@ -25,12 +25,18 @@
             "id": "5f5076ed13fc3657",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "6-电子设计/电子设计大赛/复用模块/复用模块.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-trello",
+              "title": "复用模块"
             }
           }
         ],
@@ -101,12 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6-电子设计/电子设计大赛/复用模块/复用模块.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "复用模块 的大纲"
             }
           }
         ]
@@ -220,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,7 +258,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "36c20ca2409af49f",
+  "active": "5f5076ed13fc3657",
   "lastOpenFiles": [
     "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 F 纸张计数显示装置.md",
