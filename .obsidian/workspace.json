@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31d685528f84c8ec",
+        "id": "b2ddf38e49489927",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b4ae210383bd58",
+            "id": "17407d1353e01be3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-数学建模/8-数学建模.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8-数学建模"
-            }
-          },
-          {
-            "id": "5f5076ed13fc3657",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "6-电子设计/电子设计大赛/复用模块/复用模块.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "复用模块"
-            }
-          },
-          {
-            "id": "037ae7f95fc3db18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -227,7 +189,7 @@
             }
           },
           {
-            "id": "36c20ca2409af49f",
+            "id": "d38b30dda79a2e51",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -246,7 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "obsidian-kanban:创建新看板": false,
       "iconic:打开规则书": false,
       "obsidian-trash-explorer:Open trash explorer": true,
@@ -272,35 +234,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "037ae7f95fc3db18",
+  "active": "17407d1353e01be3",
   "lastOpenFiles": [
-    "未命名.md",
+    "8-数学建模/8-数学建模.md",
+    "8-数学建模/降维算法/PCA.md",
+    "6-电子设计/电子设计大赛/计算机视觉/未命名 2.md",
+    "6-电子设计/电子设计大赛/复用模块/通信.md",
+    "6-电子设计/电子设计大赛/复用模块/电源.md",
+    "6-电子设计/电子设计大赛/复用模块/感知.md",
+    "6-电子设计/电子设计大赛/复用模块/音频.md",
+    "6-电子设计/电子设计大赛/复用模块/信号.md",
+    "6-电子设计/电子设计大赛/复用模块/显示.md",
+    "6-电子设计/电子设计大赛/复用模块/图像.md",
+    "6-电子设计/电子设计大赛/复用模块/平台.md",
+    "6-电子设计/电子设计大赛/复用模块/控制.md",
+    "6-电子设计/电子设计大赛/复用模块/机电.md",
     "6-电子设计/电子设计大赛/复用模块/复用模块.md",
+    "未命名.md",
     "未命名 1.md",
     "6-电子设计/电子设计大赛/历年赛题/2023 E 运动目标控制与自动追踪系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 F 纸张计数显示装置.md",
-    "6-电子设计/电子设计大赛/计算机视觉/未命名 2.md",
     "6-电子设计/电子设计大赛/计算机视觉",
-    "8-数学建模/8-数学建模.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 F 智能送药小车.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2023 G 空地协同智能消防系统.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 G 植保飞行器.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 B 巡线机器人.md",
     "6-电子设计/电子设计大赛/历年赛题/2019 H 模拟电磁曲射炮.md",
-    "6-电子设计/电子设计大赛/复用模块/平台.md",
-    "6-电子设计/电子设计大赛/复用模块/机电.md",
-    "6-电子设计/电子设计大赛/复用模块/图像.md",
-    "6-电子设计/电子设计大赛/复用模块/感知.md",
-    "8-数学建模/降维算法/PCA.md",
     "8-数学建模/聚类算法/层次聚类.md",
     "8-数学建模/术语及概念/多重共线性.md",
-    "8-数学建模/聚类算法/K-Means.md",
-    "8-数学建模/聚类算法/HDBSCAN.md",
-    "8-数学建模/聚类算法/聚类算法.md",
-    "8-数学建模/降维算法/降维算法.md",
-    "2-实用工具/在线工具.md",
-    "8-数学建模/术语及概念/采样噪音.md",
     "8-数学建模/降维算法 1",
     "8-数学建模/特征工程",
     "8-数学建模/预处理",
