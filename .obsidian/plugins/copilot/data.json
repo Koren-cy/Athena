@@ -364,7 +364,7 @@
       "showInContextMenu": true
     }
   ],
-  "lastDismissedVersion": "2.9.0",
+  "lastDismissedVersion": "3.3.3",
   "passMarkdownImages": true,
   "enableCustomPromptTemplating": true,
   "includeActiveNoteAsContext": true,
