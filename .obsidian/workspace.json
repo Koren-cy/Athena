@@ -33,7 +33,7 @@
       {
         "id": "0609fae4ed666fbc",
         "type": "tabs",
-        "dimension": 63.31938633193863,
+        "dimension": 58.37173579109063,
         "children": [
           {
             "id": "772ec6f6275715fb",
@@ -80,7 +80,7 @@
       {
         "id": "400fafc742ba09d3",
         "type": "tabs",
-        "dimension": 36.68061366806137,
+        "dimension": 41.62826420890937,
         "children": [
           {
             "id": "840f3a09b4fc1518",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-电子设计/电子设计大赛/复用模块/电源.md",
+                "file": "7-应用与数学/数字信号处理/第11讲 傅里叶变换的性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "电源 的反向链接列表"
+              "title": "第11讲 傅里叶变换的性质 的反向链接列表"
             }
           },
           {
@@ -203,8 +203,7 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,9 +240,9 @@
   },
   "active": "51d9a220003e0e65",
   "lastOpenFiles": [
-    "7-应用与数学/数字信号处理/第10讲 序列傅里叶变换.md",
-    "7-应用与数学/数字信号处理/第11讲 傅里叶变换的性质.md",
     "7-应用与数学/数字信号处理/第12讲 z变换的定义.md",
+    "7-应用与数学/数字信号处理/第11讲 傅里叶变换的性质.md",
+    "7-应用与数学/数字信号处理/第10讲 序列傅里叶变换.md",
     "6-电子设计/电子设计大赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
     "6-电子设计/电子设计大赛/复用模块/复用模块.md",
     "7-应用与数学/数字信号处理/第09讲 模拟信号数字化.md",
