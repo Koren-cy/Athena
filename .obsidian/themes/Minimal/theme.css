@@ -8815,12 +8815,20 @@ body {
     stroke: #888888 !important;
 }
 
+.mermaid .edgeLabel {
+    color: #FFFFFF !important;
+}
+
+.mermaid .edgeLabel foreignObject * {
+    background-color: transparent !important;
+}
+
 .mermaid .label {
     font-family: var(--mermaid-font-family) !important;
 }
 
 .mermaid .nodeLabel {
-    color: #FFFFFF   !important;
+    color: #FFFFFF !important;
 }
 
 .mermaid .cluster .nodeLabel {
@@ -8844,3 +8852,13 @@ body {
     /*filter: invert(100%) hue-rotate(180deg) saturate(1.25);*/ /* default obsidian filter */
     filter: none;
 }
+
+
+
+
+
+
+
+
+
+
