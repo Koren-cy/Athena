@@ -20,10 +20,16 @@
 }
 
 .obsidian-mathlive-codemirror-wrapper.inline {
-	display: inline;
+	display: inline-flex;
+	align-items: center;
+	max-width: 100%;
+	/* float: right; */
+	/* transform: translateX(100%); */
 }
 
 .obsidian-mathlive-codemirror-wrapper.inline math-field {
+	max-width: 100%;
+	overflow: auto;
 	display: inline-block;
 	margin: 0 3px;
 }
@@ -35,6 +41,24 @@
 .obsidian-mathlive-codemirror-wrapper.hidden math-field {
 	display: none;
 	margin: 0;
+}
+
+/* Hide MathJax when the setting is enabled */
+body.mathlive-hide-mathjax-block .cm-editor div.math mjx-container {
+	display: none;
+}
+
+body.mathlive-hide-mathjax-inline .cm-editor div.callout .math-block mjx-container,
+body.mathlive-hide-mathjax-block .cm-editor div.callout .math-block mjx-container {
+	display: block !important;
+}
+
+body.mathlive-hide-mathjax-inline .cm-editor span.math mjx-container {
+	display: none;
+}
+
+body.mathlive-hide-mathjax-inline .cm-editor div.callout .math-inline mjx-container {
+	display: inline !important;
 }
 
 math-field.hide-keyboard::part(virtual-keyboard-toggle) {

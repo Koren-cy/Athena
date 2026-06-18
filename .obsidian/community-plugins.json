@@ -1,7 +1,6 @@
 [
   "github-sync",
   "obsidian-latex-suite",
-  "copilot",
   "obsidian-importer",
   "ink",
   "mathpad",
@@ -15,7 +14,6 @@
   "obsidian-excel-to-markdown-table",
   "dataview",
   "advanced-canvas",
-  "mermaid-tools",
   "obsidian-plantuml",
   "edge-tts",
   "pdf-plus",
@@ -30,7 +28,6 @@
   "obsidian-auto-pair-chinese-symbol",
   "obsidian-bible-reference",
   "waypoint",
-  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "fast-text-color",
   "iconic",
@@ -47,5 +44,7 @@
   "obsidian-minimal-settings",
   "dynamic-outline",
   "folder-notes",
-  "hide-folders"
+  "hide-folders",
+  "mehrmaid",
+  "mermaid-tools"
 ]

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "caa83832c2472fbf",
+        "id": "a3a1859e325ee6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "51d9a220003e0e65",
+            "id": "a9edd6b12daaadec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-应用与数学/数字信号处理/第14讲 z变换解差分方程.md",
+                "file": "7-应用与数学/通信原理/EP1-绪论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第14讲 z变换解差分方程"
+              "title": "EP1-绪论"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "0609fae4ed666fbc",
         "type": "tabs",
-        "dimension": 58.37173579109063,
         "children": [
           {
             "id": "772ec6f6275715fb",
@@ -76,32 +75,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "400fafc742ba09d3",
-        "type": "tabs",
-        "dimension": 41.62826420890937,
-        "children": [
-          {
-            "id": "840f3a09b4fc1518",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "7-应用与数学/数字信号处理/第14讲 z变换解差分方程.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "第14讲 z变换解差分方程 的大纲"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5019836425781
+    "width": 280.5019836425781,
+    "collapsed": true
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -117,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-应用与数学/数字信号处理/第14讲 z变换解差分方程.md",
+                "file": "7-应用与数学/通信原理/EP1-绪论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第14讲 z变换解差分方程 的反向链接列表"
+              "title": "EP1-绪论 的反向链接列表"
             }
           },
           {
@@ -136,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-电子设计/电子设计大赛/复用模块/电源.md",
+                "file": "7-应用与数学/通信原理/EP1-绪论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "电源 的出链列表"
+              "title": "EP1-绪论 的出链列表"
             }
           },
           {
@@ -165,8 +143,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -194,7 +172,7 @@
             }
           },
           {
-            "id": "d38b30dda79a2e51",
+            "id": "6c0c1eafcd6a5f63",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -203,7 +181,8 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -226,7 +205,6 @@
       "obsidian-bible-reference:Bible Verse Lookup": true,
       "github-sync:Sync with Remote": false,
       "edge-tts:Read note aloud": true,
-      "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
@@ -234,48 +212,46 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "51d9a220003e0e65",
+  "active": "a9edd6b12daaadec",
   "lastOpenFiles": [
-    "7-应用与数学/数字信号处理/第15讲 z变换的性质.md",
-    "7-应用与数学/数字信号处理/第14讲 z变换解差分方程.md",
-    "7-应用与数学/数字信号处理/第13讲 z变换的收敛域.md",
-    "7-应用与数学/数字信号处理/第12讲 z变换的定义.md",
-    "7-应用与数学/数字信号处理/第11讲 傅里叶变换的性质.md",
-    "7-应用与数学/数字信号处理/第10讲 序列傅里叶变换.md",
-    "6-电子设计/电子设计大赛/历年赛题/2021 D 基于互联网的摄像测量系统.md",
-    "6-电子设计/电子设计大赛/复用模块/复用模块.md",
-    "7-应用与数学/数字信号处理/第09讲 模拟信号数字化.md",
-    "7-应用与数学/数字信号处理/第08讲 离散LTI系统的数学模型.md",
-    "7-应用与数学/数字信号处理/第07讲 系统的因果性和稳定性.md",
-    "7-应用与数学/数字信号处理/第06讲 线性时不变系统.md",
-    "7-应用与数学/数字信号处理/第05讲 系统的分类.md",
-    "7-应用与数学/数字信号处理/第04讲 序列卷积和.md",
-    "7-应用与数学/数字信号处理/第03讲 常用典型序列及基本运算.md",
-    "7-应用与数学/数字信号处理/第02讲 序列的表示.md",
-    "7-应用与数学/数字信号处理/未命名 2.base",
-    "7-应用与数学/数字信号处理/第01讲 课程导论.md",
     "8-数学建模/8-数学建模.md",
-    "未命名 1.base",
-    "8-数学建模/降维算法/PCA.md",
+    "7-应用与数学/通信原理/EP1-绪论.md",
+    "未命名.md",
     "未命名.base",
-    "3-模板模块/数模模板/算法模板.md",
-    "3-模板模块/数模模板/目录模板.md",
-    "8-数学建模/降维算法/降维算法.md",
-    "6-电子设计/电子设计大赛/复用模块/电源.md",
-    "4-网页收藏/网站导航.md",
-    "4-网页收藏/在线网页/官方文档.md",
-    "4-网页收藏/在线网页/在线书籍.md",
-    "2-实用工具/未命名-1.pdf",
-    "7-应用与数学/数字信号处理/未命名 1.base",
-    "7-应用与数学/数字信号处理/未命名.base",
-    "7-应用与数学/数字信号处理/第29讲 时域抽取的基2FFT算法.md.tmp.12236.fafde8947b74",
-    "7-应用与数学/数字信号处理/第04讲 序列卷积和.md.tmp.12236.332cb3bbff37",
-    "7-应用与数学/数字信号处理/第43讲 窗函数法设计FIR滤波器.md.tmp.12236.7a5acc22022f",
-    "7-应用与数学/数字信号处理/第38讲 频率变换法设计高通滤波器.md.tmp.12236.43f4583d1f3c",
+    "未命名 1.base",
+    "copilot-custom-prompts/翻译为中文.md",
+    "copilot-custom-prompts/Rewrite as press release.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.aef8cc76e015",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.7187bb5da04e",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.0e00da55ee4a",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.822e74728ba8",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.1359b46be463",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.118528fef677",
+    "7-应用与数学/通信原理/EP1-绪论.md.tmp.15612.f99332704615",
+    "1-笔记规范/Callouts参考.md",
+    "1-笔记规范/代码块.md",
+    "1-笔记规范/手写与绘图.md",
+    "1-笔记规范/数学符号参考.md",
+    "1-笔记规范/拓展符号参考.md",
+    "6-电子设计/通信原理/EP1-绪论.md",
+    "4-网页收藏/本地网页/P、NP、NPC、NP hard问题.md",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "未命名.canvas",

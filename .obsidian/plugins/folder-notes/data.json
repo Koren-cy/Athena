@@ -47,7 +47,14 @@
     "disableCollapseIcon": true,
     "alwaysCollapse": false,
     "autoSync": true,
-    "allowDragAndDrop": true
+    "allowDragAndDrop": true,
+    "hideLinkList": true,
+    "hideFolderOverview": false,
+    "useActualLinks": false,
+    "fmtpIntegration": false,
+    "titleSize": 1,
+    "isInCallout": false,
+    "useWikilinks": true
   },
   "useSubmenus": true,
   "syncMove": true,
@@ -114,5 +121,10 @@
   "persistentSettingsTab": {
     "afterRestart": true,
     "afterChangingTab": true
-  }
+  },
+  "firstTimeInsertOverview": true,
+  "fvGlobalSettings": {
+    "autoUpdateLinks": false
+  },
+  "hideFolderNoteNameInPath": false
 }
