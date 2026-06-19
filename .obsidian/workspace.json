@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d97c35f37235e65e",
+        "id": "41af435255277a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab6a30667cc6fd5",
+            "id": "a480a88776515e9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7-应用与数学/通信原理/绪论.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "绪论"
             }
           }
         ]
@@ -210,30 +214,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ab6a30667cc6fd5",
+  "active": "a480a88776515e9f",
   "lastOpenFiles": [
+    "7-应用与数学/通信原理/信源编码.md",
+    "7-应用与数学/通信原理/信道.md",
+    "7-应用与数学/通信原理/绪论.md",
+    "7-应用与数学/通信原理/通信原理.md",
+    "7-应用与数学/通信原理/确知信号.md",
+    "8-数学建模/8-数学建模.md",
+    "7-应用与数学/通信原理/模拟调制系统.md",
     "7-应用与数学/通信原理/_review_log.md",
+    "7-应用与数学/通信原理/数字信号的最佳接收.md",
+    "7-应用与数学/通信原理/数字基带传输系统.md",
+    "7-应用与数学/通信原理/随机过程.md",
     "7-应用与数学/通信原理/信源编码.md.tmp.29204.982011c1549e",
     "7-应用与数学/通信原理/数字带通传输系统.md.tmp.29204.2fc50479627e",
-    "7-应用与数学/通信原理/信源编码.md",
     "7-应用与数学/通信原理/信源编码.md.tmp.29204.2d201a1f7199",
     "7-应用与数学/通信原理/数字信号的最佳接收.md.tmp.29204.b1819e251293",
     "7-应用与数学/通信原理/模拟调制系统.md.tmp.29204.78024b70b8ce",
     "7-应用与数学/通信原理/随机过程.md.tmp.29204.dacdf3ef077c",
     "7-应用与数学/通信原理/随机过程.md.tmp.29204.40bf7792bffd",
     "7-应用与数学/通信原理/数字带通传输系统.md.tmp.29204.dc7f2326a11c",
-    "7-应用与数学/通信原理/信道.md",
     "7-应用与数学/通信原理/数字带通传输系统.md.tmp.29204.77de2eadf713",
     "7-应用与数学/通信原理/数字带通传输系统.md.tmp.29204.647bca66d63b",
-    "7-应用与数学/通信原理/数字基带传输系统.md",
-    "7-应用与数学/通信原理/数字信号的最佳接收.md",
-    "7-应用与数学/通信原理/绪论.md",
-    "7-应用与数学/通信原理/模拟调制系统.md",
     "7-应用与数学/通信原理/数字带通传输系统.md",
-    "7-应用与数学/通信原理/确知信号.md",
-    "7-应用与数学/通信原理/随机过程.md",
     "7-应用与数学/通信原理/绪论-深入参考资料.md",
-    "8-数学建模/8-数学建模.md",
     "7-应用与数学/参考资料/通信与DSP核心概念深度解析.md",
     "未命名.md",
     "copilot-custom-prompts/翻译为中文.md",
@@ -247,7 +252,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Simplify.md",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "未命名.canvas",
