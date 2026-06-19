@@ -179,6 +179,21 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "5b4b2faa9008024b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7-应用与数学/通信原理/绪论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "绪论 的大纲"
+            }
           }
         ],
         "currentTab": 6
