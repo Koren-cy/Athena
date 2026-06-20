@@ -37,7 +37,7 @@ var TextColor = class {
   /**
    * Create a basic Text Color
    *
-   * @param {string} color - [TODO:description]
+   * @param {string} color - the color of the text
    * @param {string} id - the id or name of the color
    * @param {string} themeName - the associated theme that this color belongs to
    * @param {boolean} [italic] - italic text
@@ -104,6 +104,20 @@ var CycleState = class {
   cycle() {
     this.index = (this.index + 1) % this.states.length;
     this.state = this.states[this.index];
+  }
+};
+var LatestColor = class {
+  constructor() {
+    this.color = new TextColor("", "", "");
+  }
+  static getInstance() {
+    return this.static_instance || (this.static_instance = new this());
+  }
+  getColor() {
+    return this.color;
+  }
+  setColor(tColor) {
+    this.color = tColor;
   }
 };
 
@@ -710,6 +724,7 @@ var ColorWidget = class extends import_view2.WidgetType {
       getColors(settings).forEach((tColor) => {
         this.menu.addItem((item) => {
           item.setTitle(tColor.id).onClick((evt) => {
+            LatestColor.getInstance().setColor(tColor);
             view.dispatch({
               changes: {
                 from: this.from,
@@ -993,6 +1008,7 @@ var import_view4 = require("@codemirror/view");
 function applyColor(tColor, editor) {
   let prefix = `~={${tColor.id}}`;
   let suffix = `=~`;
+  LatestColor.getInstance().setColor(tColor);
   if (!editor.somethingSelected()) {
     editor.replaceSelection(prefix);
     let pos = editor.getCursor();
@@ -1002,49 +1018,86 @@ function applyColor(tColor, editor) {
   }
   let selections = editor.listSelections();
   selections.forEach((element) => {
-    let anchorpos = element.anchor.line + element.anchor.ch;
-    let headpos = element.head.line + element.head.ch;
-    let start = anchorpos < headpos ? element.anchor : element.head;
-    let end = anchorpos < headpos ? element.head : element.anchor;
-    let selected = editor.getRange(start, end);
-    let coloredText = `${prefix}${selected}${suffix}`;
-    editor.replaceRange(coloredText, start, end);
-    try {
-      let pos = editor.getCursor();
-      pos.ch = pos.ch + 1;
-      editor.setCursor(pos);
-    } catch (e) {
-      return;
+    const anchorOffset = editor.posToOffset(element.anchor);
+    const headOffset = editor.posToOffset(element.head);
+    let start = anchorOffset < headOffset ? element.anchor : element.head;
+    let end = anchorOffset < headOffset ? element.head : element.anchor;
+    const selected = editor.getRange(start, end);
+    let selectedLines = selected.split("\n");
+    for (let i = 0; i < selectedLines.length; i++) {
+      if (selectedLines[i])
+        selectedLines[i] = prefix + selectedLines[i] + suffix;
+    }
+    editor.replaceRange(selectedLines.join("\n"), start, end);
+    const nonEmpty = (element2) => element2.length > 0;
+    if (!selectedLines.some(nonEmpty))
+      editor.setCursor(end);
+    else {
+      const firstNonEmptyLine = selectedLines.findIndex(nonEmpty);
+      const lastNonEmptyLine = selectedLines.findLastIndex(nonEmpty);
+      const beginSelection = { line: start.line + firstNonEmptyLine, ch: firstNonEmptyLine == 0 ? start.ch + prefix.length : prefix.length };
+      const endSelection = { line: start.line + lastNonEmptyLine, ch: lastNonEmptyLine == selectedLines.length - 1 ? end.ch + prefix.length : selectedLines[lastNonEmptyLine].length - suffix.length };
+      editor.setSelection(beginSelection, endSelection);
     }
   });
 }
 function removeColor(editor, view) {
   var _a, _b;
   const tree = view.state.field(textColorParserField).tree;
-  let node = tree.resolveInner(view.state.selection.main.head);
-  while (node.parent != null) {
-    if (node.type.name != "Expression") {
-      node = node.parent;
-      continue;
+  let from = Math.min(view.state.selection.main.head, view.state.selection.main.anchor);
+  let to = Math.max(view.state.selection.main.head, view.state.selection.main.anchor);
+  if (to - from == 0) {
+    let node = tree.resolveInner(view.state.selection.main.head);
+    while (node.parent != null) {
+      if (node.type.name != "Expression") {
+        node = node.parent;
+        continue;
+      }
+      const TcLeft = node.getChild("TcLeft");
+      const Rmarker = (_b = (_a = node.getChild("TcRight")) == null ? void 0 : _a.getChild("REnd")) == null ? void 0 : _b.getChild("RMarker");
+      view.dispatch({
+        changes: [
+          {
+            from: TcLeft ? TcLeft.from : 0,
+            to: TcLeft ? TcLeft.to : 0,
+            insert: ""
+          },
+          {
+            from: Rmarker ? Rmarker.from : 0,
+            to: Rmarker ? Rmarker.to : 0,
+            insert: ""
+          }
+        ]
+      });
+      return;
     }
-    const TcLeft = node.getChild("TcLeft");
-    const Rmarker = (_b = (_a = node.getChild("TcRight")) == null ? void 0 : _a.getChild("REnd")) == null ? void 0 : _b.getChild("RMarker");
-    view.dispatch({
-      changes: [
-        {
-          from: TcLeft ? TcLeft.from : 0,
-          to: TcLeft ? TcLeft.to : 0,
-          insert: ""
-        },
-        {
-          from: Rmarker ? Rmarker.from : 0,
-          to: Rmarker ? Rmarker.to : 0,
-          insert: ""
-        }
-      ]
-    });
     return;
   }
+  let changes = [];
+  tree.iterate({
+    from,
+    to,
+    enter(n) {
+      var _a2, _b2;
+      if (n.type.name != "Expression") {
+        return true;
+      }
+      const TcLeft = n.node.getChild("TcLeft");
+      const Rmarker = (_b2 = (_a2 = n.node.getChild("TcRight")) == null ? void 0 : _a2.getChild("REnd")) == null ? void 0 : _b2.getChild("RMarker");
+      changes.push({
+        from: TcLeft ? TcLeft.from : 0,
+        to: TcLeft ? TcLeft.to : 0,
+        insert: ""
+      });
+      changes.push({
+        from: Rmarker ? Rmarker.from : 0,
+        to: Rmarker ? Rmarker.to : 0,
+        insert: ""
+      });
+      return true;
+    }
+  });
+  view.dispatch({ changes });
   return;
 }
 
@@ -1082,6 +1135,7 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
     this.settingsCompartment = new import_state4.Compartment();
     this.settingsExtension = this.settingsCompartment.of(settingsFacet.of(this.settings));
     this.registerEditorExtension(this.settingsExtension);
+    LatestColor.getInstance().setColor(getColors(this.settings)[0]);
     this.registerEditorExtension(
       import_state4.Prec.high(
         import_view4.keymap.of([
@@ -1097,6 +1151,13 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
       name: "Change text color",
       editorCallback: (editor) => {
         this.openColorMenu(editor);
+      }
+    });
+    this.addCommand({
+      id: "text-color-latestcolor",
+      name: "Apply latest color",
+      editorCallback: (editor) => {
+        applyColor(LatestColor.getInstance().getColor(), editor);
       }
     });
     this.addCommand({
@@ -1122,6 +1183,12 @@ var FastTextColorPlugin = class extends import_obsidian8.Plugin {
               });
               subitem.dom.addClass(tColor.className);
               subitem.iconEl.addClass(tColor.className);
+            });
+          });
+          submenu.addItem((subitem) => {
+            subitem.setTitle("remove").setIcon("ban").onClick((evt) => {
+              const editorView = view.editor.cm;
+              removeColor(editor, editorView);
             });
           });
         });

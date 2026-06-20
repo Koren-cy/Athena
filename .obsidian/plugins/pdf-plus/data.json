@@ -321,5 +321,6 @@
   "vimHintChars": "hjklasdfgyuiopqwertnmzxcvb",
   "vimHintArgs": "all",
   "PATH": "",
-  "autoCheckForUpdates": true
+  "autoCheckForUpdates": true,
+  "fixObsidianTextSelectionBug": true
 }

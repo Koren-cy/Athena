@@ -149,6 +149,11 @@
 	display: flex;
 	flex-direction: column;
 	gap: 8px; /* Gap between main sections */
+	/* Enable touch actions for mobile drag support */
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
 }
 
 .floating-player-close-button {
@@ -378,6 +383,11 @@
 	display: flex;
 	flex-direction: column;
 	/* cursor is handled by JS for grab/grabbing */
+	/* Enable touch actions for mobile drag support */
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
 }
 
 .queue-header {
@@ -905,4 +915,27 @@
 	to {
 		transform: rotate(360deg);
 	}
+}
+
+/* Collapsible settings section styles */
+.edge-tts-collapsible-header {
+	transition: background-color 0.2s ease;
+	border-radius: var(--radius-s);
+	padding: 4px 0;
+}
+
+.edge-tts-collapsible-header:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+.edge-tts-collapsible-header .setting-item-name {
+	font-weight: 600;
+	color: var(--text-accent);
+	display: flex;
+	align-items: center;
+}
+
+.edge-tts-collapsible-header .setting-item-description {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
 }
