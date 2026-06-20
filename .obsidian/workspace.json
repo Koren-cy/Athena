@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-应用与数学/数字电子技术基础/第13讲 基本SR锁存器.md",
+                "file": "7-应用与数学/数字电子技术基础/第14讲 电平触发与主从触发器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第13讲 基本SR锁存器"
+              "title": "第14讲 电平触发与主从触发器"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5019836425781
+    "width": 380.5019836425781,
+    "collapsed": true
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -176,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-应用与数学/数字电子技术基础/第13讲 基本SR锁存器.md",
+                "file": "7-应用与数学/数字电子技术基础/第14讲 电平触发与主从触发器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第13讲 基本SR锁存器 的大纲"
+              "title": "第14讲 电平触发与主从触发器 的大纲"
             }
           },
           {
@@ -231,9 +232,9 @@
   },
   "active": "d455c4499c6bc93c",
   "lastOpenFiles": [
-    "7-应用与数学/数字电子技术基础/第12讲 竞争与冒险.md",
     "7-应用与数学/数字电子技术基础/第13讲 基本SR锁存器.md",
     "7-应用与数学/数字电子技术基础/第14讲 电平触发与主从触发器.md",
+    "7-应用与数学/数字电子技术基础/第12讲 竞争与冒险.md",
     "1-笔记规范/Callouts参考.md",
     "7-应用与数学/数字电子技术基础/第11讲 数据选择器与加法器.md",
     "7-应用与数学/数字电子技术基础/第10讲 译码器与数据选择器.md",
