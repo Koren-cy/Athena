@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9022fb79a9dd4509",
+        "id": "2f7c26c69137e560",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce01934ea10d1c7",
+            "id": "757f70a862ceb29a",
             "type": "leaf",
             "state": {
-              "type": "ink_writing-view",
-              "state": {
-                "file": "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025.6.8 - 2.41am"
+              "title": "新标签页"
             }
           }
         ]
@@ -86,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025.6.8 - 2.41am 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -201,7 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "obsidian-kanban:创建新看板": false,
       "iconic:打开规则书": false,
       "obsidian-trash-explorer:Open trash explorer": true,
@@ -215,7 +212,6 @@
       "obsidian-bible-reference:Bible Verse Lookup": true,
       "github-sync:Sync with Remote": false,
       "edge-tts:Read note aloud": true,
-      "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
@@ -223,12 +219,12 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8ce01934ea10d1c7",
+  "active": "757f70a862ceb29a",
   "lastOpenFiles": [
+    "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
     "auxiliary/Ink/Drawing/2025.6.8 - 2.42am.drawing",
     "8-数学建模/聚类算法/层次聚类.md",
     "未命名.md",
@@ -264,7 +260,6 @@
     "7-应用与数学/数字信号处理",
     "7-应用与数学",
     "2-实用工具/笔记本.nb",
-    "2-实用工具/未命名-1.pdf",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "未命名.canvas",
