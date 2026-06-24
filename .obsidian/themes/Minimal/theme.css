@@ -8804,7 +8804,7 @@ body {
 .mermaid .node:not([class$="id"]) ellipse,
 .mermaid .node:not([class$="id"]) polygon,
 .mermaid .node:not([class$="id"]) path {
-    fill:   #1E2129   !important;
+    fill: #1E2129     !important;
     stroke-width: 0px !important;
     rx: 8px           !important;
     ry: 8px           !important;
@@ -8812,28 +8812,17 @@ body {
 
 .mermaid .edgePath .path,
 .mermaid .flowchart-link {
-    stroke: #888888 !important;
-}
-
-.mermaid .edgeLabel {
-    color: #FFFFFF !important;
-}
-
-.mermaid .edgeLabel foreignObject * {
-    background-color: transparent !important;
-}
-
-.mermaid .label {
-    font-family: var(--mermaid-font-family) !important;
+    stroke: #888888   !important;
 }
 
 .mermaid .nodeLabel {
     color: #FFFFFF !important;
+    font-family: var(--mermaid-font-family) !important;
 }
 
 .mermaid .cluster .nodeLabel {
     display: inline-block !important;
-    margin-top: 6px !important;
+    margin-top: 0.5px     !important;
 }
 
 .mermaid .marker {
@@ -8849,16 +8838,18 @@ body {
 }
 
 .theme-dark .mermaid > svg {
-    /*filter: invert(100%) hue-rotate(180deg) saturate(1.25);*/ /* default obsidian filter */
+    /* disable default obsidian filter */
     filter: none;
 }
 
+.mermaid {
+    text-align: center;
+}
 
-
-
-
-
-
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
 
 
 
