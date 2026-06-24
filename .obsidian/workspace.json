@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30fcd0277e2a0434",
+        "id": "70838f46d19f6c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb01ea56801d2a9b",
+            "id": "300a7b25177013b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-万物笔记/9-万物笔记.md",
+                "file": "计算机网络/网络层/内部网关协议 IGP/RIP 路由信息协议 RFC 1058.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-万物笔记"
+              "title": "RIP 路由信息协议 RFC 1058"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:路由协议",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5019836425781
+    "width": 314.5019836425781
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -137,16 +137,6 @@
             }
           },
           {
-            "id": "9965983ac5d267c1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "54e6b97626da5075",
             "type": "leaf",
             "state": {
@@ -176,17 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-万物笔记/9-万物笔记.md",
+                "file": "计算机网络/网络层/内部网关协议 IGP/RIP 路由信息协议 RFC 1058.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "9-万物笔记 的大纲"
+              "title": "RIP 路由信息协议 RFC 1058 的大纲"
             }
           },
           {
-            "id": "48053b05953b4d94",
+            "id": "8de4a64cfe2ea473",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -196,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -214,8 +204,8 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "audio-recorder:开始/结束录音": true,
       "obsidian-bible-reference:Bible Verse Lookup": true,
       "github-sync:Sync with Remote": false,
       "edge-tts:Read note aloud": true,
@@ -231,44 +221,44 @@
   },
   "active": "772ec6f6275715fb",
   "lastOpenFiles": [
-    "9-万物笔记/计算机网络/内部网关协议 IGP",
-    "9-万物笔记/计算机网络",
-    "8-数学建模/8-数学建模.md",
-    "9-万物笔记/9-万物笔记.md",
-    "6-电子设计/电子设计大赛/复用模块/电源.md",
-    "4-网页收藏/在线网页/官方文档.md",
-    "4-网页收藏/在线网页/在线书籍.md",
-    "4-网页收藏/网站导航.md",
-    "3-模板模块/数模模板/目录模板.md",
-    "4-网页收藏/本地网页/P、NP、NPC、NP hard问题.md",
-    "3-模板模块/数模模板/算法模板.md",
-    "2-实用工具/在线工具.md",
-    "1-笔记规范/符号参考.md",
-    "1-笔记规范/Callouts参考.md",
-    "2-实用工具/未命名-1.pdf",
-    "7-课程笔记/通信原理/通信原理.md",
-    "7-课程笔记/数字信号处理/数字信号处理.md",
-    "7-课程笔记/数字电子技术基础/数字电子技术基础-笔记规范.md",
-    "1-笔记规范/数学符号参考.md",
-    "7-课程笔记/数字信号处理/数字信号处理-笔记规范.md",
-    "1-笔记规范/手写与绘图.md",
-    "1-笔记规范/代码块.md",
-    "9-万物笔记",
-    "网络协议/RFC 1058 - RIP 路由协议 第一章 介绍.md",
-    "7-课程笔记/通信原理/绪论.md",
-    "7-课程笔记/通信原理/信源编码.md",
-    "7-课程笔记/通信原理/信道.md",
-    "7-课程笔记/通信原理/确知信号.md",
-    "网络协议",
-    "7-课程笔记/通信原理/随机过程.md",
-    "7-应用与数学/通信原理/未命名.base",
-    "7-课程笔记/数字信号处理",
-    "2-学科",
-    "7-应用与数学/数字信号处理/第03讲 常用典型序列及基本运算.md.tmp.24692.7095243006ea",
-    "7-课程笔记/数字信号处理",
-    "1-笔记规范/数字电子技术基础-笔记规范.md.tmp.11300.63a3c75b1f2b",
-    "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
+    "计算机网络/计算机网络.md",
+    "计算机网络/网络层/内部网关协议 IGP/RIP 路由信息协议 RFC 1058.md",
+    "计算机网络/网络层/内部网关协议 IGP/内部网关协议 IGP.md",
+    "计算机网络/网络层/距离向量算法.md",
+    "计算机网络/网络层/外部网关协议 EGP/BGP 边界网关协议.md",
+    "计算机网络/网络层/内部网关协议 IGP/OSPF 开放最短路径优先.md",
+    "计算机网络/应用层/SMTP 与电子邮件.md",
+    "计算机网络/物理层/物理层概述.md",
+    "计算机网络/物理层/传输介质.md",
+    "计算机网络/链路层/以太网与 IEEE 802.3.md",
+    "计算机网络/链路层/差错检测与纠错.md",
+    "计算机网络/传输层/TCP 拥塞控制.md",
+    "计算机网络/传输层/TCP 流量控制.md",
+    "计算机网络/传输层/TCP 连接管理.md",
+    "计算机网络/传输层/TCP 概述.md",
+    "计算机网络/传输层/TCP 定时器与重传.md",
+    "计算机网络/传输层/套接字编程基础.md",
+    "计算机网络/传输层/传输层概述.md",
+    "计算机网络/传输层",
+    "计算机网络/物理层/数据编码与调制.md",
+    "计算机网络/物理层/信道复用技术.md",
+    "计算机网络/应用层/DHCP 动态主机配置协议.md",
+    "计算机网络/应用层/FTP 文件传输协议.md",
+    "计算机网络/应用层/HTTP 超文本传输协议.md",
+    "计算机网络/应用层/DNS 域名系统.md",
+    "计算机网络/应用层/应用层概述.md",
+    "计算机网络/传输层/UDP 用户数据报协议.md",
+    "计算机网络/网络层/内部网关协议 IGP",
+    "计算机网络/高级主题",
+    "计算机网络/网络安全",
+    "计算机网络/应用层",
+    "计算机网络/传输层/TCP 传输控制协议",
+    "计算机网络/网络层/路由算法基础",
+    "计算机网络/网络层/外部网关协议 EGP",
+    "计算机网络/网络层/IP 协议",
+    "计算机网络/网络层",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
+    "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "未命名.canvas",
     "6-电子设计/电子设计大赛/历年赛题/attachments/image-7.png",
     "6-电子设计/电子设计大赛/历年赛题/attachments/image-6.png",
