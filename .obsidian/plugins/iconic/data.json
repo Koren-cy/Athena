@@ -24,7 +24,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -81,7 +81,7 @@
       ],
       "color": "orange"
     },
-    "7-应用与数学": {
+    "7-课程笔记": {
       "icon": "math",
       "color": "blue",
       "unsynced": [
@@ -96,6 +96,10 @@
         "d717afd7fa91b737",
         "91905b4107a355f5"
       ]
+    },
+    "9-万物笔记": {
+      "icon": "lucide-compass",
+      "color": "purple"
     },
     "9-程序设计": {
       "icon": "lucide-monitor-cog",
@@ -229,6 +233,24 @@
       "enabled": true,
       "color": "yellow",
       "icon": "lucide-folder"
+    },
+    {
+      "id": "Ztp1Z",
+      "name": "万物笔记",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-万物笔记/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "purple"
     }
   ],
   "rememberDeletedItems": false
