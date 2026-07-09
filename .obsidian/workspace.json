@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5b41b8b971d74e7",
+        "id": "6b38f8ca11f1ec9a",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdfacd6701638e5",
+            "id": "31ecc918476803d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/网络层/内部网关协议 IGP/RIP 路由信息协议 RFC 1058.md",
+                "file": "虚幻引擎/虚幻引擎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RIP 路由信息协议 RFC 1058"
+              "title": "虚幻引擎"
             }
           }
         ]
@@ -196,9 +196,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:新建数据库": true,
-      "obsidian-kanban:创建新看板": true,
       "iconic:打开规则书": false,
-      "obsidian-trash-explorer:Open trash explorer": true,
       "hide-folders:Show hidden folders": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -206,22 +204,19 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "audio-recorder:开始/结束录音": true,
-      "obsidian-bible-reference:Bible Verse Lookup": true,
       "github-sync:Sync with Remote": false,
       "edge-tts:Read note aloud": true,
-      "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1cdfacd6701638e5",
+  "active": "31ecc918476803d8",
   "lastOpenFiles": [
     "计算机网络/计算机网络.md",
+    "虚幻引擎/虚幻引擎.md",
+    "虚幻引擎/未命名",
+    "虚幻引擎",
     "计算机网络/网络层/内部网关协议 IGP/RIP 路由信息协议 RFC 1058.md",
     "计算机网络/网络层/内部网关协议 IGP/内部网关协议 IGP.md",
     "计算机网络/网络层/距离向量算法.md",
@@ -247,7 +242,6 @@
     "计算机网络/应用层/HTTP 超文本传输协议.md",
     "计算机网络/应用层/DNS 域名系统.md",
     "计算机网络/应用层/应用层概述.md",
-    "计算机网络/传输层/UDP 用户数据报协议.md",
     "计算机网络/网络层/内部网关协议 IGP",
     "计算机网络/高级主题",
     "计算机网络/网络安全",
@@ -255,8 +249,6 @@
     "计算机网络/传输层/TCP 传输控制协议",
     "计算机网络/网络层/路由算法基础",
     "计算机网络/网络层/外部网关协议 EGP",
-    "计算机网络/网络层/IP 协议",
-    "计算机网络/网络层",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "未命名.canvas",
