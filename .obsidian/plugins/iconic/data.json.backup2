@@ -29,69 +29,9 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "1-笔记规范": {
-      "icon": "lucide-graduation-cap",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "2-实用工具": {
-      "icon": "lucide-wrench",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "3-模板模块": {
-      "icon": "lucide-square-dashed-bottom-code",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "4-网页收藏": {
-      "icon": "lucide-chrome",
-      "color": "yellow",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "4-网页收藏/网站导航.md": {
-      "icon": "lucide-navigation",
-      "color": "yellow"
-    },
     "5-视频笔记": {
       "icon": "lucide-file-video",
       "color": "yellow",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "6-电子设计": {
-      "icon": "lucide-microchip",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ],
-      "color": "orange"
-    },
-    "7-应用与数学": {
-      "icon": "math",
-      "color": "blue",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "8-数学建模": {
-      "icon": "lucide-function-square",
-      "color": "blue",
       "unsynced": [
         "d717afd7fa91b737",
         "91905b4107a355f5"
@@ -111,63 +51,6 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [
-    {
-      "id": "bLkGp",
-      "name": "笔记规范",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-笔记规范.*"
-        },
-        {
-          "source": "icon",
-          "operator": "!hasValue"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-notepad-text",
-      "color": "green"
-    },
-    {
-      "id": "GULIb",
-      "name": "网页收藏",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-网页收藏.*"
-        },
-        {
-          "source": "icon",
-          "operator": "!hasValue"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-newspaper",
-      "color": "yellow"
-    },
-    {
-      "id": "hYEov",
-      "name": "电子设计",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-电子设计.*"
-        },
-        {
-          "source": "icon",
-          "operator": "!hasValue"
-        }
-      ],
-      "enabled": true,
-      "color": "orange",
-      "icon": "lucide-notebook-pen"
-    },
     {
       "id": "VAPu0",
       "name": "Markdown文件",
@@ -191,45 +74,6 @@
       "icon": "lucide-notebook"
     }
   ],
-  "folderRules": [
-    {
-      "id": "reNzE",
-      "name": "电子设计",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-电子设计/.*"
-        },
-        {
-          "source": "icon",
-          "operator": "!hasValue"
-        }
-      ],
-      "enabled": true,
-      "color": "orange",
-      "icon": "lucide-folder"
-    },
-    {
-      "id": "wjmaP",
-      "name": "网页收藏",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "path",
-          "operator": "matches",
-          "value": "[0-9]+-网页收藏/.*"
-        },
-        {
-          "source": "icon",
-          "operator": "!hasValue"
-        }
-      ],
-      "enabled": true,
-      "color": "yellow",
-      "icon": "lucide-folder"
-    }
-  ],
+  "folderRules": [],
   "rememberDeletedItems": false
 }
