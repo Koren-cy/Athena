@@ -1,0 +1,213 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        112,
+                        17,
+                        500,
+                        345
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9463,
+                            "bbox": [
+                                112,
+                                17,
+                                500,
+                                345
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        17,
+                                        500,
+                                        345
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                112,
+                                                17,
+                                                500,
+                                                345
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7976fbec269144406df19e1ff5806334d447803b0cd2a345a39e8de2f21cdf22.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.565,
+                            "bbox": [
+                                262,
+                                351,
+                                428,
+                                374
+                            ],
+                            "index": 3,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        261,
+                                        351,
+                                        428,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                261,
+                                                351,
+                                                428,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "在我们的教程系列中",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9463
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.6094,
+                    "bbox": [
+                        543,
+                        11,
+                        681,
+                        37
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                541,
+                                11,
+                                681,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        541,
+                                        11,
+                                        681,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "Voidmatrix bilibili",
+                                    "score": 0.957
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        112,
+                        17,
+                        500,
+                        345
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9463,
+                            "bbox": [
+                                112,
+                                17,
+                                500,
+                                345
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        17,
+                                        500,
+                                        345
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                112,
+                                                17,
+                                                500,
+                                                345
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7976fbec269144406df19e1ff5806334d447803b0cd2a345a39e8de2f21cdf22.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.565,
+                            "bbox": [
+                                262,
+                                351,
+                                428,
+                                374
+                            ],
+                            "index": 3,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        261,
+                                        351,
+                                        428,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                261,
+                                                351,
+                                                428,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "在我们的教程系列中",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9463
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

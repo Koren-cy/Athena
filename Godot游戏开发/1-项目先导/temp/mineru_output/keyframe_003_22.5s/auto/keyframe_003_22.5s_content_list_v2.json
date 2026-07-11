@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7976fbec269144406df19e1ff5806334d447803b0cd2a345a39e8de2f21cdf22.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "在我们的教程系列中"
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                43,
+                723,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Voidmatrix bilibili"
+                    }
+                ]
+            },
+            "bbox": [
+                785,
+                28,
+                985,
+                95
+            ]
+        }
+    ]
+]

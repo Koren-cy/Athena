@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "#玩家移动速度，单位是像素/秒。",
+        "bbox": [
+            234,
+            105,
+            396,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "@export var move\\_speed: float = 120.0",
+        "bbox": [
+            234,
+            134,
+            468,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "func \\_physics\\_process(\\_delta: float) -> void:",
+        "bbox": [
+            235,
+            193,
+            518,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#读取四个方向输入，并得到标准化后的八向输入向量",
+        "bbox": [
+            257,
+            226,
+            515,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CharacterB",
+        "bbox": [
+            953,
+            97,
+            1000,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motion Mode",
+        "bbox": [
+            930,
+            121,
+            973,
+            139
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Up Direction",
+        "bbox": [
+            930,
+            157,
+            972,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Slide on Ceiling",
+        "bbox": [
+            930,
+            193,
+            998,
+            213
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Floor",
+        "bbox": [
+            930,
+            216,
+            955,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Moving Platform",
+        "bbox": [
+            930,
+            234,
+            989,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Collision",
+        "bbox": [
+            930,
+            255,
+            966,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CollisionOb",
+        "bbox": [
+            953,
+            280,
+            1000,
+            296
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Disable ModeRer",
+        "bbox": [
+            930,
+            304,
+            1000,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Collision",
+        "bbox": [
+            930,
+            324,
+            966,
+            342
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Input",
+        "bbox": [
+            930,
+            345,
+            958,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Node2",
+        "bbox": [
+            968,
+            371,
+            1000,
+            386
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transform",
+        "bbox": [
+            930,
+            391,
+            971,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CanvasI",
+        "bbox": [
+            963,
+            417,
+            1000,
+            432
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Visibility",
+        "bbox": [
+            929,
+            440,
+            966,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ordering",
+        "bbox": [
+            930,
+            458,
+            966,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Texture",
+        "bbox": [
+            930,
+            476,
+            963,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Material",
+        "bbox": [
+            930,
+            494,
+            965,
+            512
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O Node",
+        "bbox": [
+            972,
+            523,
+            1000,
+            538
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Process",
+        "bbox": [
+            930,
+            543,
+            965,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Physics Interpolatior",
+        "bbox": [
+            930,
+            564,
+            1000,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Auto Translate",
+        "bbox": [
+            930,
+            582,
+            984,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor Description",
+        "bbox": [
+            930,
+            603,
+            994,
+            618
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Script",
+        "bbox": [
+            930,
+            626,
+            953,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+添加元数",
+        "bbox": [
+            963,
+            657,
+            1000,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "在线文档搜索帮助Voidmatrix bilibili",
+        "bbox": [
+            787,
+            2,
+            986,
+            92
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "218 %8：5制表符",
+        "bbox": [
+            817,
+            940,
+            923,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "player.gd(\\*)",
+        "bbox": [
+            463,
+            12,
+            505,
+            30
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "extends CharacterBody2D",
+        "bbox": [
+            234,
+            43,
+            382,
+            69
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "我们还会实际落地很多专业有价值的工程思路",
+        "bbox": [
+            235,
+            904,
+            762,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "输出 调试器 音频 动画 着色器编辑器",
+        "bbox": [
+            76,
+            974,
+            209,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "4.6.1.stable",
+        "bbox": [
+            875,
+            974,
+            924,
+            989
+        ],
+        "page_idx": 0
+    }
+]

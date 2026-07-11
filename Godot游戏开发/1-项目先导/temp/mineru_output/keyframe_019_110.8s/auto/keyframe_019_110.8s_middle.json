@@ -1,0 +1,162 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.7805,
+                    "bbox": [
+                        180,
+                        92,
+                        509,
+                        177
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                167,
+                                78,
+                                523,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        78,
+                                        523,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "举一反三",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8503,
+                    "bbox": [
+                        180,
+                        351,
+                        511,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                179,
+                                349,
+                                511,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        349,
+                                        511,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "我会带大家举一反三拓展相关的玩法思路",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.7805,
+                    "bbox": [
+                        180,
+                        92,
+                        509,
+                        177
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                167,
+                                78,
+                                523,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        78,
+                                        523,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "举一反三",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8503,
+                    "bbox": [
+                        180,
+                        351,
+                        511,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                179,
+                                349,
+                                511,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        349,
+                                        511,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "我会带大家举一反三拓展相关的玩法思路",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        179,
+                        349,
+                        511,
+                        374
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

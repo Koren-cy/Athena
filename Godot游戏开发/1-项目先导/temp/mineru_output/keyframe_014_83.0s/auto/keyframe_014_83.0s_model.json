@@ -1,0 +1,23 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7834,
+                "bbox": [
+                    17,
+                    2,
+                    1912,
+                    1040
+                ],
+                "index": 2
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

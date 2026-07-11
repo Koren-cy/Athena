@@ -1,0 +1,115 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.833,
+                "bbox": [
+                    120,
+                    4,
+                    1916,
+                    974
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8493,
+                "bbox": [
+                    318,
+                    976,
+                    1604,
+                    1038
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.638,
+                "bbox": [
+                    159,
+                    1014,
+                    296,
+                    1034
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9277,
+                "bbox": [
+                    150,
+                    1050,
+                    405,
+                    1070
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7548,
+                "bbox": [
+                    1684,
+                    1050,
+                    1776,
+                    1068
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    320,
+                    979,
+                    1599,
+                    1034
+                ],
+                "score": 0.998,
+                "text": "比如怎样用更规范的场景结构来组织玩家敌人子弹和道具"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1015,
+                    295,
+                    1034
+                ],
+                "score": 0.952,
+                "text": "移动：(103.0, 69.0) px"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1051,
+                    403,
+                    1069
+                ],
+                "score": 0.945,
+                "text": "输出 调试器 音频 动画 着色器编辑器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1683,
+                    1049,
+                    1776,
+                    1068
+                ],
+                "score": 1.0,
+                "text": "4.6.1.stable"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

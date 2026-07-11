@@ -1,0 +1,91 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6916,
+                "bbox": [
+                    1512,
+                    31,
+                    1897,
+                    103
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8841,
+                "bbox": [
+                    118,
+                    438,
+                    1804,
+                    647
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8534,
+                "bbox": [
+                    526,
+                    978,
+                    1392,
+                    1037
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1501,
+                    29,
+                    1899,
+                    105
+                ],
+                "score": 0.974,
+                "text": "Voidmatrix ilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    488,
+                    392,
+                    608
+                ],
+                "score": 0.871,
+                "text": "010"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    972,
+                    485,
+                    1101,
+                    608
+                ],
+                "score": 0.698,
+                "text": "of"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    525,
+                    979,
+                    1391,
+                    1036
+                ],
+                "score": 0.999,
+                "text": "把整个开发过程里真正需要掌握的内容"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

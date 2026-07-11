@@ -1,0 +1,1816 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9353,
+                "bbox": [
+                    224,
+                    30,
+                    534,
+                    78
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9625,
+                "bbox": [
+                    227,
+                    94,
+                    639,
+                    316
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8205,
+                "bbox": [
+                    231,
+                    326,
+                    385,
+                    357
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8409,
+                "bbox": [
+                    230,
+                    359,
+                    386,
+                    389
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8375,
+                "bbox": [
+                    230,
+                    391,
+                    389,
+                    422
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6397,
+                "bbox": [
+                    230,
+                    423,
+                    389,
+                    454
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6906,
+                "bbox": [
+                    230,
+                    455,
+                    409,
+                    487
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9362,
+                "bbox": [
+                    229,
+                    517,
+                    538,
+                    562
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.6329,
+                "bbox": [
+                    232,
+                    570,
+                    340,
+                    677
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.7406,
+                "bbox": [
+                    385,
+                    570,
+                    494,
+                    825
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.717,
+                "bbox": [
+                    525,
+                    570,
+                    632,
+                    751
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6843,
+                "bbox": [
+                    231,
+                    905,
+                    466,
+                    953
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6715,
+                "bbox": [
+                    228,
+                    1046,
+                    370,
+                    1080
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9342,
+                "bbox": [
+                    752,
+                    0,
+                    1153,
+                    46
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.914,
+                "bbox": [
+                    753,
+                    60,
+                    1171,
+                    113
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8875,
+                "bbox": [
+                    765,
+                    154,
+                    1168,
+                    234
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8799,
+                "bbox": [
+                    756,
+                    239,
+                    1165,
+                    271
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.928,
+                "bbox": [
+                    751,
+                    280,
+                    1139,
+                    333
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9301,
+                "bbox": [
+                    751,
+                    337,
+                    1114,
+                    389
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9403,
+                "bbox": [
+                    751,
+                    393,
+                    1159,
+                    446
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6157,
+                "bbox": [
+                    750,
+                    449,
+                    1051,
+                    478
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.795,
+                "bbox": [
+                    758,
+                    500,
+                    1173,
+                    547
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4962,
+                "bbox": [
+                    759,
+                    547,
+                    1196,
+                    576
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9416,
+                "bbox": [
+                    812,
+                    583,
+                    1125,
+                    646
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9211,
+                "bbox": [
+                    749,
+                    651,
+                    1066,
+                    703
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.899,
+                "bbox": [
+                    750,
+                    707,
+                    1044,
+                    758
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9115,
+                "bbox": [
+                    748,
+                    760,
+                    1053,
+                    814
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9269,
+                "bbox": [
+                    800,
+                    861,
+                    1136,
+                    947
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7697,
+                "bbox": [
+                    1316,
+                    3,
+                    1680,
+                    30
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9231,
+                "bbox": [
+                    1307,
+                    45,
+                    1733,
+                    99
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8594,
+                "bbox": [
+                    1307,
+                    113,
+                    1728,
+                    168
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.895,
+                "bbox": [
+                    1305,
+                    180,
+                    1739,
+                    235
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.883,
+                "bbox": [
+                    1308,
+                    295,
+                    1716,
+                    380
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8073,
+                "bbox": [
+                    1307,
+                    388,
+                    1714,
+                    430
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9293,
+                "bbox": [
+                    1302,
+                    440,
+                    1733,
+                    568
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9439,
+                "bbox": [
+                    1303,
+                    578,
+                    1552,
+                    631
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6739,
+                "bbox": [
+                    1294,
+                    632,
+                    1477,
+                    660
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5261,
+                "bbox": [
+                    1296,
+                    659,
+                    1729,
+                    686
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6848,
+                "bbox": [
+                    1303,
+                    686,
+                    1729,
+                    739
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7689,
+                "bbox": [
+                    228,
+                    956,
+                    1738,
+                    1045
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8946,
+                "bbox": [
+                    1305,
+                    789,
+                    1718,
+                    894
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8467,
+                "bbox": [
+                    1296,
+                    914,
+                    1727,
+                    966
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.8087,
+                "bbox": [
+                    1743,
+                    29,
+                    1892,
+                    106
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8806,
+                "bbox": [
+                    765,
+                    1053,
+                    1081,
+                    1073
+                ],
+                "index": 44
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6664,
+                "bbox": [
+                    1378,
+                    1058,
+                    1659,
+                    1080
+                ],
+                "index": 45
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    222,
+                    29,
+                    535,
+                    76
+                ],
+                "score": 1.0,
+                "text": "附赠可视化开发工具"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    324,
+                    385,
+                    359
+                ],
+                "score": 0.997,
+                "text": "·瓦片地图编辑器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    357,
+                    385,
+                    391
+                ],
+                "score": 0.995,
+                "text": "·角色属性编辑器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    389,
+                    389,
+                    424
+                ],
+                "score": 0.995,
+                "text": "·关卡波次编辑器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    421,
+                    390,
+                    456
+                ],
+                "score": 0.914,
+                "text": "· PIE 调试控制台"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    228,
+                    453,
+                    409,
+                    490
+                ],
+                "score": 0.986,
+                "text": "·一键打包发布功能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    227,
+                    516,
+                    539,
+                    562
+                ],
+                "score": 1.0,
+                "text": "项目体量与结构总览"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    245,
+                    572,
+                    300,
+                    583
+                ],
+                "score": 0.955,
+                "text": "MiniTdGame"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    255,
+                    581,
+                    285,
+                    592
+                ],
+                "score": 0.825,
+                "text": "引用"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    257,
+                    592,
+                    303,
+                    603
+                ],
+                "score": 0.778,
+                "text": "外部依都项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    266,
+                    604,
+                    289,
+                    612
+                ],
+                "score": 0.831,
+                "text": "头文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    262,
+                    625,
+                    331,
+                    632
+                ],
+                "score": 0.867,
+                "text": " arrow bullet)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    262,
+                    633,
+                    327,
+                    644
+                ],
+                "score": 0.935,
+                "text": "axe bulleth"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    261,
+                    643,
+                    314,
+                    655
+                ],
+                "score": 0.951,
+                "text": "bulleth"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    261,
+                    654,
+                    329,
+                    664
+                ],
+                "score": 0.903,
+                "text": "bullet_type.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    416,
+                    574,
+                    439,
+                    582
+                ],
+                "score": 1.0,
+                "text": "tower"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    402,
+                    582,
+                    481,
+                    595
+                ],
+                "score": 0.946,
+                "text": "archer_tower.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    593,
+                    484,
+                    606
+                ],
+                "score": 0.896,
+                "text": "axeman tower.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    603,
+                    484,
+                    616
+                ],
+                "score": 0.917,
+                "text": "gunnec_towerh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    615,
+                    458,
+                    625
+                ],
+                "score": 0.994,
+                "text": "towerh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    625,
+                    475,
+                    638
+                ],
+                "score": 0.958,
+                "text": "tower_typeh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    403,
+                    646,
+                    451,
+                    657
+                ],
+                "score": 1.0,
+                "text": "panel"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    412,
+                    657,
+                    466,
+                    668
+                ],
+                "score": 0.933,
+                "text": "panelh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    412,
+                    668,
+                    485,
+                    678
+                ],
+                "score": 0.923,
+                "text": "place_paneth"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    411,
+                    676,
+                    493,
+                    690
+                ],
+                "score": 0.936,
+                "text": "upgrade panelh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    401,
+                    688,
+                    464,
+                    700
+                ],
+                "score": 0.922,
+                "text": "banner.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    400,
+                    700,
+                    470,
+                    711
+                ],
+                "score": 0.914,
+                "text": "status bar.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    711,
+                    460,
+                    721
+                ],
+                "score": 0.98,
+                "text": "animationh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    721,
+                    460,
+                    732
+                ],
+                "score": 0.85,
+                "text": "coin_prap.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    732,
+                    448,
+                    743
+                ],
+                "score": 0.985,
+                "text": "facing.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    742,
+                    443,
+                    753
+                ],
+                "score": 0.976,
+                "text": "maph"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    752,
+                    455,
+                    763
+                ],
+                "score": 0.97,
+                "text": "resource.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    763,
+                    446,
+                    774
+                ],
+                "score": 0.994,
+                "text": "routeh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    773,
+                    439,
+                    784
+                ],
+                "score": 0.934,
+                "text": "tileh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    784,
+                    444,
+                    795
+                ],
+                "score": 0.917,
+                "text": "timerh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    795,
+                    452,
+                    806
+                ],
+                "score": 0.989,
+                "text": "vector2h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    804,
+                    445,
+                    815
+                ],
+                "score": 0.919,
+                "text": "wave.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    543,
+                    583,
+                    593,
+                    594
+                ],
+                "score": 0.806,
+                "text": "cISON"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    543,
+                    595,
+                    600,
+                    605
+                ],
+                "score": 0.985,
+                "text": "main.cpp"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    545,
+                    605,
+                    589,
+                    616
+                ],
+                "score": 0.907,
+                "text": "资原文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    548,
+                    616,
+                    596,
+                    626
+                ],
+                "score": 0.993,
+                "text": "iconico"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    550,
+                    626,
+                    621,
+                    636
+                ],
+                "score": 0.978,
+                "text": "MiniTdGame.rc"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    526,
+                    637,
+                    596,
+                    647
+                ],
+                "score": 0.927,
+                "text": "TieAmnotator"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    648,
+                    575,
+                    658
+                ],
+                "score": 0.955,
+                "text": "引用"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    534,
+                    660,
+                    540,
+                    666
+                ],
+                "score": 0.531,
+                "text": "p"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    545,
+                    669,
+                    583,
+                    679
+                ],
+                "score": 0.837,
+                "text": "头文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    541,
+                    678,
+                    606,
+                    690
+                ],
+                "score": 0.932,
+                "text": "resource.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    545,
+                    690,
+                    583,
+                    701
+                ],
+                "score": 0.769,
+                "text": "源文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    541,
+                    700,
+                    600,
+                    710
+                ],
+                "score": 0.979,
+                "text": "main.cpp"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    711,
+                    589,
+                    722
+                ],
+                "score": 0.788,
+                "text": "民原文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    549,
+                    722,
+                    597,
+                    733
+                ],
+                "score": 0.996,
+                "text": "iconico"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    549,
+                    733,
+                    624,
+                    743
+                ],
+                "score": 0.913,
+                "text": "TleAnnotator.ec"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    572,
+                    582,
+                    585
+                ],
+                "score": 0.79,
+                "text": "即原文件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    545,
+                    657,
+                    596,
+                    669
+                ],
+                "score": 0.649,
+                "text": "外部休解项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    225,
+                    900,
+                    471,
+                    958
+                ],
+                "score": 1.0,
+                "text": "4000余行核心代码"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    226,
+                    1044,
+                    371,
+                    1081
+                ],
+                "score": 1.0,
+                "text": "适合人群"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    -1,
+                    1144,
+                    15
+                ],
+                "score": 0.995,
+                "text": "技术深度：停留在引擎网络接口调用深入剖析成熟引擎源码"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    778,
+                    22,
+                    1146,
+                    40
+                ],
+                "score": 1.0,
+                "text": "亲眼见证同步与优化在引擎内核中的实现，知其然更知其所以然"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1021,
+                    67,
+                    1165,
+                    81
+                ],
+                "score": 1.0,
+                "text": "从独游到大型网游技术思路"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    780,
+                    89,
+                    1145,
+                    106
+                ],
+                "score": 1.0,
+                "text": "从同步和优化到调试与更新，提供贯穿项目生命周期的解决方案"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    753,
+                    61,
+                    983,
+                    85
+                ],
+                "score": 0.996,
+                "text": "工程视野：仅聚焦于单个案例项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    760,
+                    152,
+                    1171,
+                    233
+                ],
+                "score": 1.0,
+                "text": "四大进阶篇章"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    756,
+                    240,
+                    1163,
+                    271
+                ],
+                "score": 0.999,
+                "text": "40+课时|构建从原理到工业环境的完整路径"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    755,
+                    282,
+                    995,
+                    303
+                ],
+                "score": 0.998,
+                "text": "1基础篇：联机与核心通信模型"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    760,
+                    310,
+                    1132,
+                    327
+                ],
+                "score": 1.0,
+                "text": "直击关键概念完成多人聊天室，快速建立“联机”体感与信心"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    339,
+                    1044,
+                    358
+                ],
+                "score": 0.997,
+                "text": "2核心篇：服务端架构与世界同步技术"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    759,
+                    366,
+                    1103,
+                    382
+                ],
+                "score": 1.0,
+                "text": "深入游戏服务端核心架构，构建稳固的多人游戏逻辑基石"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    396,
+                    961,
+                    416
+                ],
+                "score": 0.981,
+                "text": "3精进篇：优化与专项技术"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    761,
+                    422,
+                    1150,
+                    439
+                ],
+                "score": 1.0,
+                "text": "直面延迟抖动，掌握状态/帧同步策略，打造流畅稳定的线上体验"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    749,
+                    450,
+                    1050,
+                    478
+                ],
+                "score": 0.997,
+                "text": "4升华篇：引擎源码解读与工业级架构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    760,
+                    502,
+                    1167,
+                    521
+                ],
+                "score": 1.0,
+                "text": "深入浅出拆解Godot引擎联机模块实现，获得引擎维度的架构理解"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    778,
+                    524,
+                    922,
+                    546
+                ],
+                "score": 0.998,
+                "text": "工业实践篇："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    756,
+                    545,
+                    1196,
+                    582
+                ],
+                "score": 0.999,
+                "text": "解读大型网游服务器集群分布式系统设计，建立高屋建瓴的架构师视角"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    809,
+                    581,
+                    1126,
+                    648
+                ],
+                "score": 1.0,
+                "text": "附赠课程资料"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    749,
+                    651,
+                    942,
+                    677
+                ],
+                "score": 1.0,
+                "text": "7个专题配套示例工程"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    756,
+                    680,
+                    1060,
+                    699
+                ],
+                "score": 1.0,
+                "text": "涵盖聊天室、Lua热更等核心概念清晰易懂的代码"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    748,
+                    705,
+                    922,
+                    733
+                ],
+                "score": 1.0,
+                "text": "齐全图文学习资料："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    752,
+                    731,
+                    1039,
+                    757
+                ],
+                "score": 1.0,
+                "text": "Godot源代码与引擎网络模块技术架构高清图"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    749,
+                    762,
+                    921,
+                    785
+                ],
+                "score": 1.0,
+                "text": "一站式集成资源包："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    787,
+                    1049,
+                    809
+                ],
+                "score": 1.0,
+                "text": "所有三方库工具链等资料，告别繁琐的资料下载"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    795,
+                    856,
+                    1140,
+                    951
+                ],
+                "score": 1.0,
+                "text": "适合人群"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1317,
+                    5,
+                    1677,
+                    28
+                ],
+                "score": 0.972,
+                "text": "——游戏存档、场景切换、关卡生成、AI策略等大量可视化示例"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1310,
+                    46,
+                    1519,
+                    72
+                ],
+                "score": 0.977,
+                "text": "技术深度：孤立讲解各个"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1602,
+                    52,
+                    1705,
+                    68
+                ],
+                "score": 0.99,
+                "text": "自研引擎技术融合。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1335,
+                    74,
+                    1541,
+                    90
+                ],
+                "score": 0.998,
+                "text": "将外观、享元和代理等诸多模式融"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1573,
+                    60,
+                    1731,
+                    94
+                ],
+                "score": 0.948,
+                "text": "dmatrix"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1310,
+                    115,
+                    1554,
+                    137
+                ],
+                "score": 1.0,
+                "text": "体系化学习路径：仅介绍设计模式"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1583,
+                    120,
+                    1720,
+                    134
+                ],
+                "score": 1.0,
+                "text": "从基础原则到模式架构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1333,
+                    144,
+                    1673,
+                    158
+                ],
+                "score": 1.0,
+                "text": "从萌新小白到实战经验，再到大厂面试高频考察点一网打尽"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1311,
+                    182,
+                    1735,
+                    207
+                ],
+                "score": 0.999,
+                "text": "跨领域开发能力：仅关注某语言/领域游戏与通用软件开发并行"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1333,
+                    212,
+                    1673,
+                    226
+                ],
+                "score": 1.0,
+                "text": "角色、战斗上层逻辑与场景资源、架构底层性能优化两手抓"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1303,
+                    293,
+                    1719,
+                    381
+                ],
+                "score": 1.0,
+                "text": "五大进阶模块"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1304,
+                    388,
+                    1713,
+                    429
+                ],
+                "score": 0.994,
+                "text": "50+课时|贯穿游戏开发全场景"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1328,
+                    443,
+                    1649,
+                    463
+                ],
+                "score": 1.0,
+                "text": "筑基篇：面向对象六大原则+架构思维重塑"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1329,
+                    467,
+                    1516,
+                    488
+                ],
+                "score": 1.0,
+                "text": "创世篇：创建型模式×5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1538,
+                    466,
+                    1726,
+                    487
+                ],
+                "score": 1.0,
+                "text": "更灵活的对象创建机制"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1329,
+                    493,
+                    1516,
+                    510
+                ],
+                "score": 1.0,
+                "text": "塑形篇：结构型模式×7"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1533,
+                    492,
+                    1727,
+                    512
+                ],
+                "score": 1.0,
+                "text": "更丰富的对象组织架构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1328,
+                    515,
+                    1728,
+                    536
+                ],
+                "score": 1.0,
+                "text": "赋能篇：行为型模式×11更高效的对象职责沟通"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1309,
+                    543,
+                    1320,
+                    557
+                ],
+                "score": 1.0,
+                "text": "5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    541,
+                    1706,
+                    558
+                ],
+                "score": 1.0,
+                "text": "升华篇：面试专题+ECS/对象池等工业级架构解析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1302,
+                    578,
+                    1550,
+                    606
+                ],
+                "score": 0.997,
+                "text": "·23个可交互设计模式Demo"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1311,
+                    610,
+                    1501,
+                    629
+                ],
+                "score": 1.0,
+                "text": "含6000+行源码的完整项目工程"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1293,
+                    632,
+                    1476,
+                    660
+                ],
+                "score": 0.99,
+                "text": "·自研迷你引擎框架"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1295,
+                    661,
+                    1726,
+                    683
+                ],
+                "score": 1.0,
+                "text": "逐个击破JSON/XML加载解析、场景树编辑、Lua脚本接入等进阶功能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1313,
+                    689,
+                    1520,
+                    709
+                ],
+                "score": 0.999,
+                "text": "10+简历高光技术点指路"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1318,
+                    717,
+                    1721,
+                    731
+                ],
+                "score": 1.0,
+                "text": "代理延迟加载、ECS数据驱动、对象池与数据局部性优化等高热度专题"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    232,
+                    955,
+                    1733,
+                    1039
+                ],
+                "score": 0.83,
+                "text": "#舞引学是独立于我们教程项自之外的更进阶的游戏开发专题课程"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1578,
+                    1009,
+                    1729,
+                    1036
+                ],
+                "score": 1.0,
+                "text": "Java/C++/C#开发者"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1299,
+                    785,
+                    1721,
+                    896
+                ],
+                "score": 1.0,
+                "text": "适合人群"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1321,
+                    917,
+                    1706,
+                    936
+                ],
+                "score": 1.0,
+                "text": "新人破局者：被“如何设计代码架构”困扰的入门开发者"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1321,
+                    942,
+                    1721,
+                    960
+                ],
+                "score": 0.999,
+                "text": "独立游戏人：想更好地使用引擎工具实现深度定制的创作者"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1731,
+                    19,
+                    1902,
+                    115
+                ],
+                "score": 0.986,
+                "text": "bilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    766,
+                    1054,
+                    1079,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "希望实现多人联机玩法，寻求有限资源下高效方案的创作者"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1378,
+                    1058,
+                    1657,
+                    1080
+                ],
+                "score": 0.973,
+                "text": "为什么选择这套课程？"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

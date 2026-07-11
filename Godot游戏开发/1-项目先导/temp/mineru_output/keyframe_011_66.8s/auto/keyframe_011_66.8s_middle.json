@@ -1,0 +1,254 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        124,
+                        162,
+                        201,
+                        239
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5195,
+                            "bbox": [
+                                124,
+                                162,
+                                201,
+                                239
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        162,
+                                        201,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                124,
+                                                162,
+                                                201,
+                                                239
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0f5cc8105a72e6b88a6c4ccbec032530deace210d33d5f3524d68668c16527ad.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5195
+                },
+                {
+                    "score": 0.483,
+                    "bbox": [
+                        394,
+                        322,
+                        509,
+                        347
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                321,
+                                510,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        321,
+                                        510,
+                                        348
+                                    ],
+                                    "type": "text",
+                                    "content": "碰撞管理器",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.5812,
+                    "bbox": [
+                        196,
+                        352,
+                        494,
+                        374
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                196,
+                                352,
+                                493,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        196,
+                                        352,
+                                        493,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "不只是告诉你这里点哪里那里填什么",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        124,
+                        162,
+                        201,
+                        239
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5195,
+                            "bbox": [
+                                124,
+                                162,
+                                201,
+                                239
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        162,
+                                        201,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                124,
+                                                162,
+                                                201,
+                                                239
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0f5cc8105a72e6b88a6c4ccbec032530deace210d33d5f3524d68668c16527ad.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5195
+                },
+                {
+                    "score": 0.483,
+                    "bbox": [
+                        394,
+                        322,
+                        509,
+                        347
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                321,
+                                510,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        321,
+                                        510,
+                                        348
+                                    ],
+                                    "type": "text",
+                                    "content": "碰撞管理器",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.5812,
+                    "bbox": [
+                        196,
+                        352,
+                        494,
+                        374
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                196,
+                                352,
+                                493,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        196,
+                                        352,
+                                        493,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "不只是告诉你这里点哪里那里填什么",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        196,
+                        352,
+                        493,
+                        374
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

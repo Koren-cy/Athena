@@ -1,0 +1,26 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/acdc7e49399ef06ed94ec27729c7d65f022b8066ef4bf798dc72bd2bedbb6b6c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            33,
+            1000,
+            837
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "免费教程永久公开永久免费",
+        "bbox": [
+            338,
+            904,
+            659,
+            963
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4941,
+                "bbox": [
+                    732,
+                    126,
+                    1185,
+                    631
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.4634,
+                "bbox": [
+                    474,
+                    975,
+                    1447,
+                    1039
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    473,
+                    975,
+                    1447,
+                    1038
+                ],
+                "score": 1.0,
+                "text": "不会做那种免费一半收费一半的太监式教学"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

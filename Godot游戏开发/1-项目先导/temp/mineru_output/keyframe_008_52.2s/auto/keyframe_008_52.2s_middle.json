@@ -1,0 +1,287 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        43,
+                        1,
+                        689,
+                        350
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.833,
+                            "bbox": [
+                                43,
+                                1,
+                                689,
+                                350
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        1,
+                                        689,
+                                        350
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                1,
+                                                689,
+                                                350
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4c3d50822cbc4f2648d113b222d33fedc7866060120827ad20d33e2edbe0a362.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.833
+                },
+                {
+                    "score": 0.8493,
+                    "bbox": [
+                        114,
+                        351,
+                        577,
+                        373
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                352,
+                                575,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        352,
+                                        575,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "比如怎样用更规范的场景结构来组织玩家敌人子弹和道具",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.638,
+                    "bbox": [
+                        57,
+                        365,
+                        106,
+                        372
+                    ],
+                    "index": 3,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                365,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        365,
+                                        106,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "移动：(103.0, 69.0) px",
+                                    "score": 0.952
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9277,
+                    "bbox": [
+                        54,
+                        378,
+                        145,
+                        385
+                    ],
+                    "index": 4,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                378,
+                                145,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        378,
+                                        145,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "输出 调试器 音频 动画 着色器编辑器",
+                                    "score": 0.945
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7548,
+                    "bbox": [
+                        606,
+                        378,
+                        639,
+                        384
+                    ],
+                    "index": 5,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                377,
+                                639,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        377,
+                                        639,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "4.6.1.stable",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        43,
+                        1,
+                        689,
+                        350
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.833,
+                            "bbox": [
+                                43,
+                                1,
+                                689,
+                                350
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        1,
+                                        689,
+                                        350
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                1,
+                                                689,
+                                                350
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4c3d50822cbc4f2648d113b222d33fedc7866060120827ad20d33e2edbe0a362.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.833
+                },
+                {
+                    "score": 0.8493,
+                    "bbox": [
+                        114,
+                        351,
+                        577,
+                        373
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                352,
+                                575,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        352,
+                                        575,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "比如怎样用更规范的场景结构来组织玩家敌人子弹和道具",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        115,
+                        352,
+                        575,
+                        372
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,219 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        173,
+                        20,
+                        500,
+                        346
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8419,
+                            "bbox": [
+                                173,
+                                20,
+                                500,
+                                346
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        20,
+                                        500,
+                                        346
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                173,
+                                                20,
+                                                500,
+                                                346
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1b44af47197109867f146d6e3f8a88baaf72ec9182540d6b308c1d6fec57f918.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.8419
+                },
+                {
+                    "score": 0.7116,
+                    "bbox": [
+                        163,
+                        351,
+                        528,
+                        373
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                351,
+                                528,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        351,
+                                        528,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "也最容易真正学会的第一批开发知识串联起来",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.6133,
+                    "bbox": [
+                        543,
+                        11,
+                        682,
+                        37
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                540,
+                                11,
+                                682,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        540,
+                                        11,
+                                        682,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "Voidmatrix Dilibili",
+                                    "score": 0.956
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        173,
+                        20,
+                        500,
+                        346
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8419,
+                            "bbox": [
+                                173,
+                                20,
+                                500,
+                                346
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        173,
+                                        20,
+                                        500,
+                                        346
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                173,
+                                                20,
+                                                500,
+                                                346
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1b44af47197109867f146d6e3f8a88baaf72ec9182540d6b308c1d6fec57f918.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.8419
+                },
+                {
+                    "score": 0.7116,
+                    "bbox": [
+                        163,
+                        351,
+                        528,
+                        373
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                351,
+                                528,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        351,
+                                        528,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "也最容易真正学会的第一批开发知识串联起来",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        351,
+                        528,
+                        372
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

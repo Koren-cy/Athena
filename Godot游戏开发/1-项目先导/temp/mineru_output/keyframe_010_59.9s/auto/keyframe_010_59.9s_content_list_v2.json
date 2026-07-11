@@ -1,0 +1,66 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec9d201f4dc54a466538c704c1ce25a61ac51c25ab1d2d9794399d60ef67154f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                1,
+                0,
+                998,
+                979
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "4.6.1.stable"
+                    }
+                ]
+            },
+            "bbox": [
+                849,
+                974,
+                894,
+                989
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "输出 调试器 音频 动画 着色器编辑器 TileMap TileSet"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                974,
+                266,
+                992
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                911,
+                974,
+                921,
+                989
+            ]
+        }
+    ]
+]

@@ -1,0 +1,79 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5579,
+                    "bbox": [
+                        275,
+                        64,
+                        417,
+                        192
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [],
+                    "level": 2
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5027,
+                    "bbox": [
+                        134,
+                        351,
+                        556,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                135,
+                                351,
+                                555,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        135,
+                                        351,
+                                        555,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "那就让我们一起踏上全新的从零开始的游戏开发旅程",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5579,
+                    "bbox": [
+                        275,
+                        64,
+                        417,
+                        192
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [],
+                    "level": 2
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

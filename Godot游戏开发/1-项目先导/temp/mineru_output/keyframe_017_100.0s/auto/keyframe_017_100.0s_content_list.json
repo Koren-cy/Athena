@@ -1,0 +1,156 @@
+[
+    {
+        "type": "text",
+        "text": "1extends CharacterBody2D",
+        "bbox": [
+            99,
+            121,
+            341,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3#玩家移动速度，单位是像素/秒。",
+        "bbox": [
+            99,
+            206,
+            360,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 @export var move\\_speed: float = 120.0",
+        "bbox": [
+            101,
+            247,
+            458,
+            286
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6func \\_physics\\_process(\\_delta: float) -> void:",
+        "bbox": [
+            69,
+            329,
+            525,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7 #读取四个方向输入，并得到标准化后的八向输入向量",
+        "bbox": [
+            99,
+            373,
+            520,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8var move\\_input := Input.get\\_vector(\"move\\_left\", \"move\\_right\", \"move\\_up\", \"move\\_down\")",
+        "bbox": [
+            99,
+            412,
+            892,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10” # CharacterBody2D 通过 velocity 配合move\\_and\\_slide() 完成移动",
+        "bbox": [
+            91,
+            497,
+            680,
+            536
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 velocity = move\\_input \\* move\\_speed",
+        "bbox": [
+            92,
+            538,
+            468,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "12 S1 move\\_and\\_slide()",
+        "bbox": [
+            92,
+            582,
+            315,
+            618
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "2D3D脚本游戏",
+        "bbox": [
+            422,
+            5,
+            575,
+            30
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "player.gd(\\*)",
+        "bbox": [
+            450,
+            82,
+            507,
+            105
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix bilibili 在线文档搜索",
+        "bbox": [
+            787,
+            25,
+            1000,
+            105
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "该遵循的方法论又是什么",
+        "bbox": [
+            353,
+            907,
+            645,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Q t",
+        "bbox": [
+            0,
+            747,
+            36,
+            773
+        ],
+        "page_idx": 0
+    }
+]

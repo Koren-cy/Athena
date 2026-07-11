@@ -1,0 +1,157 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.7928,
+                    "bbox": [
+                        5,
+                        98,
+                        687,
+                        300
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                171,
+                                131,
+                                304,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        171,
+                                        131,
+                                        304,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "日",
+                                    "score": 0.602
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.6194,
+                    "bbox": [
+                        544,
+                        10,
+                        689,
+                        38
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                540,
+                                10,
+                                687,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        540,
+                                        10,
+                                        687,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "Voidmatrix Dilibili",
+                                    "score": 0.953
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4867,
+                    "bbox": [
+                        126,
+                        351,
+                        564,
+                        374
+                    ],
+                    "index": 3,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                126,
+                                351,
+                                563,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        351,
+                                        563,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "让大家能够更直观更轻松地掌握抽象概念和专业的知识",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.7928,
+                    "bbox": [
+                        5,
+                        98,
+                        687,
+                        300
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                171,
+                                131,
+                                304,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        171,
+                                        131,
+                                        304,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "日",
+                                    "score": 0.602
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

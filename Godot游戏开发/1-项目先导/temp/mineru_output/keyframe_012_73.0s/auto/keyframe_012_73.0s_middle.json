@@ -1,0 +1,187 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9016,
+                    "bbox": [
+                        261,
+                        107,
+                        434,
+                        279
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [],
+                    "level": 2
+                },
+                {
+                    "score": 0.6783,
+                    "bbox": [
+                        127,
+                        352,
+                        563,
+                        373
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                126,
+                                352,
+                                563,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        352,
+                                        563,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "资源组织这些真正会影响你日后开发上限的内容讲清楚",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.8769,
+                    "bbox": [
+                        32,
+                        20,
+                        360,
+                        37
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                21,
+                                358,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        21,
+                                        358,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "《【从零开始的C++游戏开发】玩家子弹派生类详细实现》",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6126,
+                    "bbox": [
+                        544,
+                        11,
+                        681,
+                        37
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                541,
+                                11,
+                                681,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        541,
+                                        11,
+                                        681,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "Voidmatrix Dilibili",
+                                    "score": 0.942
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.9016,
+                    "bbox": [
+                        261,
+                        107,
+                        434,
+                        279
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [],
+                    "level": 2
+                },
+                {
+                    "score": 0.6783,
+                    "bbox": [
+                        127,
+                        352,
+                        563,
+                        373
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                126,
+                                352,
+                                563,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        352,
+                                        563,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "资源组织这些真正会影响你日后开发上限的内容讲清楚",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        126,
+                        352,
+                        563,
+                        372
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "text",
+        "text": "1 extends CharacterBody2D",
+        "bbox": [
+            75,
+            100,
+            332,
+            141
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3#玩家移动速度，单位是像素/秒。",
+        "bbox": [
+            76,
+            188,
+            351,
+            226
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 @export var move\\_speed: float = 120.0",
+        "bbox": [
+            76,
+            231,
+            457,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6func \\_physics\\_process(\\_delta: float) -> void:",
+        "bbox": [
+            40,
+            319,
+            525,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#读取四个方向输入，并得到标准化后的八向输入向量",
+        "bbox": [
+            149,
+            365,
+            522,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8 var move\\_input := Input.get\\_vector(\"move\\_left\", \"move\\_right\", \"move\\_up\", \"move\\_down\")",
+        "bbox": [
+            76,
+            407,
+            914,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10 # CharacterBody2D 通过 velocity 配合 move\\_and\\_slide() 完成移动",
+        "bbox": [
+            68,
+            497,
+            691,
+            538
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 velocity = move\\_input \\* move\\_speed",
+        "bbox": [
+            68,
+            543,
+            465,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "12 move\\_and\\_slide()",
+        "bbox": [
+            68,
+            587,
+            302,
+            626
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "往往只会做教程里手把手演示过的内容",
+        "bbox": [
+            273,
+            904,
+            725,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "player.gd(\\*)",
+        "bbox": [
+            447,
+            56,
+            507,
+            85
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Dilisili",
+        "bbox": [
+            785,
+            25,
+            997,
+            95
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7805,
+                "bbox": [
+                    502,
+                    256,
+                    1416,
+                    494
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8503,
+                "bbox": [
+                    501,
+                    975,
+                    1420,
+                    1040
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    464,
+                    219,
+                    1455,
+                    526
+                ],
+                "score": 0.998,
+                "text": "举一反三"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    498,
+                    972,
+                    1420,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "我会带大家举一反三拓展相关的玩法思路"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

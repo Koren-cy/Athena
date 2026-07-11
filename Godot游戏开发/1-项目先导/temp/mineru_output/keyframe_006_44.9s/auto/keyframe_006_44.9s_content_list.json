@@ -1,0 +1,37 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/1b44af47197109867f146d6e3f8a88baaf72ec9182540d6b308c1d6fec57f918.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            250,
+            51,
+            723,
+            891
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "也最容易真正学会的第一批开发知识串联起来",
+        "bbox": [
+            235,
+            904,
+            764,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Dilibili",
+        "bbox": [
+            785,
+            28,
+            986,
+            95
+        ],
+        "page_idx": 0
+    }
+]

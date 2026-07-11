@@ -1,0 +1,184 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        13,
+                        691,
+                        325
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.583,
+                            "bbox": [
+                                0,
+                                13,
+                                691,
+                                325
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        13,
+                                        691,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                13,
+                                                691,
+                                                325
+                                            ],
+                                            "type": "image",
+                                            "image_path": "acdc7e49399ef06ed94ec27729c7d65f022b8066ef4bf798dc72bd2bedbb6b6c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.583
+                },
+                {
+                    "score": 0.6044,
+                    "bbox": [
+                        234,
+                        351,
+                        456,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                350,
+                                456,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        350,
+                                        456,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "免费教程永久公开永久免费",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        13,
+                        691,
+                        325
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.583,
+                            "bbox": [
+                                0,
+                                13,
+                                691,
+                                325
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        13,
+                                        691,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                13,
+                                                691,
+                                                325
+                                            ],
+                                            "type": "image",
+                                            "image_path": "acdc7e49399ef06ed94ec27729c7d65f022b8066ef4bf798dc72bd2bedbb6b6c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.583
+                },
+                {
+                    "score": 0.6044,
+                    "bbox": [
+                        234,
+                        351,
+                        456,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                350,
+                                456,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        350,
+                                        456,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "免费教程永久公开永久免费",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        234,
+                        350,
+                        456,
+                        374
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

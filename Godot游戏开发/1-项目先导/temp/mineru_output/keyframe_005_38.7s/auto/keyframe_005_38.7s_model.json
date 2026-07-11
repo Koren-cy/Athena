@@ -1,0 +1,46 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9098,
+                "bbox": [
+                    3,
+                    24,
+                    1921,
+                    903
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6024,
+                "bbox": [
+                    348,
+                    975,
+                    1574,
+                    1040
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    348,
+                    974,
+                    1573,
+                    1038
+                ],
+                "score": 1.0,
+                "text": "从零开始一步一步把这款属于你的《肿么滴》真正做出来"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

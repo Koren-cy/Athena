@@ -1,0 +1,37 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/cbd10f3b743dab8b44cb84063f574a96df055f63efe7e453fbb2e118ffb4d3f7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            274,
+            46,
+            722,
+            886
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "八向射击游戏《冥日芳粥:肿么滴》",
+        "bbox": [
+            306,
+            904,
+            690,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Dilibili",
+        "bbox": [
+            787,
+            28,
+            985,
+            95
+        ],
+        "page_idx": 0
+    }
+]

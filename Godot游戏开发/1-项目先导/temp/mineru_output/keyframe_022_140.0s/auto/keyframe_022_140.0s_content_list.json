@@ -1,0 +1,37 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/aec73400544dc123a148fb37b0141e21b037b8d075f47a6df85205735c2dd599.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            261,
+            46,
+            725,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为国内Godot社区的建设和成长",
+        "bbox": [
+            315,
+            904,
+            684,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix bilibili",
+        "bbox": [
+            785,
+            25,
+            985,
+            95
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "text",
+        "text": "所以我的想法是",
+        "bbox": [
+            406,
+            904,
+            593,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7f5d5a161b794ed7281345d0ad47939a222dbfcb91790bf7da4460b965120b7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            164,
+            1000,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            2,
+            10,
+            191,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Dilibili",
+        "bbox": [
+            787,
+            25,
+            986,
+            95
+        ],
+        "page_idx": 0
+    }
+]

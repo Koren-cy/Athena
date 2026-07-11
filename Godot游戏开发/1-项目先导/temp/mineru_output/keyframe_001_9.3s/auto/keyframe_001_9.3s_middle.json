@@ -1,0 +1,219 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        190,
+                        18,
+                        499,
+                        344
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9666,
+                            "bbox": [
+                                190,
+                                18,
+                                499,
+                                344
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        190,
+                                        18,
+                                        499,
+                                        344
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                190,
+                                                18,
+                                                499,
+                                                344
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cbd10f3b743dab8b44cb84063f574a96df055f63efe7e453fbb2e118ffb4d3f7.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9666
+                },
+                {
+                    "score": 0.7359,
+                    "bbox": [
+                        212,
+                        351,
+                        477,
+                        374
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                211,
+                                351,
+                                477,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        351,
+                                        477,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "八向射击游戏《冥日芳粥:肿么滴》",
+                                    "score": 0.971
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.7311,
+                    "bbox": [
+                        544,
+                        11,
+                        681,
+                        37
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                540,
+                                10,
+                                682,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        540,
+                                        10,
+                                        682,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "Voidmatrix Dilibili",
+                                    "score": 0.971
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        190,
+                        18,
+                        499,
+                        344
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9666,
+                            "bbox": [
+                                190,
+                                18,
+                                499,
+                                344
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        190,
+                                        18,
+                                        499,
+                                        344
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                190,
+                                                18,
+                                                499,
+                                                344
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cbd10f3b743dab8b44cb84063f574a96df055f63efe7e453fbb2e118ffb4d3f7.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9666
+                },
+                {
+                    "score": 0.7359,
+                    "bbox": [
+                        212,
+                        351,
+                        477,
+                        374
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                211,
+                                351,
+                                477,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        351,
+                                        477,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "八向射击游戏《冥日芳粥:肿么滴》",
+                                    "score": 0.971
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        211,
+                        351,
+                        477,
+                        374
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

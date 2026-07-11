@@ -1,0 +1,110 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        6,
+                        0,
+                        688,
+                        374
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7834,
+                            "bbox": [
+                                6,
+                                0,
+                                688,
+                                374
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        0,
+                                        688,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                6,
+                                                0,
+                                                688,
+                                                374
+                                            ],
+                                            "type": "image",
+                                            "image_path": "93ed8fa66be8769a665f8dd723a284c615fd15b3d1aeb5580bd0102d497bc466.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.7834
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        6,
+                        0,
+                        688,
+                        374
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7834,
+                            "bbox": [
+                                6,
+                                0,
+                                688,
+                                374
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        0,
+                                        688,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                6,
+                                                0,
+                                                688,
+                                                374
+                                            ],
+                                            "type": "image",
+                                            "image_path": "93ed8fa66be8769a665f8dd723a284c615fd15b3d1aeb5580bd0102d497bc466.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.7834
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

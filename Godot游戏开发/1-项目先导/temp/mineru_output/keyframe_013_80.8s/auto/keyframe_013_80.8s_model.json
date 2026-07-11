@@ -1,0 +1,298 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7686,
+                "bbox": [
+                    860,
+                    62,
+                    975,
+                    92
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.839,
+                "bbox": [
+                    1509,
+                    30,
+                    1916,
+                    103
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9094,
+                "bbox": [
+                    147,
+                    109,
+                    639,
+                    153
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8933,
+                "bbox": [
+                    149,
+                    205,
+                    677,
+                    246
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9025,
+                "bbox": [
+                    149,
+                    252,
+                    878,
+                    293
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7887,
+                "bbox": [
+                    80,
+                    346,
+                    1010,
+                    392
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6145,
+                "bbox": [
+                    287,
+                    396,
+                    1005,
+                    440
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8132,
+                "bbox": [
+                    148,
+                    441,
+                    1758,
+                    491
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8972,
+                "bbox": [
+                    131,
+                    537,
+                    1328,
+                    583
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8956,
+                "bbox": [
+                    132,
+                    587,
+                    896,
+                    629
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9131,
+                "bbox": [
+                    133,
+                    634,
+                    583,
+                    676
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8671,
+                "bbox": [
+                    526,
+                    977,
+                    1393,
+                    1039
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    61,
+                    975,
+                    93
+                ],
+                "score": 1.0,
+                "text": "player.gd(*)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1505,
+                    28,
+                    1916,
+                    104
+                ],
+                "score": 0.918,
+                "text": "Voidmatrix Dilisili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    107,
+                    640,
+                    153
+                ],
+                "score": 0.981,
+                "text": "1 extends CharacterBody2D"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    206,
+                    676,
+                    246
+                ],
+                "score": 0.998,
+                "text": "3#玩家移动速度，单位是像素/秒。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    252,
+                    876,
+                    292
+                ],
+                "score": 0.977,
+                "text": "4 @export var move_speed: float = 120.0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    78,
+                    346,
+                    1010,
+                    392
+                ],
+                "score": 0.98,
+                "text": " 6func _physics_process(_delta: float) -> void:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    286,
+                    397,
+                    1003,
+                    438
+                ],
+                "score": 0.999,
+                "text": "#读取四个方向输入，并得到标准化后的八向输入向量"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    441,
+                    1758,
+                    488
+                ],
+                "score": 0.985,
+                "text": "8 var move_input := Input.get_vector(\"move_left\", \"move_right\", \"move_up\", \"move_down\")"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    534,
+                    1328,
+                    586
+                ],
+                "score": 0.959,
+                "text": "10 # CharacterBody2D 通过 velocity 配合 move_and_slide() 完成移动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    582,
+                    894,
+                    634
+                ],
+                "score": 0.982,
+                "text": "11 velocity = move_input * move_speed"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    634,
+                    183,
+                    676
+                ],
+                "score": 1.0,
+                "text": "12"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    291,
+                    634,
+                    582,
+                    675
+                ],
+                "score": 1.0,
+                "text": "move_and_slide()"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    523,
+                    976,
+                    1392,
+                    1039
+                ],
+                "score": 0.999,
+                "text": "往往只会做教程里手把手演示过的内容"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

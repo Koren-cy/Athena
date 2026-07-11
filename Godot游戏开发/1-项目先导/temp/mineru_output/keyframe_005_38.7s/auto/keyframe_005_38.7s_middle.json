@@ -1,0 +1,184 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        1,
+                        8,
+                        691,
+                        325
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9098,
+                            "bbox": [
+                                1,
+                                8,
+                                691,
+                                325
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        8,
+                                        691,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1,
+                                                8,
+                                                691,
+                                                325
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d378db1d70776b2e99ec5a1ad6f99d54b9647b4a51a60541a7b97e5238f9171c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9098
+                },
+                {
+                    "score": 0.6024,
+                    "bbox": [
+                        125,
+                        351,
+                        566,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                350,
+                                566,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        350,
+                                        566,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "从零开始一步一步把这款属于你的《肿么滴》真正做出来",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        1,
+                        8,
+                        691,
+                        325
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9098,
+                            "bbox": [
+                                1,
+                                8,
+                                691,
+                                325
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        8,
+                                        691,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1,
+                                                8,
+                                                691,
+                                                325
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d378db1d70776b2e99ec5a1ad6f99d54b9647b4a51a60541a7b97e5238f9171c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.9098
+                },
+                {
+                    "score": 0.6024,
+                    "bbox": [
+                        125,
+                        351,
+                        566,
+                        374
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                350,
+                                566,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        350,
+                                        566,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "从零开始一步一步把这款属于你的《肿么滴》真正做出来",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        125,
+                        350,
+                        566,
+                        373
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,514 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/e22bf68ab01bcc9831d73da7ba7d7fac09c5fe40a44c2c084c4a001d72d81c7b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            85,
+            332,
+            291
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·瓦片地图编辑器",
+        "bbox": [
+            120,
+            301,
+            199,
+            329
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·角色属性编辑器",
+        "bbox": [
+            118,
+            332,
+            199,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·关卡波次编辑器",
+        "bbox": [
+            118,
+            360,
+            202,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "· PIE 调试控制台",
+        "bbox": [
+            118,
+            391,
+            202,
+            420
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·一键打包发布功能",
+        "bbox": [
+            118,
+            420,
+            212,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项目体量与结构总览",
+        "text_level": 2,
+        "bbox": [
+            118,
+            479,
+            279,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_footnote": [],
+        "code_body": "MiniTdGame  \n引用  \n外部依都项  \n头文件  \naxe bulleth  \nbulleth  \nbullet\\_type.h",
+        "bbox": [
+            120,
+            528,
+            176,
+            626
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_footnote": [],
+        "code_body": "tower   \narcher\\_tower.h   \naxeman tower.h   \ngunnec\\_towerh   \ntowerh   \ntower\\_typeh   \npanel   \npanelh   \nplace\\_paneth   \nupgrade panelh   \nbanner.h   \nstatus bar.h   \nanimationh   \ncoin\\_prap.h   \nfacing.h   \nmaph   \nresource.h   \nrouteh   \ntileh   \ntimerh   \nvector2h   \nwave.h",
+        "bbox": [
+            199,
+            528,
+            256,
+            765
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "code",
+        "sub_type": "algorithm",
+        "code_caption": [],
+        "code_footnote": [],
+        "code_body": "即原文件  \ncISON  \nmain.cpp  \n资原文件  \niconico  \nMiniTdGame.rc  \nTieAmnotator  \n引用  \n外部休解项  \n头文件  \nresource.h  \n源文件  \nmain.cpp  \n民原文件  \niconico  \nTleAnnotator.ec",
+        "bbox": [
+            273,
+            528,
+            328,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4000余行核心代码",
+        "bbox": [
+            120,
+            837,
+            241,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程视野：仅聚焦于单个案例项目 从独游到大型网游技术思路从同步和优化到调试与更新，提供贯穿项目生命周期的解决方案",
+        "bbox": [
+            392,
+            54,
+            609,
+            103
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四大进阶篇章",
+        "text_level": 2,
+        "bbox": [
+            397,
+            141,
+            607,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "40+课时|构建从原理到工业环境的完整路径",
+        "bbox": [
+            393,
+            221,
+            606,
+            250
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1基础篇：联机与核心通信模型直击关键概念完成多人聊天室，快速建立“联机”体感与信心",
+        "bbox": [
+            390,
+            257,
+            593,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2核心篇：服务端架构与世界同步技术深入游戏服务端核心架构，构建稳固的多人游戏逻辑基石",
+        "bbox": [
+            390,
+            311,
+            580,
+            360
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3精进篇：优化与专项技术直面延迟抖动，掌握状态/帧同步策略，打造流畅稳定的线上体验",
+        "bbox": [
+            390,
+            363,
+            603,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4升华篇：引擎源码解读与工业级架构",
+        "bbox": [
+            390,
+            414,
+            547,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "深入浅出拆解Godot引擎联机模块实现，获得引擎维度的架构理解工业实践篇：",
+        "bbox": [
+            393,
+            463,
+            610,
+            505
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "解读大型网游服务器集群分布式系统设计，建立高屋建瓴的架构师视角",
+        "bbox": [
+            395,
+            505,
+            622,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "附赠课程资料",
+        "text_level": 2,
+        "bbox": [
+            422,
+            538,
+            586,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7个专题配套示例工程 涵盖聊天室、Lua热更等核心概念清晰易懂的代码",
+        "bbox": [
+            389,
+            603,
+            554,
+            652
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "齐全图文学习资料：Godot源代码与引擎网络模块技术架构高清图",
+        "bbox": [
+            390,
+            654,
+            542,
+            701
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一站式集成资源包：所有三方库工具链等资料，告别繁琐的资料下载",
+        "bbox": [
+            389,
+            703,
+            548,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "适合人群",
+        "text_level": 2,
+        "bbox": [
+            416,
+            796,
+            590,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "体系化学习路径：仅介绍设计模式 从基础原则到模式架构从萌新小白到实战经验，再到大厂面试高频考察点一网打尽",
+        "bbox": [
+            680,
+            103,
+            900,
+            154
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "跨领域开发能力：仅关注某语言/领域游戏与通用软件开发并行角色、战斗上层逻辑与场景资源、架构底层性能优化两手抓",
+        "bbox": [
+            678,
+            164,
+            905,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "五大进阶模块",
+        "text_level": 2,
+        "bbox": [
+            680,
+            273,
+            892,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "50+课时|贯穿游戏开发全场景",
+        "bbox": [
+            680,
+            358,
+            892,
+            396
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "筑基篇：面向对象六大原则+架构思维重塑创世篇：创建型模式×5 更灵活的对象创建机制塑形篇：结构型模式×7 更丰富的对象组织架构赋能篇：行为型模式×11更高效的对象职责沟通5 升华篇：面试专题+ECS/对象池等工业级架构解析",
+        "bbox": [
+            677,
+            407,
+            901,
+            525
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·23个可交互设计模式Demo含6000+行源码的完整项目工程",
+        "bbox": [
+            678,
+            536,
+            807,
+            585
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "·自研迷你引擎框架",
+        "bbox": [
+            672,
+            585,
+            768,
+            610
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "逐个击破JSON/XML加载解析、场景树编辑、Lua脚本接入等进阶功能",
+        "bbox": [
+            674,
+            610,
+            900,
+            634
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10+简历高光技术点指路代理延迟加载、ECS数据驱动、对象池与数据局部性优化等高热度专题",
+        "bbox": [
+            678,
+            634,
+            900,
+            685
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#舞引学是独立于我们教程项自之外的更进阶的游戏开发专题课程 Java/C++/C#开发者",
+        "bbox": [
+            118,
+            886,
+            904,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "适合人群",
+        "text_level": 2,
+        "bbox": [
+            678,
+            731,
+            894,
+            827
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新人破局者：被“如何设计代码架构”困扰的入门开发者独立游戏人：想更好地使用引擎工具实现深度定制的创作者",
+        "bbox": [
+            674,
+            847,
+            898,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "附赠可视化开发工具",
+        "bbox": [
+            115,
+            25,
+            277,
+            72
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "适合人群",
+        "bbox": [
+            118,
+            969,
+            192,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "技术深度：停留在引擎网络接口调用深入剖析成熟引擎源码亲眼见证同步与优化在引擎内核中的实现，知其然更知其所以然",
+        "bbox": [
+            390,
+            0,
+            600,
+            41
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "——游戏存档、场景切换、关卡生成、AI策略等大量可视化示例",
+        "bbox": [
+            684,
+            2,
+            874,
+            25
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "技术深度：孤立讲解各个 自研引擎技术融合。将外观、享元和代理等诸多模式融 dmatrix",
+        "bbox": [
+            680,
+            41,
+            901,
+            90
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "bilibili",
+        "bbox": [
+            907,
+            25,
+            985,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "希望实现多人联机玩法，寻求有限资源下高效方案的创作者",
+        "bbox": [
+            397,
+            976,
+            562,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "为什么选择这套课程？",
+        "bbox": [
+            717,
+            979,
+            863,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

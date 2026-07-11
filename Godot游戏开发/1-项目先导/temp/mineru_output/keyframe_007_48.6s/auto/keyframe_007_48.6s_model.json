@@ -1,0 +1,850 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.492,
+                "bbox": [
+                    1512,
+                    4,
+                    1896,
+                    101
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.4688,
+                "bbox": [
+                    1570,
+                    1015,
+                    1773,
+                    1034
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6072,
+                "bbox": [
+                    890,
+                    15,
+                    971,
+                    36
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7669,
+                "bbox": [
+                    452,
+                    49,
+                    736,
+                    76
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8053,
+                "bbox": [
+                    452,
+                    114,
+                    762,
+                    143
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8407,
+                "bbox": [
+                    452,
+                    147,
+                    902,
+                    176
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8433,
+                "bbox": [
+                    453,
+                    211,
+                    995,
+                    242
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8369,
+                "bbox": [
+                    497,
+                    246,
+                    989,
+                    275
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5035,
+                "bbox": [
+                    1832,
+                    106,
+                    1921,
+                    125
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7553,
+                "bbox": [
+                    1787,
+                    132,
+                    1870,
+                    152
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7448,
+                "bbox": [
+                    1787,
+                    171,
+                    1868,
+                    190
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6469,
+                "bbox": [
+                    1787,
+                    211,
+                    1919,
+                    231
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7037,
+                "bbox": [
+                    1787,
+                    235,
+                    1836,
+                    252
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7445,
+                "bbox": [
+                    1787,
+                    255,
+                    1900,
+                    274
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.672,
+                "bbox": [
+                    1787,
+                    276,
+                    1858,
+                    293
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5988,
+                "bbox": [
+                    1831,
+                    303,
+                    1921,
+                    320
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4779,
+                "bbox": [
+                    1787,
+                    329,
+                    1921,
+                    348
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.73,
+                "bbox": [
+                    1787,
+                    352,
+                    1858,
+                    370
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7234,
+                "bbox": [
+                    1787,
+                    374,
+                    1839,
+                    392
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5354,
+                "bbox": [
+                    1861,
+                    400,
+                    1921,
+                    418
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7435,
+                "bbox": [
+                    1787,
+                    423,
+                    1865,
+                    442
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5734,
+                "bbox": [
+                    1850,
+                    451,
+                    1921,
+                    469
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7295,
+                "bbox": [
+                    1786,
+                    475,
+                    1856,
+                    493
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7293,
+                "bbox": [
+                    1787,
+                    496,
+                    1856,
+                    514
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7076,
+                "bbox": [
+                    1787,
+                    516,
+                    1852,
+                    534
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6285,
+                "bbox": [
+                    1787,
+                    536,
+                    1853,
+                    554
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4806,
+                "bbox": [
+                    1868,
+                    564,
+                    1921,
+                    581
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6567,
+                "bbox": [
+                    1787,
+                    588,
+                    1853,
+                    606
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7014,
+                "bbox": [
+                    1788,
+                    609,
+                    1921,
+                    627
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7071,
+                "bbox": [
+                    1787,
+                    629,
+                    1890,
+                    647
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7482,
+                "bbox": [
+                    1788,
+                    650,
+                    1909,
+                    668
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6469,
+                "bbox": [
+                    1787,
+                    675,
+                    1831,
+                    694
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5562,
+                "bbox": [
+                    1851,
+                    710,
+                    1921,
+                    730
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7311,
+                "bbox": [
+                    454,
+                    977,
+                    1464,
+                    1036
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9169,
+                "bbox": [
+                    148,
+                    1051,
+                    405,
+                    1070
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8222,
+                "bbox": [
+                    1682,
+                    1051,
+                    1776,
+                    1068
+                ],
+                "index": 36
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1543,
+                    13,
+                    1688,
+                    33
+                ],
+                "score": 1.0,
+                "text": "在线文档搜索帮助"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1501,
+                    32,
+                    1899,
+                    105
+                ],
+                "score": 0.962,
+                "text": "Voidmatrix bilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1569,
+                    1015,
+                    1772,
+                    1034
+                ],
+                "score": 0.959,
+                "text": "218 %8：5制表符"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    14,
+                    971,
+                    37
+                ],
+                "score": 1.0,
+                "text": "player.gd(*)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    49,
+                    735,
+                    75
+                ],
+                "score": 1.0,
+                "text": "extends CharacterBody2D"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    451,
+                    114,
+                    761,
+                    142
+                ],
+                "score": 1.0,
+                "text": "#玩家移动速度，单位是像素/秒。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    452,
+                    147,
+                    900,
+                    174
+                ],
+                "score": 0.993,
+                "text": "@export var move_speed: float = 120.0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    212,
+                    993,
+                    240
+                ],
+                "score": 0.988,
+                "text": "func _physics_process(_delta: float) -> void:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    497,
+                    246,
+                    988,
+                    274
+                ],
+                "score": 0.999,
+                "text": "#读取四个方向输入，并得到标准化后的八向输入向量"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1829,
+                    104,
+                    1922,
+                    127
+                ],
+                "score": 0.979,
+                "text": " CharacterB"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    131,
+                    1870,
+                    153
+                ],
+                "score": 1.0,
+                "text": "Motion Mode"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    168,
+                    1867,
+                    191
+                ],
+                "score": 1.0,
+                "text": "Up Direction"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    209,
+                    1919,
+                    233
+                ],
+                "score": 0.974,
+                "text": "Slide on Ceiling"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1784,
+                    233,
+                    1837,
+                    254
+                ],
+                "score": 0.953,
+                "text": " Floor"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    253,
+                    1900,
+                    276
+                ],
+                "score": 0.992,
+                "text": " Moving Platform"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    272,
+                    1859,
+                    295
+                ],
+                "score": 1.0,
+                "text": "Collision"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1829,
+                    301,
+                    1922,
+                    321
+                ],
+                "score": 1.0,
+                "text": "CollisionOb"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    328,
+                    1920,
+                    348
+                ],
+                "score": 0.992,
+                "text": "Disable ModeRer"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    349,
+                    1859,
+                    371
+                ],
+                "score": 1.0,
+                "text": "Collision"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    373,
+                    1840,
+                    393
+                ],
+                "score": 1.0,
+                "text": "Input"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1860,
+                    399,
+                    1921,
+                    418
+                ],
+                "score": 0.931,
+                "text": " Node2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    420,
+                    1864,
+                    443
+                ],
+                "score": 0.952,
+                "text": " Transform"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1848,
+                    450,
+                    1922,
+                    470
+                ],
+                "score": 0.999,
+                "text": "CanvasI"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1784,
+                    474,
+                    1856,
+                    494
+                ],
+                "score": 1.0,
+                "text": "Visibility"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1784,
+                    493,
+                    1857,
+                    515
+                ],
+                "score": 0.953,
+                "text": " Ordering"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1784,
+                    515,
+                    1852,
+                    535
+                ],
+                "score": 0.94,
+                "text": " Texture"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    535,
+                    1853,
+                    555
+                ],
+                "score": 1.0,
+                "text": "Material"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1866,
+                    562,
+                    1922,
+                    582
+                ],
+                "score": 0.977,
+                "text": "O Node"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    585,
+                    1853,
+                    607
+                ],
+                "score": 1.0,
+                "text": "Process"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1787,
+                    609,
+                    1920,
+                    627
+                ],
+                "score": 0.966,
+                "text": "Physics Interpolatior"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1787,
+                    630,
+                    1889,
+                    646
+                ],
+                "score": 0.974,
+                "text": " Auto Translate"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1786,
+                    650,
+                    1909,
+                    668
+                ],
+                "score": 0.98,
+                "text": "Editor Description"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1785,
+                    673,
+                    1831,
+                    696
+                ],
+                "score": 1.0,
+                "text": "Script"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1848,
+                    708,
+                    1922,
+                    731
+                ],
+                "score": 0.922,
+                "text": "+添加元数"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    977,
+                    1463,
+                    1035
+                ],
+                "score": 1.0,
+                "text": "我们还会实际落地很多专业有价值的工程思路"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1051,
+                    403,
+                    1070
+                ],
+                "score": 0.966,
+                "text": "输出 调试器 音频 动画 着色器编辑器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1682,
+                    1051,
+                    1775,
+                    1068
+                ],
+                "score": 1.0,
+                "text": "4.6.1.stable"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4c3d50822cbc4f2648d113b222d33fedc7866060120827ad20d33e2edbe0a362.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                62,
+                2,
+                997,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "比如怎样用更规范的场景结构来组织玩家敌人子弹和道具"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                904,
+                835,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "移动：(103.0, 69.0) px"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                940,
+                153,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "输出 调试器 音频 动画 着色器编辑器"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                974,
+                209,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "4.6.1.stable"
+                    }
+                ]
+            },
+            "bbox": [
+                876,
+                974,
+                924,
+                989
+            ]
+        }
+    ]
+]

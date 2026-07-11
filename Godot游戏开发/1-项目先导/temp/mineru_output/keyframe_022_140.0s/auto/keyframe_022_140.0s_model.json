@@ -1,0 +1,69 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6484,
+                "bbox": [
+                    1511,
+                    30,
+                    1894,
+                    104
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8876,
+                "bbox": [
+                    505,
+                    51,
+                    1392,
+                    960
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.699,
+                "bbox": [
+                    607,
+                    977,
+                    1315,
+                    1038
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1503,
+                    30,
+                    1893,
+                    104
+                ],
+                "score": 0.966,
+                "text": "Voidmatrix bilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    605,
+                    975,
+                    1315,
+                    1040
+                ],
+                "score": 1.0,
+                "text": "为国内Godot社区的建设和成长"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

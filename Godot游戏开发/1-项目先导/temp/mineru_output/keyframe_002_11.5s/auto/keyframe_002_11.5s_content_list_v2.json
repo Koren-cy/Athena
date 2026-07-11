@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5c7871dc2678369a9f13e11ffc59c977a11ce59ed8ab6552e9507b7fd843ba77.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                289,
+                128,
+                707,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "我们neta了在《星露谷物语》中的"
+                    }
+                ]
+            },
+            "bbox": [
+                314,
+                904,
+                684,
+                963
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Voidmatrix Bilibili"
+                    }
+                ]
+            },
+            "bbox": [
+                787,
+                25,
+                985,
+                95
+            ]
+        }
+    ]
+]

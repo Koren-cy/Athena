@@ -1,0 +1,48 @@
+[
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 2,
+        "bbox": [
+            269,
+            257,
+            710,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 2,
+        "bbox": [
+            836,
+            420,
+            891,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "也能创作出独属于自己的作品",
+        "bbox": [
+            327,
+            904,
+            672,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix bilibili",
+        "bbox": [
+            785,
+            25,
+            986,
+            95
+        ],
+        "page_idx": 0
+    }
+]

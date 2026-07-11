@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [],
+                "level": 2
+            },
+            "bbox": [
+                380,
+                115,
+                616,
+                585
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "不会做那种免费一半收费一半的太监式教学"
+                    }
+                ]
+            },
+            "bbox": [
+                246,
+                904,
+                752,
+                963
+            ]
+        }
+    ]
+]

@@ -1,0 +1,396 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "共42课时"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                618,
+                101,
+                634
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/69b74633aa2c8895c1e7121f298aebd50288be4c60f24806c317fe0add5a7e9c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                193,
+                387,
+                373
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5047fb433b53e79b1ffffaf7c66cb252fe3476478f6620359b52845301f85008.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                392,
+                213,
+                458,
+                286
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5cad4a5b8ede314a886d1c3b45b4de7c2267df988a40a6ad73db3b1a78ab7097.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                392,
+                306,
+                458,
+                384
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "课堂"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                75,
+                404,
+                99,
+                427
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0c70874a45fe9294b45f5c743df8ef4ebb0c7c7d76df51654c82cca5cc9b777d.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "【上新5折】联机游戏开发完全指南"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                445,
+                212,
+                582
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4d0679cbe155e911e31e44b93b835b2c77d37e0322d5952973f63aa41dbe06fb.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                218,
+                448,
+                354,
+                585
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3b8a533979430772f5ad2e0182b86532cae9391a17cc33817a3ff91c42d7a3b5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "【限时特惠】通关设计模式：游戏开发架构宝典"
+                    },
+                    {
+                        "type": "text",
+                        "content": "共54课时"
+                    }
+                ]
+            },
+            "bbox": [
+                392,
+                399,
+                458,
+                476
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9f0a1555127dc6c74d75574e591bd76e32b10c9fa6aac89249f011a5aacd8065.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "【限时特惠]共36课时"
+                    }
+                ]
+            },
+            "bbox": [
+                360,
+                445,
+                387,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Voidmatrix"
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                128,
+                523,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投稿"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                172,
+                510,
+                195
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "【上新5折】联机游戏开发完全指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                463,
+                211,
+                586,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "共42课时3963"
+                    }
+                ]
+            },
+            "bbox": [
+                464,
+                252,
+                499,
+                291
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "【限时特惠】通关设计模式：游戏开发架"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "构宝典"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "共54课时"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10.5万"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "【限时特惠】从零开始的C++双人塔防游"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "戏开发"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "共36课时"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24.5万"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                463,
+                304,
+                603,
+                386
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": []
+            },
+            "bbox": [
+                463,
+                399,
+                604,
+                479
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Voidmatrix DiliDili"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                785,
+                28,
+                985,
+                95
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c76bc29c684d3958f494094357483e258b9428deb938f7340c2f4d157b59fdb1.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "关注数 粉丝数 获赞数 播放数2298 12.7万 28.9万 738.9万"
+                    }
+                ]
+            },
+            "bbox": [
+                613,
+                185,
+                1000,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "我个人主页课堂页面中的付费课程内容"
+                    }
+                ]
+            },
+            "bbox": [
+                274,
+                907,
+                723,
+                961
+            ]
+        }
+    ]
+]

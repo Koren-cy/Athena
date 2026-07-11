@@ -1,0 +1,616 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "#玩家移动速度，单位是像素/秒。"
+                    }
+                ]
+            },
+            "bbox": [
+                234,
+                105,
+                396,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "@export var move_speed: float = 120.0"
+                    }
+                ]
+            },
+            "bbox": [
+                234,
+                134,
+                468,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "func _physics_process(_delta: float) -> void:"
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                193,
+                518,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "#读取四个方向输入，并得到标准化后的八向输入向量"
+                    }
+                ]
+            },
+            "bbox": [
+                257,
+                226,
+                515,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " CharacterB"
+                    }
+                ]
+            },
+            "bbox": [
+                953,
+                97,
+                1000,
+                115
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Motion Mode"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                121,
+                973,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Up Direction"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                157,
+                972,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Slide on Ceiling"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                193,
+                998,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Floor"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                216,
+                955,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Moving Platform"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                234,
+                989,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Collision"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                255,
+                966,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CollisionOb"
+                    }
+                ]
+            },
+            "bbox": [
+                953,
+                280,
+                1000,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Disable ModeRer"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                304,
+                1000,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Collision"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                324,
+                966,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Input"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                345,
+                958,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Node2"
+                    }
+                ]
+            },
+            "bbox": [
+                968,
+                371,
+                1000,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Transform"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                391,
+                971,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CanvasI"
+                    }
+                ]
+            },
+            "bbox": [
+                963,
+                417,
+                1000,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Visibility"
+                    }
+                ]
+            },
+            "bbox": [
+                929,
+                440,
+                966,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Ordering"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                458,
+                966,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Texture"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                476,
+                963,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Material"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                494,
+                965,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "O Node"
+                    }
+                ]
+            },
+            "bbox": [
+                972,
+                523,
+                1000,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Process"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                543,
+                965,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Physics Interpolatior"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                564,
+                1000,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Auto Translate"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                582,
+                984,
+                597
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Editor Description"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                603,
+                994,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Script"
+                    }
+                ]
+            },
+            "bbox": [
+                930,
+                626,
+                953,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "+添加元数"
+                    }
+                ]
+            },
+            "bbox": [
+                963,
+                657,
+                1000,
+                675
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "在线文档搜索帮助Voidmatrix bilibili"
+                    }
+                ]
+            },
+            "bbox": [
+                787,
+                2,
+                986,
+                92
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "218 %8：5制表符"
+                    }
+                ]
+            },
+            "bbox": [
+                817,
+                940,
+                923,
+                958
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "player.gd(*)"
+                    }
+                ]
+            },
+            "bbox": [
+                463,
+                12,
+                505,
+                30
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "extends CharacterBody2D"
+                    }
+                ]
+            },
+            "bbox": [
+                234,
+                43,
+                382,
+                69
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "我们还会实际落地很多专业有价值的工程思路"
+                    }
+                ]
+            },
+            "bbox": [
+                235,
+                904,
+                762,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "输出 调试器 音频 动画 着色器编辑器"
+                    }
+                ]
+            },
+            "bbox": [
+                76,
+                974,
+                209,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "4.6.1.stable"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                974,
+                924,
+                989
+            ]
+        }
+    ]
+]

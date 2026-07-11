@@ -1,0 +1,69 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6133,
+                "bbox": [
+                    1511,
+                    31,
+                    1895,
+                    104
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8419,
+                "bbox": [
+                    483,
+                    57,
+                    1391,
+                    962
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7116,
+                "bbox": [
+                    454,
+                    977,
+                    1468,
+                    1038
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1502,
+                    31,
+                    1895,
+                    104
+                ],
+                "score": 0.956,
+                "text": "Voidmatrix Dilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    454,
+                    977,
+                    1467,
+                    1036
+                ],
+                "score": 1.0,
+                "text": "也最容易真正学会的第一批开发知识串联起来"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

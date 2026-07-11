@@ -1,0 +1,69 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6094,
+                "bbox": [
+                    1511,
+                    31,
+                    1894,
+                    105
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9463,
+                "bbox": [
+                    313,
+                    48,
+                    1391,
+                    960
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.565,
+                "bbox": [
+                    729,
+                    976,
+                    1190,
+                    1039
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1503,
+                    31,
+                    1894,
+                    105
+                ],
+                "score": 0.957,
+                "text": "Voidmatrix bilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    726,
+                    975,
+                    1190,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "在我们的教程系列中"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

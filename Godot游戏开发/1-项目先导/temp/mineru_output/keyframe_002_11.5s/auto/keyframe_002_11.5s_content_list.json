@@ -1,0 +1,37 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/5c7871dc2678369a9f13e11ffc59c977a11ce59ed8ab6552e9507b7fd843ba77.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            289,
+            128,
+            707,
+            865
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我们neta了在《星露谷物语》中的",
+        "bbox": [
+            314,
+            904,
+            684,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Bilibili",
+        "bbox": [
+            787,
+            25,
+            985,
+            95
+        ],
+        "page_idx": 0
+    }
+]

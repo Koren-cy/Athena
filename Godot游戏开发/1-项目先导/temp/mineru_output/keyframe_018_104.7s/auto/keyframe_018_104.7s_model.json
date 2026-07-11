@@ -1,0 +1,80 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6194,
+                "bbox": [
+                    1512,
+                    30,
+                    1916,
+                    106
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7928,
+                "bbox": [
+                    14,
+                    273,
+                    1909,
+                    835
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.4867,
+                "bbox": [
+                    352,
+                    976,
+                    1568,
+                    1039
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1501,
+                    29,
+                    1911,
+                    104
+                ],
+                "score": 0.953,
+                "text": "Voidmatrix Dilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    477,
+                    366,
+                    845,
+                    715
+                ],
+                "score": 0.602,
+                "text": "日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    351,
+                    977,
+                    1566,
+                    1037
+                ],
+                "score": 1.0,
+                "text": "让大家能够更直观更轻松地掌握抽象概念和专业的知识"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

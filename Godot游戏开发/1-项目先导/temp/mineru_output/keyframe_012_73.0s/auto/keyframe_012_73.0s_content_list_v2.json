@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [],
+                "level": 2
+            },
+            "bbox": [
+                377,
+                275,
+                628,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "资源组织这些真正会影响你日后开发上限的内容讲清楚"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                907,
+                814,
+                961
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "《【从零开始的C++游戏开发】玩家子弹派生类详细实现》"
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                51,
+                520,
+                95
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Voidmatrix Dilibili"
+                    }
+                ]
+            },
+            "bbox": [
+                787,
+                28,
+                985,
+                95
+            ]
+        }
+    ]
+]

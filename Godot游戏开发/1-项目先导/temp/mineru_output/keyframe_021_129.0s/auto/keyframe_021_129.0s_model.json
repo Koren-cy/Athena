@@ -1,0 +1,81 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8778,
+                "bbox": [
+                    1511,
+                    30,
+                    1895,
+                    103
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5691,
+                "bbox": [
+                    518,
+                    280,
+                    1365,
+                    845
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6881,
+                "bbox": [
+                    1606,
+                    453,
+                    1712,
+                    627
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9261,
+                "bbox": [
+                    629,
+                    976,
+                    1292,
+                    1040
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1501,
+                    28,
+                    1895,
+                    106
+                ],
+                "score": 0.941,
+                "text": "Voidmatrix bilibili"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    627,
+                    975,
+                    1291,
+                    1041
+                ],
+                "score": 0.999,
+                "text": "也能创作出独属于自己的作品"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "type": "text",
+        "text": "010 of",
+        "text_level": 2,
+        "bbox": [
+            60,
+            404,
+            939,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "把整个开发过程里真正需要掌握的内容",
+        "bbox": [
+            273,
+            907,
+            725,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix ilibili",
+        "bbox": [
+            787,
+            28,
+            986,
+            95
+        ],
+        "page_idx": 0
+    }
+]

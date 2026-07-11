@@ -1,0 +1,91 @@
+[
+    {
+        "type": "text",
+        "text": "从零开始玩家移",
+        "bbox": [
+            115,
+            384,
+            227,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《冥日芳粥：肿么滴》",
+        "bbox": [
+            118,
+            533,
+            230,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vol.002",
+        "bbox": [
+            118,
+            569,
+            154,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从零开始 Godot玩家射击系统",
+        "text_level": 2,
+        "bbox": [
+            683,
+            384,
+            898,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《冥日芳粥：肿么滴》",
+        "bbox": [
+            685,
+            533,
+            797,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vol.004",
+        "bbox": [
+            685,
+            569,
+            720,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我会把我账号接广卖课收入的部分作为“活动基金”",
+        "bbox": [
+            209,
+            904,
+            787,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Voidmatrix Dilibili",
+        "bbox": [
+            787,
+            25,
+            1000,
+            95
+        ],
+        "page_idx": 0
+    }
+]

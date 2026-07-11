@@ -1,0 +1,55 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0f5cc8105a72e6b88a6c4ccbec032530deace210d33d5f3524d68668c16527ad.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                179,
+                417,
+                290,
+                615
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "碰撞管理器"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                570,
+                829,
+                736,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "不只是告诉你这里点哪里那里填什么"
+                    }
+                ]
+            },
+            "bbox": [
+                283,
+                907,
+                714,
+                963
+            ]
+        }
+    ]
+]
