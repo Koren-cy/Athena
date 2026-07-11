@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a40f3865949b8e",
+        "id": "921f796f60f8aeb4",
         "type": "tabs",
         "children": [
           {
-            "id": "65c74fe91b078c41",
+            "id": "0a075e425616a190",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -207,8 +207,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "772ec6f6275715fb",
+  "active": "0a075e425616a190",
   "lastOpenFiles": [
+    "Godot游戏开发/2-引擎安装与瓦片系统基础/temp/2-引擎安装与瓦片系统基础.corrected.srt",
+    "Godot游戏开发/1-项目先导/1-项目先导.mp4",
+    "Godot游戏开发/1-项目先导/temp/1-项目先导.corrected.srt",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/3-玩家角色动画与移动基础.srt",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/temp/2-引擎安装与瓦片系统基础.srt",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0044.wav",
@@ -217,9 +220,6 @@
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0041.wav",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0040.wav",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0039.wav",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0038.wav",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0037.wav",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0036.wav",
     "Godot游戏开发/1-项目先导/1-项目先导.md",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
     "Godot游戏开发/Godot游戏开发.md",
