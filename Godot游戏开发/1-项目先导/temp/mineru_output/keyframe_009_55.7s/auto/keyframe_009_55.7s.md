@@ -1,1 +1,0 @@
-![](images/a7ff14f7421bdf46d30f2f4b9a36ba5219ceb3a29c747989f40f90ed7074e23c.jpg)

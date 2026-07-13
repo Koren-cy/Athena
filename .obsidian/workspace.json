@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "921f796f60f8aeb4",
+        "id": "1bd0cc8972555ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "0a075e425616a190",
+            "id": "0baad0bfaed3118c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Godot游戏开发/1-项目先导/1-项目先导.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1-项目先导"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.50198364257812
+    "width": 433.5019836425781
   },
   "right": {
     "id": "99396aab7d8094eb",
@@ -207,19 +211,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "772ec6f6275715fb",
+  "active": "0baad0bfaed3118c",
   "lastOpenFiles": [
+    "Godot游戏开发/1-项目先导/1-项目先导.mp4",
+    "Godot游戏开发/1-项目先导/temp/keyframes_ocr.md",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/temp/2-引擎安装与瓦片系统基础.corrected.srt",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/temp/2-引擎安装与瓦片系统基础.srt",
     "Godot游戏开发/1-项目先导/temp/1-项目先导.corrected.srt",
     "Godot游戏开发/1-项目先导/temp/1-项目先导.srt",
-    "Godot游戏开发/1-项目先导/1-项目先导.mp4",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/3-玩家角色动画与移动基础.srt",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0044.wav",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0043.wav",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0042.wav",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0041.wav",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/_audio_segments/segment_0040.wav",
     "Godot游戏开发/1-项目先导/1-项目先导.md",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
     "Godot游戏开发/Godot游戏开发.md",
@@ -244,7 +248,6 @@
     "计算机网络/传输层/套接字编程基础.md",
     "计算机网络/传输层/传输层概述.md",
     "计算机网络/物理层/数据编码与调制.md",
-    "计算机网络/物理层/信道复用技术.md",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "未命名.canvas",
