@@ -213,6 +213,12 @@
   },
   "active": "c996f4057006bd07",
   "lastOpenFiles": [
+    "Godot游戏开发/3-玩家角色动画与移动基础/3-玩家角色动画与移动基础.mp4",
+    "Godot游戏开发/3-玩家角色动画与移动基础/img/grid_size_416.5s.jpg",
+    "Godot游戏开发/3-玩家角色动画与移动基础/img/godot_docs_710.9s.jpg",
+    "Godot游戏开发/3-玩家角色动画与移动基础/3-玩家角色动画与移动基础.md",
+    "Godot游戏开发/1-项目先导/1-项目先导.mp4",
+    "Godot游戏开发/1-项目先导/img/player_move_code_80.8s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img/scene_path_304.6s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img/resource_list_1323.9s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img/player_move_code_868.9s.jpg",
@@ -220,12 +226,8 @@
     "Godot游戏开发/3-玩家角色动画与移动基础/img/no_text_48.3s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img/no_text_298.4s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img/input_mapping_848.8s.jpg",
-    "Godot游戏开发/3-玩家角色动画与移动基础/img/grid_size_416.5s.jpg",
-    "Godot游戏开发/3-玩家角色动画与移动基础/img/godot_docs_710.9s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/img",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/keyframe_mapping.json",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/keyframes/resource_list_1323.9s.jpg",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/keyframes/player_move_code_868.9s.jpg",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/content_doc.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/keyframes_ocr.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s_origin.pdf",
@@ -234,9 +236,7 @@
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s_model.json",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s_layout.pdf",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s_content_list.json",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s_content_list_v2.json",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/keyframe_026_520.6s.md",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_026_520.6s/auto/images",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_058_908.9s/auto/keyframe_058_908.9s.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_055_776.1s/auto/keyframe_055_776.1s.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_023_495.3s/auto/keyframe_023_495.3s.md",
@@ -258,7 +258,6 @@
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_050_728.2s/auto/keyframe_050_728.2s.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_049_722.5s/auto/keyframe_049_722.5s.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_048_720.2s/auto/keyframe_048_720.2s.md",
-    "Godot游戏开发/3-玩家角色动画与移动基础/temp/mineru_output/keyframe_047_715.6s/auto/keyframe_047_715.6s.md",
     "未命名.canvas"
   ]
 }
