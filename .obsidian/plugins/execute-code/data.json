@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "python",
+  "lastOpenLanguageTab": "c",
   "releaseNote2_1_0wasShowed": true,
   "persistentOuput": false,
   "timeout": 10000,
@@ -98,7 +98,7 @@
   "cppInject": "",
   "cppArgs": "",
   "cppUseMain": false,
-  "clingPath": "cling",
+  "clingPath": "gcc",
   "clingArgs": "",
   "clingStd": "c++17",
   "rustFileExtension": "rs",

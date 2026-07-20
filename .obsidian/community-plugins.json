@@ -8,7 +8,6 @@
   "various-complements",
   "better-word-count",
   "highlightr-plugin",
-  "execute-code",
   "obsidian-excel-to-markdown-table",
   "advanced-canvas",
   "edge-tts",
@@ -29,5 +28,6 @@
   "mehrmaid",
   "mermaid-tools",
   "omnisearch",
-  "code-styler"
+  "code-styler",
+  "execute-code"
 ]

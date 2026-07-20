@@ -1,11 +1,13 @@
 {
+  "keyframe_001_13.5s": "design_philosophy_13.5",
   "keyframe_002_32.4s": "android_architecture_32.4",
-  "keyframe_003_78.1s": "embedded_hardware_78.1",
-  "keyframe_004_87.9s": "iot_devices_87.9",
-  "keyframe_007_107.3s": "three_perspectives_107.3",
-  "keyframe_008_146.3s": "peripheral_memory_map_146.3",
-  "keyframe_009_161.0s": "stm32_memory_table_161.0",
-  "keyframe_010_195.9s": "c_oop_195.9",
-  "keyframe_011_235.3s": "initcall_macro_235.3",
-  "keyframe_012_262.1s": "course_summary_262.1"
+  "keyframe_003_78.1s": "c_language_android_78.1",
+  "keyframe_004_87.9s": "smartphone_87.9",
+  "keyframe_005_93.2s": "smart_devices_93.2",
+  "keyframe_006_98.7s": "linux_freertos_98.7",
+  "keyframe_007_107.3s": "cpu_bus_architecture_107.3",
+  "keyframe_008_146.3s": "stm32_memory_map_146.3",
+  "keyframe_009_161.0s": "stm32_peripherals_161.0",
+  "keyframe_010_195.9s": "architecture_oop_195.9",
+  "keyframe_011_235.3s": "compiler_attribute_235.3"
 }
