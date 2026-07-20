@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97dc1485c067b290",
+        "id": "e2714436ec4c54f6",
         "type": "tabs",
         "children": [
           {
-            "id": "da64128a9b98dc12",
+            "id": "6393367c0b0f82a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,10 +211,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da64128a9b98dc12",
+  "active": "6393367c0b0f82a4",
   "lastOpenFiles": [
-    "嵌入式C语言高阶版/05-gdb调试器入门/05-gdb调试器入门.md",
+    "嵌入式C语言高阶版/嵌入式C语言高阶版.md",
     "嵌入式C语言高阶版/04-gcc编译器入门/04-gcc编译器入门.md",
+    "嵌入式C语言高阶版/15-sizeof/15-sizeof.md",
+    "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
+    "嵌入式C语言高阶版/03-vim文本编辑器入门/03-vim文本编辑器入门.md",
+    "嵌入式C语言高阶版/02-Ubuntu环境搭建/02-Ubuntu环境搭建.md",
+    "嵌入式C语言高阶版/05-gdb调试器入门/05-gdb调试器入门.md",
     "嵌入式C语言高阶版/05-gdb调试器入门/img/x_command_940.4.jpg",
     "嵌入式C语言高阶版/05-gdb调试器入门/img/registers_963.3.jpg",
     "嵌入式C语言高阶版/05-gdb调试器入门/img/print_variable_759.6.jpg",
@@ -251,14 +256,9 @@
     "嵌入式C语言高阶版/05-gdb调试器入门/temp/mineru_output/keyframe_004_427.3s/auto/keyframe_004_427.3s.md",
     "嵌入式C语言高阶版/05-gdb调试器入门/temp/mineru_output/keyframe_003_282.6s/auto/keyframe_003_282.6s.md",
     "嵌入式C语言高阶版/05-gdb调试器入门/temp/mineru_output/keyframe_001_160.4s/auto/keyframe_001_160.4s.md",
-    "嵌入式C语言高阶版/03-vim文本编辑器入门/03-vim文本编辑器入门.md",
-    "嵌入式C语言高阶版/02-Ubuntu环境搭建/02-Ubuntu环境搭建.md",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
     "嵌入式C语言高阶版/04-gcc编译器入门/temp/content_doc.md",
     "嵌入式C语言高阶版/04-gcc编译器入门/temp/keyframes_ocr.md",
     "嵌入式C语言高阶版/03-vim文本编辑器入门/temp/content_doc.md",
-    "嵌入式C语言高阶版/03-vim文本编辑器入门/temp/keyframes_ocr.md",
-    "嵌入式C语言高阶版/03-vim文本编辑器入门/temp/mineru_output/keyframe_005_485.4s/auto/keyframe_005_485.4s.md",
     "未命名.canvas"
   ]
 }
