@@ -1,0 +1,139 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.5359,
+                "bbox": [
+                    28,
+                    4,
+                    1914,
+                    1033
+                ],
+                "index": 1,
+                "html": "<table><tr><td>I</td><td colspan=\"5\">嵌入式C语言(高阶版)-飞书云文× 十</td><td></td><td></td><td></td><td>□ X</td><td colspan=\"2\">File Edit Search View Encoding Language Settings Tools Macro Run Plugins Window ?</td></tr><tr><td>C</td><td colspan=\"5\">https://zwylwvk711t.feishu.cn/docx/EEgOdvFPDoM1H0xMwU3c72c7nQ... A</td><td>中 ☆ ★</td><td></td><td>宙 智</td><td></td><td></td><td>1.cx</td><td>BBBB|， |2|a||43|s1E§A|D买</td></tr><tr><td>三 Embedi &gt; Murphy</td><td colspan=\"2\">&gt; 嵌入式C语言(高阶版) </td><td>分享</td><td>编辑</td><td>D</td><td>.…</td><td></td><td>Q</td><td>+</td><td></td><td>#include &lt;stdio.h&gt;</td></tr><tr><td>い LP ere acs</td><td colspan=\"2\">嵌入式C语言高阶版 最近修改：9分钟前</td><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td>2 3 int main(void)</td><td></td></tr><tr><td>7、[rm-rf]:删除</td><td colspan=\"5\"></td><td></td><td></td><td>曰</td><td>45 甲{</td><td colspan=\"2\">printf(&quot;hallo world \\n&quot;);input</td></tr><tr><td>8、[clear]：清除屏幕</td><td colspan=\"5\"></td><td></td><td></td><td></td><td>6 L}</td><td colspan=\"2\"></td></tr><tr><td>9、[提权操作]：sudo xx 2.2 文本编辑器vim</td><td colspan=\"5\"></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>2.2.1 vim简介</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td>vim 是从vi发展出来的一个文本编辑器.且有代码补全.快速跳转.查找等功能，在linux中被广泛使用。 vim 官方网站(https://www编辑 E Q 100%</td><td colspan=\"5\">日</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">vim xx 进入</td><td>画板内评论</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\">正常模式</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">i/a/o键 ESC键 键 ESC键/回车</td><td>O</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=\"5\">输入模式 命令行模式 4</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">:wq</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">「正常模式」：</td><td colspan=\"5\">← 保存/退出</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">这个模式下一般用于阅读、复制粘贴、文本替换、文本查找等功能。</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td colspan=\"5\"></td><td>B ②</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">include &lt;stdio.h&gt; #define ABC 123</td><td colspan=\"5\"></td><td></td><td></td><td></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6184,
+                "bbox": [
+                    1159,
+                    1019,
+                    1291,
+                    1039
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.51,
+                "bbox": [
+                    12,
+                    1048,
+                    37,
+                    1070
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7075,
+                "bbox": [
+                    57,
+                    1048,
+                    120,
+                    1070
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8358,
+                "bbox": [
+                    261,
+                    1039,
+                    525,
+                    1078
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6599,
+                "bbox": [
+                    1475,
+                    1047,
+                    1788,
+                    1070
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1158,
+                    1017,
+                    1291,
+                    1039
+                ],
+                "score": 0.997,
+                "text": "length:75 lines:6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    8,
+                    1045,
+                    40,
+                    1073
+                ],
+                "score": 1.0,
+                "text": "田"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    54,
+                    1044,
+                    121,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    259,
+                    1038,
+                    526,
+                    1079
+                ],
+                "score": 0.527,
+                "text": "WCRTD"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1475,
+                    1047,
+                    1787,
+                    1069
+                ],
+                "score": 0.943,
+                "text": "富时中国A50+1.40%へ英"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

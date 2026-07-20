@@ -1,0 +1,51 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/5cb15779a66c1e226427896584e80ad77583da8eb6af1c67b933e466bfd677c8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            118,
+            7,
+            461,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 VMware安装",
+        "text_level": 2,
+        "bbox": [
+            95,
+            260,
+            277,
+            301
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一路「默认」安装即可",
+        "bbox": [
+            94,
+            317,
+            251,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/59261c0ea17d599f795546e838e79dfdbc9c7b345b01e2fced7b16d806e1a12a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            365,
+            561,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,1728 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5068,
+                    "bbox": [
+                        0,
+                        42,
+                        344,
+                        153
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                260,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        260,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                60,
+                                318,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        60,
+                                        318,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gcc -o bin 1.c -g",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                272,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        272,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                237,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        237,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                95,
+                                281,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        95,
+                                        281,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright (C) 2020 Free Software Foundation, Inc.",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                106,
+                                339,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        106,
+                                        339,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                118,
+                                104,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        118,
+                                        104,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "licenses/gpl.html>",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                129,
+                                341,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        129,
+                                        341,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "This is free software: you are free to change and redistrib",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                142,
+                                39,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        142,
+                                        39,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "ute it.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6218,
+                    "bbox": [
+                        0,
+                        152,
+                        343,
+                        259
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                152,
+                                303,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        152,
+                                        303,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "There is NO WARRANTY, to the extent permitted by law.",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                165,
+                                299,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        165,
+                                        299,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"show copying\" and \"show warranty\" for details.",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                176,
+                                261,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        176,
+                                        261,
+                                        187
+                                    ],
+                                    "type": "text",
+                                    "content": "This GDB was configured as \"x86 64-linux-gnu\"",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                188,
+                                298,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        188,
+                                        298,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"show configuration\" for configuration details.",
+                                    "score": 0.992
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                200,
+                                247,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        200,
+                                        247,
+                                        211
+                                    ],
+                                    "type": "text",
+                                    "content": "For bug reporting instructions, please see:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                211,
+                                227,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        211,
+                                        227,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "<http://www.gnu.org/software/gdb/bugs/>.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                223,
+                                340,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        223,
+                                        340,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "Find the GDB manual and other documentation resources onlin",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                234,
+                                29,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        234,
+                                        29,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "e at:",
+                                    "score": 0.956
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                246,
+                                304,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        246,
+                                        304,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "<http://www.gnu.org/software/gdb/documentation/>.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6414,
+                    "bbox": [
+                        0,
+                        267,
+                        342,
+                        340
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                268,
+                                125,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        268,
+                                        125,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "For help, type \"help\".",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                279,
+                                341,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        279,
+                                        341,
+                                        292
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"apropos word\" to search for commands related to \"word",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                302,
+                                165,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        302,
+                                        165,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading symbols from ./bin...",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                315,
+                                41,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        315,
+                                        41,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) q",
+                                    "score": 0.977
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                326,
+                                216,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        326,
+                                        216,
+                                        338
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5037,
+                    "bbox": [
+                        342,
+                        25,
+                        452,
+                        39
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                342,
+                                26,
+                                452,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        342,
+                                        26,
+                                        452,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "#include <stdio.h>",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4816,
+                    "bbox": [
+                        344,
+                        48,
+                        516,
+                        132
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                344,
+                                48,
+                                425,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        344,
+                                        48,
+                                        425,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "int main(void)",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                362,
+                                71,
+                                404,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        362,
+                                        71,
+                                        404,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "int b;",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                366,
+                                93,
+                                410,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        366,
+                                        93,
+                                        410,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "b = 20;",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                367,
+                                107,
+                                513,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        107,
+                                        513,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "printf(\"hello world \\n\");",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                367,
+                                118,
+                                421,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        118,
+                                        421,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "return 0;",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5626,
+                    "bbox": [
+                        0,
+                        0,
+                        76,
+                        9
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                0,
+                                75,
+                                9
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        0,
+                                        75,
+                                        9
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.984
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5732,
+                    "bbox": [
+                        328,
+                        0,
+                        371,
+                        8
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                328,
+                                0,
+                                371,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        0,
+                                        371,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Sep 1 19:32",
+                                    "score": 0.966
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8532,
+                    "bbox": [
+                        113,
+                        13,
+                        230,
+                        23
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                115,
+                                14,
+                                229,
+                                22
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        14,
+                                        229,
+                                        22
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7617,
+                    "bbox": [
+                        268,
+                        11,
+                        371,
+                        24
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                267,
+                                11,
+                                328,
+                                25
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        11,
+                                        297,
+                                        25
+                                    ],
+                                    "type": "text",
+                                    "content": "a =",
+                                    "score": 0.708
+                                },
+                                {
+                                    "bbox": [
+                                        318,
+                                        13,
+                                        328,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "□",
+                                    "score": 0.842
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8814,
+                    "bbox": [
+                        460,
+                        13,
+                        576,
+                        22
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                460,
+                                14,
+                                575,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        14,
+                                        575,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6976,
+                    "bbox": [
+                        614,
+                        11,
+                        690,
+                        24
+                    ],
+                    "index": 6,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                612,
+                                9,
+                                691,
+                                25
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        612,
+                                        9,
+                                        691,
+                                        25
+                                    ],
+                                    "type": "text",
+                                    "content": "α ≡ - □ ×",
+                                    "score": 0.821
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8899,
+                    "bbox": [
+                        345,
+                        371,
+                        429,
+                        384
+                    ],
+                    "index": 12,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                345,
+                                371,
+                                429,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        371,
+                                        429,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "\"1.c\" 10L, 95C",
+                                    "score": 0.984
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.749,
+                    "bbox": [
+                        579,
+                        371,
+                        614,
+                        384
+                    ],
+                    "index": 13,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                577,
+                                370,
+                                615,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        577,
+                                        370,
+                                        615,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "5,1-4",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8549,
+                    "bbox": [
+                        661,
+                        372,
+                        680,
+                        383
+                    ],
+                    "index": 14,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                659,
+                                371,
+                                681,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        659,
+                                        371,
+                                        681,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "All",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5068,
+                    "bbox": [
+                        0,
+                        42,
+                        344,
+                        153
+                    ],
+                    "index": 7,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                260,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        260,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                60,
+                                318,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        60,
+                                        318,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gcc -o bin 1.c -g",
+                                    "score": 0.982
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                272,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        272,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin",
+                                    "score": 0.993
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                237,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        237,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                95,
+                                281,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        95,
+                                        281,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright (C) 2020 Free Software Foundation, Inc.",
+                                    "score": 0.998
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                106,
+                                339,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        106,
+                                        339,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                118,
+                                104,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        118,
+                                        104,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "licenses/gpl.html>",
+                                    "score": 0.998
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                129,
+                                341,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        129,
+                                        341,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "This is free software: you are free to change and redistrib",
+                                    "score": 0.982
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                142,
+                                39,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        142,
+                                        39,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "ute it.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        50,
+                        341,
+                        152
+                    ]
+                },
+                {
+                    "score": 0.6218,
+                    "bbox": [
+                        0,
+                        152,
+                        343,
+                        259
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                152,
+                                303,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        152,
+                                        303,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "There is NO WARRANTY, to the extent permitted by law.",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                165,
+                                299,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        165,
+                                        299,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"show copying\" and \"show warranty\" for details.",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                176,
+                                261,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        176,
+                                        261,
+                                        187
+                                    ],
+                                    "type": "text",
+                                    "content": "This GDB was configured as \"x86 64-linux-gnu\"",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                188,
+                                298,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        188,
+                                        298,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"show configuration\" for configuration details.",
+                                    "score": 0.992
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                200,
+                                247,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        200,
+                                        247,
+                                        211
+                                    ],
+                                    "type": "text",
+                                    "content": "For bug reporting instructions, please see:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                211,
+                                227,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        211,
+                                        227,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "<http://www.gnu.org/software/gdb/bugs/>.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                223,
+                                340,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        223,
+                                        340,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "Find the GDB manual and other documentation resources onlin",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                234,
+                                29,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        234,
+                                        29,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "e at:",
+                                    "score": 0.956
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                22,
+                                246,
+                                304,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        246,
+                                        304,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "<http://www.gnu.org/software/gdb/documentation/>.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        152,
+                        340,
+                        257
+                    ]
+                },
+                {
+                    "score": 0.6414,
+                    "bbox": [
+                        0,
+                        267,
+                        342,
+                        340
+                    ],
+                    "index": 9,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                268,
+                                125,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        268,
+                                        125,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "For help, type \"help\".",
+                                    "score": 0.988
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                279,
+                                341,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        279,
+                                        341,
+                                        292
+                                    ],
+                                    "type": "text",
+                                    "content": "Type \"apropos word\" to search for commands related to \"word",
+                                    "score": 0.991
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                302,
+                                165,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        302,
+                                        165,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading symbols from ./bin...",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                315,
+                                41,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        315,
+                                        41,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) q",
+                                    "score": 0.977
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                326,
+                                216,
+                                338
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        326,
+                                        216,
+                                        338
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        268,
+                        341,
+                        338
+                    ]
+                },
+                {
+                    "score": 0.5037,
+                    "bbox": [
+                        342,
+                        25,
+                        452,
+                        39
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                342,
+                                26,
+                                452,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        342,
+                                        26,
+                                        452,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "#include <stdio.h>",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4816,
+                    "bbox": [
+                        344,
+                        48,
+                        516,
+                        132
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                344,
+                                48,
+                                425,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        344,
+                                        48,
+                                        425,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "int main(void)",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                362,
+                                71,
+                                404,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        362,
+                                        71,
+                                        404,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "int b;",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                366,
+                                93,
+                                410,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        366,
+                                        93,
+                                        410,
+                                        108
+                                    ],
+                                    "type": "text",
+                                    "content": "b = 20;",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                367,
+                                107,
+                                513,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        107,
+                                        513,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "printf(\"hello world \\n\");",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                367,
+                                118,
+                                421,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        118,
+                                        421,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "return 0;",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        344,
+                        48,
+                        513,
+                        130
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

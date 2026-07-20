@@ -1,0 +1,321 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4525,
+                "bbox": [
+                    914,
+                    1,
+                    1030,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8044,
+                "bbox": [
+                    318,
+                    37,
+                    640,
+                    65
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6695,
+                "bbox": [
+                    746,
+                    30,
+                    1030,
+                    67
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7763,
+                "bbox": [
+                    1279,
+                    37,
+                    1600,
+                    64
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6521,
+                "bbox": [
+                    1705,
+                    32,
+                    1917,
+                    68
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6064,
+                "bbox": [
+                    0,
+                    73,
+                    812,
+                    143
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4521,
+                "bbox": [
+                    0,
+                    199,
+                    713,
+                    266
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.4822,
+                "bbox": [
+                    251,
+                    391,
+                    371,
+                    428
+                ],
+                "index": 8,
+                "latex": "\\boxed { \\bullet } \\boxed { \\bullet } \\boxed { \\bullet }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4785,
+                "bbox": [
+                    953,
+                    72,
+                    1256,
+                    111
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8412,
+                "bbox": [
+                    961,
+                    1032,
+                    1191,
+                    1068
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.658,
+                "bbox": [
+                    1610,
+                    1032,
+                    1705,
+                    1069
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8346,
+                "bbox": [
+                    1837,
+                    1034,
+                    1890,
+                    1066
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    1,
+                    1031,
+                    23
+                ],
+                "score": 0.958,
+                "text": "Sep 1 19:33"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    319,
+                    39,
+                    637,
+                    62
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    41,
+                    815,
+                    58
+                ],
+                "score": 0.962,
+                "text": "三"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    888,
+                    40,
+                    905,
+                    59
+                ],
+                "score": 0.925,
+                "text": "□"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    41,
+                    993,
+                    59
+                ],
+                "score": 0.869,
+                "text": "+"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    39,
+                    1598,
+                    61
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1702,
+                    30,
+                    1918,
+                    70
+                ],
+                "score": 0.741,
+                "text": "Q ≡ - □ x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    75,
+                    808,
+                    111
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    108,
+                    454,
+                    141
+                ],
+                "score": 0.987,
+                "text": "Reading symbols from ./bin.."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    201,
+                    709,
+                    237
+                ],
+                "score": 0.993,
+                "text": "Starting program: /home/workspace/lesson/bin"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    234,
+                    180,
+                    266
+                ],
+                "score": 1.0,
+                "text": "hello world"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    953,
+                    73,
+                    1255,
+                    110
+                ],
+                "score": 0.999,
+                "text": "#include <stdio.h>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    958,
+                    1030,
+                    1193,
+                    1070
+                ],
+                "score": 0.995,
+                "text": "\"1.c\" 10L, 95C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1606,
+                    1028,
+                    1707,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "5,1-4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1833,
+                    1029,
+                    1892,
+                    1070
+                ],
+                "score": 0.975,
+                "text": "All"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

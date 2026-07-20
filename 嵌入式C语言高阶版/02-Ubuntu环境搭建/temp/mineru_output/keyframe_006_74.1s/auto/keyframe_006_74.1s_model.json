@@ -1,0 +1,23 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9029,
+                "bbox": [
+                    2,
+                    0,
+                    1921,
+                    1074
+                ],
+                "index": 1
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

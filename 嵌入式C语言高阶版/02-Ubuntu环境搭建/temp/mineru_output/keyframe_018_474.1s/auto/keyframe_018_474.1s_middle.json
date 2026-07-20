@@ -1,0 +1,905 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.6835,
+                    "bbox": [
+                        0,
+                        57,
+                        424,
+                        72
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                58,
+                                422,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        58,
+                                        422,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "Desktop Documents Downloads Music Pictures Public Templates Videos",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4809,
+                    "bbox": [
+                        0,
+                        71,
+                        131,
+                        82
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                71,
+                                130,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        71,
+                                        130,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -a",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5448,
+                    "bbox": [
+                        0,
+                        81,
+                        561,
+                        94
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                81,
+                                561,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        82,
+                                        397,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": ".bash logout .config Downloads .mozilla .profile",
+                                    "score": 0.97
+                                },
+                                {
+                                    "bbox": [
+                                        506,
+                                        81,
+                                        561,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "Templates",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4511,
+                    "bbox": [
+                        3,
+                        93,
+                        543,
+                        105
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                93,
+                                543,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        94,
+                                        387,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": ".bashrc Desktop.gnupg Music Public",
+                                    "score": 0.96
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        93,
+                                        543,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "Videos",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7197,
+                    "bbox": [
+                        0,
+                        116,
+                        130,
+                        130
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                116,
+                                131,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        116,
+                                        131,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -■",
+                                    "score": 0.968
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6139,
+                    "bbox": [
+                        0,
+                        105,
+                        556,
+                        117
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                103,
+                                555,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        103,
+                                        122,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": ".bash_history .cache",
+                                    "score": 0.956
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        106,
+                                        555,
+                                        116
+                                    ],
+                                    "type": "text",
+                                    "content": "Documents .localPictures .sudo_as_admin_successful .viminfo",
+                                    "score": 0.977
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4943,
+                    "bbox": [
+                        675,
+                        376,
+                        685,
+                        387
+                    ],
+                    "index": 1,
+                    "type": "page_number",
+                    "lines": []
+                },
+                {
+                    "score": 0.83,
+                    "bbox": [
+                        0,
+                        0,
+                        134,
+                        7
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                1,
+                                132,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        1,
+                                        132,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.977
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5606,
+                    "bbox": [
+                        0,
+                        9,
+                        92,
+                        18
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.908
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5129,
+                    "bbox": [
+                        666,
+                        9,
+                        691,
+                        18
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                667,
+                                9,
+                                690,
+                                19
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        667,
+                                        9,
+                                        690,
+                                        19
+                                    ],
+                                    "type": "text",
+                                    "content": "«|目",
+                                    "score": 0.555
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5344,
+                    "bbox": [
+                        1,
+                        21,
+                        75,
+                        29
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                21,
+                                75,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        21,
+                                        75,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.978
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4731,
+                    "bbox": [
+                        326,
+                        21,
+                        372,
+                        29
+                    ],
+                    "index": 6,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                21,
+                                372,
+                                30
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        21,
+                                        372,
+                                        30
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 02:38",
+                                    "score": 0.953
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5576,
+                    "bbox": [
+                        649,
+                        21,
+                        690,
+                        29
+                    ],
+                    "index": 7,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.5737,
+                    "bbox": [
+                        318,
+                        34,
+                        372,
+                        43
+                    ],
+                    "index": 8,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                317,
+                                34,
+                                372,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        317,
+                                        34,
+                                        372,
+                                        43
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6643,
+                    "bbox": [
+                        613,
+                        31,
+                        690,
+                        45
+                    ],
+                    "index": 9,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                613,
+                                31,
+                                690,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        613,
+                                        31,
+                                        690,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ x",
+                                    "score": 0.816
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7297,
+                    "bbox": [
+                        543,
+                        376,
+                        646,
+                        385
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                542,
+                                375,
+                                646,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        542,
+                                        375,
+                                        646,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "29℃ 局部晴朗 ∧    简体",
+                                    "score": 0.824
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5278,
+                    "bbox": [
+                        3,
+                        377,
+                        13,
+                        385
+                    ],
+                    "index": 17,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                376,
+                                14,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        376,
+                                        14,
+                                        387
+                                    ],
+                                    "type": "text",
+                                    "content": "田",
+                                    "score": 0.842
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7091,
+                    "bbox": [
+                        19,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 18,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8541,
+                    "bbox": [
+                        93,
+                        373,
+                        172,
+                        388
+                    ],
+                    "index": 19,
+                    "type": "footer",
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.6835,
+                    "bbox": [
+                        0,
+                        57,
+                        424,
+                        72
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                58,
+                                422,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        58,
+                                        422,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "Desktop Documents Downloads Music Pictures Public Templates Videos",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        58,
+                        422,
+                        70
+                    ]
+                },
+                {
+                    "score": 0.4809,
+                    "bbox": [
+                        0,
+                        71,
+                        131,
+                        82
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                71,
+                                130,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        71,
+                                        130,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -a",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        71,
+                        130,
+                        82
+                    ]
+                },
+                {
+                    "score": 0.5448,
+                    "bbox": [
+                        0,
+                        81,
+                        561,
+                        94
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                81,
+                                561,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        82,
+                                        397,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": ".bash logout .config Downloads .mozilla .profile",
+                                    "score": 0.97
+                                },
+                                {
+                                    "bbox": [
+                                        506,
+                                        81,
+                                        561,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "Templates",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        87,
+                        81,
+                        561,
+                        93
+                    ]
+                },
+                {
+                    "score": 0.4511,
+                    "bbox": [
+                        3,
+                        93,
+                        543,
+                        105
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                93,
+                                543,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        94,
+                                        387,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": ".bashrc Desktop.gnupg Music Public",
+                                    "score": 0.96
+                                },
+                                {
+                                    "bbox": [
+                                        505,
+                                        93,
+                                        543,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "Videos",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        87,
+                        93,
+                        543,
+                        105
+                    ]
+                },
+                {
+                    "score": 0.7197,
+                    "bbox": [
+                        0,
+                        116,
+                        130,
+                        130
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                116,
+                                131,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        116,
+                                        131,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -■",
+                                    "score": 0.968
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        116,
+                        131,
+                        130
+                    ]
+                },
+                {
+                    "score": 0.6139,
+                    "bbox": [
+                        0,
+                        105,
+                        556,
+                        117
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                103,
+                                555,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        103,
+                                        122,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": ".bash_history .cache",
+                                    "score": 0.956
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        106,
+                                        555,
+                                        116
+                                    ],
+                                    "type": "text",
+                                    "content": "Documents .localPictures .sudo_as_admin_successful .viminfo",
+                                    "score": 0.977
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        103,
+                        555,
+                        118
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

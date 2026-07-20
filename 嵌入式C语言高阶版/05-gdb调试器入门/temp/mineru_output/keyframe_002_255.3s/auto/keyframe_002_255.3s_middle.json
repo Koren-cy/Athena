@@ -1,0 +1,888 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5802,
+                    "bbox": [
+                        0,
+                        26,
+                        449,
+                        214
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                358,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        358,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gbd",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                155,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        155,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "[sudo] password for murphy:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                49,
+                                357,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        49,
+                                        357,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gdb",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                60,
+                                155,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        60,
+                                        155,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "[sudo] password for murphy:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                168,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        168,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                140,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        140,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                95,
+                                191,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        95,
+                                        191,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                107,
+                                327,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        107,
+                                        327,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "gdb is already the newest version (9.2-0ubuntul~20.04.2).",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                119,
+                                361,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        119,
+                                        361,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.986
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                130,
+                                295,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        130,
+                                        295,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb --version",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                141,
+                                237,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        141,
+                                        237,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                153,
+                                281,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        153,
+                                        281,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright (C) 2020 Free Software Foundation, Inc.",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                164,
+                                444,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        164,
+                                        444,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                176,
+                                380,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        176,
+                                        380,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "This is free software: you are free to change and redistribute it.",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                188,
+                                305,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        188,
+                                        305,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "There is NO WARRANTY, to the extent permitted by law.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                199,
+                                231,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        199,
+                                        231,
+                                        211
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ g■",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5434,
+                    "bbox": [
+                        0,
+                        0,
+                        76,
+                        8
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                1,
+                                75,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        1,
+                                        75,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.978
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6293,
+                    "bbox": [
+                        328,
+                        1,
+                        371,
+                        8
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                327,
+                                0,
+                                371,
+                                7
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        0,
+                                        371,
+                                        7
+                                    ],
+                                    "type": "text",
+                                    "content": "Sep 1 19:29",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7766,
+                    "bbox": [
+                        286,
+                        13,
+                        403,
+                        22
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                286,
+                                14,
+                                403,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        286,
+                                        14,
+                                        403,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu: /home/workspace/lesson",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6948,
+                    "bbox": [
+                        614,
+                        11,
+                        690,
+                        24
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                613,
+                                11,
+                                690,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        613,
+                                        11,
+                                        690,
+                                        24
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ ☆",
+                                    "score": 0.731
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5802,
+                    "bbox": [
+                        0,
+                        26,
+                        449,
+                        214
+                    ],
+                    "index": 5,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                358,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        358,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gbd",
+                                    "score": 0.994
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                155,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        155,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "[sudo] password for murphy:",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                49,
+                                357,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        49,
+                                        357,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gdb",
+                                    "score": 0.995
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                60,
+                                155,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        60,
+                                        155,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "[sudo] password for murphy:",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                168,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        168,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                140,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        140,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                95,
+                                191,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        95,
+                                        191,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.994
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                107,
+                                327,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        107,
+                                        327,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "gdb is already the newest version (9.2-0ubuntul~20.04.2).",
+                                    "score": 0.994
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                119,
+                                361,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        119,
+                                        361,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.986
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                130,
+                                295,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        130,
+                                        295,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb --version",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                141,
+                                237,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        141,
+                                        237,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2",
+                                    "score": 0.995
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                153,
+                                281,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        153,
+                                        281,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright (C) 2020 Free Software Foundation, Inc.",
+                                    "score": 0.989
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                164,
+                                444,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        164,
+                                        444,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>",
+                                    "score": 0.991
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                176,
+                                380,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        176,
+                                        380,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "This is free software: you are free to change and redistribute it.",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                188,
+                                305,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        188,
+                                        305,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "There is NO WARRANTY, to the extent permitted by law.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                199,
+                                231,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        199,
+                                        231,
+                                        211
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ g■",
+                                    "score": 0.99
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        26,
+                        444,
+                        211
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

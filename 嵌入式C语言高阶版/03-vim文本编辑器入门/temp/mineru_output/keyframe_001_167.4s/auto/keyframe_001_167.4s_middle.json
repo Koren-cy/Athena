@@ -1,0 +1,317 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        10,
+                        1,
+                        689,
+                        371
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5359,
+                            "bbox": [
+                                10,
+                                1,
+                                689,
+                                371
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        1,
+                                        689,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                10,
+                                                1,
+                                                689,
+                                                371
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>I</td><td colspan=\"5\">嵌入式C语言(高阶版)-飞书云文× 十</td><td></td><td></td><td></td><td>□ X</td><td colspan=\"2\">File Edit Search View Encoding Language Settings Tools Macro Run Plugins Window ?</td></tr><tr><td>C</td><td colspan=\"5\">https://zwylwvk711t.feishu.cn/docx/EEgOdvFPDoM1H0xMwU3c72c7nQ... A</td><td>中 ☆ ★</td><td></td><td>宙 智</td><td></td><td></td><td>1.cx</td><td>BBBB|， |2|a||43|s1E§A|D买</td></tr><tr><td>三 Embedi &gt; Murphy</td><td colspan=\"2\">&gt; 嵌入式C语言(高阶版) </td><td>分享</td><td>编辑</td><td>D</td><td>.…</td><td></td><td>Q</td><td>+</td><td></td><td>#include &lt;stdio.h&gt;</td></tr><tr><td>い LP ere acs</td><td colspan=\"2\">嵌入式C语言高阶版 最近修改：9分钟前</td><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td>2 3 int main(void)</td><td></td></tr><tr><td>7、[rm-rf]:删除</td><td colspan=\"5\"></td><td></td><td></td><td>曰</td><td>45 甲{</td><td colspan=\"2\">printf(&quot;hallo world \\n&quot;);input</td></tr><tr><td>8、[clear]：清除屏幕</td><td colspan=\"5\"></td><td></td><td></td><td></td><td>6 L}</td><td colspan=\"2\"></td></tr><tr><td>9、[提权操作]：sudo xx 2.2 文本编辑器vim</td><td colspan=\"5\"></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>2.2.1 vim简介</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td>vim 是从vi发展出来的一个文本编辑器.且有代码补全.快速跳转.查找等功能，在linux中被广泛使用。 vim 官方网站(https://www编辑 E Q 100%</td><td colspan=\"5\">日</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">vim xx 进入</td><td>画板内评论</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\">正常模式</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">i/a/o键 ESC键 键 ESC键/回车</td><td>O</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=\"5\">输入模式 命令行模式 4</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">:wq</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">「正常模式」：</td><td colspan=\"5\">← 保存/退出</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">这个模式下一般用于阅读、复制粘贴、文本替换、文本查找等功能。</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td colspan=\"5\"></td><td>B ②</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">include &lt;stdio.h&gt; #define ABC 123</td><td colspan=\"5\"></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "d9f5cfb90fc80307835cd16b77963021b4c970232c26a98da07d7653c46a8b35.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.6184,
+                            "bbox": [
+                                417,
+                                366,
+                                464,
+                                374
+                            ],
+                            "index": 2,
+                            "type": "table_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        366,
+                                        464,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                366,
+                                                464,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "length:75 lines:6",
+                                            "score": 0.997
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5359
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.51,
+                    "bbox": [
+                        4,
+                        377,
+                        13,
+                        385
+                    ],
+                    "index": 3,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                376,
+                                14,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        376,
+                                        14,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "田",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7075,
+                    "bbox": [
+                        20,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 4,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                375,
+                                43,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        375,
+                                        43,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8358,
+                    "bbox": [
+                        93,
+                        374,
+                        189,
+                        388
+                    ],
+                    "index": 5,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                373,
+                                189,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        373,
+                                        189,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "WCRTD",
+                                    "score": 0.527
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6599,
+                    "bbox": [
+                        531,
+                        376,
+                        643,
+                        385
+                    ],
+                    "index": 6,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                531,
+                                376,
+                                643,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        531,
+                                        376,
+                                        643,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "富时中国A50+1.40%へ英",
+                                    "score": 0.943
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        10,
+                        1,
+                        689,
+                        371
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5359,
+                            "bbox": [
+                                10,
+                                1,
+                                689,
+                                371
+                            ],
+                            "index": 1,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        1,
+                                        689,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                10,
+                                                1,
+                                                689,
+                                                371
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>I</td><td colspan=\"5\">嵌入式C语言(高阶版)-飞书云文× 十</td><td></td><td></td><td></td><td>□ X</td><td colspan=\"2\">File Edit Search View Encoding Language Settings Tools Macro Run Plugins Window ?</td></tr><tr><td>C</td><td colspan=\"5\">https://zwylwvk711t.feishu.cn/docx/EEgOdvFPDoM1H0xMwU3c72c7nQ... A</td><td>中 ☆ ★</td><td></td><td>宙 智</td><td></td><td></td><td>1.cx</td><td>BBBB|， |2|a||43|s1E§A|D买</td></tr><tr><td>三 Embedi &gt; Murphy</td><td colspan=\"2\">&gt; 嵌入式C语言(高阶版) </td><td>分享</td><td>编辑</td><td>D</td><td>.…</td><td></td><td>Q</td><td>+</td><td></td><td>#include &lt;stdio.h&gt;</td></tr><tr><td>い LP ere acs</td><td colspan=\"2\">嵌入式C语言高阶版 最近修改：9分钟前</td><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td>2 3 int main(void)</td><td></td></tr><tr><td>7、[rm-rf]:删除</td><td colspan=\"5\"></td><td></td><td></td><td>曰</td><td>45 甲{</td><td colspan=\"2\">printf(&quot;hallo world \\n&quot;);input</td></tr><tr><td>8、[clear]：清除屏幕</td><td colspan=\"5\"></td><td></td><td></td><td></td><td>6 L}</td><td colspan=\"2\"></td></tr><tr><td>9、[提权操作]：sudo xx 2.2 文本编辑器vim</td><td colspan=\"5\"></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>2.2.1 vim简介</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td>vim 是从vi发展出来的一个文本编辑器.且有代码补全.快速跳转.查找等功能，在linux中被广泛使用。 vim 官方网站(https://www编辑 E Q 100%</td><td colspan=\"5\">日</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">vim xx 进入</td><td>画板内评论</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\">正常模式</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">i/a/o键 ESC键 键 ESC键/回车</td><td>O</td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=\"5\">输入模式 命令行模式 4</td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"5\">:wq</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">「正常模式」：</td><td colspan=\"5\">← 保存/退出</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">这个模式下一般用于阅读、复制粘贴、文本替换、文本查找等功能。</td><td colspan=\"5\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td colspan=\"5\"></td><td>B ②</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">include &lt;stdio.h&gt; #define ABC 123</td><td colspan=\"5\"></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "d9f5cfb90fc80307835cd16b77963021b4c970232c26a98da07d7653c46a8b35.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.6184,
+                            "bbox": [
+                                417,
+                                366,
+                                464,
+                                374
+                            ],
+                            "index": 2,
+                            "type": "table_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        366,
+                                        464,
+                                        374
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                416,
+                                                366,
+                                                464,
+                                                374
+                                            ],
+                                            "type": "text",
+                                            "content": "length:75 lines:6",
+                                            "score": 0.997
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5359
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

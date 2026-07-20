@@ -1,0 +1,310 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/ee8a95e8ec999933c396b0512e3bb512dfe53832f53505bd314a724c728ca88c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            11,
+            72,
+            27,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "主页",
+        "bbox": [
+            26,
+            77,
+            41,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "murphy",
+        "bbox": [
+            27,
+            110,
+            52,
+            144
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欢迎使用 VMware Workstation 15 Player",
+        "text_level": 2,
+        "bbox": [
+            196,
+            69,
+            448,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a76fa573ad7d451f54bc0df34933605bc7f97f1e34961ec96f46132207d9ed56.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            198,
+            118,
+            222,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建新虚拟机(N)",
+        "bbox": [
+            235,
+            115,
+            303,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建新虚拟机，该虚拟机随后将添加到库的顶部。",
+        "bbox": [
+            235,
+            144,
+            373,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/daa89ddbff3c3c0cd58d4d3476edd96cef5c867cfcd704dbe9a8750be9d5e40b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            193,
+            222,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "打开虚拟机(O)",
+        "bbox": [
+            235,
+            193,
+            295,
+            213
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "打开现有虚拟机，该虚拟机随后将添加到库的顶部。",
+        "bbox": [
+            234,
+            219,
+            379,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f97f3c3269b1a13464b502657eba00a25adc2f812d199c4ec74ad1a4131d7211.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            268,
+            222,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "升级到 VMware Workstation Pro(U)",
+        "bbox": [
+            235,
+            268,
+            386,
+            288
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "获取快照、虚拟网络管理等高级功能。",
+        "bbox": [
+            234,
+            293,
+            341,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f42df9b8436d53f1179d5b9bd0d34b9260f06e58a4faf5ef79032ec8231755c9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            342,
+            222,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "帮助(E)",
+        "bbox": [
+            235,
+            345,
+            267,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "查看联机帮助。",
+        "bbox": [
+            235,
+            371,
+            279,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "该产品未获许可，仅授权用干非商业用途。如果用于商业用途，请购买许可证。立即购买。",
+        "bbox": [
+            234,
+            917,
+            492,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            976,
+            971,
+            991,
+            997
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "VMware Workstation 15 Player (仅用于非商业用途)",
+        "bbox": [
+            2,
+            0,
+            162,
+            18
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "凸 ×",
+        "bbox": [
+            955,
+            0,
+            992,
+            15
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Player(e)",
+        "bbox": [
+            1,
+            25,
+            131,
+            46
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            202,
+            902,
+            218,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "搜索",
+        "bbox": [
+            28,
+            971,
+            60,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            136,
+            963,
+            273,
+            997
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            762,
+            971,
+            777,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "富时中国A50+1.40%简体",
+        "bbox": [
+            778,
+            971,
+            933,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "2024/8/31",
+        "bbox": [
+            936,
+            984,
+            969,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

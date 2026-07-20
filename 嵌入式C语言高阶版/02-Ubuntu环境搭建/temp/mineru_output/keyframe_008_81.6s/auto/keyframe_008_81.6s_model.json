@@ -1,0 +1,322 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8689,
+                "bbox": [
+                    5,
+                    2,
+                    314,
+                    20
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.6603,
+                "bbox": [
+                    1834,
+                    1,
+                    1909,
+                    18
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5951,
+                "bbox": [
+                    4,
+                    28,
+                    254,
+                    51
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8502,
+                "bbox": [
+                    13,
+                    74,
+                    358,
+                    1022
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9759,
+                "bbox": [
+                    391,
+                    72,
+                    721,
+                    319
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6537,
+                "bbox": [
+                    378,
+                    338,
+                    459,
+                    363
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8631,
+                "bbox": [
+                    378,
+                    387,
+                    612,
+                    482
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7332,
+                "bbox": [
+                    380,
+                    515,
+                    406,
+                    541
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7841,
+                "bbox": [
+                    379,
+                    553,
+                    407,
+                    580
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8135,
+                "bbox": [
+                    413,
+                    517,
+                    513,
+                    541
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8271,
+                "bbox": [
+                    413,
+                    555,
+                    546,
+                    579
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7097,
+                "bbox": [
+                    56,
+                    1048,
+                    120,
+                    1070
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8507,
+                "bbox": [
+                    262,
+                    1039,
+                    527,
+                    1078
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8941,
+                "bbox": [
+                    1497,
+                    1049,
+                    1792,
+                    1069
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    1,
+                    312,
+                    19
+                ],
+                "score": 0.983,
+                "text": "VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1885,
+                    1,
+                    1904,
+                    19
+                ],
+                "score": 0.755,
+                "text": "×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1842,
+                    3,
+                    1858,
+                    17
+                ],
+                "score": 0.632,
+                "text": "凸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    25,
+                    252,
+                    53
+                ],
+                "score": 0.887,
+                "text": "Player(e)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    378,
+                    334,
+                    458,
+                    369
+                ],
+                "score": 1.0,
+                "text": "murphy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    409,
+                    390,
+                    497,
+                    408
+                ],
+                "score": 0.997,
+                "text": "状态：已关机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    379,
+                    414,
+                    540,
+                    431
+                ],
+                "score": 0.99,
+                "text": "操作系统：Ubuntu 64位"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    409,
+                    439,
+                    608,
+                    456
+                ],
+                "score": 0.975,
+                "text": "版本：Workstation 15.x 虚拟机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    407,
+                    462,
+                    487,
+                    479
+                ],
+                "score": 0.988,
+                "text": "RAM: 4 GB"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    413,
+                    518,
+                    511,
+                    541
+                ],
+                "score": 1.0,
+                "text": "播放虚拟机(L)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    416,
+                    559,
+                    543,
+                    576
+                ],
+                "score": 1.0,
+                "text": "编辑虚拟机设置(D)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1044,
+                    121,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1496,
+                    1050,
+                    1791,
+                    1068
+                ],
+                "score": 0.996,
+                "text": "富时中国A50+1.40%简体"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

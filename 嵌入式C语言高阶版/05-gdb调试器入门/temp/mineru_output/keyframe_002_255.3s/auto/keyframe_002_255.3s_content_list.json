@@ -1,0 +1,57 @@
+[
+    {
+        "type": "text",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ sudo apt-get install gbd   \n[sudo] password for murphy:   \nmurphy@ubuntu:/home/workspace/lesson\\$ sudo apt-get install gdb   \n[sudo] password for murphy:   \nReading package lists... Done   \nBuilding dependency tree   \nReading state information... Done   \ngdb is already the newest version (9.2-0ubuntul\\~20.04.2).   \n0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.   \nmurphy@ubuntu:/home/workspace/lesson\\$ gdb --version   \nGNU gdb (Ubuntu 9.2-0ubuntu1\\~20.04.2) 9.2   \nCopyright (C) 2020 Free Software Foundation, Inc.   \nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html> This is free software: you are free to change and redistribute it.   \nThere is NO WARRANTY, to the extent permitted by law.   \nmurphy@ubuntu:/home/workspace/lesson\\$ g■",
+        "bbox": [
+            0,
+            67,
+            649,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            0,
+            0,
+            109,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 19:29",
+        "bbox": [
+            474,
+            2,
+            536,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            413,
+            33,
+            583,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ ☆",
+        "bbox": [
+            888,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    }
+]

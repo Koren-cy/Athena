@@ -1,0 +1,1577 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.4945,
+                    "bbox": [
+                        66,
+                        46,
+                        158,
+                        176
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                46,
+                                157,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        46,
+                                        78,
+                                        174
+                                    ],
+                                    "type": "text",
+                                    "content": "３３４２２１２１２２１",
+                                    "score": 0.973
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        46,
+                                        157,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        57,
+                                        156,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                69,
+                                156,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        69,
+                                        156,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                81,
+                                156,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        81,
+                                        156,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.948
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                93,
+                                156,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        93,
+                                        156,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.947
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                104,
+                                156,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        104,
+                                        156,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                114,
+                                157,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        114,
+                                        157,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                127,
+                                156,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        127,
+                                        156,
+                                        141
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                138,
+                                156,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        138,
+                                        156,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.985
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                149,
+                                157,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        149,
+                                        157,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                160,
+                                157,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        160,
+                                        157,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4988,
+                    "bbox": [
+                        0,
+                        174,
+                        129,
+                        231
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                175,
+                                93,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        175,
+                                        93,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                186,
+                                93,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        186,
+                                        93,
+                                        197
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                198,
+                                93,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        198,
+                                        93,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                209,
+                                127,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        209,
+                                        127,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -l",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                220,
+                                47,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        220,
+                                        47,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "total 32",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6762,
+                    "bbox": [
+                        0,
+                        230,
+                        315,
+                        372
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                231,
+                                301,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        231,
+                                        301,
+                                        243
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Desktop",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                243,
+                                312,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        243,
+                                        312,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Documents",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                254,
+                                312,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        254,
+                                        312,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Downloads",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                266,
+                                289,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        266,
+                                        289,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Music",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                277,
+                                306,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        277,
+                                        306,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Pictures",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                289,
+                                295,
+                                300
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        289,
+                                        295,
+                                        300
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Public",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                300,
+                                312,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        300,
+                                        312,
+                                        312
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Templates",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                312,
+                                295,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        312,
+                                        295,
+                                        324
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Videos",
+                                    "score": 0.986
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                324,
+                                150,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        324,
+                                        150,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ cd Videos",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                335,
+                                150,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        335,
+                                        150,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~/Videos$ ls",
+                                    "score": 0.985
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                347,
+                                152,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        347,
+                                        152,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~/Videos$ cd",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                358,
+                                93,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        358,
+                                        93,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4626,
+                    "bbox": [
+                        2,
+                        376,
+                        43,
+                        386
+                    ],
+                    "index": 1,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7371,
+                    "bbox": [
+                        0,
+                        0,
+                        134,
+                        7
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                132,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        132,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.971
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5318,
+                    "bbox": [
+                        0,
+                        9,
+                        92,
+                        19
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.875
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5322,
+                    "bbox": [
+                        0,
+                        21,
+                        75,
+                        29
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                21,
+                                75,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        21,
+                                        75,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5044,
+                    "bbox": [
+                        649,
+                        21,
+                        690,
+                        29
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.5959,
+                    "bbox": [
+                        613,
+                        31,
+                        690,
+                        45
+                    ],
+                    "index": 6,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                612,
+                                31,
+                                690,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        612,
+                                        31,
+                                        690,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ x",
+                                    "score": 0.8
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7654,
+                    "bbox": [
+                        93,
+                        373,
+                        173,
+                        388
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.5559,
+                    "bbox": [
+                        675,
+                        376,
+                        685,
+                        387
+                    ],
+                    "index": 11,
+                    "type": "page_number",
+                    "lines": []
+                },
+                {
+                    "score": 0.5374,
+                    "bbox": [
+                        543,
+                        375,
+                        670,
+                        388
+                    ],
+                    "index": 12,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                543,
+                                375,
+                                664,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        543,
+                                        375,
+                                        594,
+                                        387
+                                    ],
+                                    "type": "text",
+                                    "content": " 29C 局部晴朗",
+                                    "score": 0.889
+                                },
+                                {
+                                    "bbox": [
+                                        654,
+                                        376,
+                                        664,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "17:39",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                590,
+                                378,
+                                609,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        590,
+                                        378,
+                                        609,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "^",
+                                    "score": 0.646
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.4945,
+                    "bbox": [
+                        66,
+                        46,
+                        158,
+                        176
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                46,
+                                157,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        46,
+                                        78,
+                                        174
+                                    ],
+                                    "type": "text",
+                                    "content": "３３４２２１２１２２１",
+                                    "score": 0.973
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        46,
+                                        157,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        57,
+                                        156,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                69,
+                                156,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        69,
+                                        156,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                81,
+                                156,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        81,
+                                        156,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.948
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                93,
+                                156,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        93,
+                                        156,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.947
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                104,
+                                156,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        104,
+                                        156,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                114,
+                                157,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        114,
+                                        157,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.979
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                127,
+                                156,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        127,
+                                        156,
+                                        141
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                138,
+                                156,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        138,
+                                        156,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.985
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                149,
+                                157,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        149,
+                                        157,
+                                        165
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                160,
+                                157,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        160,
+                                        157,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy murphy",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                175,
+                                93,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        175,
+                                        93,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                186,
+                                93,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        186,
+                                        93,
+                                        197
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                198,
+                                93,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        198,
+                                        93,
+                                        209
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                209,
+                                127,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        209,
+                                        127,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ ls -l",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                220,
+                                47,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        220,
+                                        47,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "total 32",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        66,
+                        46,
+                        157,
+                        176
+                    ]
+                },
+                {
+                    "score": 0.4988,
+                    "bbox": [
+                        0,
+                        174,
+                        129,
+                        231
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        -1,
+                        175,
+                        127,
+                        231
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "score": 0.6762,
+                    "bbox": [
+                        0,
+                        230,
+                        315,
+                        372
+                    ],
+                    "index": 9,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                231,
+                                301,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        231,
+                                        301,
+                                        243
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Desktop",
+                                    "score": 0.994
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                243,
+                                312,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        243,
+                                        312,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Documents",
+                                    "score": 0.994
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                254,
+                                312,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        254,
+                                        312,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Downloads",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                266,
+                                289,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        266,
+                                        289,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Music",
+                                    "score": 0.988
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                277,
+                                306,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        277,
+                                        306,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Pictures",
+                                    "score": 0.989
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                289,
+                                295,
+                                300
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        289,
+                                        295,
+                                        300
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Public",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                300,
+                                312,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        300,
+                                        312,
+                                        312
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Templates",
+                                    "score": 0.996
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                312,
+                                295,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        312,
+                                        295,
+                                        324
+                                    ],
+                                    "type": "text",
+                                    "content": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Videos",
+                                    "score": 0.986
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                324,
+                                150,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        324,
+                                        150,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$ cd Videos",
+                                    "score": 0.998
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                335,
+                                150,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        335,
+                                        150,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~/Videos$ ls",
+                                    "score": 0.985
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                347,
+                                152,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        347,
+                                        152,
+                                        357
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~/Videos$ cd",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                358,
+                                93,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        358,
+                                        93,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:~$",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        231,
+                        312,
+                        369
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

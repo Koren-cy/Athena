@@ -1,0 +1,207 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q Reading symbols from ./bin.."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                67,
+                422,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Starting program: /home/workspace/lesson/bin hello world"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                182,
+                370,
+                244
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\boxed { \\bullet } \\boxed { \\bullet } \\boxed { \\bullet }",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e8c81764006d9941c5a2f1fb4a12bfc2e4a5e4103760a69d841eec89fa5000c5.jpg"
+                }
+            },
+            "bbox": [
+                130,
+                360,
+                192,
+                396
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "#include <stdio.h>"
+                    }
+                ]
+            },
+            "bbox": [
+                496,
+                64,
+                654,
+                100
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sep 1 19:33"
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                0,
+                535,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                33,
+                332,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "三 □ +"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                25,
+                535,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                33,
+                833,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ x"
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                28,
+                998,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "\"1.c\" 10L, 95C"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                956,
+                619,
+                989
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5,1-4"
+                    }
+                ]
+            },
+            "bbox": [
+                837,
+                956,
+                887,
+                989
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "All"
+                    }
+                ]
+            },
+            "bbox": [
+                956,
+                958,
+                984,
+                987
+            ]
+        }
+    ]
+]

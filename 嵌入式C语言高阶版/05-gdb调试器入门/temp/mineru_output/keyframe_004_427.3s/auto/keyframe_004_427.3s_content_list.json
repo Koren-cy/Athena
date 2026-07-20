@@ -1,0 +1,79 @@
+[
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            164,
+            33,
+            332,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ x",
+        "bbox": [
+            387,
+            25,
+            535,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            33,
+            833,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q 三 □",
+        "bbox": [
+            888,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "\"1.c\" 10L, 95C",
+        "bbox": [
+            499,
+            956,
+            619,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            837,
+            956,
+            887,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            956,
+            958,
+            984,
+            987
+        ],
+        "page_idx": 0
+    }
+]

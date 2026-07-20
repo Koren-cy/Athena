@@ -1,0 +1,608 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5626,
+                "bbox": [
+                    1,
+                    1,
+                    212,
+                    25
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5732,
+                "bbox": [
+                    913,
+                    2,
+                    1031,
+                    24
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8532,
+                "bbox": [
+                    316,
+                    38,
+                    641,
+                    65
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7617,
+                "bbox": [
+                    745,
+                    31,
+                    1031,
+                    68
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8814,
+                "bbox": [
+                    1278,
+                    38,
+                    1601,
+                    63
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6976,
+                "bbox": [
+                    1706,
+                    32,
+                    1917,
+                    68
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5068,
+                "bbox": [
+                    0,
+                    117,
+                    958,
+                    426
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6218,
+                "bbox": [
+                    0,
+                    424,
+                    954,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6414,
+                "bbox": [
+                    0,
+                    743,
+                    951,
+                    947
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5037,
+                "bbox": [
+                    952,
+                    72,
+                    1258,
+                    111
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4816,
+                "bbox": [
+                    957,
+                    135,
+                    1434,
+                    369
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8899,
+                "bbox": [
+                    961,
+                    1033,
+                    1192,
+                    1067
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.749,
+                "bbox": [
+                    1609,
+                    1033,
+                    1706,
+                    1068
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8549,
+                "bbox": [
+                    1837,
+                    1035,
+                    1891,
+                    1065
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    1,
+                    210,
+                    25
+                ],
+                "score": 0.984,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2,
+                    1031,
+                    24
+                ],
+                "score": 0.966,
+                "text": "Sep 1 19:32"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    321,
+                    40,
+                    638,
+                    62
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    744,
+                    31,
+                    826,
+                    70
+                ],
+                "score": 0.708,
+                "text": "a ="
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    38,
+                    912,
+                    61
+                ],
+                "score": 0.842,
+                "text": "□"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    40,
+                    1598,
+                    61
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1701,
+                    26,
+                    1920,
+                    72
+                ],
+                "score": 0.821,
+                "text": "α ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    139,
+                    724,
+                    168
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    167,
+                    885,
+                    206
+                ],
+                "score": 0.982,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gcc -o bin 1.c -g"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    202,
+                    756,
+                    234
+                ],
+                "score": 0.993,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    235,
+                    661,
+                    264
+                ],
+                "score": 0.999,
+                "text": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    266,
+                    782,
+                    297
+                ],
+                "score": 0.998,
+                "text": "Copyright (C) 2020 Free Software Foundation, Inc."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    297,
+                    944,
+                    331
+                ],
+                "score": 0.999,
+                "text": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    330,
+                    291,
+                    362
+                ],
+                "score": 0.998,
+                "text": "licenses/gpl.html>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -4,
+                    361,
+                    948,
+                    395
+                ],
+                "score": 0.982,
+                "text": "This is free software: you are free to change and redistrib"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    395,
+                    110,
+                    424
+                ],
+                "score": 1.0,
+                "text": "ute it."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    424,
+                    844,
+                    459
+                ],
+                "score": 0.991,
+                "text": "There is NO WARRANTY, to the extent permitted by law."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    459,
+                    832,
+                    490
+                ],
+                "score": 0.996,
+                "text": "Type \"show copying\" and \"show warranty\" for details."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    490,
+                    726,
+                    521
+                ],
+                "score": 0.979,
+                "text": "This GDB was configured as \"x86 64-linux-gnu\""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    524,
+                    829,
+                    553
+                ],
+                "score": 0.992,
+                "text": "Type \"show configuration\" for configuration details."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    556,
+                    688,
+                    587
+                ],
+                "score": 1.0,
+                "text": "For bug reporting instructions, please see:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    588,
+                    633,
+                    618
+                ],
+                "score": 1.0,
+                "text": "<http://www.gnu.org/software/gdb/bugs/>."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    620,
+                    947,
+                    648
+                ],
+                "score": 0.994,
+                "text": "Find the GDB manual and other documentation resources onlin"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    650,
+                    82,
+                    682
+                ],
+                "score": 0.956,
+                "text": "e at:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    63,
+                    684,
+                    846,
+                    714
+                ],
+                "score": 1.0,
+                "text": "<http://www.gnu.org/software/gdb/documentation/>."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    745,
+                    349,
+                    781
+                ],
+                "score": 0.988,
+                "text": "For help, type \"help\"."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    776,
+                    949,
+                    812
+                ],
+                "score": 0.991,
+                "text": "Type \"apropos word\" to search for commands related to \"word"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    841,
+                    460,
+                    877
+                ],
+                "score": 1.0,
+                "text": "Reading symbols from ./bin..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    876,
+                    116,
+                    909
+                ],
+                "score": 0.977,
+                "text": "(gdb) q"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    906,
+                    600,
+                    941
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    952,
+                    73,
+                    1258,
+                    110
+                ],
+                "score": 0.998,
+                "text": "#include <stdio.h>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    957,
+                    136,
+                    1182,
+                    172
+                ],
+                "score": 1.0,
+                "text": "int main(void)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1008,
+                    198,
+                    1124,
+                    239
+                ],
+                "score": 1.0,
+                "text": "int b;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1019,
+                    261,
+                    1140,
+                    301
+                ],
+                "score": 0.991,
+                "text": "b = 20;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1021,
+                    299,
+                    1426,
+                    331
+                ],
+                "score": 0.989,
+                "text": "printf(\"hello world \\n\");"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1022,
+                    330,
+                    1170,
+                    363
+                ],
+                "score": 0.997,
+                "text": "return 0;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    960,
+                    1032,
+                    1192,
+                    1068
+                ],
+                "score": 0.984,
+                "text": "\"1.c\" 10L, 95C"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1605,
+                    1029,
+                    1709,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "5,1-4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1833,
+                    1031,
+                    1894,
+                    1069
+                ],
+                "score": 0.975,
+                "text": "All"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

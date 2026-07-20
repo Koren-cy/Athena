@@ -1,0 +1,727 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.6318,
+                    "bbox": [
+                        0,
+                        26,
+                        284,
+                        76
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                77,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        77,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) break 8",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                37,
+                                281,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        37,
+                                        281,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Breakpoint 1 at 0x55555555515c: file 1.c, line 8.",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                52,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        52,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) run",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                254,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        254,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "Starting program: /home/workspace/lesson/bin",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5462,
+                    "bbox": [
+                        0,
+                        83,
+                        239,
+                        109
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                83,
+                                174,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        83,
+                                        174,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Breakpoint 1, main () at 1.c:8",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                95,
+                                237,
+                                109
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        95,
+                                        237,
+                                        109
+                                    ],
+                                    "type": "text",
+                                    "content": "printf(\"hello world \\n\");",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5013,
+                    "bbox": [
+                        0,
+                        164,
+                        249,
+                        189
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                163,
+                                248,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        163,
+                                        248,
+                                        178
+                                    ],
+                                    "type": "text",
+                                    "content": "[Inferior 1 (process 3820) exited normally]",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -2,
+                                175,
+                                29,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -2,
+                                        175,
+                                        29,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb)",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5216,
+                    "bbox": [
+                        1,
+                        0,
+                        75,
+                        9
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                0,
+                                75,
+                                9
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        0,
+                                        75,
+                                        9
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8588,
+                    "bbox": [
+                        114,
+                        13,
+                        230,
+                        23
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                14,
+                                229,
+                                22
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        14,
+                                        229,
+                                        22
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.724,
+                    "bbox": [
+                        268,
+                        10,
+                        370,
+                        24
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                267,
+                                10,
+                                370,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        267,
+                                        10,
+                                        370,
+                                        24
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ ×  ",
+                                    "score": 0.687
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8649,
+                    "bbox": [
+                        460,
+                        13,
+                        576,
+                        22
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                460,
+                                14,
+                                574,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        14,
+                                        574,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7225,
+                    "bbox": [
+                        614,
+                        11,
+                        690,
+                        24
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                679,
+                                14,
+                                686,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        679,
+                                        14,
+                                        686,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "x",
+                                    "score": 0.548
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.902,
+                    "bbox": [
+                        345,
+                        373,
+                        388,
+                        383
+                    ],
+                    "index": 9,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                345,
+                                372,
+                                388,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        372,
+                                        388,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": ":set nu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8009,
+                    "bbox": [
+                        579,
+                        371,
+                        613,
+                        384
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                578,
+                                370,
+                                614,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        578,
+                                        370,
+                                        614,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "5,1-4",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8664,
+                    "bbox": [
+                        661,
+                        372,
+                        680,
+                        383
+                    ],
+                    "index": 11,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                660,
+                                371,
+                                681,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        660,
+                                        371,
+                                        681,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "All",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.6318,
+                    "bbox": [
+                        0,
+                        26,
+                        284,
+                        76
+                    ],
+                    "index": 6,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                77,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        77,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) break 8",
+                                    "score": 0.995
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                37,
+                                281,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        37,
+                                        281,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Breakpoint 1 at 0x55555555515c: file 1.c, line 8.",
+                                    "score": 0.989
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                52,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        52,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb) run",
+                                    "score": 0.987
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                254,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        254,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "Starting program: /home/workspace/lesson/bin",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        26,
+                        281,
+                        73
+                    ]
+                },
+                {
+                    "score": 0.5462,
+                    "bbox": [
+                        0,
+                        83,
+                        239,
+                        109
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                83,
+                                174,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        83,
+                                        174,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Breakpoint 1, main () at 1.c:8",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                95,
+                                237,
+                                109
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        95,
+                                        237,
+                                        109
+                                    ],
+                                    "type": "text",
+                                    "content": "printf(\"hello world \\n\");",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        83,
+                        237,
+                        109
+                    ]
+                },
+                {
+                    "score": 0.5013,
+                    "bbox": [
+                        0,
+                        164,
+                        249,
+                        189
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                163,
+                                248,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        163,
+                                        248,
+                                        178
+                                    ],
+                                    "type": "text",
+                                    "content": "[Inferior 1 (process 3820) exited normally]",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -2,
+                                175,
+                                29,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -2,
+                                        175,
+                                        29,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "(gdb)",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -2,
+                        163,
+                        248,
+                        189
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

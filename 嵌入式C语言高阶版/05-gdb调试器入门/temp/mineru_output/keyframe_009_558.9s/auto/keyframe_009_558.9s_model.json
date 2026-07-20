@@ -1,0 +1,550 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.4923,
+                "bbox": [
+                    1,
+                    573,
+                    667,
+                    887
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4878,
+                "bbox": [
+                    914,
+                    1,
+                    1029,
+                    24
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8462,
+                "bbox": [
+                    318,
+                    37,
+                    640,
+                    65
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6949,
+                "bbox": [
+                    747,
+                    30,
+                    1029,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8623,
+                "bbox": [
+                    1279,
+                    38,
+                    1600,
+                    64
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7217,
+                "bbox": [
+                    1707,
+                    32,
+                    1917,
+                    68
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4794,
+                "bbox": [
+                    0,
+                    72,
+                    812,
+                    144
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.6239,
+                "bbox": [
+                    975,
+                    70,
+                    1503,
+                    401
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9071,
+                "bbox": [
+                    961,
+                    1037,
+                    1079,
+                    1065
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8052,
+                "bbox": [
+                    1611,
+                    1033,
+                    1704,
+                    1068
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8774,
+                "bbox": [
+                    1838,
+                    1034,
+                    1890,
+                    1066
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    586,
+                    17,
+                    617
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    585,
+                    351,
+                    619
+                ],
+                "score": 1.0,
+                "text": "int main(void)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    611,
+                    21,
+                    810
+                ],
+                "score": 0.681,
+                "text": "4５６7８９"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    122,
+                    620,
+                    147,
+                    652
+                ],
+                "score": 0.984,
+                "text": "{"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    251,
+                    646,
+                    355,
+                    685
+                ],
+                "score": 1.0,
+                "text": "int b;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    251,
+                    713,
+                    372,
+                    748
+                ],
+                "score": 0.957,
+                "text": "b = 20;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    253,
+                    748,
+                    657,
+                    779
+                ],
+                "score": 0.992,
+                "text": "printf(\"hello world \\n\");"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    254,
+                    779,
+                    401,
+                    811
+                ],
+                "score": 0.967,
+                "text": "return 0;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    805,
+                    39,
+                    844
+                ],
+                "score": 1.0,
+                "text": "10"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    121,
+                    810,
+                    148,
+                    846
+                ],
+                "score": 0.977,
+                "text": "}"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -4,
+                    838,
+                    84,
+                    880
+                ],
+                "score": 0.994,
+                "text": "(gdb)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    2,
+                    1029,
+                    25
+                ],
+                "score": 0.992,
+                "text": "Sep 1 19:35"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    319,
+                    39,
+                    637,
+                    62
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    35,
+                    821,
+                    65
+                ],
+                "score": 0.738,
+                "text": "Q ≡"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    886,
+                    37,
+                    909,
+                    60
+                ],
+                "score": 0.869,
+                "text": "□"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    39,
+                    1598,
+                    62
+                ],
+                "score": 0.994,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1702,
+                    30,
+                    1918,
+                    70
+                ],
+                "score": 0.768,
+                "text": "Q ≡ - □ x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    75,
+                    807,
+                    111
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    108,
+                    458,
+                    141
+                ],
+                "score": 0.983,
+                "text": "Reading symbols from ./bin..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    74,
+                    1316,
+                    105
+                ],
+                "score": 0.984,
+                "text": "1 #include <stdio.h>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    991,
+                    107,
+                    1011,
+                    137
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    992,
+                    139,
+                    1012,
+                    167
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1019,
+                    138,
+                    1248,
+                    169
+                ],
+                "score": 1.0,
+                "text": "int main(void)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    992,
+                    170,
+                    1012,
+                    200
+                ],
+                "score": 1.0,
+                "text": "4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    170,
+                    1047,
+                    204
+                ],
+                "score": 0.977,
+                "text": "{"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1067,
+                    196,
+                    1188,
+                    239
+                ],
+                "score": 0.92,
+                "text": "☑int b;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    989,
+                    198,
+                    1013,
+                    271
+                ],
+                "score": 0.767,
+                "text": "56"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    991,
+                    262,
+                    1010,
+                    299
+                ],
+                "score": 1.0,
+                "text": "7"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1084,
+                    266,
+                    1202,
+                    298
+                ],
+                "score": 0.993,
+                "text": "b = 20;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    291,
+                    1012,
+                    331
+                ],
+                "score": 0.779,
+                "text": "8"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1086,
+                    299,
+                    1488,
+                    331
+                ],
+                "score": 0.987,
+                "text": "printf(\"hello world \\n\");"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    989,
+                    325,
+                    1012,
+                    362
+                ],
+                "score": 1.0,
+                "text": "9"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1087,
+                    331,
+                    1235,
+                    363
+                ],
+                "score": 0.992,
+                "text": "return 0;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    971,
+                    356,
+                    1048,
+                    402
+                ],
+                "score": 0.93,
+                "text": "10 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    959,
+                    1036,
+                    1080,
+                    1067
+                ],
+                "score": 1.0,
+                "text": ":set nu"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1607,
+                    1029,
+                    1707,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "5,1-4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1834,
+                    1029,
+                    1892,
+                    1070
+                ],
+                "score": 0.99,
+                "text": "All"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

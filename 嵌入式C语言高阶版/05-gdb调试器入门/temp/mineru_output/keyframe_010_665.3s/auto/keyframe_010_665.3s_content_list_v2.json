@@ -1,0 +1,216 @@
+[
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(gdb) break 8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Breakpoint 1 at 0x55555555515c: file 1.c, line 8. (gdb) run"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Starting program: /home/workspace/lesson/bin"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                67,
+                410,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Breakpoint 1, main () at 1.c:8 printf(\"hello world \\n\");"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                213,
+                345,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[Inferior 1 (process 3820) exited normally] (gdb)"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                422,
+                360,
+                487
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                108,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                33,
+                332,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                25,
+                535,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                33,
+                833,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "x"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                998,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": ":set nu"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                961,
+                561,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5,1-4"
+                    }
+                ]
+            },
+            "bbox": [
+                837,
+                956,
+                887,
+                989
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "All"
+                    }
+                ]
+            },
+            "bbox": [
+                956,
+                958,
+                984,
+                987
+            ]
+        }
+    ]
+]

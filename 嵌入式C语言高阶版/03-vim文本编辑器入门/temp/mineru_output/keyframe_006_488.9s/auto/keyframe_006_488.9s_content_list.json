@@ -1,0 +1,169 @@
+[
+    {
+        "type": "text",
+        "text": "读 也而就是说， 您那需要可过能",
+        "bbox": [
+            36,
+            95,
+            610,
+            188
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。",
+        "bbox": [
+            36,
+            213,
+            609,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一讲第一节：移动光标",
+        "bbox": [
+            195,
+            332,
+            384,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* 要移动光标，请依照说明分别按下 h、j、k、l键。\\*\\*",
+        "bbox": [
+            104,
+            422,
+            545,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/03dcf3b2dadc18bd889930980cd40d06e07656b4906e7d0292815c384a7428e4.jpg",
+        "text": "$$\n\\frac { 1 } { 2 } + \\frac { 1 } { 2 } = \\frac { 1 } { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            52,
+            484,
+            172,
+            634
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "提示 hしj 的子左边， 一 次下就",
+        "bbox": [
+            228,
+            510,
+            602,
+            605
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.请随意在屏幕内移动光标，直至您觉得舒服为止。",
+        "bbox": [
+            13,
+            659,
+            400,
+            693
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 按下下行键(j)，直到出现光标重复下行。",
+        "bbox": [
+            13,
+            719,
+            342,
+            752
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "---> 现在您应该已经学会如何移动到下一讲吧。",
+        "bbox": [
+            1,
+            778,
+            351,
+            811
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.现在请使用下行键，将光标移动到第一讲第二节。",
+        "bbox": [
+            11,
+            837,
+            400,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "提示：如果您不敢确定您所按下的字母，请按下<ESC>键回到正常(Normal)模式。然后再次从键盘输入您想要的命令。",
+        "bbox": [
+            0,
+            896,
+            584,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ActivitiesTerminal",
+        "bbox": [
+            1,
+            2,
+            108,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Aug 31 05:33",
+        "bbox": [
+            473,
+            2,
+            538,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            415,
+            36,
+            583,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "α ≡ - □ ×",
+        "bbox": [
+            888,
+            28,
+            997,
+            61
+        ],
+        "page_idx": 0
+    }
+]

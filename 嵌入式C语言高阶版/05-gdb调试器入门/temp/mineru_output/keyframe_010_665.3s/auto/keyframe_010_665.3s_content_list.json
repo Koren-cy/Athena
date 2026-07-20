@@ -1,0 +1,123 @@
+[
+    {
+        "type": "text",
+        "text": "(gdb) break 8   \nBreakpoint 1 at 0x55555555515c: file 1.c, line 8. (gdb) run   \nStarting program: /home/workspace/lesson/bin",
+        "bbox": [
+            0,
+            67,
+            410,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Breakpoint 1, main () at 1.c:8 printf(\"hello world \\n\");",
+        "bbox": [
+            0,
+            213,
+            345,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Inferior 1 (process 3820) exited normally] (gdb)",
+        "bbox": [
+            0,
+            422,
+            360,
+            487
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            1,
+            0,
+            108,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            164,
+            33,
+            332,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ ×",
+        "bbox": [
+            387,
+            25,
+            535,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            33,
+            833,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "x",
+        "bbox": [
+            888,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": ":set nu",
+        "bbox": [
+            499,
+            961,
+            561,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            837,
+            956,
+            887,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            956,
+            958,
+            984,
+            987
+        ],
+        "page_idx": 0
+    }
+]

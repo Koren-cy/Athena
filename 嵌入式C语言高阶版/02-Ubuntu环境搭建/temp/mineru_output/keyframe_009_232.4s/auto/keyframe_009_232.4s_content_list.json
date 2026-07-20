@@ -1,0 +1,592 @@
+[
+    {
+        "type": "text",
+        "text": "主页",
+        "bbox": [
+            26,
+            77,
+            41,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/18a30320148400756cf6ed52bdde236af74b3ef31d5af248b50df872608b6448.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            10,
+            100,
+            27,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欢迎使用 VMware Workstation 15 Player",
+        "text_level": 2,
+        "bbox": [
+            196,
+            69,
+            448,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "murphy",
+        "bbox": [
+            27,
+            108,
+            52,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3781f72d2ac7b94bba34af226fb24724b123f16de70fbea6c76cda8963d357c4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            198,
+            115,
+            222,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建新虚拟机(N)",
+        "bbox": [
+            235,
+            115,
+            303,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建新虚拟机，该虚拟机随后将添加到库的顶部。",
+        "bbox": [
+            235,
+            141,
+            373,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffce95eec68498f0daaed85a913936bd9d1cd50ef5c10fbde8fb3208f72ad889.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            193,
+            222,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "打开虚拟机(O)",
+        "text_level": 2,
+        "bbox": [
+            235,
+            193,
+            295,
+            213
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "打开现有虚拟机，该虚拟机随后将添加到库的顶部。",
+        "bbox": [
+            234,
+            219,
+            379,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/88afd1b11bb32e970cbecc8891307b8f6ffeff504baeb4c39923ba17eded7bb0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            268,
+            222,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "升级到 VMware Workstation Pre",
+        "text_level": 2,
+        "bbox": [
+            235,
+            270,
+            369,
+            288
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "获取快照、虚拟网络管理等高级功能。",
+        "bbox": [
+            234,
+            293,
+            341,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新建虚拟机向导",
+        "text_level": 2,
+        "bbox": [
+            373,
+            283,
+            419,
+            298
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "已准备好创建虚拟机",
+        "text_level": 2,
+        "bbox": [
+            383,
+            311,
+            447,
+            327
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/750422c479bd67f9ba1c0ee22d2e2a095fc1ffc2b4d08e992a8ad097e9834824.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            196,
+            342,
+            222,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "帮助(E)",
+        "bbox": [
+            235,
+            345,
+            267,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单击”完成”创建虚拟机，并开始安装 Ubuntu 64 位 和 VMware Tools。",
+        "bbox": [
+            396,
+            327,
+            594,
+            345
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "查看联机帮助。",
+        "bbox": [
+            235,
+            371,
+            277,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "将使用下列设置创建虚拟机：",
+        "text_level": 2,
+        "bbox": [
+            379,
+            365,
+            460,
+            381
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "名称：",
+        "bbox": [
+            383,
+            394,
+            400,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "位置：",
+        "bbox": [
+            384,
+            412,
+            400,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ubuntu 64 位",
+        "bbox": [
+            444,
+            394,
+            486,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "版本：",
+        "bbox": [
+            384,
+            430,
+            400,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E:\\workspace\\linux-2",
+        "bbox": [
+            444,
+            412,
+            506,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "操作系统：",
+        "bbox": [
+            384,
+            445,
+            413,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Workstation 15.x",
+        "bbox": [
+            444,
+            427,
+            496,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ubuntu 64 位",
+        "bbox": [
+            444,
+            445,
+            486,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硬盘：",
+        "bbox": [
+            383,
+            479,
+            400,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内存：",
+        "bbox": [
+            384,
+            494,
+            400,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20 GB, 拆分",
+        "bbox": [
+            444,
+            476,
+            480,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4096 MB",
+        "bbox": [
+            444,
+            494,
+            473,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网络适配器：",
+        "bbox": [
+            383,
+            512,
+            419,
+            528
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其他设备：",
+        "bbox": [
+            383,
+            528,
+            413,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NAT",
+        "bbox": [
+            444,
+            512,
+            460,
+            525
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 个 CPU 内核，CD/DVD, USB 控制器，打印机，声卡",
+        "bbox": [
+            442,
+            528,
+            590,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自定义硬件(C)...",
+        "bbox": [
+            399,
+            564,
+            448,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "☑创建后开启此虚拟机(P)",
+        "bbox": [
+            379,
+            595,
+            455,
+            615
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/73f349f8da89141eadf1ed11da38ecec20f3bf9d8b1f229cec762136eb5e5f6a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            652,
+            561,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<上一步(B)",
+        "bbox": [
+            484,
+            652,
+            523,
+            670
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "取消",
+        "bbox": [
+            594,
+            652,
+            610,
+            667
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "该产品未获许可，仅授权用于非商业用途。如果用于商业用途，请购买许可证。立即购买。",
+        "bbox": [
+            234,
+            917,
+            492,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "17:27",
+        "bbox": [
+            943,
+            966,
+            963,
+            979
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "VMware Workstation 15 Player (仅用于非商业用途)",
+        "bbox": [
+            1,
+            0,
+            163,
+            18
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Player()",
+        "bbox": [
+            1,
+            25,
+            131,
+            46
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "凸 ×",
+        "bbox": [
+            955,
+            0,
+            992,
+            15
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            976,
+            971,
+            991,
+            997
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "8",
+        "bbox": [
+            202,
+            902,
+            218,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "搜索",
+        "bbox": [
+            28,
+            971,
+            60,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            136,
+            963,
+            274,
+            997
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "接近历史记录简体",
+        "bbox": [
+            804,
+            971,
+            933,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "2024/8/31",
+        "bbox": [
+            936,
+            984,
+            969,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

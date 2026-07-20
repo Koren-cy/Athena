@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "Aug 31 02:36",
+        "bbox": [
+            473,
+            54,
+            536,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Q Type to search",
+        "bbox": [
+            416,
+            105,
+            487,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9871c9a933a62408ac5ed73d79c28e917960a95af630b087ee4dbca1ef4e995e.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Additional Driv..."
+        ],
+        "bbox": [
+            225,
+            211,
+            279,
+            286
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a49c0a38877c8b95b01c061fc5fba50af34c8f5124855dd2287c0bf6d684481a.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "AisleRiot Solita..."
+        ],
+        "bbox": [
+            327,
+            203,
+            373,
+            293
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3950efcf8bd8137026166335de3faea53ad11f8f88ca977b1a76c3e4275023e2.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Archive Manager"
+        ],
+        "bbox": [
+            425,
+            206,
+            473,
+            293
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b27624da372e8214a551ef8956bfb68aaf8429778434d56a537461c2797a0ac8.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Backups"
+        ],
+        "bbox": [
+            525,
+            206,
+            567,
+            293
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e9fb351d3f874a7fa2498be79a2d25f2ce34f186096c69236769267e140da42.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Calculator"
+        ],
+        "bbox": [
+            620,
+            206,
+            671,
+            293
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/071aee21bbf7356e6f2d33e1a2a32f8724ab9551617d73920466c1fadcb082c3.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Calendar"
+        ],
+        "bbox": [
+            717,
+            221,
+            765,
+            291
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e449803fdd6fc8906fa5af0cb8cfdcf0e9556e4c6acb01091f507fcac6788511.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Characters"
+        ],
+        "bbox": [
+            228,
+            381,
+            277,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e8d90db7d90e6d7e88398f0180c8352782081b02392ae876ba76d63af695e0a.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Cheese"
+        ],
+        "bbox": [
+            327,
+            389,
+            374,
+            458
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/29019d36f83baecfca6bd6fa0b96b7965a691d66addf1c6ba2174c8fd4075e34.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            416,
+            376,
+            481,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/720744bc5717f7c47acfedcadfd8e8ecbf614a43c62acbe2a1dc4d2078969eaf.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Disks"
+        ],
+        "bbox": [
+            525,
+            378,
+            567,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b609251f62981b9133be0f9b1bb6d22d924c83379e667131f84e823abfd329f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            610,
+            378,
+            678,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf17cf677c417ce41fa856dd5fdb95999eed94a0e42a54b88a6d0dc06b24b666.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Document Vie..."
+        ],
+        "bbox": [
+            720,
+            378,
+            764,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/549bf6b1d4886ce4edb24a744dc7dd42df5cd3b292e26a412c94024737b5fa7e.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Files"
+        ],
+        "bbox": [
+            225,
+            554,
+            280,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/43df48b6f17ceababf7eae62247c0175e7e664e76e5d230c1b47e3c66bed989b.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Firefox Web Br..."
+        ],
+        "bbox": [
+            322,
+            551,
+            379,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2a518ef0dcd573939f11aa6376ad884081b26253e69c69c75b65c2581e13ba9.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Fonts"
+        ],
+        "bbox": [
+            424,
+            556,
+            473,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f400294a9fbbe6e5a681804949ca3b0ff4ec09140e425bd6ec791da6ebc4edc4.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Help"
+        ],
+        "bbox": [
+            520,
+            554,
+            573,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3e339893632492f6725374945d0cb807076cb4092d6273cf8998f25d36acf95.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Image Viewer"
+        ],
+        "bbox": [
+            619,
+            561,
+            671,
+            634
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/377fc2eaa59cc31fb2c47fbdd6e453fa483eef278d95d6e34eaf669f4dc70b03.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Language Supp..."
+        ],
+        "bbox": [
+            716,
+            561,
+            768,
+            634
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/60c6d372e597a5723426d7d4446048d978a598c933b83d393c706b59cd9c7f17.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "LibreOffice Calc"
+        ],
+        "bbox": [
+            230,
+            726,
+            277,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1c075881e73c6bbb1a7fa35ff7c538e7374b54fa044ffb78716fc4dd91d7fc3.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "LibreOffice Draw"
+        ],
+        "bbox": [
+            327,
+            726,
+            374,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b357e361105cac237f96680e8630eab7a1343760baf837e00e1bd0a453781ca.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "LibreOffice Im..."
+        ],
+        "bbox": [
+            426,
+            726,
+            473,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c51e8fe44cc1c59df7b51ef3dc1ecafc9272c4dd60a5fbfb8619822c28a0ed4.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "LibreOffice Wri..."
+        ],
+        "bbox": [
+            522,
+            726,
+            573,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa8cc516c7988dfaae7007986cfc849ff2e6d71088ea5f40f02a61c1c00f24a.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Livepatch"
+        ],
+        "bbox": [
+            619,
+            726,
+            670,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/360f31428a3256e8fec7daccb79103c41df899b71690a07b9defd3c073923769.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Logs",
+            "Frequent"
+        ],
+        "bbox": [
+            720,
+            726,
+            764,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+        "bbox": [
+            2,
+            0,
+            193,
+            18
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "凸 ×",
+        "bbox": [
+            955,
+            0,
+            994,
+            15
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Player(P)Ⅱ",
+        "bbox": [
+            1,
+            23,
+            131,
+            46
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities",
+        "bbox": [
+            1,
+            56,
+            41,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            940,
+            54,
+            997,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "田",
+        "bbox": [
+            4,
+            971,
+            18,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "搜索",
+        "bbox": [
+            28,
+            971,
+            62,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            134,
+            963,
+            248,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "29℃ 局部晴朗 简体",
+        "bbox": [
+            785,
+            969,
+            933,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "17:36 2024/8/31",
+        "bbox": [
+            937,
+            966,
+            969,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            976,
+            971,
+            991,
+            997
+        ],
+        "page_idx": 0
+    }
+]

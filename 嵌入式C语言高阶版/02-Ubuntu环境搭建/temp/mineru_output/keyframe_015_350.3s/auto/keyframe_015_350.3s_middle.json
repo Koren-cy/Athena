@@ -1,0 +1,432 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.4645,
+                    "bbox": [
+                        327,
+                        21,
+                        371,
+                        29
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                327,
+                                21,
+                                371,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        21,
+                                        371,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 02:36",
+                                    "score": 0.964
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        0,
+                        25,
+                        691,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7569,
+                            "bbox": [
+                                0,
+                                25,
+                                691,
+                                370
+                            ],
+                            "index": 8,
+                            "type": "chart_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        25,
+                                        691,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                25,
+                                                691,
+                                                370
+                                            ],
+                                            "type": "chart",
+                                            "image_path": "3a26ee9595be5fa0dbf6e7677633169bd5329d38857e4731530b9c76e3b715ef.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "score": 0.7569
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4763,
+                    "bbox": [
+                        675,
+                        377,
+                        685,
+                        387
+                    ],
+                    "index": 1,
+                    "type": "page_number",
+                    "lines": []
+                },
+                {
+                    "score": 0.9166,
+                    "bbox": [
+                        3,
+                        0,
+                        133,
+                        7
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                3,
+                                1,
+                                132,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        1,
+                                        132,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5786,
+                    "bbox": [
+                        660,
+                        0,
+                        687,
+                        6
+                    ],
+                    "index": 3,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                662,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        669,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.717
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.849
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8059,
+                    "bbox": [
+                        1,
+                        9,
+                        91,
+                        18
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.946
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6524,
+                    "bbox": [
+                        2,
+                        22,
+                        28,
+                        28
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                21,
+                                28,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        21,
+                                        28,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6852,
+                    "bbox": [
+                        650,
+                        21,
+                        689,
+                        28
+                    ],
+                    "index": 7,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.528,
+                    "bbox": [
+                        19,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 9,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                375,
+                                43,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        375,
+                                        43,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9152,
+                    "bbox": [
+                        93,
+                        374,
+                        172,
+                        388
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.8786,
+                    "bbox": [
+                        543,
+                        376,
+                        645,
+                        385
+                    ],
+                    "index": 11,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                543,
+                                376,
+                                645,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        543,
+                                        376,
+                                        645,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "29℃ 局部晴朗 ∧ ) 简体",
+                                    "score": 0.784
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.4645,
+                    "bbox": [
+                        327,
+                        21,
+                        371,
+                        29
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                327,
+                                21,
+                                371,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        21,
+                                        371,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 02:36",
+                                    "score": 0.964
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        0,
+                        25,
+                        691,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7569,
+                            "bbox": [
+                                0,
+                                25,
+                                691,
+                                370
+                            ],
+                            "index": 8,
+                            "type": "chart_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        25,
+                                        691,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                25,
+                                                691,
+                                                370
+                                            ],
+                                            "type": "chart",
+                                            "image_path": "3a26ee9595be5fa0dbf6e7677633169bd5329d38857e4731530b9c76e3b715ef.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "score": 0.7569
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

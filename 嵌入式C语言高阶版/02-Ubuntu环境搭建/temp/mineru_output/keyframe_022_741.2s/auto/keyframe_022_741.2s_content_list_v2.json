@@ -1,0 +1,215 @@
+[
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "murphy@ubuntu:~/123$ sudo apt-get install vim"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[sudo] password for murphy:"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reading package lists... Done"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Building dependency tree"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reading state information... Done"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "vim is already the newest version (2:8.1.2269-1ubuntu5.23). 0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded. murphy@ubuntu:~/123$"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                121,
+                531,
+                365
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e75225ca966cb251f9e58ae2c0a4e263bd01f26c7c0403aa9b5a5fa067171110.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                0,
+                819,
+                341,
+                961
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy - VMware Workstation 15 Player (仅用于非商业用途)"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                193,
+                18
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Player(P)Ⅱ"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                23,
+                133,
+                48
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                54,
+                108,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                939,
+                54,
+                998,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ x"
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                82,
+                998,
+                115
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "搜索"
+                    }
+                ]
+            },
+            "bbox": [
+                27,
+                971,
+                62,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                134,
+                963,
+                250,
+                1000
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "29℃ 局部晴朗∧ 简体2017:43"
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                969,
+                968,
+                992
+            ]
+        }
+    ]
+]

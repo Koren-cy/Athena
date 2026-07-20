@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4ce2e0a1f5c1a2d02c8eda0dfc914a6f44834104a03b9bebe532887f0eeeb0d1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>]+[ $4 = 20</td><td>murphy@ubuntu:/home/workspace/lesson</td></tr><tr><td>(gdb) x 0x7fffffffe03c</td><td></td></tr><tr><td>0x7fffffffe03c: 0x00000014 (gdb) x /d 0x7fffffffe03c</td><td></td></tr><tr><td>0x7fffffffe03c: 20</td><td></td></tr><tr><td colspan=\"2\">(gdb) info register</td></tr><tr><td>rax 0x555555555149</td><td>93824992235849</td></tr><tr><td>rbx</td><td>0x555555555170 93824992235888</td></tr><tr><td>rcx</td><td>0x555555555170 93824992235888</td></tr><tr><td>rdx</td><td>0x7fffffffe148 140737488347464</td></tr><tr><td>rsi 0x7fffffffe138</td><td>140737488347448</td></tr><tr><td>rdi 0x1</td><td>1 0x7fffffffe040</td></tr><tr><td>rbp</td><td>0x7fffffffe040</td></tr><tr><td>rsp</td><td>0x7fffffffe030 0x7fffffffe030</td></tr><tr><td>r8 0x0</td><td>0</td></tr><tr><td>r9 0x7ffff7fe0d60</td><td>140737354009952</td></tr><tr><td>r10 0x0</td><td>0 0x7ffff7f728f0 140737353558256</td></tr><tr><td>r11</td><td></td></tr><tr><td>r12</td><td>0x555555555060 93824992235616</td></tr><tr><td>r13 0x7fffffffe130</td><td>140737488347440</td></tr><tr><td>r14 0x0</td><td>0</td></tr><tr><td>r15 0x0</td><td>0</td></tr><tr><td>rip</td><td>0x55555555515c 0x55555555515c &lt;main+19&gt;</td></tr><tr><td>eflags 0x206</td><td>[ PF IF ]</td></tr><tr><td>CS 0x33</td><td>51</td></tr><tr><td>SS 0x2b</td><td>43</td></tr><tr><td>ds 0x0</td><td>0</td></tr><tr><td>0x0</td><td></td></tr><tr><td>es</td><td>0</td></tr><tr><td>fs 0x0</td><td>0</td></tr><tr><td>gs 0x0</td><td>0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                41,
+                505,
+                987
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "All"
+                    }
+                ]
+            },
+            "bbox": [
+                956,
+                958,
+                984,
+                987
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                33,
+                332,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×  →"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                25,
+                535,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                33,
+                832,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                998,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": ":set nu"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                961,
+                561,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5,1-4"
+                    }
+                ]
+            },
+            "bbox": [
+                837,
+                956,
+                887,
+                989
+            ]
+        }
+    ]
+]

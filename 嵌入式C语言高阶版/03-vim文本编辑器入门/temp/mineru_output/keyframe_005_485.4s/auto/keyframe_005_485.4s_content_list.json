@@ -1,0 +1,170 @@
+[
+    {
+        "type": "text",
+        "text": "每一节的命令操作将会更改本文。推荐您复制本文的一个副本，然后在副本上进行训练(如果您是通过\"vimtutor\"来启动教程的，那么本文就已经是副本了)。",
+        "bbox": [
+            36,
+            67,
+            617,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "很是达，的这计的整角使用中染其是； 读 也而就不是说作， 您需要可过能",
+        "bbox": [
+            36,
+            154,
+            610,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。",
+        "bbox": [
+            36,
+            273,
+            609,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一讲第一节：移动光标",
+        "text_level": 2,
+        "bbox": [
+            195,
+            391,
+            384,
+            425
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* 要移动光标，请依照说明分别按下 h、j、k、l键。 \\*\\*",
+        "bbox": [
+            104,
+            481,
+            545,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0a3f86c0b04beb9be3539b90e2586c3cfeea97a3fd6954b5db065365592c0d95.jpg",
+        "text": "$$\n\\frac { 1 } { 2 } + \\frac { 1 } { 2 } = \\frac { 1 } { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            53,
+            543,
+            172,
+            693
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "提示 hしj 的件子在边 ， 次下就会的。 o一",
+        "bbox": [
+            228,
+            569,
+            602,
+            664
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.请随意在屏幕内移动光标，直至您觉得舒服为止。",
+        "bbox": [
+            13,
+            719,
+            400,
+            752
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 按下下行键(j)，直到出现光标重复下行。",
+        "bbox": [
+            13,
+            778,
+            342,
+            811
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "--> 现在您应该已经学会如何移动到下一讲吧。",
+        "bbox": [
+            2,
+            837,
+            351,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.现在请使用下行键，将光标移动到第一讲第二节。",
+        "bbox": [
+            11,
+            896,
+            400,
+            930
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            1,
+            2,
+            108,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Aug 31 05:33",
+        "bbox": [
+            473,
+            2,
+            538,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            415,
+            36,
+            581,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ ×",
+        "bbox": [
+            888,
+            28,
+            997,
+            61
+        ],
+        "page_idx": 0
+    }
+]

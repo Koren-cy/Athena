@@ -1,0 +1,1626 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        8,
+                        28,
+                        19,
+                        38
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6581,
+                            "bbox": [
+                                8,
+                                28,
+                                19,
+                                38
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        28,
+                                        19,
+                                        38
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                8,
+                                                28,
+                                                19,
+                                                38
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ee8a95e8ec999933c396b0512e3bb512dfe53832f53505bd314a724c728ca88c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.6581
+                },
+                {
+                    "score": 0.5038,
+                    "bbox": [
+                        18,
+                        30,
+                        29,
+                        37
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                29,
+                                30,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        29,
+                                        30,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "主页",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.508,
+                    "bbox": [
+                        19,
+                        43,
+                        36,
+                        56
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                43,
+                                36,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        43,
+                                        36,
+                                        48
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9492,
+                    "bbox": [
+                        136,
+                        27,
+                        310,
+                        37
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                137,
+                                27,
+                                309,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        27,
+                                        309,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "欢迎使用 VMware Workstation 15 Player",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        137,
+                        46,
+                        154,
+                        62
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9151,
+                            "bbox": [
+                                137,
+                                46,
+                                154,
+                                62
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        46,
+                                        154,
+                                        62
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                137,
+                                                46,
+                                                154,
+                                                62
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a76fa573ad7d451f54bc0df34933605bc7f97f1e34961ec96f46132207d9ed56.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.9151
+                },
+                {
+                    "score": 0.9423,
+                    "bbox": [
+                        163,
+                        45,
+                        210,
+                        53
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                46,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        46,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "创建新虚拟机(N)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.938,
+                    "bbox": [
+                        163,
+                        56,
+                        258,
+                        62
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                56,
+                                257,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        56,
+                                        257,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "创建新虚拟机，该虚拟机随后将添加到库的顶部。",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        75,
+                        154,
+                        92
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9235,
+                            "bbox": [
+                                136,
+                                75,
+                                154,
+                                92
+                            ],
+                            "index": 12,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        75,
+                                        154,
+                                        92
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                75,
+                                                154,
+                                                92
+                                            ],
+                                            "type": "image",
+                                            "image_path": "daa89ddbff3c3c0cd58d4d3476edd96cef5c867cfcd704dbe9a8750be9d5e40b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.9235
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        163,
+                        75,
+                        204,
+                        83
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                75,
+                                204,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        75,
+                                        204,
+                                        83
+                                    ],
+                                    "type": "text",
+                                    "content": "打开虚拟机(O)",
+                                    "score": 0.967
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9387,
+                    "bbox": [
+                        162,
+                        85,
+                        262,
+                        92
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                86,
+                                261,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        86,
+                                        261,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "打开现有虚拟机，该虚拟机随后将添加到库的顶部。",
+                                    "score": 0.977
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        104,
+                        154,
+                        122
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8373,
+                            "bbox": [
+                                136,
+                                104,
+                                154,
+                                122
+                            ],
+                            "index": 15,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        104,
+                                        154,
+                                        122
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                104,
+                                                154,
+                                                122
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f97f3c3269b1a13464b502657eba00a25adc2f812d199c4ec74ad1a4131d7211.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "score": 0.8373
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        163,
+                        104,
+                        267,
+                        112
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                105,
+                                267,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        105,
+                                        267,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "升级到 VMware Workstation Pro(U)",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9325,
+                    "bbox": [
+                        162,
+                        114,
+                        236,
+                        121
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                114,
+                                236,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        114,
+                                        236,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "获取快照、虚拟网络管理等高级功能。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        133,
+                        154,
+                        151
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9185,
+                            "bbox": [
+                                136,
+                                133,
+                                154,
+                                151
+                            ],
+                            "index": 18,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        133,
+                                        154,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                133,
+                                                154,
+                                                151
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f42df9b8436d53f1179d5b9bd0d34b9260f06e58a4faf5ef79032ec8231755c9.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "score": 0.9185
+                },
+                {
+                    "score": 0.9187,
+                    "bbox": [
+                        163,
+                        134,
+                        185,
+                        141
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                162,
+                                134,
+                                185,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        162,
+                                        134,
+                                        185,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "帮助(E)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9228,
+                    "bbox": [
+                        163,
+                        144,
+                        193,
+                        151
+                    ],
+                    "index": 20,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                145,
+                                192,
+                                150
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        145,
+                                        192,
+                                        150
+                                    ],
+                                    "type": "text",
+                                    "content": "查看联机帮助。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5687,
+                    "bbox": [
+                        162,
+                        356,
+                        340,
+                        362
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                357,
+                                339,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        357,
+                                        339,
+                                        361
+                                    ],
+                                    "type": "text",
+                                    "content": "该产品未获许可，仅授权用干非商业用途。如果用于商业用途，请购买许可证。立即购买。",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4997,
+                    "bbox": [
+                        675,
+                        377,
+                        685,
+                        387
+                    ],
+                    "index": 1,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.8843,
+                    "bbox": [
+                        2,
+                        0,
+                        112,
+                        7
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                0,
+                                111,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        0,
+                                        111,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6479,
+                    "bbox": [
+                        660,
+                        0,
+                        686,
+                        6
+                    ],
+                    "index": 3,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                663,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        663,
+                                        1,
+                                        668,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.562
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.855
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5822,
+                    "bbox": [
+                        1,
+                        10,
+                        91,
+                        18
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                9,
+                                91,
+                                19
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        9,
+                                        91,
+                                        19
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(e)",
+                                    "score": 0.881
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6721,
+                    "bbox": [
+                        140,
+                        350,
+                        151,
+                        362
+                    ],
+                    "index": 21,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.8357,
+                    "bbox": [
+                        20,
+                        377,
+                        42,
+                        385
+                    ],
+                    "index": 23,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                375,
+                                43,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        375,
+                                        43,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9108,
+                    "bbox": [
+                        94,
+                        374,
+                        189,
+                        387
+                    ],
+                    "index": 24,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.5845,
+                    "bbox": [
+                        527,
+                        377,
+                        537,
+                        386
+                    ],
+                    "index": 25,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.9273,
+                    "bbox": [
+                        538,
+                        377,
+                        645,
+                        384
+                    ],
+                    "index": 26,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                538,
+                                378,
+                                644,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        538,
+                                        378,
+                                        644,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "富时中国A50+1.40%简体",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.518,
+                    "bbox": [
+                        647,
+                        382,
+                        670,
+                        388
+                    ],
+                    "index": 27,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                646,
+                                381,
+                                670,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        646,
+                                        381,
+                                        670,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "2024/8/31",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        8,
+                        28,
+                        19,
+                        38
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6581,
+                            "bbox": [
+                                8,
+                                28,
+                                19,
+                                38
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        28,
+                                        19,
+                                        38
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                8,
+                                                28,
+                                                19,
+                                                38
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ee8a95e8ec999933c396b0512e3bb512dfe53832f53505bd314a724c728ca88c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.6581
+                },
+                {
+                    "score": 0.5038,
+                    "bbox": [
+                        18,
+                        30,
+                        29,
+                        37
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                29,
+                                30,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        29,
+                                        30,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "主页",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        17,
+                        29,
+                        30,
+                        37
+                    ]
+                },
+                {
+                    "score": 0.508,
+                    "bbox": [
+                        19,
+                        43,
+                        36,
+                        56
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                43,
+                                36,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        43,
+                                        36,
+                                        48
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        19,
+                        43,
+                        36,
+                        48
+                    ]
+                },
+                {
+                    "score": 0.9492,
+                    "bbox": [
+                        136,
+                        27,
+                        310,
+                        37
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                137,
+                                27,
+                                309,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        27,
+                                        309,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "欢迎使用 VMware Workstation 15 Player",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        137,
+                        46,
+                        154,
+                        62
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9151,
+                            "bbox": [
+                                137,
+                                46,
+                                154,
+                                62
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        46,
+                                        154,
+                                        62
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                137,
+                                                46,
+                                                154,
+                                                62
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a76fa573ad7d451f54bc0df34933605bc7f97f1e34961ec96f46132207d9ed56.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.9151
+                },
+                {
+                    "score": 0.9423,
+                    "bbox": [
+                        163,
+                        45,
+                        210,
+                        53
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                46,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        46,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "创建新虚拟机(N)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        164,
+                        46,
+                        210,
+                        53
+                    ]
+                },
+                {
+                    "score": 0.938,
+                    "bbox": [
+                        163,
+                        56,
+                        258,
+                        62
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                56,
+                                257,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        56,
+                                        257,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "创建新虚拟机，该虚拟机随后将添加到库的顶部。",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        164,
+                        56,
+                        257,
+                        61
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        75,
+                        154,
+                        92
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9235,
+                            "bbox": [
+                                136,
+                                75,
+                                154,
+                                92
+                            ],
+                            "index": 12,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        75,
+                                        154,
+                                        92
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                75,
+                                                154,
+                                                92
+                                            ],
+                                            "type": "image",
+                                            "image_path": "daa89ddbff3c3c0cd58d4d3476edd96cef5c867cfcd704dbe9a8750be9d5e40b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.9235
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        163,
+                        75,
+                        204,
+                        83
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                75,
+                                204,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        75,
+                                        204,
+                                        83
+                                    ],
+                                    "type": "text",
+                                    "content": "打开虚拟机(O)",
+                                    "score": 0.967
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        75,
+                        204,
+                        83
+                    ]
+                },
+                {
+                    "score": 0.9387,
+                    "bbox": [
+                        162,
+                        85,
+                        262,
+                        92
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                86,
+                                261,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        86,
+                                        261,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "打开现有虚拟机，该虚拟机随后将添加到库的顶部。",
+                                    "score": 0.977
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        86,
+                        261,
+                        91
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        104,
+                        154,
+                        122
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8373,
+                            "bbox": [
+                                136,
+                                104,
+                                154,
+                                122
+                            ],
+                            "index": 15,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        104,
+                                        154,
+                                        122
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                104,
+                                                154,
+                                                122
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f97f3c3269b1a13464b502657eba00a25adc2f812d199c4ec74ad1a4131d7211.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "score": 0.8373
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        163,
+                        104,
+                        267,
+                        112
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                105,
+                                267,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        105,
+                                        267,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "升级到 VMware Workstation Pro(U)",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        105,
+                        267,
+                        112
+                    ]
+                },
+                {
+                    "score": 0.9325,
+                    "bbox": [
+                        162,
+                        114,
+                        236,
+                        121
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                114,
+                                236,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        114,
+                                        236,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "获取快照、虚拟网络管理等高级功能。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        114,
+                        236,
+                        120
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        133,
+                        154,
+                        151
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9185,
+                            "bbox": [
+                                136,
+                                133,
+                                154,
+                                151
+                            ],
+                            "index": 18,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        133,
+                                        154,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                133,
+                                                154,
+                                                151
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f42df9b8436d53f1179d5b9bd0d34b9260f06e58a4faf5ef79032ec8231755c9.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "score": 0.9185
+                },
+                {
+                    "score": 0.9187,
+                    "bbox": [
+                        163,
+                        134,
+                        185,
+                        141
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                162,
+                                134,
+                                185,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        162,
+                                        134,
+                                        185,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "帮助(E)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        162,
+                        134,
+                        185,
+                        142
+                    ]
+                },
+                {
+                    "score": 0.9228,
+                    "bbox": [
+                        163,
+                        144,
+                        193,
+                        151
+                    ],
+                    "index": 20,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                145,
+                                192,
+                                150
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        145,
+                                        192,
+                                        150
+                                    ],
+                                    "type": "text",
+                                    "content": "查看联机帮助。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        163,
+                        145,
+                        192,
+                        150
+                    ]
+                },
+                {
+                    "score": 0.5687,
+                    "bbox": [
+                        162,
+                        356,
+                        340,
+                        362
+                    ],
+                    "index": 22,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                357,
+                                339,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        357,
+                                        339,
+                                        361
+                                    ],
+                                    "type": "text",
+                                    "content": "该产品未获许可，仅授权用干非商业用途。如果用于商业用途，请购买许可证。立即购买。",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        164,
+                        357,
+                        339,
+                        361
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

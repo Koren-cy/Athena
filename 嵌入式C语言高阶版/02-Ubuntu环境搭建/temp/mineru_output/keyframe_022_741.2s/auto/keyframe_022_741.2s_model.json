@@ -1,0 +1,285 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7332,
+                "bbox": [
+                    0,
+                    1,
+                    373,
+                    21
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4717,
+                "bbox": [
+                    1,
+                    26,
+                    257,
+                    53
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5735,
+                "bbox": [
+                    2,
+                    60,
+                    211,
+                    83
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5273,
+                "bbox": [
+                    1804,
+                    59,
+                    1917,
+                    82
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5614,
+                "bbox": [
+                    1705,
+                    89,
+                    1918,
+                    125
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4622,
+                "bbox": [
+                    0,
+                    132,
+                    1020,
+                    395
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6696,
+                "bbox": [
+                    2,
+                    885,
+                    657,
+                    1037
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.5508,
+                "bbox": [
+                    55,
+                    1048,
+                    122,
+                    1071
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.6979,
+                "bbox": [
+                    259,
+                    1039,
+                    483,
+                    1079
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7564,
+                "bbox": [
+                    1508,
+                    1045,
+                    1860,
+                    1072
+                ],
+                "index": 10
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    3,
+                    367,
+                    19
+                ],
+                "score": 0.981,
+                "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    7,
+                    26,
+                    251,
+                    53
+                ],
+                "score": 0.945,
+                "text": "Player(P)Ⅱ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    60,
+                    211,
+                    83
+                ],
+                "score": 0.987,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1703,
+                    89,
+                    1918,
+                    126
+                ],
+                "score": 0.779,
+                "text": "Q ≡ - □ x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    133,
+                    724,
+                    164
+                ],
+                "score": 0.995,
+                "text": "murphy@ubuntu:~/123$ sudo apt-get install vim"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    165,
+                    433,
+                    199
+                ],
+                "score": 0.995,
+                "text": "[sudo] password for murphy:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    195,
+                    468,
+                    228
+                ],
+                "score": 1.0,
+                "text": "Reading package lists... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    229,
+                    389,
+                    260
+                ],
+                "score": 1.0,
+                "text": "Building dependency tree"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    258,
+                    532,
+                    292
+                ],
+                "score": 1.0,
+                "text": "Reading state information... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    292,
+                    942,
+                    324
+                ],
+                "score": 0.993,
+                "text": "vim is already the newest version (2:8.1.2269-1ubuntu5.23)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    325,
+                    1010,
+                    359
+                ],
+                "score": 0.999,
+                "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    359,
+                    336,
+                    388
+                ],
+                "score": 0.999,
+                "text": "murphy@ubuntu:~/123$"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1045,
+                    124,
+                    1074
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1507,
+                    1045,
+                    1847,
+                    1071
+                ],
+                "score": 0.805,
+                "text": "29℃ 局部晴朗∧ 简体2017:43"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

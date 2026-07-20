@@ -1,0 +1,1502 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9669,
+                    "bbox": [
+                        67,
+                        17,
+                        198,
+                        34
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                18,
+                                196,
+                                34
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        18,
+                                        196,
+                                        34
+                                    ],
+                                    "type": "text",
+                                    "content": "2.4 程序调试器gdb",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9602,
+                    "bbox": [
+                        66,
+                        51,
+                        163,
+                        67
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                50,
+                                161,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        50,
+                                        161,
+                                        68
+                                    ],
+                                    "type": "text",
+                                    "content": "2.4.1 gdb简介",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9767,
+                    "bbox": [
+                        65,
+                        73,
+                        617,
+                        104
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                74,
+                                615,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        74,
+                                        615,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "gdb是GNU Project Debugger的简称，也是GNU(GNU's Not Unix)开源项目中遵循GPL发行许可证的free software。掌",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                90,
+                                506,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        90,
+                                        506,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "握gdb调试技巧，在项目上遇到问题才会得心应手。gdb 官方网站(https://sourceware.org/gdb/)",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9489,
+                    "bbox": [
+                        65,
+                        109,
+                        305,
+                        123
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                110,
+                                302,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        110,
+                                        302,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "一般来说，GDB主要能够提供以下四个方面的帮助：",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9614,
+                    "bbox": [
+                        65,
+                        129,
+                        576,
+                        143
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                129,
+                                574,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        129,
+                                        574,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9616,
+                    "bbox": [
+                        67,
+                        149,
+                        482,
+                        163
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                149,
+                                479,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        149,
+                                        479,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": " Start your program, specifying anything that might affect its behavior.(指定—些参数)",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9213,
+                    "bbox": [
+                        68,
+                        169,
+                        344,
+                        185
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                168,
+                                341,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        168,
+                                        341,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "• Make your program stop on specified conditions. (断点)",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9623,
+                    "bbox": [
+                        67,
+                        189,
+                        456,
+                        202
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                189,
+                                454,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        189,
+                                        454,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "• Examine what has happened, when your program has stopped.(分析crash现场)",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.977,
+                    "bbox": [
+                        67,
+                        208,
+                        601,
+                        239
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                208,
+                                600,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        208,
+                                        600,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                227,
+                                268,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        227,
+                                        268,
+                                        236
+                                    ],
+                                    "type": "text",
+                                    "content": "about another.(直接修改程序，看结果)",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4626,
+                    "bbox": [
+                        182,
+                        272,
+                        442,
+                        311
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                272,
+                                388,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        272,
+                                        388,
+                                        283
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB: The GNU Project Debugger",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                183,
+                                290,
+                                440,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        183,
+                                        290,
+                                        440,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "[bugs] [maintainers] [contributing] [current git] [documentation] [download] [home] [irc] [links] [mailing lists] [news] [schedule] [song] [wiki]",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                254,
+                                300,
+                                369,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        300,
+                                        369,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB: The GNU Project Debugger",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8863,
+                    "bbox": [
+                        68,
+                        315,
+                        109,
+                        322
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                315,
+                                108,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        108,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "What is GDB?",
+                                    "score": 0.963
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9324,
+                    "bbox": [
+                        68,
+                        326,
+                        459,
+                        334
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                327,
+                                457,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        327,
+                                        457,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB, the GNU Project debugger, allows you to see what is going on inside' another program while it executes -- or what another program was doing at the moment it crashed.",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        68,
+                        337,
+                        315,
+                        345
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                338,
+                                312,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        338,
+                                        312,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.94,
+                    "bbox": [
+                        74,
+                        348,
+                        238,
+                        355
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                349,
+                                235,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        349,
+                                        235,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "• Start your program, specifying anything that might affect its behavior.",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9312,
+                    "bbox": [
+                        74,
+                        354,
+                        193,
+                        361
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                355,
+                                190,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        355,
+                                        190,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "• Make your program stop on specified conditions.",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.932,
+                    "bbox": [
+                        74,
+                        361,
+                        222,
+                        367
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                360,
+                                220,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        360,
+                                        220,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "• Examine what has happened, when your program has stopped.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.931,
+                    "bbox": [
+                        74,
+                        366,
+                        366,
+                        374
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                366,
+                                364,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        366,
+                                        364,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn about another.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9001,
+                    "bbox": [
+                        68,
+                        376,
+                        543,
+                        384
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                377,
+                                541,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        377,
+                                        541,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "Those programs might be executing on the same machine as GDB (native), on another machine (remote), or on a simulator. GDB can run on most popular UNIX and Microsoft Windows variants, as well as on macOS",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9669,
+                    "bbox": [
+                        67,
+                        17,
+                        198,
+                        34
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                18,
+                                196,
+                                34
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        18,
+                                        196,
+                                        34
+                                    ],
+                                    "type": "text",
+                                    "content": "2.4 程序调试器gdb",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9602,
+                    "bbox": [
+                        66,
+                        51,
+                        163,
+                        67
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                50,
+                                161,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        50,
+                                        161,
+                                        68
+                                    ],
+                                    "type": "text",
+                                    "content": "2.4.1 gdb简介",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9767,
+                    "bbox": [
+                        65,
+                        73,
+                        617,
+                        104
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                74,
+                                615,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        74,
+                                        615,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "gdb是GNU Project Debugger的简称，也是GNU(GNU's Not Unix)开源项目中遵循GPL发行许可证的free software。掌",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                90,
+                                506,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        90,
+                                        506,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "握gdb调试技巧，在项目上遇到问题才会得心应手。gdb 官方网站(https://sourceware.org/gdb/)",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        67,
+                        74,
+                        615,
+                        103
+                    ]
+                },
+                {
+                    "score": 0.9489,
+                    "bbox": [
+                        65,
+                        109,
+                        305,
+                        123
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                110,
+                                302,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        110,
+                                        302,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "一般来说，GDB主要能够提供以下四个方面的帮助：",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        69,
+                        110,
+                        302,
+                        121
+                    ]
+                },
+                {
+                    "score": 0.9614,
+                    "bbox": [
+                        65,
+                        129,
+                        576,
+                        143
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                129,
+                                574,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        129,
+                                        574,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        66,
+                        129,
+                        574,
+                        142
+                    ]
+                },
+                {
+                    "score": 0.9616,
+                    "bbox": [
+                        67,
+                        149,
+                        482,
+                        163
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                149,
+                                479,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        149,
+                                        479,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": " Start your program, specifying anything that might affect its behavior.(指定—些参数)",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        149,
+                        479,
+                        161
+                    ]
+                },
+                {
+                    "score": 0.9213,
+                    "bbox": [
+                        68,
+                        169,
+                        344,
+                        185
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                168,
+                                341,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        168,
+                                        341,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "• Make your program stop on specified conditions. (断点)",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        168,
+                        341,
+                        182
+                    ]
+                },
+                {
+                    "score": 0.9623,
+                    "bbox": [
+                        67,
+                        189,
+                        456,
+                        202
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                189,
+                                454,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        189,
+                                        454,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "• Examine what has happened, when your program has stopped.(分析crash现场)",
+                                    "score": 0.979
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        189,
+                        454,
+                        201
+                    ]
+                },
+                {
+                    "score": 0.977,
+                    "bbox": [
+                        67,
+                        208,
+                        601,
+                        239
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                208,
+                                600,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        208,
+                                        600,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                227,
+                                268,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        227,
+                                        268,
+                                        236
+                                    ],
+                                    "type": "text",
+                                    "content": "about another.(直接修改程序，看结果)",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        208,
+                        600,
+                        236
+                    ]
+                },
+                {
+                    "score": 0.4626,
+                    "bbox": [
+                        182,
+                        272,
+                        442,
+                        311
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                272,
+                                388,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        272,
+                                        388,
+                                        283
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB: The GNU Project Debugger",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                183,
+                                290,
+                                440,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        183,
+                                        290,
+                                        440,
+                                        295
+                                    ],
+                                    "type": "text",
+                                    "content": "[bugs] [maintainers] [contributing] [current git] [documentation] [download] [home] [irc] [links] [mailing lists] [news] [schedule] [song] [wiki]",
+                                    "score": 0.989
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                254,
+                                300,
+                                369,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        300,
+                                        369,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB: The GNU Project Debugger",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8863,
+                    "bbox": [
+                        68,
+                        315,
+                        109,
+                        322
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                315,
+                                108,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        315,
+                                        108,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "What is GDB?",
+                                    "score": 0.963
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9324,
+                    "bbox": [
+                        68,
+                        326,
+                        459,
+                        334
+                    ],
+                    "index": 12,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                327,
+                                457,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        327,
+                                        457,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB, the GNU Project debugger, allows you to see what is going on inside' another program while it executes -- or what another program was doing at the moment it crashed.",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        327,
+                        457,
+                        334
+                    ]
+                },
+                {
+                    "score": 0.9392,
+                    "bbox": [
+                        68,
+                        337,
+                        315,
+                        345
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                338,
+                                312,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        338,
+                                        312,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        70,
+                        338,
+                        312,
+                        344
+                    ]
+                },
+                {
+                    "score": 0.94,
+                    "bbox": [
+                        74,
+                        348,
+                        238,
+                        355
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                349,
+                                235,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        349,
+                                        235,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "• Start your program, specifying anything that might affect its behavior.",
+                                    "score": 0.991
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        77,
+                        349,
+                        235,
+                        354
+                    ]
+                },
+                {
+                    "score": 0.9312,
+                    "bbox": [
+                        74,
+                        354,
+                        193,
+                        361
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                355,
+                                190,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        355,
+                                        190,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "• Make your program stop on specified conditions.",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        77,
+                        355,
+                        190,
+                        360
+                    ]
+                },
+                {
+                    "score": 0.932,
+                    "bbox": [
+                        74,
+                        361,
+                        222,
+                        367
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                360,
+                                220,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        360,
+                                        220,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "• Examine what has happened, when your program has stopped.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        360,
+                        220,
+                        367
+                    ]
+                },
+                {
+                    "score": 0.931,
+                    "bbox": [
+                        74,
+                        366,
+                        366,
+                        374
+                    ],
+                    "index": 17,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                366,
+                                364,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        366,
+                                        364,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn about another.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        77,
+                        366,
+                        364,
+                        373
+                    ]
+                },
+                {
+                    "score": 0.9001,
+                    "bbox": [
+                        68,
+                        376,
+                        543,
+                        384
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                377,
+                                541,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        377,
+                                        541,
+                                        383
+                                    ],
+                                    "type": "text",
+                                    "content": "Those programs might be executing on the same machine as GDB (native), on another machine (remote), or on a simulator. GDB can run on most popular UNIX and Microsoft Windows variants, as well as on macOS",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        69,
+                        377,
+                        541,
+                        383
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}
