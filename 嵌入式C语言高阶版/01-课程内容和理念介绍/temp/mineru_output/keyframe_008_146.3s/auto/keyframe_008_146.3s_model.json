@@ -1,0 +1,46 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9201,
+                "bbox": [
+                    60,
+                    82,
+                    1015,
+                    138
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9842,
+                "bbox": [
+                    287,
+                    227,
+                    1631,
+                    851
+                ],
+                "index": 2
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    87,
+                    1009,
+                    137
+                ],
+                "score": 1.0,
+                "text": "内存视角：C语言控制硬件的本质是操作内存"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

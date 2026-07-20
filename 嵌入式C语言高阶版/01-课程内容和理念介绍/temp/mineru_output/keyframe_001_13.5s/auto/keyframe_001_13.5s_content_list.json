@@ -1,0 +1,36 @@
+[
+    {
+        "type": "text",
+        "text": "嵌入式C语言(高阶版)",
+        "text_level": 2,
+        "bbox": [
+            212,
+            371,
+            797,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To be a programmer, not just a coder",
+        "bbox": [
+            319,
+            523,
+            697,
+            572
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Murphy",
+        "bbox": [
+            739,
+            768,
+            887,
+            850
+        ],
+        "page_idx": 0
+    }
+]

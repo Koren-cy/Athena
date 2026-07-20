@@ -1,0 +1,384 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9261,
+                    "bbox": [
+                        21,
+                        29,
+                        260,
+                        49
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                31,
+                                258,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        31,
+                                        258,
+                                        48
+                                    ],
+                                    "type": "text",
+                                    "content": "C语言是最靠近硬件的高级语言",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        106,
+                        91,
+                        585,
+                        279
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9776,
+                            "bbox": [
+                                106,
+                                91,
+                                585,
+                                279
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        91,
+                                        585,
+                                        279
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                91,
+                                                585,
+                                                279
+                                            ],
+                                            "type": "image",
+                                            "image_path": "789b3fb77ab5c7016f38bef734b8fa27c6700abf400558732b7d400785a09600.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8489,
+                            "bbox": [
+                                151,
+                                294,
+                                217,
+                                307
+                            ],
+                            "index": 3,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        296,
+                                        215,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                296,
+                                                215,
+                                                306
+                                            ],
+                                            "type": "text",
+                                            "content": "计算机0层架构",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8337,
+                            "bbox": [
+                                328,
+                                294,
+                                388,
+                                307
+                            ],
+                            "index": 4,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        296,
+                                        387,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                329,
+                                                296,
+                                                387,
+                                                306
+                                            ],
+                                            "type": "text",
+                                            "content": "Android 架构",
+                                            "score": 0.987
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.7806,
+                            "bbox": [
+                                499,
+                                294,
+                                540,
+                                307
+                            ],
+                            "index": 5,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        500,
+                                        295,
+                                        539,
+                                        307
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                500,
+                                                295,
+                                                539,
+                                                307
+                                            ],
+                                            "type": "text",
+                                            "content": "编程语言",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9776
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9261,
+                    "bbox": [
+                        21,
+                        29,
+                        260,
+                        49
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                31,
+                                258,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        31,
+                                        258,
+                                        48
+                                    ],
+                                    "type": "text",
+                                    "content": "C语言是最靠近硬件的高级语言",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        106,
+                        91,
+                        585,
+                        279
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9776,
+                            "bbox": [
+                                106,
+                                91,
+                                585,
+                                279
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        91,
+                                        585,
+                                        279
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                91,
+                                                585,
+                                                279
+                                            ],
+                                            "type": "image",
+                                            "image_path": "789b3fb77ab5c7016f38bef734b8fa27c6700abf400558732b7d400785a09600.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8489,
+                            "bbox": [
+                                151,
+                                294,
+                                217,
+                                307
+                            ],
+                            "index": 3,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        296,
+                                        215,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                296,
+                                                215,
+                                                306
+                                            ],
+                                            "type": "text",
+                                            "content": "计算机0层架构",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8337,
+                            "bbox": [
+                                328,
+                                294,
+                                388,
+                                307
+                            ],
+                            "index": 4,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        296,
+                                        387,
+                                        306
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                329,
+                                                296,
+                                                387,
+                                                306
+                                            ],
+                                            "type": "text",
+                                            "content": "Android 架构",
+                                            "score": 0.987
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.7806,
+                            "bbox": [
+                                499,
+                                294,
+                                540,
+                                307
+                            ],
+                            "index": 5,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        500,
+                                        295,
+                                        539,
+                                        307
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                500,
+                                                295,
+                                                539,
+                                                307
+                                            ],
+                                            "type": "text",
+                                            "content": "编程语言",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9776
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

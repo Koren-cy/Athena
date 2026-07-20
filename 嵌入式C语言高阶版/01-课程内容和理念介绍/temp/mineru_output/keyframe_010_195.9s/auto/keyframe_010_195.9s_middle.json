@@ -1,0 +1,180 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.625,
+                    "bbox": [
+                        19,
+                        29,
+                        321,
+                        50
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                30,
+                                317,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        30,
+                                        317,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "架构视角：C语言也可以很“面向对象”",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        158,
+                        64,
+                        513,
+                        349
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9748,
+                            "bbox": [
+                                158,
+                                64,
+                                513,
+                                349
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        158,
+                                        64,
+                                        513,
+                                        349
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                158,
+                                                64,
+                                                513,
+                                                349
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4c84617ec0ffb326b3d2fd3301be0a9f2777f9681e95221228868957194e3c6f.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9748
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.625,
+                    "bbox": [
+                        19,
+                        29,
+                        321,
+                        50
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                30,
+                                317,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        30,
+                                        317,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "架构视角：C语言也可以很“面向对象”",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        158,
+                        64,
+                        513,
+                        349
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9748,
+                            "bbox": [
+                                158,
+                                64,
+                                513,
+                                349
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        158,
+                                        64,
+                                        513,
+                                        349
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                158,
+                                                64,
+                                                513,
+                                                349
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4c84617ec0ffb326b3d2fd3301be0a9f2777f9681e95221228868957194e3c6f.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9748
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

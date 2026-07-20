@@ -1,0 +1,1100 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8977,
+                "bbox": [
+                    57,
+                    79,
+                    744,
+                    142
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5957,
+                "bbox": [
+                    838,
+                    176,
+                    1004,
+                    204
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5553,
+                "bbox": [
+                    112,
+                    410,
+                    247,
+                    432
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5472,
+                "bbox": [
+                    112,
+                    431,
+                    347,
+                    452
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5105,
+                "bbox": [
+                    113,
+                    452,
+                    347,
+                    473
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6427,
+                "bbox": [
+                    114,
+                    491,
+                    247,
+                    513
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5658,
+                "bbox": [
+                    113,
+                    512,
+                    152,
+                    532
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.71,
+                "bbox": [
+                    113,
+                    532,
+                    288,
+                    554
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6361,
+                "bbox": [
+                    427,
+                    451,
+                    749,
+                    473
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5993,
+                "bbox": [
+                    428,
+                    430,
+                    737,
+                    453
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.729,
+                "bbox": [
+                    112,
+                    553,
+                    288,
+                    574
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7406,
+                "bbox": [
+                    111,
+                    573,
+                    288,
+                    594
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7015,
+                "bbox": [
+                    106,
+                    613,
+                    295,
+                    634
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7303,
+                "bbox": [
+                    107,
+                    593,
+                    289,
+                    614
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6659,
+                "bbox": [
+                    838,
+                    205,
+                    1077,
+                    233
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6984,
+                "bbox": [
+                    106,
+                    634,
+                    291,
+                    654
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6556,
+                "bbox": [
+                    106,
+                    654,
+                    295,
+                    674
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7379,
+                "bbox": [
+                    1231,
+                    205,
+                    1543,
+                    234
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6727,
+                "bbox": [
+                    106,
+                    674,
+                    252,
+                    695
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6604,
+                "bbox": [
+                    838,
+                    234,
+                    1027,
+                    261
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7139,
+                "bbox": [
+                    1232,
+                    234,
+                    1460,
+                    262
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6604,
+                "bbox": [
+                    838,
+                    262,
+                    1029,
+                    290
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7348,
+                "bbox": [
+                    1230,
+                    263,
+                    1459,
+                    291
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.655,
+                "bbox": [
+                    837,
+                    291,
+                    1047,
+                    319
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7245,
+                "bbox": [
+                    1233,
+                    291,
+                    1605,
+                    320
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7048,
+                "bbox": [
+                    1228,
+                    348,
+                    1669,
+                    378
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6574,
+                "bbox": [
+                    837,
+                    320,
+                    1116,
+                    348
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6273,
+                "bbox": [
+                    837,
+                    349,
+                    1109,
+                    377
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7375,
+                "bbox": [
+                    1228,
+                    320,
+                    1678,
+                    348
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6245,
+                "bbox": [
+                    838,
+                    465,
+                    1097,
+                    493
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.605,
+                "bbox": [
+                    838,
+                    495,
+                    1025,
+                    522
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5869,
+                "bbox": [
+                    838,
+                    524,
+                    948,
+                    550
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6727,
+                "bbox": [
+                    837,
+                    552,
+                    1270,
+                    581
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6507,
+                "bbox": [
+                    839,
+                    581,
+                    948,
+                    607
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6539,
+                "bbox": [
+                    839,
+                    611,
+                    931,
+                    637
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6638,
+                "bbox": [
+                    838,
+                    667,
+                    1271,
+                    696
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4545,
+                "bbox": [
+                    837,
+                    697,
+                    880,
+                    723
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5477,
+                "bbox": [
+                    828,
+                    725,
+                    1355,
+                    753
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4672,
+                "bbox": [
+                    829,
+                    755,
+                    928,
+                    780
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7117,
+                "bbox": [
+                    828,
+                    783,
+                    1543,
+                    811
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5488,
+                "bbox": [
+                    829,
+                    812,
+                    967,
+                    838
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7088,
+                "bbox": [
+                    829,
+                    840,
+                    1370,
+                    867
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7655,
+                "bbox": [
+                    829,
+                    869,
+                    1526,
+                    896
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7728,
+                "bbox": [
+                    828,
+                    898,
+                    1650,
+                    927
+                ],
+                "index": 44
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    66,
+                    86,
+                    736,
+                    137
+                ],
+                "score": 1.0,
+                "text": "编译器视角：理解他，并应用他"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    176,
+                    1003,
+                    204
+                ],
+                "score": 0.964,
+                "text": "1 #cmsis_gcc.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    411,
+                    242,
+                    431
+                ],
+                "score": 0.998,
+                "text": "1 #stm32f103xb.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    111,
+                    427,
+                    194,
+                    454
+                ],
+                "score": 1.0,
+                "text": "2 #define"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    220,
+                    432,
+                    250,
+                    451
+                ],
+                "score": 0.651,
+                "text": "_0"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    276,
+                    431,
+                    346,
+                    452
+                ],
+                "score": 1.0,
+                "text": "volatile"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    110,
+                    448,
+                    348,
+                    476
+                ],
+                "score": 0.942,
+                "text": "3 #define __IO volatile"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    491,
+                    243,
+                    513
+                ],
+                "score": 1.0,
+                "text": "5 typedef struct"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    510,
+                    152,
+                    533
+                ],
+                "score": 0.867,
+                "text": "6 {"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    532,
+                    285,
+                    554
+                ],
+                "score": 0.985,
+                "text": "7 __IO uint32_t CRL;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    429,
+                    451,
+                    747,
+                    472
+                ],
+                "score": 0.991,
+                "text": "/*!< Defines 'read / write' permissions */"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    428,
+                    431,
+                    734,
+                    453
+                ],
+                "score": 0.978,
+                "text": "/*!< Defines 'write only' permissions */"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    113,
+                    554,
+                    284,
+                    574
+                ],
+                "score": 0.975,
+                "text": "8 __IO uint32_t CRH;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    112,
+                    574,
+                    285,
+                    594
+                ],
+                "score": 0.985,
+                "text": "9 __IO uint32_t IDR;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    614,
+                    292,
+                    634
+                ],
+                "score": 0.967,
+                "text": "11 __IO uint32_t BSRR;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    108,
+                    594,
+                    286,
+                    614
+                ],
+                "score": 0.96,
+                "text": "10 __IO uint32_t ODR;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    206,
+                    1073,
+                    232
+                ],
+                "score": 0.964,
+                "text": "2 #define __NO_RETURN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    635,
+                    288,
+                    653
+                ],
+                "score": 0.959,
+                "text": "12 __IO uint32_t BRR;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    107,
+                    655,
+                    292,
+                    673
+                ],
+                "score": 0.974,
+                "text": "13 __IO uint32_t LCKR;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1233,
+                    205,
+                    1541,
+                    233
+                ],
+                "score": 0.96,
+                "text": "__attribute__((__noreturn__))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    105,
+                    674,
+                    250,
+                    695
+                ],
+                "score": 0.982,
+                "text": "14 }GPIO_TypeDef;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    234,
+                    1023,
+                    261
+                ],
+                "score": 0.976,
+                "text": "3 #define __USED"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1231,
+                    235,
+                    1459,
+                    262
+                ],
+                "score": 0.986,
+                "text": "__attribute__((used))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    839,
+                    262,
+                    1022,
+                    290
+                ],
+                "score": 0.992,
+                "text": "4 #define __WEAK"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1228,
+                    262,
+                    1459,
+                    292
+                ],
+                "score": 0.987,
+                "text": "__attribute__((weak))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    292,
+                    1043,
+                    319
+                ],
+                "score": 0.985,
+                "text": "5 #define __PACKED"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1232,
+                    290,
+                    1604,
+                    321
+                ],
+                "score": 0.976,
+                "text": "__attribute__((packed, aligned(1)))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1230,
+                    348,
+                    1667,
+                    378
+                ],
+                "score": 0.97,
+                "text": "union __attribute__((packed, aligned(1)))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    321,
+                    1114,
+                    348
+                ],
+                "score": 0.99,
+                "text": "6 #define __PACKED_STRUCT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    839,
+                    351,
+                    1103,
+                    375
+                ],
+                "score": 0.989,
+                "text": "7 #define __PACKED_UNION"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1228,
+                    318,
+                    1677,
+                    349
+                ],
+                "score": 0.964,
+                "text": "struct __attribute__((packed, aligned(1)))"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    840,
+                    466,
+                    1094,
+                    493
+                ],
+                "score": 0.992,
+                "text": "1 #include/linux/init.h"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    496,
+                    1023,
+                    522
+                ],
+                "score": 1.0,
+                "text": "2 #ifndef MODULE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    523,
+                    947,
+                    551
+                ],
+                "score": 0.926,
+                "text": "3 // 省略"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    553,
+                    1268,
+                    581
+                ],
+                "score": 0.98,
+                "text": "4 #define module_init(x) __initcall(x);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    578,
+                    949,
+                    609
+                ],
+                "score": 0.935,
+                "text": "5 // 省略"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    838,
+                    610,
+                    931,
+                    639
+                ],
+                "score": 1.0,
+                "text": "6 #else"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    837,
+                    666,
+                    1269,
+                    696
+                ],
+                "score": 0.973,
+                "text": "8 #define module_init(x) __initcall(x);"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    834,
+                    694,
+                    883,
+                    726
+                ],
+                "score": 0.751,
+                "text": "9 1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    830,
+                    727,
+                    1352,
+                    751
+                ],
+                "score": 0.986,
+                "text": "10 --> #define __initcall(fn) device_initcall(fn)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    752,
+                    930,
+                    783
+                ],
+                "score": 0.768,
+                "text": "111"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    782,
+                    862,
+                    812
+                ],
+                "score": 1.0,
+                "text": "12"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    906,
+                    785,
+                    1236,
+                    809
+                ],
+                "score": 0.998,
+                "text": "--> #define device_initcall(fn)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1271,
+                    784,
+                    1541,
+                    811
+                ],
+                "score": 0.992,
+                "text": "__define_initcall(fn, 6)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    828,
+                    811,
+                    860,
+                    839
+                ],
+                "score": 1.0,
+                "text": "13"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    839,
+                    861,
+                    869
+                ],
+                "score": 1.0,
+                "text": "14"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    952,
+                    840,
+                    1369,
+                    866
+                ],
+                "score": 0.99,
+                "text": "--> #define __define_initcall(fn, id) \\"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    867,
+                    861,
+                    898
+                ],
+                "score": 1.0,
+                "text": "15"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1034,
+                    869,
+                    1524,
+                    895
+                ],
+                "score": 0.968,
+                "text": "static initcall_t __initcall_##fn##id __used \\"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    826,
+                    896,
+                    860,
+                    929
+                ],
+                "score": 1.0,
+                "text": "16"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1034,
+                    898,
+                    1646,
+                    926
+                ],
+                "score": 0.972,
+                "text": "__attribute__((__section__(\".initcall\" #id \".init\"))) = fn"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

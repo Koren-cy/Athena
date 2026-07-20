@@ -1,0 +1,383 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5844,
+                "bbox": [
+                    2,
+                    2,
+                    212,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7717,
+                "bbox": [
+                    914,
+                    3,
+                    1031,
+                    23
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8681,
+                "bbox": [
+                    796,
+                    38,
+                    1122,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7529,
+                "bbox": [
+                    1706,
+                    32,
+                    1917,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.471,
+                "bbox": [
+                    0,
+                    108,
+                    1019,
+                    302
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4791,
+                "bbox": [
+                    0,
+                    360,
+                    1017,
+                    399
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7656,
+                "bbox": [
+                    0,
+                    486,
+                    1917,
+                    806
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.455,
+                "bbox": [
+                    1,
+                    811,
+                    791,
+                    878
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.701,
+                "bbox": [
+                    0,
+                    876,
+                    604,
+                    910
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    3,
+                    211,
+                    23
+                ],
+                "score": 1.0,
+                "text": "ActivitiesTerminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    912,
+                    2,
+                    1032,
+                    24
+                ],
+                "score": 0.965,
+                "text": "Sep 1 05:47"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    39,
+                    1120,
+                    61
+                ],
+                "score": 0.993,
+                "text": "murphy@ubuntu: /home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1704,
+                    32,
+                    1917,
+                    68
+                ],
+                "score": 0.745,
+                "text": "Q ≡ - □ ☆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    107,
+                    468,
+                    138
+                ],
+                "score": 0.999,
+                "text": "Reading package lists... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    137,
+                    388,
+                    171
+                ],
+                "score": 1.0,
+                "text": "Building dependency tree"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    171,
+                    533,
+                    202
+                ],
+                "score": 0.997,
+                "text": "Reading state information... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    203,
+                    991,
+                    234
+                ],
+                "score": 0.997,
+                "text": "build-essential is already the newest version (12.8ubuntul.1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    236,
+                    1004,
+                    267
+                ],
+                "score": 0.987,
+                "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    268,
+                    708,
+                    299
+                ],
+                "score": 0.999,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gcc -v"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    360,
+                    1016,
+                    398
+                ],
+                "score": 0.992,
+                "text": "COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    486,
+                    1910,
+                    523
+                ],
+                "score": 0.982,
+                "text": "Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntul~20.04.2' --with-bugurl=file:///usr/share/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -4,
+                    517,
+                    1910,
+                    556
+                ],
+                "score": 0.997,
+                "text": "doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-ve"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    554,
+                    1906,
+                    585
+                ],
+                "score": 0.99,
+                "text": "rsion-only --program-suffix=-9 --program-prefix=x86 64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    587,
+                    1902,
+                    618
+                ],
+                "score": 0.997,
+                "text": "=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enabl"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    618,
+                    1906,
+                    648
+                ],
+                "score": 0.999,
+                "text": "e-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vta"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    650,
+                    1906,
+                    681
+                ],
+                "score": 0.997,
+                "text": "ble-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    9,
+                    681,
+                    1906,
+                    712
+                ],
+                "score": 0.998,
+                "text": "--enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-mult"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    712,
+                    1902,
+                    742
+                ],
+                "score": 0.995,
+                "text": "ilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QD0t0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa -"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    747,
+                    1906,
+                    777
+                ],
+                "score": 0.988,
+                "text": "-without-cuda-driver --enable-checking=release --build=x86 64-linux-gnu --host=x86 64-linux-gnu --target=x86 64-linux-g"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    784,
+                    34,
+                    806
+                ],
+                "score": 1.0,
+                "text": "nu"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    809,
+                    308,
+                    847
+                ],
+                "score": 0.999,
+                "text": "Thread model: posix"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    840,
+                    789,
+                    877
+                ],
+                "score": 0.98,
+                "text": "gcc version 9π4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    876,
+                    603,
+                    911
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

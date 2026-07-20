@@ -1,0 +1,753 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "编译器视角：理解他，并应用他"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                28,
+                72,
+                386,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 #cmsis_gcc.h"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                162,
+                522,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 #stm32f103xb.h"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                378,
+                127,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 #define _0 volatile"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                399,
+                179,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 #define __IO volatile"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                417,
+                179,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 typedef struct"
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                453,
+                127,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 {"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                474,
+                78,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 __IO uint32_t CRL;"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                492,
+                149,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "/*!< Defines 'read / write' permissions */"
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                417,
+                389,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "/*!< Defines 'write only' permissions */"
+                    }
+                ]
+            },
+            "bbox": [
+                222,
+                396,
+                383,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8 __IO uint32_t CRH;"
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                512,
+                149,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9 __IO uint32_t IDR;"
+                    }
+                ]
+            },
+            "bbox": [
+                56,
+                530,
+                149,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11 __IO uint32_t BSRR;"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                567,
+                153,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10 __IO uint32_t ODR;"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                548,
+                150,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 #define __NO_RETURN"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                188,
+                560,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 __IO uint32_t BRR;"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                587,
+                150,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13 __IO uint32_t LCKR;"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                605,
+                153,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "__attribute__((__noreturn__))"
+                    }
+                ]
+            },
+            "bbox": [
+                641,
+                188,
+                803,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14 }GPIO_TypeDef;"
+                    }
+                ]
+            },
+            "bbox": [
+                54,
+                623,
+                130,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 #define __USED"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                216,
+                534,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "__attribute__((used))"
+                    }
+                ]
+            },
+            "bbox": [
+                641,
+                216,
+                759,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 #define __WEAK"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                242,
+                535,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "__attribute__((weak))"
+                    }
+                ]
+            },
+            "bbox": [
+                639,
+                242,
+                759,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 #define __PACKED"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                268,
+                544,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "__attribute__((packed, aligned(1)))"
+                    }
+                ]
+            },
+            "bbox": [
+                641,
+                268,
+                835,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "union __attribute__((packed, aligned(1)))"
+                    }
+                ]
+            },
+            "bbox": [
+                639,
+                322,
+                868,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 #define __PACKED_STRUCT"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                296,
+                580,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7 #define __PACKED_UNION"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                322,
+                577,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "struct __attribute__((packed, aligned(1)))"
+                    }
+                ]
+            },
+            "bbox": [
+                639,
+                296,
+                874,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 #include/linux/init.h"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                430,
+                570,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 #ifndef MODULE"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                458,
+                534,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 // 省略"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                484,
+                493,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4 #define module_init(x) __initcall(x);"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                510,
+                661,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 // 省略"
+                    }
+                ]
+            },
+            "bbox": [
+                437,
+                538,
+                493,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6 #else"
+                    }
+                ]
+            },
+            "bbox": [
+                437,
+                564,
+                484,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8 #define module_init(x) __initcall(x);"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                618,
+                661,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9 1"
+                    }
+                ]
+            },
+            "bbox": [
+                435,
+                644,
+                457,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10 --> #define __initcall(fn) device_initcall(fn)"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                672,
+                704,
+                698
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "111"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                698,
+                483,
+                721
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12 --> #define device_initcall(fn) __define_initcall(fn, 6)"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                724,
+                803,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                752,
+                503,
+                775
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "14 --> #define __define_initcall(fn, id) \\"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                778,
+                713,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15 static initcall_t __initcall_##fn##id __used \\"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                804,
+                794,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "16 __attribute__((__section__(\".initcall\" #id \".init\"))) = fn"
+                    }
+                ]
+            },
+            "bbox": [
+                431,
+                832,
+                859,
+                858
+            ]
+        }
+    ]
+]

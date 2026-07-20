@@ -1,0 +1,1162 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.471,
+                    "bbox": [
+                        0,
+                        38,
+                        366,
+                        108
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                168,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        168,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                49,
+                                139,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        49,
+                                        139,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                191,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        191,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                73,
+                                356,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        73,
+                                        356,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "build-essential is already the newest version (12.8ubuntul.1).",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                361,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        361,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                96,
+                                254,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        96,
+                                        254,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gcc -v",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4791,
+                    "bbox": [
+                        0,
+                        129,
+                        366,
+                        143
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                129,
+                                365,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        129,
+                                        365,
+                                        143
+                                    ],
+                                    "type": "text",
+                                    "content": "COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper",
+                                    "score": 0.992
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7656,
+                    "bbox": [
+                        0,
+                        174,
+                        690,
+                        290
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                174,
+                                687,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        174,
+                                        687,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntul~20.04.2' --with-bugurl=file:///usr/share/",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                186,
+                                687,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        186,
+                                        687,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-ve",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                199,
+                                686,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        199,
+                                        686,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "rsion-only --program-suffix=-9 --program-prefix=x86 64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                211,
+                                684,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        211,
+                                        684,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enabl",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                222,
+                                686,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        222,
+                                        686,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "e-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vta",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                234,
+                                686,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        234,
+                                        686,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "ble-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                3,
+                                245,
+                                686,
+                                256
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        245,
+                                        686,
+                                        256
+                                    ],
+                                    "type": "text",
+                                    "content": "--enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-mult",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                256,
+                                684,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        256,
+                                        684,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "ilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QD0t0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa -",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                268,
+                                686,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        268,
+                                        686,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "-without-cuda-driver --enable-checking=release --build=x86 64-linux-gnu --host=x86 64-linux-gnu --target=x86 64-linux-g",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                282,
+                                12,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        282,
+                                        12,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "nu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.455,
+                    "bbox": [
+                        0,
+                        291,
+                        284,
+                        316
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                291,
+                                110,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        291,
+                                        110,
+                                        304
+                                    ],
+                                    "type": "text",
+                                    "content": "Thread model: posix",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                302,
+                                284,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        302,
+                                        284,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc version 9π4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.701,
+                    "bbox": [
+                        0,
+                        315,
+                        217,
+                        327
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                315,
+                                217,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        315,
+                                        217,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5844,
+                    "bbox": [
+                        0,
+                        0,
+                        76,
+                        8
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                1,
+                                75,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        1,
+                                        75,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "ActivitiesTerminal",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7717,
+                    "bbox": [
+                        329,
+                        1,
+                        371,
+                        8
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                328,
+                                0,
+                                371,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        0,
+                                        371,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Sep 1 05:47",
+                                    "score": 0.965
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8681,
+                    "bbox": [
+                        286,
+                        13,
+                        403,
+                        22
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                286,
+                                14,
+                                403,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        286,
+                                        14,
+                                        403,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu: /home/workspace/lesson",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7529,
+                    "bbox": [
+                        614,
+                        11,
+                        690,
+                        24
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                613,
+                                11,
+                                690,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        613,
+                                        11,
+                                        690,
+                                        24
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ ☆",
+                                    "score": 0.745
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.471,
+                    "bbox": [
+                        0,
+                        38,
+                        366,
+                        108
+                    ],
+                    "index": 5,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                168,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        168,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                49,
+                                139,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        49,
+                                        139,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                191,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        191,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                73,
+                                356,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        73,
+                                        356,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "build-essential is already the newest version (12.8ubuntul.1).",
+                                    "score": 0.997
+                                }
+                            ],
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                361,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        361,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                96,
+                                254,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        96,
+                                        254,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gcc -v",
+                                    "score": 0.999
+                                }
+                            ],
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        38,
+                        361,
+                        107
+                    ]
+                },
+                {
+                    "score": 0.4791,
+                    "bbox": [
+                        0,
+                        129,
+                        366,
+                        143
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                129,
+                                365,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        129,
+                                        365,
+                                        143
+                                    ],
+                                    "type": "text",
+                                    "content": "COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper",
+                                    "score": 0.992
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        129,
+                        365,
+                        143
+                    ]
+                },
+                {
+                    "score": 0.7656,
+                    "bbox": [
+                        0,
+                        174,
+                        690,
+                        290
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                174,
+                                687,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        174,
+                                        687,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntul~20.04.2' --with-bugurl=file:///usr/share/",
+                                    "score": 0.982
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                -1,
+                                186,
+                                687,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        186,
+                                        687,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-ve",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                199,
+                                686,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        199,
+                                        686,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "rsion-only --program-suffix=-9 --program-prefix=x86 64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir",
+                                    "score": 0.99
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                211,
+                                684,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        211,
+                                        684,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enabl",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                222,
+                                686,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        222,
+                                        686,
+                                        233
+                                    ],
+                                    "type": "text",
+                                    "content": "e-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vta",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                234,
+                                686,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        234,
+                                        686,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "ble-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto",
+                                    "score": 0.997
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                3,
+                                245,
+                                686,
+                                256
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        245,
+                                        686,
+                                        256
+                                    ],
+                                    "type": "text",
+                                    "content": "--enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-mult",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                256,
+                                684,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        256,
+                                        684,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "ilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QD0t0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa -",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                268,
+                                686,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        268,
+                                        686,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "-without-cuda-driver --enable-checking=release --build=x86 64-linux-gnu --host=x86 64-linux-gnu --target=x86 64-linux-g",
+                                    "score": 0.988
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                1,
+                                282,
+                                12,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        282,
+                                        12,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "nu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        174,
+                        687,
+                        290
+                    ]
+                },
+                {
+                    "score": 0.455,
+                    "bbox": [
+                        0,
+                        291,
+                        284,
+                        316
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                291,
+                                110,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        291,
+                                        110,
+                                        304
+                                    ],
+                                    "type": "text",
+                                    "content": "Thread model: posix",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                302,
+                                284,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        302,
+                                        284,
+                                        315
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc version 9π4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)",
+                                    "score": 0.98
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        291,
+                        284,
+                        315
+                    ]
+                },
+                {
+                    "score": 0.701,
+                    "bbox": [
+                        0,
+                        315,
+                        217,
+                        327
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                315,
+                                217,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        315,
+                                        217,
+                                        327
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        315,
+                        217,
+                        327
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

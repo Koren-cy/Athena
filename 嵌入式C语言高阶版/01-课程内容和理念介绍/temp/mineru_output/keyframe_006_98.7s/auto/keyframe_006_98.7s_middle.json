@@ -1,0 +1,670 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        115,
+                        154,
+                        214
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8138,
+                            "bbox": [
+                                71,
+                                115,
+                                154,
+                                214
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        115,
+                                        154,
+                                        214
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                115,
+                                                154,
+                                                214
+                                            ],
+                                            "type": "image",
+                                            "image_path": "076c28d3a45c9a4c7eb9b99c38800d95689914c75a61c8e8bf1f3d5564c28eed.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.8138
+                },
+                {
+                    "score": 0.4756,
+                    "bbox": [
+                        93,
+                        232,
+                        133,
+                        250
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                230,
+                                133,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        230,
+                                        133,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "linux",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        199,
+                        145,
+                        309,
+                        187
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7729,
+                            "bbox": [
+                                199,
+                                145,
+                                309,
+                                187
+                            ],
+                            "index": 3,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        199,
+                                        145,
+                                        309,
+                                        187
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                199,
+                                                145,
+                                                309,
+                                                187
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c873f8b0d6987c451751a7a18e35f6e32dc2a5f2fb331fc709d8d9155150b084.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8515,
+                            "bbox": [
+                                230,
+                                232,
+                                273,
+                                249
+                            ],
+                            "index": 4,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        233,
+                                        272,
+                                        253
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                229,
+                                                233,
+                                                272,
+                                                253
+                                            ],
+                                            "type": "text",
+                                            "content": "RTOS",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "score": 0.7729
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        351,
+                        110,
+                        464,
+                        222
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7046,
+                            "bbox": [
+                                351,
+                                110,
+                                464,
+                                222
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        351,
+                                        110,
+                                        464,
+                                        222
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                351,
+                                                110,
+                                                464,
+                                                222
+                                            ],
+                                            "type": "image",
+                                            "image_path": "03441b1d1565d79eb7455c70c9678b5e58590bb9cee1ca4d290fefb8fc12da09.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8357,
+                            "bbox": [
+                                376,
+                                233,
+                                438,
+                                249
+                            ],
+                            "index": 6,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        232,
+                                        437,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                376,
+                                                232,
+                                                437,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "AutoSar",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.7046
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        514,
+                        114,
+                        614,
+                        216
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5386,
+                            "bbox": [
+                                514,
+                                114,
+                                614,
+                                216
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        514,
+                                        114,
+                                        614,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                514,
+                                                114,
+                                                614,
+                                                216
+                                            ],
+                                            "type": "image",
+                                            "image_path": "45cf6dd0307059e4aac69fedcc5eeab001a8f58fdcdbe41c2fcfa9fde25eeac3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.5386
+                },
+                {
+                    "score": 0.7365,
+                    "bbox": [
+                        524,
+                        231,
+                        604,
+                        250
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                525,
+                                232,
+                                603,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        525,
+                                        232,
+                                        603,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "单片机裸机",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        115,
+                        154,
+                        214
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8138,
+                            "bbox": [
+                                71,
+                                115,
+                                154,
+                                214
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        115,
+                                        154,
+                                        214
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                115,
+                                                154,
+                                                214
+                                            ],
+                                            "type": "image",
+                                            "image_path": "076c28d3a45c9a4c7eb9b99c38800d95689914c75a61c8e8bf1f3d5564c28eed.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.8138
+                },
+                {
+                    "score": 0.4756,
+                    "bbox": [
+                        93,
+                        232,
+                        133,
+                        250
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                230,
+                                133,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        230,
+                                        133,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "linux",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        93,
+                        230,
+                        133,
+                        252
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        199,
+                        145,
+                        309,
+                        187
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7729,
+                            "bbox": [
+                                199,
+                                145,
+                                309,
+                                187
+                            ],
+                            "index": 3,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        199,
+                                        145,
+                                        309,
+                                        187
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                199,
+                                                145,
+                                                309,
+                                                187
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c873f8b0d6987c451751a7a18e35f6e32dc2a5f2fb331fc709d8d9155150b084.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8515,
+                            "bbox": [
+                                230,
+                                232,
+                                273,
+                                249
+                            ],
+                            "index": 4,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        233,
+                                        272,
+                                        253
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                229,
+                                                233,
+                                                272,
+                                                253
+                                            ],
+                                            "type": "text",
+                                            "content": "RTOS",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "score": 0.7729
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        351,
+                        110,
+                        464,
+                        222
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7046,
+                            "bbox": [
+                                351,
+                                110,
+                                464,
+                                222
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        351,
+                                        110,
+                                        464,
+                                        222
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                351,
+                                                110,
+                                                464,
+                                                222
+                                            ],
+                                            "type": "image",
+                                            "image_path": "03441b1d1565d79eb7455c70c9678b5e58590bb9cee1ca4d290fefb8fc12da09.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8357,
+                            "bbox": [
+                                376,
+                                233,
+                                438,
+                                249
+                            ],
+                            "index": 6,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        232,
+                                        437,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                376,
+                                                232,
+                                                437,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "AutoSar",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.7046
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        514,
+                        114,
+                        614,
+                        216
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5386,
+                            "bbox": [
+                                514,
+                                114,
+                                614,
+                                216
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        514,
+                                        114,
+                                        614,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                514,
+                                                114,
+                                                614,
+                                                216
+                                            ],
+                                            "type": "image",
+                                            "image_path": "45cf6dd0307059e4aac69fedcc5eeab001a8f58fdcdbe41c2fcfa9fde25eeac3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.5386
+                },
+                {
+                    "score": 0.7365,
+                    "bbox": [
+                        524,
+                        231,
+                        604,
+                        250
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                525,
+                                232,
+                                603,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        525,
+                                        232,
+                                        603,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "单片机裸机",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        525,
+                        232,
+                        603,
+                        251
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

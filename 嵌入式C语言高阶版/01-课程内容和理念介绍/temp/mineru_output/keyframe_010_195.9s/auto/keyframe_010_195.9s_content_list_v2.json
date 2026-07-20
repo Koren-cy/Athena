@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "架构视角：C语言也可以很“面向对象”"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                27,
+                74,
+                464,
+                128
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4c84617ec0ffb326b3d2fd3301be0a9f2777f9681e95221228868957194e3c6f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                164,
+                742,
+                899
+            ]
+        }
+    ]
+]

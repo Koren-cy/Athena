@@ -1,0 +1,104 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/c37c57972b32f1fb511b79a04f80ce383419b640446502ac422385875f8cb652.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            86,
+            327,
+            175,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "手机",
+        "bbox": [
+            108,
+            618,
+            156,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/48bf340a37ece701b1a786672e87d47b14edd75f0ba86cd2f59adb20a1f247d5.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "无人机"
+        ],
+        "bbox": [
+            240,
+            332,
+            374,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4488a2b95ad672f55602007a890812ac7d4d193c61d6a5b215e4959270dad510.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "IOT设备"
+        ],
+        "bbox": [
+            429,
+            353,
+            528,
+            541
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e74fb132604fcc067d0d6b756d767a880dd729c5a02db0f8e7ad7136c1c76d8b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            578,
+            317,
+            716,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扫地机器人",
+        "bbox": [
+            599,
+            621,
+            701,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b36d437fa85e92753357a54939e6c5d62a1d9bfc2fb24774b791e650aa2649b3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            775,
+            329,
+            926,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智能驾驶舱",
+        "bbox": [
+            803,
+            621,
+            905,
+            662
+        ],
+        "page_idx": 0
+    }
+]

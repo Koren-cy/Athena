@@ -1,0 +1,193 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9108,
+                    "bbox": [
+                        21,
+                        29,
+                        371,
+                        50
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                30,
+                                368,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        30,
+                                        368,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "内存视角：CPU眼里，外设资源就是内存映射",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        64,
+                        602,
+                        342
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9352,
+                            "bbox": [
+                                88,
+                                64,
+                                602,
+                                342
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        64,
+                                        602,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                64,
+                                                602,
+                                                342
+                                            ],
+                                            "type": "image",
+                                            "image_path": "01f6f6dd08aa62a9386f9d275d2cac439eb213063d9405a217f404fe6bb905da.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9352
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.7908,
+                    "bbox": [
+                        0,
+                        374,
+                        82,
+                        388
+                    ],
+                    "index": 3,
+                    "type": "footer",
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.9108,
+                    "bbox": [
+                        21,
+                        29,
+                        371,
+                        50
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                24,
+                                30,
+                                368,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        24,
+                                        30,
+                                        368,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "内存视角：CPU眼里，外设资源就是内存映射",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        64,
+                        602,
+                        342
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9352,
+                            "bbox": [
+                                88,
+                                64,
+                                602,
+                                342
+                            ],
+                            "index": 2,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        64,
+                                        602,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                64,
+                                                602,
+                                                342
+                                            ],
+                                            "type": "image",
+                                            "image_path": "01f6f6dd08aa62a9386f9d275d2cac439eb213063d9405a217f404fe6bb905da.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9352
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

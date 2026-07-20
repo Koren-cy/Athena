@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "从三大视角，剖析C语言的底层逻辑"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                30,
+                74,
+                428,
+                126
+            ]
+        }
+    ]
+]

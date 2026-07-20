@@ -1,0 +1,151 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8138,
+                "bbox": [
+                    199,
+                    321,
+                    430,
+                    596
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4756,
+                "bbox": [
+                    261,
+                    646,
+                    370,
+                    695
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7729,
+                "bbox": [
+                    553,
+                    403,
+                    860,
+                    521
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8515,
+                "bbox": [
+                    640,
+                    646,
+                    759,
+                    694
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7046,
+                "bbox": [
+                    975,
+                    306,
+                    1289,
+                    617
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8357,
+                "bbox": [
+                    1046,
+                    648,
+                    1217,
+                    694
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5386,
+                "bbox": [
+                    1428,
+                    318,
+                    1708,
+                    602
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7365,
+                "bbox": [
+                    1458,
+                    644,
+                    1679,
+                    696
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    260,
+                    641,
+                    371,
+                    702
+                ],
+                "score": 1.0,
+                "text": "linux"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    638,
+                    649,
+                    757,
+                    703
+                ],
+                "score": 1.0,
+                "text": "RTOS"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1045,
+                    646,
+                    1216,
+                    698
+                ],
+                "score": 1.0,
+                "text": "AutoSar"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1459,
+                    647,
+                    1676,
+                    698
+                ],
+                "score": 1.0,
+                "text": "单片机裸机"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

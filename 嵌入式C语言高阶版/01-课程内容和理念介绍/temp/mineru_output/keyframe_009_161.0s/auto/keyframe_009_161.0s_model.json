@@ -1,0 +1,58 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9108,
+                "bbox": [
+                    59,
+                    82,
+                    1031,
+                    140
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9352,
+                "bbox": [
+                    246,
+                    179,
+                    1673,
+                    951
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.7908,
+                "bbox": [
+                    0,
+                    1040,
+                    228,
+                    1079
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    67,
+                    86,
+                    1024,
+                    137
+                ],
+                "score": 1.0,
+                "text": "内存视角：CPU眼里，外设资源就是内存映射"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

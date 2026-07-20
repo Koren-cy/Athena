@@ -1,0 +1,186 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9603,
+                "bbox": [
+                    168,
+                    354,
+                    338,
+                    595
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8528,
+                "bbox": [
+                    211,
+                    669,
+                    301,
+                    716
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9532,
+                "bbox": [
+                    463,
+                    359,
+                    722,
+                    614
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.4745,
+                "bbox": [
+                    529,
+                    670,
+                    653,
+                    714
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9567,
+                "bbox": [
+                    827,
+                    381,
+                    1014,
+                    584
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5576,
+                "bbox": [
+                    850,
+                    671,
+                    991,
+                    714
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9687,
+                "bbox": [
+                    1112,
+                    344,
+                    1377,
+                    606
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6502,
+                "bbox": [
+                    1152,
+                    670,
+                    1349,
+                    715
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9527,
+                "bbox": [
+                    1490,
+                    356,
+                    1780,
+                    592
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9061,
+                "bbox": [
+                    1544,
+                    670,
+                    1739,
+                    715
+                ],
+                "index": 10
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    658,
+                    309,
+                    725
+                ],
+                "score": 1.0,
+                "text": "手机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    530,
+                    668,
+                    654,
+                    726
+                ],
+                "score": 1.0,
+                "text": "无人机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    850,
+                    671,
+                    991,
+                    727
+                ],
+                "score": 0.994,
+                "text": "IOT设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1153,
+                    671,
+                    1344,
+                    719
+                ],
+                "score": 1.0,
+                "text": "扫地机器人"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1546,
+                    671,
+                    1737,
+                    716
+                ],
+                "score": 1.0,
+                "text": "智能驾驶舱"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

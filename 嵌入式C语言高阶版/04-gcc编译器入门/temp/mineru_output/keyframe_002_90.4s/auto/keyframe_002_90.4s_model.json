@@ -1,0 +1,264 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5149,
+                "bbox": [
+                    2,
+                    2,
+                    211,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5991,
+                "bbox": [
+                    915,
+                    2,
+                    1030,
+                    23
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7498,
+                "bbox": [
+                    798,
+                    39,
+                    1120,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7455,
+                "bbox": [
+                    1708,
+                    31,
+                    1916,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5778,
+                "bbox": [
+                    0,
+                    74,
+                    1193,
+                    109
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5737,
+                "bbox": [
+                    0,
+                    107,
+                    476,
+                    140
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5694,
+                "bbox": [
+                    0,
+                    140,
+                    398,
+                    172
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6486,
+                "bbox": [
+                    0,
+                    171,
+                    540,
+                    204
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7108,
+                "bbox": [
+                    0,
+                    202,
+                    999,
+                    236
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7243,
+                "bbox": [
+                    0,
+                    235,
+                    1012,
+                    269
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7516,
+                "bbox": [
+                    0,
+                    267,
+                    641,
+                    304
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    3,
+                    210,
+                    23
+                ],
+                "score": 0.975,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    2,
+                    1030,
+                    23
+                ],
+                "score": 0.985,
+                "text": "Sep 1 05:47"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    40,
+                    1118,
+                    61
+                ],
+                "score": 0.986,
+                "text": "murphy@ubuntu: /home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1706,
+                    31,
+                    1916,
+                    68
+                ],
+                "score": 0.717,
+                "text": "Q ≡ - □ x"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    75,
+                    1192,
+                    108
+                ],
+                "score": 0.998,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install build-essential"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    108,
+                    475,
+                    139
+                ],
+                "score": 0.983,
+                "text": "Reading package lists... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    141,
+                    395,
+                    172
+                ],
+                "score": 1.0,
+                "text": "Building dependency tree"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    172,
+                    539,
+                    203
+                ],
+                "score": 0.987,
+                "text": "Reading state information... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    202,
+                    1000,
+                    237
+                ],
+                "score": 0.986,
+                "text": "build-essential is already the newest version (12.8ubuntul.1)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    234,
+                    1012,
+                    269
+                ],
+                "score": 0.985,
+                "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    265,
+                    637,
+                    305
+                ],
+                "score": 0.998,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ g"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

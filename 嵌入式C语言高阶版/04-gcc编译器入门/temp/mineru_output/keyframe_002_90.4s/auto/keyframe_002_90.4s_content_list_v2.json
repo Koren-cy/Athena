@@ -1,0 +1,191 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install build-essential"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                67,
+                620,
+                100
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Reading package lists... Done"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                97,
+                247,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Building dependency tree"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                128,
+                206,
+                157
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Reading state information... Done"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                157,
+                280,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "build-essential is already the newest version (12.8ubuntul.1)."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                185,
+                519,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                216,
+                526,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ g"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                247,
+                332,
+                280
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                108,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sep 1 05:47"
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                0,
+                535,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu: /home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                415,
+                36,
+                583,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ x"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                997,
+                61
+            ]
+        }
+    ]
+]

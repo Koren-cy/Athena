@@ -1,0 +1,34 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8176,
+                "bbox": [
+                    483,
+                    495,
+                    1427,
+                    584
+                ],
+                "index": 1
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    491,
+                    503,
+                    1418,
+                    583
+                ],
+                "score": 1.0,
+                "text": "C语言在操作系统中的地位"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

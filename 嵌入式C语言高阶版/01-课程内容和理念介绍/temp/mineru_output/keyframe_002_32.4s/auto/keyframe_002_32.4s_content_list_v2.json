@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "C语言在操作系统中的地位"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                250,
+                458,
+                742,
+                541
+            ]
+        }
+    ]
+]
