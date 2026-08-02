@@ -11,10 +11,14 @@
             "id": "757f70a862ceb29a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7-应用与数学/数字电子技术基础/第2讲 数制与补码.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "第2讲 数制与补码"
             }
           }
         ]
@@ -84,12 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "7-应用与数学/数字电子技术基础/第2讲 数制与补码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第2讲 数制与补码 的大纲"
             }
           }
         ]
@@ -224,6 +229,7 @@
   },
   "active": "757f70a862ceb29a",
   "lastOpenFiles": [
+    "7-应用与数学/数字电子技术基础/第1讲 绪论与信息编码.md",
     "auxiliary/Ink/Writing/2025.6.8 - 2.41am.writing",
     "auxiliary/Ink/Drawing/2025.6.8 - 2.42am.drawing",
     "8-数学建模/聚类算法/层次聚类.md",
@@ -259,7 +265,6 @@
     "7-应用与数学/数字电子技术基础",
     "7-应用与数学/数字信号处理",
     "7-应用与数学",
-    "2-实用工具/笔记本.nb",
     "6-电子设计/电子设计大赛/复用模块/attachments/image-1.png",
     "6-电子设计/电子设计大赛/复用模块/attachments/image.png",
     "未命名.canvas",
