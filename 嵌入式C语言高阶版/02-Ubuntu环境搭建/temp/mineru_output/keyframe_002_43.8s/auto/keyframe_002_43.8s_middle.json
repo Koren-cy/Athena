@@ -1,0 +1,346 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        3,
+                        319,
+                        68
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5148,
+                            "bbox": [
+                                82,
+                                3,
+                                319,
+                                68
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        3,
+                                        319,
+                                        68
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                3,
+                                                319,
+                                                68
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5cb15779a66c1e226427896584e80ad77583da8eb6af1c67b933e466bfd677c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5148
+                },
+                {
+                    "score": 0.9503,
+                    "bbox": [
+                        66,
+                        101,
+                        192,
+                        117
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                102,
+                                189,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        102,
+                                        189,
+                                        116
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.1 VMware安装",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6526,
+                    "bbox": [
+                        65,
+                        123,
+                        174,
+                        137
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                124,
+                                172,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        124,
+                                        172,
+                                        136
+                                    ],
+                                    "type": "text",
+                                    "content": "一路「默认」安装即可",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        66,
+                        142,
+                        388,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.794,
+                            "bbox": [
+                                66,
+                                142,
+                                388,
+                                388
+                            ],
+                            "index": 4,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        142,
+                                        388,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                66,
+                                                142,
+                                                388,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "59261c0ea17d599f795546e838e79dfdbc9c7b345b01e2fced7b16d806e1a12a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "score": 0.794
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        3,
+                        319,
+                        68
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5148,
+                            "bbox": [
+                                82,
+                                3,
+                                319,
+                                68
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        3,
+                                        319,
+                                        68
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                3,
+                                                319,
+                                                68
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5cb15779a66c1e226427896584e80ad77583da8eb6af1c67b933e466bfd677c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.5148
+                },
+                {
+                    "score": 0.9503,
+                    "bbox": [
+                        66,
+                        101,
+                        192,
+                        117
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                102,
+                                189,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        102,
+                                        189,
+                                        116
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.1 VMware安装",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6526,
+                    "bbox": [
+                        65,
+                        123,
+                        174,
+                        137
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                124,
+                                172,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        124,
+                                        172,
+                                        136
+                                    ],
+                                    "type": "text",
+                                    "content": "一路「默认」安装即可",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        68,
+                        124,
+                        172,
+                        136
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        66,
+                        142,
+                        388,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.794,
+                            "bbox": [
+                                66,
+                                142,
+                                388,
+                                388
+                            ],
+                            "index": 4,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        142,
+                                        388,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                66,
+                                                142,
+                                                388,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "59261c0ea17d599f795546e838e79dfdbc9c7b345b01e2fced7b16d806e1a12a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "score": 0.794
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

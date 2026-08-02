@@ -1,0 +1,687 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.6064,
+                    "bbox": [
+                        0,
+                        26,
+                        292,
+                        51
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                27,
+                                290,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        27,
+                                        290,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                163,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        163,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading symbols from ./bin..",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4521,
+                    "bbox": [
+                        0,
+                        71,
+                        256,
+                        95
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                255,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        255,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Starting program: /home/workspace/lesson/bin",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                64,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        64,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "hello world",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4822,
+                    "bbox": [
+                        90,
+                        140,
+                        133,
+                        154
+                    ],
+                    "index": 8,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                140,
+                                133,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        140,
+                                        133,
+                                        154
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\boxed { \\bullet } \\boxed { \\bullet } \\boxed { \\bullet }",
+                                    "image_path": "e8c81764006d9941c5a2f1fb4a12bfc2e4a5e4103760a69d841eec89fa5000c5.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4785,
+                    "bbox": [
+                        343,
+                        25,
+                        452,
+                        39
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                343,
+                                26,
+                                451,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        343,
+                                        26,
+                                        451,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "#include <stdio.h>",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4525,
+                    "bbox": [
+                        329,
+                        0,
+                        370,
+                        8
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                328,
+                                0,
+                                371,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        0,
+                                        371,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Sep 1 19:33",
+                                    "score": 0.958
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8044,
+                    "bbox": [
+                        114,
+                        13,
+                        230,
+                        23
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                14,
+                                229,
+                                22
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        14,
+                                        229,
+                                        22
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6695,
+                    "bbox": [
+                        268,
+                        10,
+                        370,
+                        24
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                288,
+                                14,
+                                357,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        14,
+                                        293,
+                                        20
+                                    ],
+                                    "type": "text",
+                                    "content": "三",
+                                    "score": 0.962
+                                },
+                                {
+                                    "bbox": [
+                                        319,
+                                        14,
+                                        325,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "□",
+                                    "score": 0.925
+                                },
+                                {
+                                    "bbox": [
+                                        350,
+                                        14,
+                                        357,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "+",
+                                    "score": 0.869
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7763,
+                    "bbox": [
+                        460,
+                        13,
+                        576,
+                        23
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                460,
+                                14,
+                                575,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        14,
+                                        575,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6521,
+                    "bbox": [
+                        613,
+                        11,
+                        690,
+                        24
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                612,
+                                10,
+                                690,
+                                25
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        612,
+                                        10,
+                                        690,
+                                        25
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ x",
+                                    "score": 0.741
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8412,
+                    "bbox": [
+                        345,
+                        371,
+                        428,
+                        384
+                    ],
+                    "index": 10,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                344,
+                                370,
+                                429,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        344,
+                                        370,
+                                        429,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "\"1.c\" 10L, 95C",
+                                    "score": 0.995
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.658,
+                    "bbox": [
+                        579,
+                        371,
+                        613,
+                        384
+                    ],
+                    "index": 11,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                578,
+                                370,
+                                614,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        578,
+                                        370,
+                                        614,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "5,1-4",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8346,
+                    "bbox": [
+                        661,
+                        372,
+                        680,
+                        383
+                    ],
+                    "index": 12,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                659,
+                                370,
+                                681,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        659,
+                                        370,
+                                        681,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "All",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.6064,
+                    "bbox": [
+                        0,
+                        26,
+                        292,
+                        51
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                27,
+                                290,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        27,
+                                        290,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                163,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        163,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading symbols from ./bin..",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        27,
+                        290,
+                        50
+                    ]
+                },
+                {
+                    "score": 0.4521,
+                    "bbox": [
+                        0,
+                        71,
+                        256,
+                        95
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                255,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        255,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Starting program: /home/workspace/lesson/bin",
+                                    "score": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                64,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        64,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "hello world",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        72,
+                        255,
+                        95
+                    ]
+                },
+                {
+                    "score": 0.4822,
+                    "bbox": [
+                        90,
+                        140,
+                        133,
+                        154
+                    ],
+                    "index": 8,
+                    "type": "interline_equation",
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                140,
+                                133,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        140,
+                                        133,
+                                        154
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\boxed { \\bullet } \\boxed { \\bullet } \\boxed { \\bullet }",
+                                    "image_path": "e8c81764006d9941c5a2f1fb4a12bfc2e4a5e4103760a69d841eec89fa5000c5.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4785,
+                    "bbox": [
+                        343,
+                        25,
+                        452,
+                        39
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                343,
+                                26,
+                                451,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        343,
+                                        26,
+                                        451,
+                                        39
+                                    ],
+                                    "type": "text",
+                                    "content": "#include <stdio.h>",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        343,
+                        26,
+                        451,
+                        39
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

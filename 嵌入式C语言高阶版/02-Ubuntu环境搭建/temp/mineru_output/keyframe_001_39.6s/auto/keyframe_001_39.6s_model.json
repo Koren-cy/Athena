@@ -1,0 +1,207 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9652,
+                "bbox": [
+                    185,
+                    102,
+                    549,
+                    158
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9595,
+                "bbox": [
+                    181,
+                    178,
+                    1062,
+                    217
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9614,
+                "bbox": [
+                    186,
+                    266,
+                    583,
+                    314
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9436,
+                "bbox": [
+                    182,
+                    331,
+                    353,
+                    369
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9204,
+                "bbox": [
+                    180,
+                    385,
+                    1206,
+                    425
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9304,
+                "bbox": [
+                    182,
+                    441,
+                    385,
+                    478
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6618,
+                "bbox": [
+                    196,
+                    512,
+                    886,
+                    788
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    185,
+                    882,
+                    534,
+                    926
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8777,
+                "bbox": [
+                    182,
+                    942,
+                    486,
+                    981
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    103,
+                    543,
+                    159
+                ],
+                "score": 0.94,
+                "text": "2. 调试环境搭建"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    184,
+                    1051,
+                    211
+                ],
+                "score": 1.0,
+                "text": "本课程是基于VMware搭建的ubuntu环境上，进行编码、编译、调试。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    269,
+                    576,
+                    312
+                ],
+                "score": 1.0,
+                "text": "2.1 ubuntu环境搭建"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    335,
+                    347,
+                    368
+                ],
+                "score": 0.997,
+                "text": "安装包地址："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    387,
+                    1201,
+                    424
+                ],
+                "score": 0.999,
+                "text": "链接：链接：https://pan.baidu.com/s/1OPbYD6KJOcebZh-fjKpQXg?pwd=embe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    445,
+                    378,
+                    478
+                ],
+                "score": 0.998,
+                "text": "提取码：embe"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    884,
+                    528,
+                    925
+                ],
+                "score": 0.972,
+                "text": "2.1.1 VMware安装"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    946,
+                    479,
+                    979
+                ],
+                "score": 1.0,
+                "text": "一路「默认」安装即可"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.4933,
+                "bbox": [
+                    1838,
+                    1,
+                    1908,
+                    17
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.4527,
+                "bbox": [
+                    1799,
+                    1042,
+                    1862,
+                    1079
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6639,
+                "bbox": [
+                    4,
+                    27,
+                    254,
+                    51
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8662,
+                "bbox": [
+                    11,
+                    3,
+                    353,
+                    19
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5755,
+                "bbox": [
+                    1232,
+                    6,
+                    1252,
+                    30
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9033,
+                "bbox": [
+                    595,
+                    231,
+                    1161,
+                    248
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8762,
+                "bbox": [
+                    593,
+                    248,
+                    1117,
+                    265
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8832,
+                "bbox": [
+                    558,
+                    264,
+                    1063,
+                    280
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8528,
+                "bbox": [
+                    568,
+                    280,
+                    999,
+                    297
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9658,
+                "bbox": [
+                    769,
+                    654,
+                    1233,
+                    767
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.714,
+                "bbox": [
+                    56,
+                    1049,
+                    119,
+                    1070
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8401,
+                "bbox": [
+                    262,
+                    1040,
+                    478,
+                    1078
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7878,
+                "bbox": [
+                    1525,
+                    1048,
+                    1787,
+                    1070
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1841,
+                    2,
+                    1860,
+                    18
+                ],
+                "score": 0.693,
+                "text": "凸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1885,
+                    2,
+                    1905,
+                    18
+                ],
+                "score": 0.855,
+                "text": "×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1806,
+                    1042,
+                    1848,
+                    1058
+                ],
+                "score": 1.0,
+                "text": "15:25"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1798,
+                    1058,
+                    1861,
+                    1080
+                ],
+                "score": 1.0,
+                "text": "2024/8/31"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    7,
+                    27,
+                    251,
+                    53
+                ],
+                "score": 0.937,
+                "text": "Player(P)Ⅱ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    9,
+                    2,
+                    350,
+                    18
+                ],
+                "score": 0.988,
+                "text": "linux - VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    596,
+                    231,
+                    1159,
+                    247
+                ],
+                "score": 0.988,
+                "text": "1.518748] piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    593,
+                    248,
+                    1115,
+                    264
+                ],
+                "score": 0.997,
+                "text": "2.071181] sd 32:0:0:0: [sda] Assuming drive cache: write through"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    559,
+                    266,
+                    1060,
+                    278
+                ],
+                "score": 0.975,
+                "text": "/dev/sda5: clean, 195155/1277952 files, 2233618/5111040 blocks"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    568,
+                    280,
+                    996,
+                    296
+                ],
+                "score": 0.993,
+                "text": "12.412366] rc.local[890]: Installing open-vm-tools"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    639,
+                    1244,
+                    781
+                ],
+                "score": 1.0,
+                "text": "加速中>>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1045,
+                    120,
+                    1073
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1524,
+                    1048,
+                    1788,
+                    1069
+                ],
+                "score": 0.886,
+                "text": "31℃多云∧英囲"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

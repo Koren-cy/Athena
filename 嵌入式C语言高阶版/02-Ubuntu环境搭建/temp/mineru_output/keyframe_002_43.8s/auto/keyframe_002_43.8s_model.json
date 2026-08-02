@@ -1,0 +1,81 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.5148,
+                "bbox": [
+                    230,
+                    9,
+                    887,
+                    190
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9503,
+                "bbox": [
+                    185,
+                    282,
+                    535,
+                    326
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6526,
+                "bbox": [
+                    182,
+                    342,
+                    486,
+                    381
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.794,
+                "bbox": [
+                    185,
+                    397,
+                    1079,
+                    1080
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    286,
+                    527,
+                    324
+                ],
+                "score": 0.998,
+                "text": "2.1.1 VMware安装"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    346,
+                    478,
+                    379
+                ],
+                "score": 1.0,
+                "text": "一路「默认」安装即可"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5203,
+                "bbox": [
+                    914,
+                    1,
+                    1029,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8434,
+                "bbox": [
+                    318,
+                    37,
+                    640,
+                    65
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7017,
+                "bbox": [
+                    747,
+                    30,
+                    1029,
+                    67
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8554,
+                "bbox": [
+                    1279,
+                    38,
+                    1600,
+                    64
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7108,
+                "bbox": [
+                    1706,
+                    32,
+                    1917,
+                    68
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4934,
+                "bbox": [
+                    0,
+                    72,
+                    812,
+                    144
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.5666,
+                "bbox": [
+                    1,
+                    575,
+                    667,
+                    889
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 1,
+                "label": "algorithm",
+                "score": 0.7453,
+                "bbox": [
+                    974,
+                    70,
+                    1501,
+                    401
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9019,
+                "bbox": [
+                    961,
+                    1037,
+                    1079,
+                    1065
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7946,
+                "bbox": [
+                    1611,
+                    1033,
+                    1704,
+                    1068
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8713,
+                "bbox": [
+                    1838,
+                    1034,
+                    1890,
+                    1066
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    913,
+                    2,
+                    1029,
+                    25
+                ],
+                "score": 0.993,
+                "text": "Sep 1 19:34"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    319,
+                    39,
+                    637,
+                    62
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    757,
+                    38,
+                    776,
+                    60
+                ],
+                "score": 0.984,
+                "text": "Q"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    797,
+                    38,
+                    816,
+                    60
+                ],
+                "score": 0.755,
+                "text": "三"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    888,
+                    39,
+                    906,
+                    59
+                ],
+                "score": 0.882,
+                "text": "□"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    974,
+                    40,
+                    994,
+                    59
+                ],
+                "score": 0.947,
+                "text": "+"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1279,
+                    39,
+                    1598,
+                    62
+                ],
+                "score": 0.985,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1701,
+                    26,
+                    1920,
+                    72
+                ],
+                "score": 0.815,
+                "text": "α ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    70,
+                    808,
+                    112
+                ],
+                "score": 0.998,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gdb ./bin -q"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    107,
+                    451,
+                    140
+                ],
+                "score": 0.99,
+                "text": "Reading symbols from ./bin.."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    587,
+                    17,
+                    617
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    124,
+                    584,
+                    351,
+                    618
+                ],
+                "score": 1.0,
+                "text": "int main(void)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    613,
+                    21,
+                    810
+                ],
+                "score": 0.851,
+                "text": "４５６７８９"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    125,
+                    619,
+                    150,
+                    652
+                ],
+                "score": 0.962,
+                "text": "{"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    645,
+                    356,
+                    686
+                ],
+                "score": 1.0,
+                "text": "int b;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    250,
+                    712,
+                    370,
+                    747
+                ],
+                "score": 1.0,
+                "text": "b = 20;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    253,
+                    748,
+                    657,
+                    779
+                ],
+                "score": 0.993,
+                "text": "printf(\"hello world \\n\");"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    254,
+                    777,
+                    401,
+                    811
+                ],
+                "score": 0.997,
+                "text": "return 0;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    805,
+                    37,
+                    842
+                ],
+                "score": 1.0,
+                "text": "10"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    123,
+                    811,
+                    147,
+                    845
+                ],
+                "score": 0.977,
+                "text": "}"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    365,
+                    819,
+                    381,
+                    843
+                ],
+                "score": 0.592,
+                "text": "T"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    835,
+                    121,
+                    883
+                ],
+                "score": 0.884,
+                "text": "(gdb) ■"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    991,
+                    74,
+                    1315,
+                    105
+                ],
+                "score": 0.996,
+                "text": "1 #include <stdio.h>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    992,
+                    106,
+                    1011,
+                    137
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    992,
+                    138,
+                    1012,
+                    168
+                ],
+                "score": 1.0,
+                "text": "3"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1020,
+                    138,
+                    1248,
+                    169
+                ],
+                "score": 1.0,
+                "text": "int main(void)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    168,
+                    1013,
+                    201
+                ],
+                "score": 1.0,
+                "text": "4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1021,
+                    172,
+                    1046,
+                    202
+                ],
+                "score": 0.969,
+                "text": "{"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    196,
+                    1012,
+                    238
+                ],
+                "score": 1.0,
+                "text": "5"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1067,
+                    197,
+                    1189,
+                    239
+                ],
+                "score": 0.922,
+                "text": "☑int b;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    227,
+                    1012,
+                    266
+                ],
+                "score": 0.677,
+                "text": "6"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    261,
+                    1012,
+                    299
+                ],
+                "score": 1.0,
+                "text": "7"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1083,
+                    263,
+                    1205,
+                    301
+                ],
+                "score": 0.981,
+                "text": "b = 20;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    989,
+                    296,
+                    1013,
+                    331
+                ],
+                "score": 1.0,
+                "text": "8"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1084,
+                    298,
+                    1489,
+                    330
+                ],
+                "score": 1.0,
+                "text": "printf(\"hello world \\n\");"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    989,
+                    328,
+                    1013,
+                    362
+                ],
+                "score": 1.0,
+                "text": "9"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1086,
+                    329,
+                    1235,
+                    363
+                ],
+                "score": 0.976,
+                "text": "return 0;"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    970,
+                    356,
+                    1048,
+                    402
+                ],
+                "score": 0.942,
+                "text": "10 }"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    959,
+                    1036,
+                    1080,
+                    1067
+                ],
+                "score": 1.0,
+                "text": ":set nu"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1607,
+                    1028,
+                    1707,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "5,1-4"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1834,
+                    1029,
+                    1893,
+                    1070
+                ],
+                "score": 0.985,
+                "text": "All"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

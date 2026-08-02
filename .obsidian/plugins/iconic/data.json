@@ -29,42 +29,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "1-笔记规范": {
-      "icon": "lucide-graduation-cap",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "2-实用工具": {
-      "icon": "lucide-wrench",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "3-模板模块": {
-      "icon": "lucide-square-dashed-bottom-code",
-      "color": "green",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "4-网页收藏": {
-      "icon": "lucide-chrome",
-      "color": "yellow",
-      "unsynced": [
-        "d717afd7fa91b737",
-        "91905b4107a355f5"
-      ]
-    },
-    "4-网页收藏/网站导航.md": {
-      "icon": "lucide-navigation",
-      "color": "yellow"
-    },
     "5-视频笔记": {
       "icon": "lucide-file-video",
       "color": "yellow",

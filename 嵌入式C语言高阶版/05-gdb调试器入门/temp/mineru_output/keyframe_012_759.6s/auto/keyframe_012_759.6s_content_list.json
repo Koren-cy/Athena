@@ -1,0 +1,212 @@
+[
+    {
+        "type": "text",
+        "text": "(gdb) run Starting program: /home/workspace/lesson/bin",
+        "text_level": 2,
+        "bbox": [
+            0,
+            69,
+            370,
+            134
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Breakpoint 1, main () at 1.c:8 printf(\"hello world \\n\");",
+        "bbox": [
+            0,
+            154,
+            344,
+            221
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 #include <stdio.h>",
+        "bbox": [
+            515,
+            67,
+            685,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int main(void)",
+        "bbox": [
+            529,
+            123,
+            651,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int b;",
+        "bbox": [
+            554,
+            180,
+            617,
+            221
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b = 20;",
+        "bbox": [
+            564,
+            244,
+            626,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "printf(\"hello world \\n\");",
+        "bbox": [
+            564,
+            275,
+            777,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "return 0;",
+        "bbox": [
+            564,
+            306,
+            642,
+            337
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 19:40",
+        "bbox": [
+            476,
+            0,
+            535,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            1,
+            30,
+            34,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            940,
+            0,
+            997,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            1,
+            0,
+            108,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            164,
+            36,
+            332,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q 三 - □ ×",
+        "bbox": [
+            387,
+            25,
+            535,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            36,
+            832,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ ×",
+        "bbox": [
+            888,
+            28,
+            997,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": ":set nu",
+        "bbox": [
+            499,
+            961,
+            561,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            837,
+            958,
+            887,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            956,
+            958,
+            984,
+            987
+        ],
+        "page_idx": 0
+    }
+]

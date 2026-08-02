@@ -1,0 +1,342 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        67,
+                        272,
+                        620,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.4841,
+                            "bbox": [
+                                67,
+                                272,
+                                620,
+                                388
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        272,
+                                        620,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                272,
+                                                620,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "10c69a3bc53f5fac05d97cf23d3e8c05ab25dc2d0fb7f8adfcbb6fda7dc83724.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.4841
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        67,
+                        0,
+                        388,
+                        215
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6843,
+                            "bbox": [
+                                67,
+                                0,
+                                388,
+                                215
+                            ],
+                            "index": 2,
+                            "type": "chart_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        0,
+                                        388,
+                                        215
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                0,
+                                                388,
+                                                215
+                                            ],
+                                            "type": "chart",
+                                            "image_path": "6de6c0e25291c636c2696e977857d34333958431ebaaea289cc7c5d9a6600512.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.6843
+                },
+                {
+                    "score": 0.9464,
+                    "bbox": [
+                        66,
+                        230,
+                        225,
+                        246
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                231,
+                                222,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        231,
+                                        222,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.2 ubuntu虚拟机安装",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6497,
+                    "bbox": [
+                        67,
+                        252,
+                        251,
+                        266
+                    ],
+                    "index": 4,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                253,
+                                249,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        253,
+                                        249,
+                                        265
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 打开VMware 选择“创建新虚拟机”",
+                                    "score": 0.973
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        67,
+                        272,
+                        620,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.4841,
+                            "bbox": [
+                                67,
+                                272,
+                                620,
+                                388
+                            ],
+                            "index": 1,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        272,
+                                        620,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                272,
+                                                620,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "10c69a3bc53f5fac05d97cf23d3e8c05ab25dc2d0fb7f8adfcbb6fda7dc83724.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "score": 0.4841
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        67,
+                        0,
+                        388,
+                        215
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6843,
+                            "bbox": [
+                                67,
+                                0,
+                                388,
+                                215
+                            ],
+                            "index": 2,
+                            "type": "chart_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        0,
+                                        388,
+                                        215
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                0,
+                                                388,
+                                                215
+                                            ],
+                                            "type": "chart",
+                                            "image_path": "6de6c0e25291c636c2696e977857d34333958431ebaaea289cc7c5d9a6600512.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.6843
+                },
+                {
+                    "score": 0.9464,
+                    "bbox": [
+                        66,
+                        230,
+                        225,
+                        246
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                231,
+                                222,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        231,
+                                        222,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.2 ubuntu虚拟机安装",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6497,
+                    "bbox": [
+                        67,
+                        252,
+                        251,
+                        266
+                    ],
+                    "index": 4,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                253,
+                                249,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        253,
+                                        249,
+                                        265
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 打开VMware 选择“创建新虚拟机”",
+                                    "score": 0.973
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,690 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9652,
+                    "bbox": [
+                        66,
+                        36,
+                        197,
+                        56
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                37,
+                                195,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        37,
+                                        195,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 调试环境搭建",
+                                    "score": 0.94
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9595,
+                    "bbox": [
+                        65,
+                        64,
+                        382,
+                        78
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                66,
+                                378,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        66,
+                                        378,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "本课程是基于VMware搭建的ubuntu环境上，进行编码、编译、调试。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9614,
+                    "bbox": [
+                        66,
+                        95,
+                        209,
+                        113
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                96,
+                                207,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        96,
+                                        207,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 ubuntu环境搭建",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9436,
+                    "bbox": [
+                        65,
+                        119,
+                        127,
+                        132
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                120,
+                                124,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        120,
+                                        124,
+                                        132
+                                    ],
+                                    "type": "text",
+                                    "content": "安装包地址：",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9204,
+                    "bbox": [
+                        64,
+                        138,
+                        434,
+                        153
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                139,
+                                432,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        139,
+                                        432,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "链接：链接：https://pan.baidu.com/s/1OPbYD6KJOcebZh-fjKpQXg?pwd=embe",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9304,
+                    "bbox": [
+                        65,
+                        158,
+                        138,
+                        172
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                160,
+                                136,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        160,
+                                        136,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "提取码：embe",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        184,
+                        318,
+                        283
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6618,
+                            "bbox": [
+                                70,
+                                184,
+                                318,
+                                283
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        184,
+                                        318,
+                                        283
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                184,
+                                                318,
+                                                283
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eb23057238f404a0df4f1ae94665e76729cc10edd3685a7b88dace770b444729.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.6618
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        66,
+                        317,
+                        192,
+                        333
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                318,
+                                190,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        318,
+                                        190,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.1 VMware安装",
+                                    "score": 0.972
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8777,
+                    "bbox": [
+                        65,
+                        339,
+                        174,
+                        353
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                340,
+                                172,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        340,
+                                        172,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "一路「默认」安装即可",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9652,
+                    "bbox": [
+                        66,
+                        36,
+                        197,
+                        56
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                37,
+                                195,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        37,
+                                        195,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 调试环境搭建",
+                                    "score": 0.94
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9595,
+                    "bbox": [
+                        65,
+                        64,
+                        382,
+                        78
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                66,
+                                378,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        66,
+                                        378,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "本课程是基于VMware搭建的ubuntu环境上，进行编码、编译、调试。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        69,
+                        66,
+                        378,
+                        75
+                    ]
+                },
+                {
+                    "score": 0.9614,
+                    "bbox": [
+                        66,
+                        95,
+                        209,
+                        113
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                96,
+                                207,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        96,
+                                        207,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 ubuntu环境搭建",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9436,
+                    "bbox": [
+                        65,
+                        119,
+                        127,
+                        132
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                120,
+                                124,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        120,
+                                        124,
+                                        132
+                                    ],
+                                    "type": "text",
+                                    "content": "安装包地址：",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        67,
+                        120,
+                        124,
+                        132
+                    ]
+                },
+                {
+                    "score": 0.9204,
+                    "bbox": [
+                        64,
+                        138,
+                        434,
+                        153
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                139,
+                                432,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        139,
+                                        432,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "链接：链接：https://pan.baidu.com/s/1OPbYD6KJOcebZh-fjKpQXg?pwd=embe",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        67,
+                        139,
+                        432,
+                        152
+                    ]
+                },
+                {
+                    "score": 0.9304,
+                    "bbox": [
+                        65,
+                        158,
+                        138,
+                        172
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                160,
+                                136,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        160,
+                                        136,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "提取码：embe",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        68,
+                        160,
+                        136,
+                        172
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        184,
+                        318,
+                        283
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6618,
+                            "bbox": [
+                                70,
+                                184,
+                                318,
+                                283
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        184,
+                                        318,
+                                        283
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                184,
+                                                318,
+                                                283
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eb23057238f404a0df4f1ae94665e76729cc10edd3685a7b88dace770b444729.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.6618
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        66,
+                        317,
+                        192,
+                        333
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                318,
+                                190,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        318,
+                                        190,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1.1 VMware安装",
+                                    "score": 0.972
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8777,
+                    "bbox": [
+                        65,
+                        339,
+                        174,
+                        353
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                340,
+                                172,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        340,
+                                        172,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "一路「默认」安装即可",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        68,
+                        340,
+                        172,
+                        352
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,458 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.7169,
+                    "bbox": [
+                        12,
+                        25,
+                        91,
+                        32
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                12,
+                                26,
+                                90,
+                                31
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        26,
+                                        90,
+                                        31
+                                    ],
+                                    "type": "text",
+                                    "content": "要将输入定向到此虚拟机，请按Ctrl+G。",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8203,
+                    "bbox": [
+                        547,
+                        358,
+                        689,
+                        371
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                547,
+                                359,
+                                687,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        547,
+                                        359,
+                                        687,
+                                        364
+                                    ],
+                                    "type": "text",
+                                    "content": "在该系统上全局禁用了虚拟打印功能，不会为该虚拟机启用此功能。X",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                551,
+                                366,
+                                618,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        551,
+                                        366,
+                                        618,
+                                        371
+                                    ],
+                                    "type": "text",
+                                    "content": "虚拟设备”serial0\"将开始断开连接。",
+                                    "score": 0.955
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.8368,
+                    "bbox": [
+                        1,
+                        0,
+                        145,
+                        7
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                0,
+                                144,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        0,
+                                        144,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "Ubuntu 64 位 - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6217,
+                    "bbox": [
+                        660,
+                        0,
+                        686,
+                        6
+                    ],
+                    "index": 2,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                662,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        669,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.826
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.797
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5457,
+                    "bbox": [
+                        2,
+                        10,
+                        91,
+                        18
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                19
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        19
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.947
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6438,
+                    "bbox": [
+                        657,
+                        10,
+                        690,
+                        18
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                657,
+                                10,
+                                689,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        657,
+                                        10,
+                                        689,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "<",
+                                    "score": 0.611
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5345,
+                    "bbox": [
+                        20,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 7,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7742,
+                    "bbox": [
+                        94,
+                        374,
+                        190,
+                        388
+                    ],
+                    "index": 8,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                374,
+                                190,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        374,
+                                        190,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "WCRO7",
+                                    "score": 0.548
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5347,
+                    "bbox": [
+                        558,
+                        377,
+                        645,
+                        384
+                    ],
+                    "index": 9,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                558,
+                                378,
+                                644,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        558,
+                                        378,
+                                        644,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "接近历史记录简体",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.7169,
+                    "bbox": [
+                        12,
+                        25,
+                        91,
+                        32
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                12,
+                                26,
+                                90,
+                                31
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        26,
+                                        90,
+                                        31
+                                    ],
+                                    "type": "text",
+                                    "content": "要将输入定向到此虚拟机，请按Ctrl+G。",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        12,
+                        26,
+                        90,
+                        31
+                    ]
+                },
+                {
+                    "score": 0.8203,
+                    "bbox": [
+                        547,
+                        358,
+                        689,
+                        371
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                547,
+                                359,
+                                687,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        547,
+                                        359,
+                                        687,
+                                        364
+                                    ],
+                                    "type": "text",
+                                    "content": "在该系统上全局禁用了虚拟打印功能，不会为该虚拟机启用此功能。X",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                551,
+                                366,
+                                618,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        551,
+                                        366,
+                                        618,
+                                        371
+                                    ],
+                                    "type": "text",
+                                    "content": "虚拟设备”serial0\"将开始断开连接。",
+                                    "score": 0.955
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        547,
+                        359,
+                        687,
+                        371
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

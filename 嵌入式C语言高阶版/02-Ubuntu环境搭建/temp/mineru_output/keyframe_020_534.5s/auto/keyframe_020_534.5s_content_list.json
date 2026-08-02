@@ -1,0 +1,134 @@
+[
+    {
+        "type": "text",
+        "text": "33422121221 murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy murphy@ubuntu:\\~\\$ murphy@ubuntu:\\~\\$ murphy@ubuntu:\\~\\$ murphy@ubuntu:\\~\\$ ls -l total 32",
+        "bbox": [
+            95,
+            118,
+            228,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            0,
+            448,
+            186,
+            595
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "drwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Desktop   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Documents   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Downloads   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Music   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Pictures   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Public   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Templates   \ndrwxr-xr-x 2 murphy murphy 4096 Jul 21 00:54 Videos   \nmurphy@ubuntu:\\~\\$ cd Videos   \nmurphy@ubuntu:\\~/Videos\\$ ls   \nmurphy@ubuntu:\\~/Videos\\$ cd   \nmurphy@ubuntu:\\~\\$",
+        "bbox": [
+            0,
+            592,
+            455,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "搜索",
+        "bbox": [
+            2,
+            969,
+            62,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+        "bbox": [
+            0,
+            0,
+            193,
+            18
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Player(P)Ⅱ",
+        "bbox": [
+            0,
+            23,
+            133,
+            48
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            0,
+            54,
+            108,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            939,
+            54,
+            998,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ x",
+        "bbox": [
+            887,
+            79,
+            998,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            134,
+            961,
+            250,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            976,
+            969,
+            991,
+            997
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "29C 局部晴朗 17:39 ^",
+        "bbox": [
+            785,
+            966,
+            969,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "keyframe_001_39.6s": "vmware_install_39.6",
+  "keyframe_004_51.0s": "create_vm_51.0",
+  "keyframe_007_77.2s": "vmware_home_77.2",
+  "keyframe_009_232.4s": "hardware_settings_232.4",
+  "keyframe_015_350.3s": "login_screen_350.3",
+  "keyframe_017_370.9s": "terminal_menu_370.9",
+  "keyframe_018_474.1s": "ls_a_output_474.1",
+  "keyframe_019_508.0s": "ls_l_output_508.0",
+  "keyframe_020_534.5s": "cd_command_534.5",
+  "keyframe_021_542.7s": "ls_la_output_542.7",
+  "keyframe_022_741.2s": "install_vim_741.2"
+}

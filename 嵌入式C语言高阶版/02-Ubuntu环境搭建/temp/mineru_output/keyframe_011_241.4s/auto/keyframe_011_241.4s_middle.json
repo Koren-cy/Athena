@@ -1,0 +1,1809 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5937,
+                    "bbox": [
+                        327,
+                        53,
+                        363,
+                        61
+                    ],
+                    "index": 5,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                53,
+                                363,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        53,
+                                        363,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 00:18",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8952,
+                    "bbox": [
+                        217,
+                        122,
+                        324,
+                        133
+                    ],
+                    "index": 7,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                122,
+                                324,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        122,
+                                        324,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "Make the most of the web",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4669,
+                    "bbox": [
+                        335,
+                        105,
+                        355,
+                        112
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                104,
+                                355,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        104,
+                                        355,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "Install",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.95,
+                    "bbox": [
+                        225,
+                        150,
+                        307,
+                        192
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                151,
+                                293,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        151,
+                                        293,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "Ubuntu includes Firefox, the web",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                157,
+                                296,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        157,
+                                        296,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "browser used by millions of people",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                163,
+                                306,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        163,
+                                        306,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "around the world. And web applications",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                168,
+                                299,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        168,
+                                        299,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "you use frequently (like Facebook or",
+                                    "score": 0.977
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                174,
+                                300,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        174,
+                                        300,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "Gmail, for example) can be pinned to",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                180,
+                                304,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        180,
+                                        304,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "your desktop for faster access, just like",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                186,
+                                273,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        186,
+                                        273,
+                                        190
+                                    ],
+                                    "type": "text",
+                                    "content": "apps on your computer.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7109,
+                    "bbox": [
+                        226,
+                        198,
+                        264,
+                        204
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                198,
+                                264,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        198,
+                                        264,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "Included software",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        317,
+                        150,
+                        480,
+                        192
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5303,
+                            "bbox": [
+                                317,
+                                150,
+                                480,
+                                192
+                            ],
+                            "index": 11,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        317,
+                                        150,
+                                        480,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                317,
+                                                150,
+                                                480,
+                                                192
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ced4b911c55bc7381d982735413d6d12c777ae8c83c87158d4e2898785de524b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "score": 0.5303
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        228,
+                        207,
+                        236,
+                        216
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6891,
+                            "bbox": [
+                                228,
+                                207,
+                                236,
+                                216
+                            ],
+                            "index": 12,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        228,
+                                        207,
+                                        236,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                228,
+                                                207,
+                                                236,
+                                                216
+                                            ],
+                                            "type": "image",
+                                            "image_path": "205ff0c52a31d953bb00f4e174cabaf3d5ebd129f0b0e823e21fa09cfe9b33b2.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.6891
+                },
+                {
+                    "score": 0.8173,
+                    "bbox": [
+                        239,
+                        207,
+                        282,
+                        215
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                207,
+                                282,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        207,
+                                        282,
+                                        215
+                                    ],
+                                    "type": "text",
+                                    "content": "Firefox web browser",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        219,
+                        236,
+                        228
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.748,
+                            "bbox": [
+                                226,
+                                219,
+                                236,
+                                228
+                            ],
+                            "index": 14,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        219,
+                                        236,
+                                        228
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                219,
+                                                236,
+                                                228
+                                            ],
+                                            "type": "image",
+                                            "image_path": "81f5a7682e20e24ce20e21f81c470b6357e157e2b68e5ad0b57f70b0624bc79a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "score": 0.748
+                },
+                {
+                    "score": 0.7739,
+                    "bbox": [
+                        239,
+                        220,
+                        267,
+                        227
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                220,
+                                267,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        220,
+                                        267,
+                                        228
+                                    ],
+                                    "type": "text",
+                                    "content": "Thunderbird",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7874,
+                    "bbox": [
+                        225,
+                        232,
+                        268,
+                        239
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                225,
+                                231,
+                                268,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        231,
+                                        268,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "Supported software",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        241,
+                        237,
+                        251
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7629,
+                            "bbox": [
+                                226,
+                                241,
+                                237,
+                                251
+                            ],
+                            "index": 17,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        241,
+                                        237,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                241,
+                                                237,
+                                                251
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eeda1f57e026262c875a1545817e4527d9522f4665ec73fb7b22e9695bff6d1a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "score": 0.7629
+                },
+                {
+                    "score": 0.7506,
+                    "bbox": [
+                        238,
+                        243,
+                        262,
+                        250
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                237,
+                                242,
+                                263,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        237,
+                                        242,
+                                        263,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "Chromium",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8269,
+                    "bbox": [
+                        217,
+                        281,
+                        280,
+                        289
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                281,
+                                280,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        281,
+                                        280,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "Configuring hardware.",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8282,
+                    "bbox": [
+                        320,
+                        209,
+                        365,
+                        231
+                    ],
+                    "index": 20,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                320,
+                                208,
+                                365,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        208,
+                                        365,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "Ubuntu for",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                218,
+                                365,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        218,
+                                        365,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "desktops",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7465,
+                    "bbox": [
+                        276,
+                        233,
+                        445,
+                        277
+                    ],
+                    "index": 21,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                269,
+                                228,
+                                450,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        269,
+                                        228,
+                                        450,
+                                        284
+                                    ],
+                                    "type": "text",
+                                    "content": "加速中≥≥",
+                                    "score": 0.955
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.455,
+                    "bbox": [
+                        647,
+                        375,
+                        670,
+                        388
+                    ],
+                    "index": 1,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                650,
+                                375,
+                                665,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        650,
+                                        375,
+                                        665,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "15:18",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                647,
+                                380,
+                                670,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        647,
+                                        380,
+                                        670,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "2024/8/31",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8917,
+                    "bbox": [
+                        4,
+                        1,
+                        127,
+                        7
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                4,
+                                1,
+                                125,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        4,
+                                        1,
+                                        125,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "linux - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.633,
+                    "bbox": [
+                        1,
+                        9,
+                        91,
+                        18
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.92
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6894,
+                    "bbox": [
+                        660,
+                        0,
+                        686,
+                        6
+                    ],
+                    "index": 4,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                662,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        669,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.826
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.698
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7168,
+                    "bbox": [
+                        535,
+                        53,
+                        573,
+                        61
+                    ],
+                    "index": 6,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.7719,
+                    "bbox": [
+                        20,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 22,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8781,
+                    "bbox": [
+                        94,
+                        374,
+                        172,
+                        388
+                    ],
+                    "index": 23,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.6813,
+                    "bbox": [
+                        547,
+                        376,
+                        643,
+                        385
+                    ],
+                    "index": 24,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                547,
+                                376,
+                                643,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        547,
+                                        376,
+                                        643,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "31℃多云^物英开",
+                                    "score": 0.759
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5937,
+                    "bbox": [
+                        327,
+                        53,
+                        363,
+                        61
+                    ],
+                    "index": 5,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                53,
+                                363,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        53,
+                                        363,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 00:18",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8952,
+                    "bbox": [
+                        217,
+                        122,
+                        324,
+                        133
+                    ],
+                    "index": 7,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                122,
+                                324,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        122,
+                                        324,
+                                        133
+                                    ],
+                                    "type": "text",
+                                    "content": "Make the most of the web",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4669,
+                    "bbox": [
+                        335,
+                        105,
+                        355,
+                        112
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                104,
+                                355,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        104,
+                                        355,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "Install",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.95,
+                    "bbox": [
+                        225,
+                        150,
+                        307,
+                        192
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                151,
+                                293,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        151,
+                                        293,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "Ubuntu includes Firefox, the web",
+                                    "score": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                157,
+                                296,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        157,
+                                        296,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "browser used by millions of people",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                163,
+                                306,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        163,
+                                        306,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "around the world. And web applications",
+                                    "score": 0.987
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                168,
+                                299,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        168,
+                                        299,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "you use frequently (like Facebook or",
+                                    "score": 0.977
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                174,
+                                300,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        174,
+                                        300,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "Gmail, for example) can be pinned to",
+                                    "score": 0.998
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                180,
+                                304,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        180,
+                                        304,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "your desktop for faster access, just like",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                186,
+                                273,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        186,
+                                        273,
+                                        190
+                                    ],
+                                    "type": "text",
+                                    "content": "apps on your computer.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        226,
+                        151,
+                        306,
+                        190
+                    ]
+                },
+                {
+                    "score": 0.7109,
+                    "bbox": [
+                        226,
+                        198,
+                        264,
+                        204
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                198,
+                                264,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        198,
+                                        264,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "Included software",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        226,
+                        198,
+                        264,
+                        205
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        317,
+                        150,
+                        480,
+                        192
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.5303,
+                            "bbox": [
+                                317,
+                                150,
+                                480,
+                                192
+                            ],
+                            "index": 11,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        317,
+                                        150,
+                                        480,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                317,
+                                                150,
+                                                480,
+                                                192
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ced4b911c55bc7381d982735413d6d12c777ae8c83c87158d4e2898785de524b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "score": 0.5303
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        228,
+                        207,
+                        236,
+                        216
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.6891,
+                            "bbox": [
+                                228,
+                                207,
+                                236,
+                                216
+                            ],
+                            "index": 12,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        228,
+                                        207,
+                                        236,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                228,
+                                                207,
+                                                236,
+                                                216
+                                            ],
+                                            "type": "image",
+                                            "image_path": "205ff0c52a31d953bb00f4e174cabaf3d5ebd129f0b0e823e21fa09cfe9b33b2.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.6891
+                },
+                {
+                    "score": 0.8173,
+                    "bbox": [
+                        239,
+                        207,
+                        282,
+                        215
+                    ],
+                    "index": 13,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                207,
+                                282,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        207,
+                                        282,
+                                        215
+                                    ],
+                                    "type": "text",
+                                    "content": "Firefox web browser",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        238,
+                        207,
+                        282,
+                        215
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        219,
+                        236,
+                        228
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.748,
+                            "bbox": [
+                                226,
+                                219,
+                                236,
+                                228
+                            ],
+                            "index": 14,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        219,
+                                        236,
+                                        228
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                219,
+                                                236,
+                                                228
+                                            ],
+                                            "type": "image",
+                                            "image_path": "81f5a7682e20e24ce20e21f81c470b6357e157e2b68e5ad0b57f70b0624bc79a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "score": 0.748
+                },
+                {
+                    "score": 0.7739,
+                    "bbox": [
+                        239,
+                        220,
+                        267,
+                        227
+                    ],
+                    "index": 15,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                220,
+                                267,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        220,
+                                        267,
+                                        228
+                                    ],
+                                    "type": "text",
+                                    "content": "Thunderbird",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        238,
+                        220,
+                        267,
+                        228
+                    ]
+                },
+                {
+                    "score": 0.7874,
+                    "bbox": [
+                        225,
+                        232,
+                        268,
+                        239
+                    ],
+                    "index": 16,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                225,
+                                231,
+                                268,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        231,
+                                        268,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "Supported software",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        225,
+                        231,
+                        268,
+                        239
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        241,
+                        237,
+                        251
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7629,
+                            "bbox": [
+                                226,
+                                241,
+                                237,
+                                251
+                            ],
+                            "index": 17,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        241,
+                                        237,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                241,
+                                                237,
+                                                251
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eeda1f57e026262c875a1545817e4527d9522f4665ec73fb7b22e9695bff6d1a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "score": 0.7629
+                },
+                {
+                    "score": 0.7506,
+                    "bbox": [
+                        238,
+                        243,
+                        262,
+                        250
+                    ],
+                    "index": 18,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                237,
+                                242,
+                                263,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        237,
+                                        242,
+                                        263,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "Chromium",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        237,
+                        242,
+                        263,
+                        251
+                    ]
+                },
+                {
+                    "score": 0.8269,
+                    "bbox": [
+                        217,
+                        281,
+                        280,
+                        289
+                    ],
+                    "index": 19,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                281,
+                                280,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        281,
+                                        280,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "Configuring hardware.",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        217,
+                        281,
+                        280,
+                        290
+                    ]
+                },
+                {
+                    "score": 0.8282,
+                    "bbox": [
+                        320,
+                        209,
+                        365,
+                        231
+                    ],
+                    "index": 20,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                320,
+                                208,
+                                365,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        208,
+                                        365,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "Ubuntu for",
+                                    "score": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                218,
+                                365,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        218,
+                                        365,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "desktops",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7465,
+                    "bbox": [
+                        276,
+                        233,
+                        445,
+                        277
+                    ],
+                    "index": 21,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                269,
+                                228,
+                                450,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        269,
+                                        228,
+                                        450,
+                                        284
+                                    ],
+                                    "type": "text",
+                                    "content": "加速中≥≥",
+                                    "score": 0.955
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,216 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.518748] piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!"
+                    }
+                ]
+            },
+            "bbox": [
+                309,
+                213,
+                603,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.071181] sd 32:0:0:0: [sda] Assuming drive cache: write through"
+                    }
+                ]
+            },
+            "bbox": [
+                308,
+                229,
+                581,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "/dev/sda5: clean, 195155/1277952 files, 2233618/5111040 blocks"
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                244,
+                552,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "12.412366] rc.local[890]: Installing open-vm-tools"
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                257,
+                519,
+                273
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "加速中>>"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                399,
+                605,
+                641,
+                711
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "凸 ×"
+                    }
+                ]
+            },
+            "bbox": [
+                956,
+                0,
+                992,
+                15
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "15:25 2024/8/31"
+                    }
+                ]
+            },
+            "bbox": [
+                936,
+                966,
+                969,
+                1000
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Player(P)Ⅱ"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                23,
+                131,
+                46
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "linux - VMware Workstation 15 Player (仅用于非商业用途)"
+                    }
+                ]
+            },
+            "bbox": [
+                4,
+                2,
+                183,
+                15
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                641,
+                5,
+                651,
+                25
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "搜索"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                971,
+                60,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                136,
+                963,
+                248,
+                1000
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "31℃多云∧英囲"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                971,
+                930,
+                992
+            ]
+        }
+    ]
+]

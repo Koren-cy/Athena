@@ -1,0 +1,92 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    185,
+                    182,
+                    535,
+                    226
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.723,
+                "bbox": [
+                    182,
+                    242,
+                    487,
+                    282
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8079,
+                "bbox": [
+                    185,
+                    298,
+                    1079,
+                    1000
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9367,
+                "bbox": [
+                    185,
+                    1042,
+                    626,
+                    1080
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    184,
+                    529,
+                    225
+                ],
+                "score": 0.999,
+                "text": "2.1.1 VMware安装"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    247,
+                    479,
+                    280
+                ],
+                "score": 1.0,
+                "text": "一路「默认」安装即可"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1044,
+                    618,
+                    1081
+                ],
+                "score": 0.995,
+                "text": "2.1.2 ubuntu虚拟机安装"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

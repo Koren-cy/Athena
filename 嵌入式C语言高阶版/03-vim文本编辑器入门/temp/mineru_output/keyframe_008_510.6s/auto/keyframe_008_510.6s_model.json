@@ -1,0 +1,172 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.598,
+                "bbox": [
+                    4,
+                    3,
+                    210,
+                    23
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.516,
+                "bbox": [
+                    800,
+                    40,
+                    1118,
+                    62
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7105,
+                "bbox": [
+                    1710,
+                    32,
+                    1915,
+                    66
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6929,
+                "bbox": [
+                    0,
+                    75,
+                    730,
+                    107
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7352,
+                "bbox": [
+                    0,
+                    108,
+                    731,
+                    139
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7503,
+                "bbox": [
+                    0,
+                    140,
+                    792,
+                    171
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7222,
+                "bbox": [
+                    1,
+                    172,
+                    602,
+                    205
+                ],
+                "index": 7
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    4,
+                    209,
+                    22
+                ],
+                "score": 1.0,
+                "text": "ActivitiesTerminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    40,
+                    1117,
+                    61
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1708,
+                    31,
+                    1915,
+                    68
+                ],
+                "score": 0.812,
+                "text": "Q ≡ - □ "
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    73,
+                    730,
+                    107
+                ],
+                "score": 0.999,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    109,
+                    729,
+                    137
+                ],
+                "score": 0.99,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    141,
+                    790,
+                    169
+                ],
+                "score": 0.992,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vimtutor zh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    173,
+                    600,
+                    204
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

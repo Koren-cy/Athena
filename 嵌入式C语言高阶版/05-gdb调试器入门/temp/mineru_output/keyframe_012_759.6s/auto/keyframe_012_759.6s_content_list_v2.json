@@ -1,0 +1,318 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(gdb) run Starting program: /home/workspace/lesson/bin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                0,
+                69,
+                370,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Breakpoint 1, main () at 1.c:8 printf(\"hello world \\n\");"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                154,
+                344,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 #include <stdio.h>"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                67,
+                685,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "int main(void)"
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                123,
+                651,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "int b;"
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                180,
+                617,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b = 20;"
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                244,
+                626,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "printf(\"hello world \\n\");"
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                275,
+                777,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "return 0;"
+                    }
+                ]
+            },
+            "bbox": [
+                564,
+                306,
+                642,
+                337
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sep 1 19:40"
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                0,
+                535,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                1,
+                30,
+                34,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                940,
+                0,
+                997,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                108,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu: /home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                36,
+                332,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q 三 - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                387,
+                25,
+                535,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                36,
+                832,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                997,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": ":set nu"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                961,
+                561,
+                987
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5,1-4"
+                    }
+                ]
+            },
+            "bbox": [
+                837,
+                958,
+                887,
+                989
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "All"
+                    }
+                ]
+            },
+            "bbox": [
+                956,
+                958,
+                984,
+                987
+            ]
+        }
+    ]
+]

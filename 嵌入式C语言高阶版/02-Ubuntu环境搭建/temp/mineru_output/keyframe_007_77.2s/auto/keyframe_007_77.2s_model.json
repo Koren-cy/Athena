@@ -1,0 +1,544 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.4997,
+                "bbox": [
+                    1876,
+                    1048,
+                    1904,
+                    1076
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8843,
+                "bbox": [
+                    7,
+                    2,
+                    313,
+                    20
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.6479,
+                "bbox": [
+                    1835,
+                    1,
+                    1908,
+                    18
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5822,
+                "bbox": [
+                    5,
+                    28,
+                    253,
+                    51
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6581,
+                "bbox": [
+                    24,
+                    78,
+                    53,
+                    107
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5038,
+                "bbox": [
+                    52,
+                    84,
+                    83,
+                    104
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.508,
+                "bbox": [
+                    54,
+                    120,
+                    101,
+                    158
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9492,
+                "bbox": [
+                    379,
+                    76,
+                    862,
+                    104
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9151,
+                "bbox": [
+                    382,
+                    128,
+                    429,
+                    174
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9423,
+                "bbox": [
+                    454,
+                    127,
+                    586,
+                    148
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.938,
+                "bbox": [
+                    453,
+                    156,
+                    717,
+                    174
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9235,
+                "bbox": [
+                    378,
+                    210,
+                    429,
+                    256
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9392,
+                "bbox": [
+                    453,
+                    209,
+                    569,
+                    231
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9387,
+                "bbox": [
+                    452,
+                    238,
+                    730,
+                    256
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8373,
+                "bbox": [
+                    380,
+                    289,
+                    430,
+                    340
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9392,
+                "bbox": [
+                    453,
+                    291,
+                    744,
+                    312
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9325,
+                "bbox": [
+                    452,
+                    319,
+                    657,
+                    337
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9185,
+                "bbox": [
+                    379,
+                    372,
+                    430,
+                    422
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9187,
+                "bbox": [
+                    453,
+                    373,
+                    516,
+                    394
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9228,
+                "bbox": [
+                    453,
+                    402,
+                    537,
+                    420
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.6721,
+                "bbox": [
+                    390,
+                    973,
+                    421,
+                    1007
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5687,
+                "bbox": [
+                    451,
+                    990,
+                    947,
+                    1008
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.8357,
+                "bbox": [
+                    56,
+                    1048,
+                    119,
+                    1070
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9108,
+                "bbox": [
+                    262,
+                    1040,
+                    527,
+                    1077
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.5845,
+                "bbox": [
+                    1466,
+                    1049,
+                    1492,
+                    1073
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9273,
+                "bbox": [
+                    1496,
+                    1049,
+                    1792,
+                    1069
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.518,
+                "bbox": [
+                    1799,
+                    1062,
+                    1862,
+                    1078
+                ],
+                "index": 27
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    6,
+                    1,
+                    311,
+                    19
+                ],
+                "score": 0.997,
+                "text": "VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1886,
+                    1,
+                    1905,
+                    19
+                ],
+                "score": 0.855,
+                "text": "×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1842,
+                    3,
+                    1857,
+                    17
+                ],
+                "score": 0.562,
+                "text": "凸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    25,
+                    253,
+                    55
+                ],
+                "score": 0.881,
+                "text": "Player(e)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    49,
+                    82,
+                    84,
+                    105
+                ],
+                "score": 1.0,
+                "text": "主页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    55,
+                    121,
+                    100,
+                    136
+                ],
+                "score": 1.0,
+                "text": "murphy"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    382,
+                    77,
+                    859,
+                    104
+                ],
+                "score": 0.998,
+                "text": "欢迎使用 VMware Workstation 15 Player"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    456,
+                    128,
+                    584,
+                    148
+                ],
+                "score": 1.0,
+                "text": "创建新虚拟机(N)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    457,
+                    158,
+                    714,
+                    171
+                ],
+                "score": 0.98,
+                "text": "创建新虚拟机，该虚拟机随后将添加到库的顶部。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    210,
+                    568,
+                    232
+                ],
+                "score": 0.967,
+                "text": "打开虚拟机(O)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    455,
+                    241,
+                    727,
+                    253
+                ],
+                "score": 0.977,
+                "text": "打开现有虚拟机，该虚拟机随后将添加到库的顶部。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    455,
+                    293,
+                    742,
+                    312
+                ],
+                "score": 0.985,
+                "text": "升级到 VMware Workstation Pro(U)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    453,
+                    318,
+                    656,
+                    336
+                ],
+                "score": 1.0,
+                "text": "获取快照、虚拟网络管理等高级功能。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    452,
+                    373,
+                    516,
+                    397
+                ],
+                "score": 1.0,
+                "text": "帮助(E)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    455,
+                    405,
+                    535,
+                    417
+                ],
+                "score": 1.0,
+                "text": "查看联机帮助。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    456,
+                    993,
+                    942,
+                    1005
+                ],
+                "score": 0.975,
+                "text": "该产品未获许可，仅授权用干非商业用途。如果用于商业用途，请购买许可证。立即购买。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    1044,
+                    120,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1496,
+                    1050,
+                    1791,
+                    1068
+                ],
+                "score": 0.997,
+                "text": "富时中国A50+1.40%简体"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1797,
+                    1060,
+                    1862,
+                    1079
+                ],
+                "score": 1.0,
+                "text": "2024/8/31"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,159 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 调试环境搭建"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                92,
+                285,
+                144
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本课程是基于VMware搭建的ubuntu环境上，进行编码、编译、调试。"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                164,
+                552,
+                201
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 ubuntu环境搭建"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                244,
+                302,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "安装包地址："
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                306,
+                183,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "链接：链接：https://pan.baidu.com/s/1OPbYD6KJOcebZh-fjKpQXg?pwd=embe"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                355,
+                628,
+                394
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "提取码：embe"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                407,
+                199,
+                443
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eb23057238f404a0df4f1ae94665e76729cc10edd3685a7b88dace770b444729.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                101,
+                474,
+                460,
+                729
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.1 VMware安装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                817,
+                277,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一路「默认」安装即可"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                873,
+                251,
+                909
+            ]
+        }
+    ]
+]

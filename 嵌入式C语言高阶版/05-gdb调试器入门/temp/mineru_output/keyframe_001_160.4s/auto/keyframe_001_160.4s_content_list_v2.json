@@ -1,0 +1,314 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.4 程序调试器gdb"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                96,
+                43,
+                286,
+                87
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.4.1 gdb简介"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                131,
+                235,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "gdb是GNU Project Debugger的简称，也是GNU(GNU's Not Unix)开源项目中遵循GPL发行许可证的free software。掌握gdb调试技巧，在项目上遇到问题才会得心应手。gdb 官方网站(https://sourceware.org/gdb/)"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                188,
+                892,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一般来说，GDB主要能够提供以下四个方面的帮助："
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                280,
+                441,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                332,
+                833,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Start your program, specifying anything that might affect its behavior.(指定—些参数)"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                384,
+                697,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Make your program stop on specified conditions. (断点)"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                435,
+                497,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Examine what has happened, when your program has stopped.(分析crash现场)"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                487,
+                659,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn about another.(直接修改程序，看结果)"
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                536,
+                869,
+                615
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "GDB: The GNU Project Debugger [bugs] [maintainers] [contributing] [current git] [documentation] [download] [home] [irc] [links] [mailing lists] [news] [schedule] [song] [wiki] GDB: The GNU Project Debugger"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                263,
+                701,
+                639,
+                801
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "What is GDB?"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                98,
+                811,
+                157,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GDB, the GNU Project debugger, allows you to see what is going on inside' another program while it executes -- or what another program was doing at the moment it crashed."
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                840,
+                664,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GDB can do four main kinds of things (plus other things in support of these) to help you catch bugs in the act:"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                868,
+                455,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Start your program, specifying anything that might affect its behavior."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                896,
+                344,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Make your program stop on specified conditions."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                912,
+                279,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Examine what has happened, when your program has stopped."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                930,
+                321,
+                945
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "• Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn about another."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                943,
+                529,
+                963
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Those programs might be executing on the same machine as GDB (native), on another machine (remote), or on a simulator. GDB can run on most popular UNIX and Microsoft Windows variants, as well as on macOS"
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                969,
+                785,
+                989
+            ]
+        }
+    ]
+]

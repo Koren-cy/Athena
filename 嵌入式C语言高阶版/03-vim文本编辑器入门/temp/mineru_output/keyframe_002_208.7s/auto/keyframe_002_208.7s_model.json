@@ -1,0 +1,264 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4613,
+                "bbox": [
+                    3,
+                    2,
+                    210,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6055,
+                "bbox": [
+                    799,
+                    39,
+                    1120,
+                    63
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6068,
+                "bbox": [
+                    1708,
+                    31,
+                    1917,
+                    67
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5748,
+                "bbox": [
+                    0,
+                    74,
+                    1002,
+                    108
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4996,
+                "bbox": [
+                    0,
+                    107,
+                    439,
+                    140
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6484,
+                "bbox": [
+                    0,
+                    139,
+                    473,
+                    172
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6678,
+                "bbox": [
+                    0,
+                    171,
+                    396,
+                    203
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6981,
+                "bbox": [
+                    0,
+                    202,
+                    539,
+                    235
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7229,
+                "bbox": [
+                    0,
+                    234,
+                    948,
+                    267
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7258,
+                "bbox": [
+                    0,
+                    266,
+                    1012,
+                    301
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5642,
+                "bbox": [
+                    0,
+                    300,
+                    602,
+                    333
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    3,
+                    208,
+                    23
+                ],
+                "score": 0.974,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    40,
+                    1118,
+                    61
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1706,
+                    31,
+                    1917,
+                    68
+                ],
+                "score": 0.691,
+                "text": "Q ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    75,
+                    1001,
+                    106
+                ],
+                "score": 0.997,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install vim"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    103,
+                    433,
+                    142
+                ],
+                "score": 0.999,
+                "text": "[sudo] password for murphy:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    140,
+                    465,
+                    171
+                ],
+                "score": 0.999,
+                "text": "Reading package lists... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    172,
+                    385,
+                    202
+                ],
+                "score": 0.984,
+                "text": "Building dependency tree"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    202,
+                    530,
+                    234
+                ],
+                "score": 0.982,
+                "text": "Reading state information... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    236,
+                    940,
+                    264
+                ],
+                "score": 0.987,
+                "text": "vim is already the newest version (2:8.1.2269-1ubuntu5.23)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -3,
+                    266,
+                    1008,
+                    297
+                ],
+                "score": 0.997,
+                "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    301,
+                    601,
+                    332
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson$"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

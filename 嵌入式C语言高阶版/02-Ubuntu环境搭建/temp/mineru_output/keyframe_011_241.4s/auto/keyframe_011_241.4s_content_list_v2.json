@@ -1,0 +1,403 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Aug 31 00:18"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                473,
+                136,
+                525,
+                157
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Make the most of the web"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                314,
+                314,
+                468,
+                342
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Install"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                484,
+                270,
+                513,
+                288
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ubuntu includes Firefox, the web browser used by millions of people around the world. And web applications you use frequently (like Facebook or Gmail, for example) can be pinned to your desktop for faster access, just like apps on your computer."
+                    }
+                ]
+            },
+            "bbox": [
+                325,
+                386,
+                444,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Included software"
+                    }
+                ]
+            },
+            "bbox": [
+                327,
+                510,
+                382,
+                525
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ced4b911c55bc7381d982735413d6d12c777ae8c83c87158d4e2898785de524b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                458,
+                386,
+                694,
+                494
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/205ff0c52a31d953bb00f4e174cabaf3d5ebd129f0b0e823e21fa09cfe9b33b2.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                329,
+                533,
+                341,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Firefox web browser"
+                    }
+                ]
+            },
+            "bbox": [
+                345,
+                533,
+                408,
+                554
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/81f5a7682e20e24ce20e21f81c470b6357e157e2b68e5ad0b57f70b0624bc79a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                327,
+                564,
+                341,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thunderbird"
+                    }
+                ]
+            },
+            "bbox": [
+                345,
+                567,
+                386,
+                585
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supported software"
+                    }
+                ]
+            },
+            "bbox": [
+                325,
+                597,
+                387,
+                615
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eeda1f57e026262c875a1545817e4527d9522f4665ec73fb7b22e9695bff6d1a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                327,
+                621,
+                342,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Chromium"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                626,
+                379,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Configuring hardware."
+                    }
+                ]
+            },
+            "bbox": [
+                314,
+                724,
+                405,
+                744
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ubuntu for desktops"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                463,
+                538,
+                528,
+                595
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "加速中≥≥"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                399,
+                600,
+                643,
+                713
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "15:18 2024/8/31"
+                    }
+                ]
+            },
+            "bbox": [
+                936,
+                966,
+                969,
+                1000
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "linux - VMware Workstation 15 Player (仅用于非商业用途)"
+                    }
+                ]
+            },
+            "bbox": [
+                5,
+                2,
+                183,
+                18
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Player(P)Ⅱ"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                23,
+                131,
+                46
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "凸 ×"
+                    }
+                ]
+            },
+            "bbox": [
+                955,
+                0,
+                992,
+                15
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                774,
+                136,
+                829,
+                157
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "搜索"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                971,
+                62,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                136,
+                963,
+                248,
+                1000
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "31℃多云^物英开"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                969,
+                930,
+                992
+            ]
+        }
+    ]
+]

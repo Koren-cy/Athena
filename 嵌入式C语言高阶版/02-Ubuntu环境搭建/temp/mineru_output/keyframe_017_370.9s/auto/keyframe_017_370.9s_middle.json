@@ -1,0 +1,4221 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5678,
+                    "bbox": [
+                        327,
+                        21,
+                        371,
+                        29
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                327,
+                                21,
+                                371,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        21,
+                                        371,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 02:36",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7106,
+                    "bbox": [
+                        288,
+                        41,
+                        336,
+                        49
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                288,
+                                41,
+                                336,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        41,
+                                        336,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "Q Type to search",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        161,
+                        81,
+                        189,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8382,
+                            "bbox": [
+                                161,
+                                81,
+                                189,
+                                114
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        81,
+                                        189,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                161,
+                                                81,
+                                                189,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e439ef65563a91ca7b013bcee567cb41e1c83d8690bc06e753411456423661a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8941,
+                            "bbox": [
+                                161,
+                                116,
+                                188,
+                                124
+                            ],
+                            "index": 8,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        115,
+                                        189,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                115,
+                                                189,
+                                                124
+                                            ],
+                                            "type": "text",
+                                            "content": "Mahjongg",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.8382
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        225,
+                        80,
+                        259,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9134,
+                            "bbox": [
+                                225,
+                                80,
+                                259,
+                                114
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        80,
+                                        259,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                80,
+                                                259,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "67b4086fef332ee73c07cea635101acfca9c5067b18023d225351dfeaf8b559b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8951,
+                            "bbox": [
+                                234,
+                                117,
+                                251,
+                                123
+                            ],
+                            "index": 10,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        233,
+                                        115,
+                                        251,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                233,
+                                                115,
+                                                251,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Mines",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.9134
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        292,
+                        79,
+                        328,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8998,
+                            "bbox": [
+                                292,
+                                79,
+                                328,
+                                114
+                            ],
+                            "index": 11,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        79,
+                                        328,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                292,
+                                                79,
+                                                328,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b3c0c941227d801c7dcd24e6dc3733455a1d3cfeeae41716a80acdc276e99325.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9038,
+                            "bbox": [
+                                289,
+                                116,
+                                332,
+                                123
+                            ],
+                            "index": 12,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        116,
+                                        332,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                288,
+                                                116,
+                                                332,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Passwords and...",
+                                            "score": 0.993
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "score": 0.8998
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        83,
+                        397,
+                        111
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8742,
+                            "bbox": [
+                                360,
+                                83,
+                                397,
+                                111
+                            ],
+                            "index": 13,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        83,
+                                        397,
+                                        111
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                83,
+                                                397,
+                                                111
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3b353e9c37b141477c58e5589f40e6ec1f3e5287bb215cd38f754071130ed4a3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9013,
+                            "bbox": [
+                                358,
+                                116,
+                                398,
+                                123
+                            ],
+                            "index": 14,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        357,
+                                        116,
+                                        399,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                357,
+                                                116,
+                                                399,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Power Statistics",
+                                            "score": 0.998
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "score": 0.8742
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        78,
+                        464,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9196,
+                            "bbox": [
+                                428,
+                                78,
+                                464,
+                                114
+                            ],
+                            "index": 15,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        78,
+                                        464,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                78,
+                                                464,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f6920cbf7c55ece72ce67e804e14761ef44f0a1789b2f71ebd7fa2a524215e60.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9033,
+                            "bbox": [
+                                433,
+                                116,
+                                458,
+                                123
+                            ],
+                            "index": 16,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        432,
+                                        116,
+                                        458,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                432,
+                                                116,
+                                                458,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Remmina",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "score": 0.9196
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        498,
+                        80,
+                        528,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9122,
+                            "bbox": [
+                                498,
+                                80,
+                                528,
+                                114
+                            ],
+                            "index": 17,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        498,
+                                        80,
+                                        528,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                498,
+                                                80,
+                                                528,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ad887bb6a4806252b45a00d55b6d09adf8b47426d05b21732b21ac9b19d574cf.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9063,
+                            "bbox": [
+                                498,
+                                116,
+                                529,
+                                123
+                            ],
+                            "index": 18,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        497,
+                                        115,
+                                        529,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                497,
+                                                115,
+                                                529,
+                                                124
+                                            ],
+                                            "type": "text",
+                                            "content": "Rhythmbox",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "score": 0.9122
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        159,
+                        148,
+                        191,
+                        182
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8918,
+                            "bbox": [
+                                159,
+                                148,
+                                191,
+                                182
+                            ],
+                            "index": 19,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        148,
+                                        191,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                159,
+                                                148,
+                                                191,
+                                                182
+                                            ],
+                                            "type": "image",
+                                            "image_path": "980107fd8ff3efe21761e7efb57999428df6bbe0dee446294d983f1f2fb98392.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8852,
+                            "bbox": [
+                                159,
+                                184,
+                                190,
+                                190
+                            ],
+                            "index": 20,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        183,
+                                        190,
+                                        190
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                159,
+                                                183,
+                                                190,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "Screenshot",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "score": 0.8918
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        147,
+                        259,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9138,
+                            "bbox": [
+                                226,
+                                147,
+                                259,
+                                181
+                            ],
+                            "index": 21,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        147,
+                                        259,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                147,
+                                                259,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eebd7060153d9983b1b67c5c5324229dd3d886e7e61b9a917e1673b125aec53a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9019,
+                            "bbox": [
+                                231,
+                                184,
+                                253,
+                                191
+                            ],
+                            "index": 22,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        230,
+                                        183,
+                                        254,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                230,
+                                                183,
+                                                254,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Settings",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "score": 0.9138
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        294,
+                        148,
+                        326,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8788,
+                            "bbox": [
+                                294,
+                                148,
+                                326,
+                                181
+                            ],
+                            "index": 23,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        294,
+                                        148,
+                                        326,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                294,
+                                                148,
+                                                326,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b6fdae0986eb25eceeed08d71422fe3bb6d8e133cf5f0a316f9214c827f010ec.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8907,
+                            "bbox": [
+                                298,
+                                184,
+                                322,
+                                190
+                            ],
+                            "index": 24,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        183,
+                                        322,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                297,
+                                                183,
+                                                322,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Shotwell",
+                                            "score": 0.998
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23,
+                    "score": 0.8788
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        361,
+                        147,
+                        396,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8503,
+                            "bbox": [
+                                361,
+                                147,
+                                396,
+                                181
+                            ],
+                            "index": 25,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        361,
+                                        147,
+                                        396,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                361,
+                                                147,
+                                                396,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "9de4dc9c46078be46af9cb43289b25b4a8384facb6e0de075c0ebec71e51cf29.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9008,
+                            "bbox": [
+                                356,
+                                183,
+                                399,
+                                191
+                            ],
+                            "index": 26,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        183,
+                                        399,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                356,
+                                                183,
+                                                399,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Software & Up...",
+                                            "score": 0.967
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25,
+                    "score": 0.8503
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        147,
+                        463,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8869,
+                            "bbox": [
+                                428,
+                                147,
+                                463,
+                                181
+                            ],
+                            "index": 27,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        147,
+                                        463,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                147,
+                                                463,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c2636c4916c58d62252a759de1b83728991ce0747bd65cb47a72475f7839efeb.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9045,
+                            "bbox": [
+                                423,
+                                184,
+                                468,
+                                191
+                            ],
+                            "index": 28,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        423,
+                                        184,
+                                        468,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                423,
+                                                184,
+                                                468,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Software Upda...",
+                                            "score": 0.962
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "score": 0.8869
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        494,
+                        147,
+                        531,
+                        182
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8971,
+                            "bbox": [
+                                494,
+                                147,
+                                531,
+                                182
+                            ],
+                            "index": 29,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        494,
+                                        147,
+                                        531,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                494,
+                                                147,
+                                                531,
+                                                182
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cf9bcb2e2ea1cf9affed45e8479b9b22b26512a7f1bd1254ff0373ffde26f732.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8929,
+                            "bbox": [
+                                492,
+                                184,
+                                535,
+                                191
+                            ],
+                            "index": 30,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        183,
+                                        535,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                491,
+                                                183,
+                                                535,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Startup Applic...",
+                                            "score": 0.967
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29,
+                    "score": 0.8971
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        154,
+                        213,
+                        189,
+                        249
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8963,
+                            "bbox": [
+                                154,
+                                213,
+                                189,
+                                249
+                            ],
+                            "index": 31,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        154,
+                                        213,
+                                        189,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                154,
+                                                213,
+                                                189,
+                                                249
+                                            ],
+                                            "type": "image",
+                                            "image_path": "22d377d2562b1cb366a0a3b5d1c4cc70ab043508a7424a8339c3cb384485aa2d.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9026,
+                            "bbox": [
+                                152,
+                                251,
+                                196,
+                                258
+                            ],
+                            "index": 32,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        152,
+                                        251,
+                                        196,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                152,
+                                                251,
+                                                196,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Startup Disk Cr...",
+                                            "score": 0.994
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 31,
+                    "score": 0.8963
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        216,
+                        259,
+                        249
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9154,
+                            "bbox": [
+                                226,
+                                216,
+                                259,
+                                249
+                            ],
+                            "index": 33,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        216,
+                                        259,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                216,
+                                                259,
+                                                249
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ade1d130bb03c4c2675bbc68a16882d5f6dcf95747bbd04147d482befe466980.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8948,
+                            "bbox": [
+                                232,
+                                251,
+                                253,
+                                258
+                            ],
+                            "index": 34,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        231,
+                                        250,
+                                        254,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                231,
+                                                250,
+                                                254,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "Sudoku",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33,
+                    "score": 0.9154
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        292,
+                        218,
+                        328,
+                        246
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8917,
+                            "bbox": [
+                                292,
+                                218,
+                                328,
+                                246
+                            ],
+                            "index": 35,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        218,
+                                        328,
+                                        246
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                292,
+                                                218,
+                                                328,
+                                                246
+                                            ],
+                                            "type": "image",
+                                            "image_path": "38654b4fd3acae3bccb5fcc9fe5db992dd30dc7c09042f38c234db676f1824af.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9038,
+                            "bbox": [
+                                289,
+                                252,
+                                331,
+                                258
+                            ],
+                            "index": 36,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        289,
+                                        252,
+                                        330,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                289,
+                                                252,
+                                                330,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "System Monitor",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 35,
+                    "score": 0.8917
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        218,
+                        394,
+                        246
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8138,
+                            "bbox": [
+                                360,
+                                218,
+                                394,
+                                246
+                            ],
+                            "index": 37,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        218,
+                                        394,
+                                        246
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                218,
+                                                394,
+                                                246
+                                            ],
+                                            "type": "image",
+                                            "image_path": "119e58fdebc7f39bd5928fa6979c4c8cf5f7af62d1bd130703933c2577c596c5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8802,
+                            "bbox": [
+                                366,
+                                251,
+                                390,
+                                258
+                            ],
+                            "index": 38,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        251,
+                                        390,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                365,
+                                                251,
+                                                390,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "Terminal",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 37,
+                    "score": 0.8138
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        431,
+                        215,
+                        461,
+                        250
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8788,
+                            "bbox": [
+                                431,
+                                215,
+                                461,
+                                250
+                            ],
+                            "index": 39,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        431,
+                                        215,
+                                        461,
+                                        250
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                431,
+                                                215,
+                                                461,
+                                                250
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e8f7104b1bb573abe6885d12ff95ec869ebac5cf893368653e0d4d5617bbca1c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8985,
+                            "bbox": [
+                                431,
+                                252,
+                                460,
+                                258
+                            ],
+                            "index": 40,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        431,
+                                        251,
+                                        460,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                431,
+                                                251,
+                                                460,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Text Editor",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 39,
+                    "score": 0.8788
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        493,
+                        214,
+                        534,
+                        251
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9184,
+                            "bbox": [
+                                493,
+                                214,
+                                534,
+                                251
+                            ],
+                            "index": 41,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        493,
+                                        214,
+                                        534,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                493,
+                                                214,
+                                                534,
+                                                251
+                                            ],
+                                            "type": "image",
+                                            "image_path": "085ce7454fd71adb8abbb337f8dc8d31ece9e58e7b1631cf635fb1d78c903ad5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9078,
+                            "bbox": [
+                                492,
+                                251,
+                                535,
+                                258
+                            ],
+                            "index": 42,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        251,
+                                        535,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                491,
+                                                251,
+                                                535,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Thunderbird Mail",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 41,
+                    "score": 0.9184
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        160,
+                        282,
+                        190,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8936,
+                            "bbox": [
+                                160,
+                                282,
+                                190,
+                                317
+                            ],
+                            "index": 43,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        282,
+                                        190,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                282,
+                                                190,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "96a0cc66a55d56a826c883e1de2726fc632dc20e7662879c3b7fe29260c2e1d5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8873,
+                            "bbox": [
+                                167,
+                                320,
+                                183,
+                                325
+                            ],
+                            "index": 44,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        319,
+                                        184,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                165,
+                                                319,
+                                                184,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "To Do",
+                                            "score": 0.997
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 43,
+                    "score": 0.8936
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        225,
+                        282,
+                        261,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9093,
+                            "bbox": [
+                                225,
+                                282,
+                                261,
+                                317
+                            ],
+                            "index": 45,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        282,
+                                        261,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                282,
+                                                261,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4766923704d9ec585f7d7a26ee9fc7cc386d72623cc9d39d945249289d4c0b4f.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9173,
+                            "bbox": [
+                                225,
+                                320,
+                                260,
+                                325
+                            ],
+                            "index": 46,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        320,
+                                        259,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                320,
+                                                259,
+                                                325
+                                            ],
+                                            "type": "text",
+                                            "content": "Transmission",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 45,
+                    "score": 0.9093
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        291,
+                        281,
+                        329,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9024,
+                            "bbox": [
+                                291,
+                                281,
+                                329,
+                                313
+                            ],
+                            "index": 47,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        281,
+                                        329,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                291,
+                                                281,
+                                                329,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "01bb04530a068a6bdcd2a6b24b023adc1499e63e8020a3e242e128c3740e378a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9233,
+                            "bbox": [
+                                289,
+                                319,
+                                332,
+                                325
+                            ],
+                            "index": 48,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        319,
+                                        332,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                288,
+                                                319,
+                                                332,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Ubuntu Software",
+                                            "score": 0.981
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 47,
+                    "score": 0.9024
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        285,
+                        396,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8854,
+                            "bbox": [
+                                360,
+                                285,
+                                396,
+                                313
+                            ],
+                            "index": 49,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        285,
+                                        396,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                285,
+                                                396,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1942951ae6883ffc46897fd76e626618cc4c40d05fef2df25fd9e034d0fea5a7.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9057,
+                            "bbox": [
+                                368,
+                                319,
+                                388,
+                                325
+                            ],
+                            "index": 50,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        317,
+                                        388,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                367,
+                                                317,
+                                                388,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Videos",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 49,
+                    "score": 0.8854
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        281,
+                        465,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9131,
+                            "bbox": [
+                                428,
+                                281,
+                                465,
+                                317
+                            ],
+                            "index": 51,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        281,
+                                        465,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                281,
+                                                465,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8089b9347c77bfa725dd18094502528b07bdfb5c367df9fafd00beb33827e0cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8837,
+                            "bbox": [
+                                439,
+                                319,
+                                452,
+                                325
+                            ],
+                            "index": 52,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        438,
+                                        318,
+                                        452,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                438,
+                                                318,
+                                                452,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Vim",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8642,
+                            "bbox": [
+                                309,
+                                353,
+                                334,
+                                360
+                            ],
+                            "index": 53,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        353,
+                                        334,
+                                        361
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                308,
+                                                353,
+                                                334,
+                                                361
+                                            ],
+                                            "type": "text",
+                                            "content": "Frequent",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 51,
+                    "score": 0.9131
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.9096,
+                    "bbox": [
+                        3,
+                        0,
+                        133,
+                        7
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                3,
+                                1,
+                                132,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        1,
+                                        132,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.974
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5691,
+                    "bbox": [
+                        660,
+                        0,
+                        687,
+                        6
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                662,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        669,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.805
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.911
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7407,
+                    "bbox": [
+                        1,
+                        9,
+                        91,
+                        18
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                18
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        18
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.925
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8055,
+                    "bbox": [
+                        650,
+                        21,
+                        689,
+                        29
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.5724,
+                    "bbox": [
+                        3,
+                        377,
+                        13,
+                        385
+                    ],
+                    "index": 54,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                376,
+                                14,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        376,
+                                        14,
+                                        387
+                                    ],
+                                    "type": "text",
+                                    "content": "田",
+                                    "score": 0.984
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.846,
+                    "bbox": [
+                        20,
+                        377,
+                        43,
+                        385
+                    ],
+                    "index": 55,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9139,
+                    "bbox": [
+                        93,
+                        374,
+                        172,
+                        388
+                    ],
+                    "index": 56,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.9151,
+                    "bbox": [
+                        543,
+                        376,
+                        645,
+                        385
+                    ],
+                    "index": 57,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                543,
+                                376,
+                                645,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        543,
+                                        376,
+                                        645,
+                                        385
+                                    ],
+                                    "type": "text",
+                                    "content": "29℃ 局部晴朗  简体",
+                                    "score": 0.871
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6253,
+                    "bbox": [
+                        648,
+                        375,
+                        670,
+                        388
+                    ],
+                    "index": 58,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                651,
+                                375,
+                                665,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        651,
+                                        375,
+                                        665,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "17:36",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                648,
+                                381,
+                                669,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        648,
+                                        381,
+                                        669,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "2024/8/31",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6622,
+                    "bbox": [
+                        675,
+                        377,
+                        685,
+                        387
+                    ],
+                    "index": 59,
+                    "type": "page_number",
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5678,
+                    "bbox": [
+                        327,
+                        21,
+                        371,
+                        29
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                327,
+                                21,
+                                371,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        21,
+                                        371,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "Aug 31 02:36",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        327,
+                        21,
+                        371,
+                        29
+                    ]
+                },
+                {
+                    "score": 0.7106,
+                    "bbox": [
+                        288,
+                        41,
+                        336,
+                        49
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                288,
+                                41,
+                                336,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        41,
+                                        336,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "Q Type to search",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        288,
+                        41,
+                        336,
+                        49
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        161,
+                        81,
+                        189,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8382,
+                            "bbox": [
+                                161,
+                                81,
+                                189,
+                                114
+                            ],
+                            "index": 7,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        161,
+                                        81,
+                                        189,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                161,
+                                                81,
+                                                189,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e439ef65563a91ca7b013bcee567cb41e1c83d8690bc06e753411456423661a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8941,
+                            "bbox": [
+                                161,
+                                116,
+                                188,
+                                124
+                            ],
+                            "index": 8,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        115,
+                                        189,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                115,
+                                                189,
+                                                124
+                                            ],
+                                            "type": "text",
+                                            "content": "Mahjongg",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "score": 0.8382
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        225,
+                        80,
+                        259,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9134,
+                            "bbox": [
+                                225,
+                                80,
+                                259,
+                                114
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        80,
+                                        259,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                80,
+                                                259,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "67b4086fef332ee73c07cea635101acfca9c5067b18023d225351dfeaf8b559b.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8951,
+                            "bbox": [
+                                234,
+                                117,
+                                251,
+                                123
+                            ],
+                            "index": 10,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        233,
+                                        115,
+                                        251,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                233,
+                                                115,
+                                                251,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Mines",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.9134
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        292,
+                        79,
+                        328,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8998,
+                            "bbox": [
+                                292,
+                                79,
+                                328,
+                                114
+                            ],
+                            "index": 11,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        79,
+                                        328,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                292,
+                                                79,
+                                                328,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b3c0c941227d801c7dcd24e6dc3733455a1d3cfeeae41716a80acdc276e99325.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9038,
+                            "bbox": [
+                                289,
+                                116,
+                                332,
+                                123
+                            ],
+                            "index": 12,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        116,
+                                        332,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                288,
+                                                116,
+                                                332,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Passwords and...",
+                                            "score": 0.993
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "score": 0.8998
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        83,
+                        397,
+                        111
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8742,
+                            "bbox": [
+                                360,
+                                83,
+                                397,
+                                111
+                            ],
+                            "index": 13,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        83,
+                                        397,
+                                        111
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                83,
+                                                397,
+                                                111
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3b353e9c37b141477c58e5589f40e6ec1f3e5287bb215cd38f754071130ed4a3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9013,
+                            "bbox": [
+                                358,
+                                116,
+                                398,
+                                123
+                            ],
+                            "index": 14,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        357,
+                                        116,
+                                        399,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                357,
+                                                116,
+                                                399,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Power Statistics",
+                                            "score": 0.998
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "score": 0.8742
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        78,
+                        464,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9196,
+                            "bbox": [
+                                428,
+                                78,
+                                464,
+                                114
+                            ],
+                            "index": 15,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        78,
+                                        464,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                78,
+                                                464,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f6920cbf7c55ece72ce67e804e14761ef44f0a1789b2f71ebd7fa2a524215e60.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9033,
+                            "bbox": [
+                                433,
+                                116,
+                                458,
+                                123
+                            ],
+                            "index": 16,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        432,
+                                        116,
+                                        458,
+                                        123
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                432,
+                                                116,
+                                                458,
+                                                123
+                                            ],
+                                            "type": "text",
+                                            "content": "Remmina",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "score": 0.9196
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        498,
+                        80,
+                        528,
+                        114
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9122,
+                            "bbox": [
+                                498,
+                                80,
+                                528,
+                                114
+                            ],
+                            "index": 17,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        498,
+                                        80,
+                                        528,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                498,
+                                                80,
+                                                528,
+                                                114
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ad887bb6a4806252b45a00d55b6d09adf8b47426d05b21732b21ac9b19d574cf.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9063,
+                            "bbox": [
+                                498,
+                                116,
+                                529,
+                                123
+                            ],
+                            "index": 18,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        497,
+                                        115,
+                                        529,
+                                        124
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                497,
+                                                115,
+                                                529,
+                                                124
+                                            ],
+                                            "type": "text",
+                                            "content": "Rhythmbox",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "score": 0.9122
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        159,
+                        148,
+                        191,
+                        182
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8918,
+                            "bbox": [
+                                159,
+                                148,
+                                191,
+                                182
+                            ],
+                            "index": 19,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        148,
+                                        191,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                159,
+                                                148,
+                                                191,
+                                                182
+                                            ],
+                                            "type": "image",
+                                            "image_path": "980107fd8ff3efe21761e7efb57999428df6bbe0dee446294d983f1f2fb98392.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8852,
+                            "bbox": [
+                                159,
+                                184,
+                                190,
+                                190
+                            ],
+                            "index": 20,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        183,
+                                        190,
+                                        190
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                159,
+                                                183,
+                                                190,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "Screenshot",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "score": 0.8918
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        147,
+                        259,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9138,
+                            "bbox": [
+                                226,
+                                147,
+                                259,
+                                181
+                            ],
+                            "index": 21,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        147,
+                                        259,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                147,
+                                                259,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "eebd7060153d9983b1b67c5c5324229dd3d886e7e61b9a917e1673b125aec53a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9019,
+                            "bbox": [
+                                231,
+                                184,
+                                253,
+                                191
+                            ],
+                            "index": 22,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        230,
+                                        183,
+                                        254,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                230,
+                                                183,
+                                                254,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Settings",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "score": 0.9138
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        294,
+                        148,
+                        326,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8788,
+                            "bbox": [
+                                294,
+                                148,
+                                326,
+                                181
+                            ],
+                            "index": 23,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        294,
+                                        148,
+                                        326,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                294,
+                                                148,
+                                                326,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b6fdae0986eb25eceeed08d71422fe3bb6d8e133cf5f0a316f9214c827f010ec.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8907,
+                            "bbox": [
+                                298,
+                                184,
+                                322,
+                                190
+                            ],
+                            "index": 24,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        183,
+                                        322,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                297,
+                                                183,
+                                                322,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Shotwell",
+                                            "score": 0.998
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23,
+                    "score": 0.8788
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        361,
+                        147,
+                        396,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8503,
+                            "bbox": [
+                                361,
+                                147,
+                                396,
+                                181
+                            ],
+                            "index": 25,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        361,
+                                        147,
+                                        396,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                361,
+                                                147,
+                                                396,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "9de4dc9c46078be46af9cb43289b25b4a8384facb6e0de075c0ebec71e51cf29.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9008,
+                            "bbox": [
+                                356,
+                                183,
+                                399,
+                                191
+                            ],
+                            "index": 26,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        183,
+                                        399,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                356,
+                                                183,
+                                                399,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Software & Up...",
+                                            "score": 0.967
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25,
+                    "score": 0.8503
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        147,
+                        463,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8869,
+                            "bbox": [
+                                428,
+                                147,
+                                463,
+                                181
+                            ],
+                            "index": 27,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        147,
+                                        463,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                147,
+                                                463,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c2636c4916c58d62252a759de1b83728991ce0747bd65cb47a72475f7839efeb.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9045,
+                            "bbox": [
+                                423,
+                                184,
+                                468,
+                                191
+                            ],
+                            "index": 28,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        423,
+                                        184,
+                                        468,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                423,
+                                                184,
+                                                468,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Software Upda...",
+                                            "score": 0.962
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "score": 0.8869
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        494,
+                        147,
+                        531,
+                        182
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8971,
+                            "bbox": [
+                                494,
+                                147,
+                                531,
+                                182
+                            ],
+                            "index": 29,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        494,
+                                        147,
+                                        531,
+                                        182
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                494,
+                                                147,
+                                                531,
+                                                182
+                                            ],
+                                            "type": "image",
+                                            "image_path": "cf9bcb2e2ea1cf9affed45e8479b9b22b26512a7f1bd1254ff0373ffde26f732.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8929,
+                            "bbox": [
+                                492,
+                                184,
+                                535,
+                                191
+                            ],
+                            "index": 30,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        183,
+                                        535,
+                                        191
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                491,
+                                                183,
+                                                535,
+                                                191
+                                            ],
+                                            "type": "text",
+                                            "content": "Startup Applic...",
+                                            "score": 0.967
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29,
+                    "score": 0.8971
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        154,
+                        213,
+                        189,
+                        249
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8963,
+                            "bbox": [
+                                154,
+                                213,
+                                189,
+                                249
+                            ],
+                            "index": 31,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        154,
+                                        213,
+                                        189,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                154,
+                                                213,
+                                                189,
+                                                249
+                                            ],
+                                            "type": "image",
+                                            "image_path": "22d377d2562b1cb366a0a3b5d1c4cc70ab043508a7424a8339c3cb384485aa2d.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9026,
+                            "bbox": [
+                                152,
+                                251,
+                                196,
+                                258
+                            ],
+                            "index": 32,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        152,
+                                        251,
+                                        196,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                152,
+                                                251,
+                                                196,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Startup Disk Cr...",
+                                            "score": 0.994
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 31,
+                    "score": 0.8963
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        226,
+                        216,
+                        259,
+                        249
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9154,
+                            "bbox": [
+                                226,
+                                216,
+                                259,
+                                249
+                            ],
+                            "index": 33,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        216,
+                                        259,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                216,
+                                                259,
+                                                249
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ade1d130bb03c4c2675bbc68a16882d5f6dcf95747bbd04147d482befe466980.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8948,
+                            "bbox": [
+                                232,
+                                251,
+                                253,
+                                258
+                            ],
+                            "index": 34,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        231,
+                                        250,
+                                        254,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                231,
+                                                250,
+                                                254,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "Sudoku",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33,
+                    "score": 0.9154
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        292,
+                        218,
+                        328,
+                        246
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8917,
+                            "bbox": [
+                                292,
+                                218,
+                                328,
+                                246
+                            ],
+                            "index": 35,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        218,
+                                        328,
+                                        246
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                292,
+                                                218,
+                                                328,
+                                                246
+                                            ],
+                                            "type": "image",
+                                            "image_path": "38654b4fd3acae3bccb5fcc9fe5db992dd30dc7c09042f38c234db676f1824af.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9038,
+                            "bbox": [
+                                289,
+                                252,
+                                331,
+                                258
+                            ],
+                            "index": 36,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        289,
+                                        252,
+                                        330,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                289,
+                                                252,
+                                                330,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "System Monitor",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 35,
+                    "score": 0.8917
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        218,
+                        394,
+                        246
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8138,
+                            "bbox": [
+                                360,
+                                218,
+                                394,
+                                246
+                            ],
+                            "index": 37,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        218,
+                                        394,
+                                        246
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                218,
+                                                394,
+                                                246
+                                            ],
+                                            "type": "image",
+                                            "image_path": "119e58fdebc7f39bd5928fa6979c4c8cf5f7af62d1bd130703933c2577c596c5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8802,
+                            "bbox": [
+                                366,
+                                251,
+                                390,
+                                258
+                            ],
+                            "index": 38,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        365,
+                                        251,
+                                        390,
+                                        259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                365,
+                                                251,
+                                                390,
+                                                259
+                                            ],
+                                            "type": "text",
+                                            "content": "Terminal",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 37,
+                    "score": 0.8138
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        431,
+                        215,
+                        461,
+                        250
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8788,
+                            "bbox": [
+                                431,
+                                215,
+                                461,
+                                250
+                            ],
+                            "index": 39,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        431,
+                                        215,
+                                        461,
+                                        250
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                431,
+                                                215,
+                                                461,
+                                                250
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e8f7104b1bb573abe6885d12ff95ec869ebac5cf893368653e0d4d5617bbca1c.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8985,
+                            "bbox": [
+                                431,
+                                252,
+                                460,
+                                258
+                            ],
+                            "index": 40,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        431,
+                                        251,
+                                        460,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                431,
+                                                251,
+                                                460,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Text Editor",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 39,
+                    "score": 0.8788
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        493,
+                        214,
+                        534,
+                        251
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9184,
+                            "bbox": [
+                                493,
+                                214,
+                                534,
+                                251
+                            ],
+                            "index": 41,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        493,
+                                        214,
+                                        534,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                493,
+                                                214,
+                                                534,
+                                                251
+                                            ],
+                                            "type": "image",
+                                            "image_path": "085ce7454fd71adb8abbb337f8dc8d31ece9e58e7b1631cf635fb1d78c903ad5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9078,
+                            "bbox": [
+                                492,
+                                251,
+                                535,
+                                258
+                            ],
+                            "index": 42,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        251,
+                                        535,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                491,
+                                                251,
+                                                535,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "Thunderbird Mail",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 41,
+                    "score": 0.9184
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        160,
+                        282,
+                        190,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8936,
+                            "bbox": [
+                                160,
+                                282,
+                                190,
+                                317
+                            ],
+                            "index": 43,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        282,
+                                        190,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                160,
+                                                282,
+                                                190,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "96a0cc66a55d56a826c883e1de2726fc632dc20e7662879c3b7fe29260c2e1d5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8873,
+                            "bbox": [
+                                167,
+                                320,
+                                183,
+                                325
+                            ],
+                            "index": 44,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        319,
+                                        184,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                165,
+                                                319,
+                                                184,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "To Do",
+                                            "score": 0.997
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 43,
+                    "score": 0.8936
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        225,
+                        282,
+                        261,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9093,
+                            "bbox": [
+                                225,
+                                282,
+                                261,
+                                317
+                            ],
+                            "index": 45,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        282,
+                                        261,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                282,
+                                                261,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4766923704d9ec585f7d7a26ee9fc7cc386d72623cc9d39d945249289d4c0b4f.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9173,
+                            "bbox": [
+                                225,
+                                320,
+                                260,
+                                325
+                            ],
+                            "index": 46,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        320,
+                                        259,
+                                        325
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                225,
+                                                320,
+                                                259,
+                                                325
+                                            ],
+                                            "type": "text",
+                                            "content": "Transmission",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 45,
+                    "score": 0.9093
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        291,
+                        281,
+                        329,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9024,
+                            "bbox": [
+                                291,
+                                281,
+                                329,
+                                313
+                            ],
+                            "index": 47,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        281,
+                                        329,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                291,
+                                                281,
+                                                329,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "01bb04530a068a6bdcd2a6b24b023adc1499e63e8020a3e242e128c3740e378a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9233,
+                            "bbox": [
+                                289,
+                                319,
+                                332,
+                                325
+                            ],
+                            "index": 48,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        319,
+                                        332,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                288,
+                                                319,
+                                                332,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Ubuntu Software",
+                                            "score": 0.981
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 47,
+                    "score": 0.9024
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        360,
+                        285,
+                        396,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8854,
+                            "bbox": [
+                                360,
+                                285,
+                                396,
+                                313
+                            ],
+                            "index": 49,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        285,
+                                        396,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                360,
+                                                285,
+                                                396,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1942951ae6883ffc46897fd76e626618cc4c40d05fef2df25fd9e034d0fea5a7.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.9057,
+                            "bbox": [
+                                368,
+                                319,
+                                388,
+                                325
+                            ],
+                            "index": 50,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        367,
+                                        317,
+                                        388,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                367,
+                                                317,
+                                                388,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Videos",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 49,
+                    "score": 0.8854
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        281,
+                        465,
+                        317
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9131,
+                            "bbox": [
+                                428,
+                                281,
+                                465,
+                                317
+                            ],
+                            "index": 51,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        281,
+                                        465,
+                                        317
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                281,
+                                                465,
+                                                317
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8089b9347c77bfa725dd18094502528b07bdfb5c367df9fafd00beb33827e0cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8837,
+                            "bbox": [
+                                439,
+                                319,
+                                452,
+                                325
+                            ],
+                            "index": 52,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        438,
+                                        318,
+                                        452,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                438,
+                                                318,
+                                                452,
+                                                326
+                                            ],
+                                            "type": "text",
+                                            "content": "Vim",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "score": 0.8642,
+                            "bbox": [
+                                309,
+                                353,
+                                334,
+                                360
+                            ],
+                            "index": 53,
+                            "type": "image_footnote",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        353,
+                                        334,
+                                        361
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                308,
+                                                353,
+                                                334,
+                                                361
+                                            ],
+                                            "type": "text",
+                                            "content": "Frequent",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 51,
+                    "score": 0.9131
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

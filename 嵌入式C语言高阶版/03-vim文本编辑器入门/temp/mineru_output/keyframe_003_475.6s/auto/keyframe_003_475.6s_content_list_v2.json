@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                69,
+                379,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                97,
+                379,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ vimtutor z"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                128,
+                408,
+                159
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ActivitiesTerminal"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                2,
+                108,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                36,
+                581,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                28,
+                997,
+                59
+            ]
+        }
+    ]
+]

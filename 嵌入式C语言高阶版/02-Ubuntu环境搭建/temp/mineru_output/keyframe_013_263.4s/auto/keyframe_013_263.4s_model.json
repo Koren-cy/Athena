@@ -1,0 +1,206 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.79,
+                "bbox": [
+                    6,
+                    2,
+                    372,
+                    20
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6566,
+                "bbox": [
+                    4,
+                    27,
+                    255,
+                    52
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6499,
+                "bbox": [
+                    911,
+                    61,
+                    1010,
+                    81
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5705,
+                "bbox": [
+                    1741,
+                    60,
+                    1915,
+                    81
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4943,
+                "bbox": [
+                    858,
+                    937,
+                    1090,
+                    998
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.7054,
+                "bbox": [
+                    56,
+                    1048,
+                    120,
+                    1070
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.8396,
+                "bbox": [
+                    262,
+                    1038,
+                    480,
+                    1078
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.539,
+                "bbox": [
+                    1509,
+                    1043,
+                    1862,
+                    1078
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    6,
+                    3,
+                    368,
+                    18
+                ],
+                "score": 0.977,
+                "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    7,
+                    27,
+                    251,
+                    51
+                ],
+                "score": 0.878,
+                "text": "Player(P)Ⅱ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    909,
+                    62,
+                    1010,
+                    80
+                ],
+                "score": 0.994,
+                "text": "Aug 31 02:35"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1740,
+                    60,
+                    1915,
+                    80
+                ],
+                "score": 0.556,
+                "text": "方、 凸物 ①、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    851,
+                    936,
+                    1093,
+                    999
+                ],
+                "score": 0.968,
+                "text": "ubuntu®"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1044,
+                    121,
+                    1072
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    261,
+                    1037,
+                    480,
+                    1079
+                ],
+                "score": 0.571,
+                "text": "WCAT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1509,
+                    1042,
+                    1651,
+                    1075
+                ],
+                "score": 0.874,
+                "text": " 29℃ 局部晴朗"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1817,
+                    1045,
+                    1846,
+                    1056
+                ],
+                "score": 1.0,
+                "text": "17:35"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "type": "text",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ vim 1.c   \nmurphy@ubuntu:/home/workspace/lesson\\$ gcc -o bin 1.c -g murphy@ubuntu:/home/workspace/lesson\\$ gdb ./bin   \nGNU gdb (Ubuntu 9.2-0ubuntu1\\~20.04.2) 9.2   \nCopyright (C) 2020 Free Software Foundation, Inc.   \nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/ licenses/gpl.html>   \nThis is free software: you are free to change and redistrib ute it.",
+        "bbox": [
+            0,
+            108,
+            497,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is NO WARRANTY, to the extent permitted by law. Type \"show copying\" and \"show warranty\" for details. This GDB was configured as \"x86 64-linux-gnu\" Type \"show configuration\" for configuration details. For bug reporting instructions, please see: <http://www.gnu.org/software/gdb/bugs/>. Find the GDB manual and other documentation resources onlin e at: <http://www.gnu.org/software/gdb/documentation/>.",
+        "bbox": [
+            0,
+            391,
+            496,
+            667
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For help, type \"help\".   \nType \"apropos word\" to search for commands related to \"word Reading symbols from ./bin...   \n(gdb) q   \nmurphy@ubuntu:/home/workspace/lesson\\$",
+        "bbox": [
+            0,
+            688,
+            494,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#include <stdio.h>",
+        "text_level": 2,
+        "bbox": [
+            494,
+            64,
+            654,
+            100
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int main(void) int b; b = 20; printf(\"hello world \\n\"); return 0;",
+        "bbox": [
+            497,
+            123,
+            746,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            0,
+            0,
+            109,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 19:32",
+        "bbox": [
+            474,
+            0,
+            536,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            163,
+            33,
+            332,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "a = □",
+        "bbox": [
+            387,
+            28,
+            536,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            33,
+            833,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "α ≡ - □ ×",
+        "bbox": [
+            888,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "\"1.c\" 10L, 95C",
+        "bbox": [
+            499,
+            956,
+            620,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            837,
+            956,
+            888,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            956,
+            958,
+            984,
+            987
+        ],
+        "page_idx": 0
+    }
+]

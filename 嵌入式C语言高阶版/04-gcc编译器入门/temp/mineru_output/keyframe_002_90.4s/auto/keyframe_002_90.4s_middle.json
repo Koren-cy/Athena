@@ -1,0 +1,673 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.5778,
+                    "bbox": [
+                        0,
+                        26,
+                        429,
+                        39
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                27,
+                                429,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        27,
+                                        429,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install build-essential",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5737,
+                    "bbox": [
+                        0,
+                        38,
+                        171,
+                        50
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                171,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        171,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5694,
+                    "bbox": [
+                        0,
+                        50,
+                        143,
+                        61
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                142,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        142,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6486,
+                    "bbox": [
+                        0,
+                        61,
+                        194,
+                        73
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                194,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        194,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7108,
+                    "bbox": [
+                        0,
+                        72,
+                        359,
+                        84
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                360,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        360,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "build-essential is already the newest version (12.8ubuntul.1).",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7243,
+                    "bbox": [
+                        0,
+                        84,
+                        364,
+                        96
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                364,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        364,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7516,
+                    "bbox": [
+                        0,
+                        96,
+                        230,
+                        109
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                95,
+                                229,
+                                109
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        95,
+                                        229,
+                                        109
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ g",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5149,
+                    "bbox": [
+                        0,
+                        0,
+                        75,
+                        8
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                1,
+                                75,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        1,
+                                        75,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Activities Terminal",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5991,
+                    "bbox": [
+                        329,
+                        0,
+                        370,
+                        8
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                328,
+                                0,
+                                370,
+                                8
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        0,
+                                        370,
+                                        8
+                                    ],
+                                    "type": "text",
+                                    "content": "Sep 1 05:47",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7498,
+                    "bbox": [
+                        287,
+                        14,
+                        403,
+                        22
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                287,
+                                14,
+                                402,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        287,
+                                        14,
+                                        402,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu: /home/workspace/lesson",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7455,
+                    "bbox": [
+                        614,
+                        11,
+                        689,
+                        24
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                614,
+                                11,
+                                689,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        614,
+                                        11,
+                                        689,
+                                        24
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ x",
+                                    "score": 0.717
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.5778,
+                    "bbox": [
+                        0,
+                        26,
+                        429,
+                        39
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                27,
+                                429,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        27,
+                                        429,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install build-essential",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        27,
+                        429,
+                        38
+                    ]
+                },
+                {
+                    "score": 0.5737,
+                    "bbox": [
+                        0,
+                        38,
+                        171,
+                        50
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                38,
+                                171,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        38,
+                                        171,
+                                        50
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading package lists... Done",
+                                    "score": 0.983
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        38,
+                        171,
+                        50
+                    ]
+                },
+                {
+                    "score": 0.5694,
+                    "bbox": [
+                        0,
+                        50,
+                        143,
+                        61
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                142,
+                                61
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        142,
+                                        61
+                                    ],
+                                    "type": "text",
+                                    "content": "Building dependency tree",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        50,
+                        142,
+                        61
+                    ]
+                },
+                {
+                    "score": 0.6486,
+                    "bbox": [
+                        0,
+                        61,
+                        194,
+                        73
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                61,
+                                194,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        61,
+                                        194,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "Reading state information... Done",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        61,
+                        194,
+                        73
+                    ]
+                },
+                {
+                    "score": 0.7108,
+                    "bbox": [
+                        0,
+                        72,
+                        359,
+                        84
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                72,
+                                360,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        72,
+                                        360,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "build-essential is already the newest version (12.8ubuntul.1).",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        72,
+                        360,
+                        85
+                    ]
+                },
+                {
+                    "score": 0.7243,
+                    "bbox": [
+                        0,
+                        84,
+                        364,
+                        96
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                84,
+                                364,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        84,
+                                        364,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+                                    "score": 0.985
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        84,
+                        364,
+                        96
+                    ]
+                },
+                {
+                    "score": 0.7516,
+                    "bbox": [
+                        0,
+                        96,
+                        230,
+                        109
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                -1,
+                                95,
+                                229,
+                                109
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        -1,
+                                        95,
+                                        229,
+                                        109
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ g",
+                                    "score": 0.998
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        -1,
+                        95,
+                        229,
+                        109
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

@@ -1,0 +1,123 @@
+[
+    {
+        "type": "text",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ sudo apt-get install build-essential",
+        "bbox": [
+            0,
+            67,
+            620,
+            100
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reading package lists... Done",
+        "bbox": [
+            0,
+            97,
+            247,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Building dependency tree",
+        "bbox": [
+            0,
+            128,
+            206,
+            157
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reading state information... Done",
+        "bbox": [
+            0,
+            157,
+            280,
+            188
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "build-essential is already the newest version (12.8ubuntul.1).",
+        "bbox": [
+            0,
+            185,
+            519,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded.",
+        "bbox": [
+            0,
+            216,
+            526,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ g",
+        "bbox": [
+            0,
+            247,
+            332,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            0,
+            0,
+            108,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 05:47",
+        "bbox": [
+            476,
+            0,
+            535,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            415,
+            36,
+            583,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ x",
+        "bbox": [
+            888,
+            28,
+            997,
+            61
+        ],
+        "page_idx": 0
+    }
+]

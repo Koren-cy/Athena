@@ -1,0 +1,233 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6d87736451ecffa05ef7cdd5df56d5736facbc74ef64ac835fd364b5cc8e2cd9.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                5,
+                67,
+                185,
+                945
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b987f6951858bfe670cf53d9290d93863d483018de36eeb90a82186ddf258194.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                202,
+                64,
+                374,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                311,
+                238,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "状态：已关机操作系统：Ubuntu 64位版本：Workstation 15.x 虚拟机RAM: 4 GB"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                358,
+                318,
+                445
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1cad66e8befb3b62b47d67ffd412c02006dff5b4f3610ad5faca1cb0d72842d8.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                476,
+                211,
+                500
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/887e0d0ca9911b8eaedab1dbb5f83af24e93ff7805f07c51e79caafa7086f62e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                512,
+                211,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "播放虚拟机(L)"
+                    }
+                ]
+            },
+            "bbox": [
+                214,
+                479,
+                266,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编辑虚拟机设置(D)"
+                    }
+                ]
+            },
+            "bbox": [
+                214,
+                512,
+                283,
+                536
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "VMware Workstation 15 Player (仅用于非商业用途)"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                163,
+                18
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "凸 ×"
+                    }
+                ]
+            },
+            "bbox": [
+                955,
+                0,
+                994,
+                15
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Player(e)"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                25,
+                131,
+                46
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "搜索"
+                    }
+                ]
+            },
+            "bbox": [
+                28,
+                971,
+                62,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": []
+            },
+            "bbox": [
+                136,
+                963,
+                273,
+                1000
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "富时中国A50+1.40%简体"
+                    }
+                ]
+            },
+            "bbox": [
+                778,
+                971,
+                933,
+                989
+            ]
+        }
+    ]
+]

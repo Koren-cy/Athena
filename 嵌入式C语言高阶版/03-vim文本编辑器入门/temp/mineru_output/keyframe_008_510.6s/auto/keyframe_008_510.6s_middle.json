@@ -1,0 +1,417 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.6929,
+                    "bbox": [
+                        0,
+                        27,
+                        262,
+                        38
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                262,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        262,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7352,
+                    "bbox": [
+                        0,
+                        38,
+                        263,
+                        50
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                39,
+                                262,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        39,
+                                        262,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7503,
+                    "bbox": [
+                        0,
+                        50,
+                        285,
+                        61
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                284,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        284,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vimtutor zh",
+                                    "score": 0.992
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7222,
+                    "bbox": [
+                        0,
+                        61,
+                        216,
+                        73
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                62,
+                                216,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        62,
+                                        216,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.598,
+                    "bbox": [
+                        1,
+                        1,
+                        75,
+                        8
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                1,
+                                1,
+                                75,
+                                7
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1,
+                                        1,
+                                        75,
+                                        7
+                                    ],
+                                    "type": "text",
+                                    "content": "ActivitiesTerminal",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.516,
+                    "bbox": [
+                        288,
+                        14,
+                        402,
+                        22
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                288,
+                                14,
+                                402,
+                                21
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        14,
+                                        402,
+                                        21
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7105,
+                    "bbox": [
+                        615,
+                        11,
+                        689,
+                        23
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                614,
+                                11,
+                                689,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        614,
+                                        11,
+                                        689,
+                                        24
+                                    ],
+                                    "type": "text",
+                                    "content": "Q ≡ - □ ",
+                                    "score": 0.812
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.6929,
+                    "bbox": [
+                        0,
+                        27,
+                        262,
+                        38
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                26,
+                                262,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        26,
+                                        262,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        26,
+                        262,
+                        38
+                    ]
+                },
+                {
+                    "score": 0.7352,
+                    "bbox": [
+                        0,
+                        38,
+                        263,
+                        50
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                39,
+                                262,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        39,
+                                        262,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c",
+                                    "score": 0.99
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        39,
+                        262,
+                        49
+                    ]
+                },
+                {
+                    "score": 0.7503,
+                    "bbox": [
+                        0,
+                        50,
+                        285,
+                        61
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                50,
+                                284,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        50,
+                                        284,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$ vimtutor zh",
+                                    "score": 0.992
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        50,
+                        284,
+                        60
+                    ]
+                },
+                {
+                    "score": 0.7222,
+                    "bbox": [
+                        0,
+                        61,
+                        216,
+                        73
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                62,
+                                216,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        62,
+                                        216,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "murphy@ubuntu:/home/workspace/lesson$",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        0,
+                        62,
+                        216,
+                        73
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

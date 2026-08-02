@@ -1,0 +1,645 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9033,
+                    "bbox": [
+                        214,
+                        83,
+                        417,
+                        89
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                83,
+                                417,
+                                88
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        83,
+                                        417,
+                                        88
+                                    ],
+                                    "type": "text",
+                                    "content": "1.518748] piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8762,
+                    "bbox": [
+                        213,
+                        89,
+                        402,
+                        95
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                89,
+                                401,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        89,
+                                        401,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "2.071181] sd 32:0:0:0: [sda] Assuming drive cache: write through",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8832,
+                    "bbox": [
+                        200,
+                        95,
+                        382,
+                        100
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                95,
+                                381,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        95,
+                                        381,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "/dev/sda5: clean, 195155/1277952 files, 2233618/5111040 blocks",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8528,
+                    "bbox": [
+                        204,
+                        100,
+                        359,
+                        106
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                204,
+                                100,
+                                358,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        204,
+                                        100,
+                                        358,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "12.412366] rc.local[890]: Installing open-vm-tools",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9658,
+                    "bbox": [
+                        276,
+                        235,
+                        443,
+                        276
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                230,
+                                447,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        230,
+                                        447,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "加速中>>",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.4933,
+                    "bbox": [
+                        661,
+                        0,
+                        686,
+                        6
+                    ],
+                    "index": 1,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                662,
+                                0,
+                                685,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        669,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "凸",
+                                    "score": 0.693
+                                },
+                                {
+                                    "bbox": [
+                                        678,
+                                        0,
+                                        685,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "×",
+                                    "score": 0.855
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.4527,
+                    "bbox": [
+                        647,
+                        375,
+                        670,
+                        388
+                    ],
+                    "index": 2,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                650,
+                                375,
+                                665,
+                                380
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        650,
+                                        375,
+                                        665,
+                                        380
+                                    ],
+                                    "type": "text",
+                                    "content": "15:25",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                647,
+                                380,
+                                669,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        647,
+                                        380,
+                                        669,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "2024/8/31",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6639,
+                    "bbox": [
+                        1,
+                        9,
+                        91,
+                        18
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                2,
+                                9,
+                                90,
+                                19
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2,
+                                        9,
+                                        90,
+                                        19
+                                    ],
+                                    "type": "text",
+                                    "content": "Player(P)Ⅱ",
+                                    "score": 0.937
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8662,
+                    "bbox": [
+                        3,
+                        1,
+                        127,
+                        6
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                3,
+                                0,
+                                126,
+                                6
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        3,
+                                        0,
+                                        126,
+                                        6
+                                    ],
+                                    "type": "text",
+                                    "content": "linux - VMware Workstation 15 Player (仅用于非商业用途)",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5755,
+                    "bbox": [
+                        443,
+                        2,
+                        450,
+                        10
+                    ],
+                    "index": 5,
+                    "type": "header",
+                    "lines": []
+                },
+                {
+                    "score": 0.714,
+                    "bbox": [
+                        20,
+                        377,
+                        42,
+                        385
+                    ],
+                    "index": 11,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                19,
+                                376,
+                                43,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        376,
+                                        43,
+                                        386
+                                    ],
+                                    "type": "text",
+                                    "content": "搜索",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8401,
+                    "bbox": [
+                        94,
+                        374,
+                        172,
+                        388
+                    ],
+                    "index": 12,
+                    "type": "footer",
+                    "lines": []
+                },
+                {
+                    "score": 0.7878,
+                    "bbox": [
+                        549,
+                        377,
+                        643,
+                        385
+                    ],
+                    "index": 13,
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "bbox": [
+                                548,
+                                377,
+                                643,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        548,
+                                        377,
+                                        643,
+                                        384
+                                    ],
+                                    "type": "text",
+                                    "content": "31℃多云∧英囲",
+                                    "score": 0.886
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "score": 0.9033,
+                    "bbox": [
+                        214,
+                        83,
+                        417,
+                        89
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                83,
+                                417,
+                                88
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        83,
+                                        417,
+                                        88
+                                    ],
+                                    "type": "text",
+                                    "content": "1.518748] piix4_smbus 0000:00:07.3: SMBus Host Controller not enabled!",
+                                    "score": 0.988
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        214,
+                        83,
+                        417,
+                        88
+                    ]
+                },
+                {
+                    "score": 0.8762,
+                    "bbox": [
+                        213,
+                        89,
+                        402,
+                        95
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                89,
+                                401,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        89,
+                                        401,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "2.071181] sd 32:0:0:0: [sda] Assuming drive cache: write through",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        213,
+                        89,
+                        401,
+                        95
+                    ]
+                },
+                {
+                    "score": 0.8832,
+                    "bbox": [
+                        200,
+                        95,
+                        382,
+                        100
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                95,
+                                381,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        95,
+                                        381,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "/dev/sda5: clean, 195155/1277952 files, 2233618/5111040 blocks",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        201,
+                        95,
+                        381,
+                        100
+                    ]
+                },
+                {
+                    "score": 0.8528,
+                    "bbox": [
+                        204,
+                        100,
+                        359,
+                        106
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                204,
+                                100,
+                                358,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        204,
+                                        100,
+                                        358,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "12.412366] rc.local[890]: Installing open-vm-tools",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        204,
+                        100,
+                        358,
+                        106
+                    ]
+                },
+                {
+                    "score": 0.9658,
+                    "bbox": [
+                        276,
+                        235,
+                        443,
+                        276
+                    ],
+                    "index": 10,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                230,
+                                447,
+                                281
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        230,
+                                        447,
+                                        281
+                                    ],
+                                    "type": "text",
+                                    "content": "加速中>>",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

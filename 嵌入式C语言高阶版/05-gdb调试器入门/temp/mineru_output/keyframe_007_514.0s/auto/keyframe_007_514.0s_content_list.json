@@ -1,0 +1,136 @@
+[
+    {
+        "type": "text",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ gdb ./bin -q Reading symbols from ./bin..",
+        "bbox": [
+            0,
+            67,
+            422,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Starting program: /home/workspace/lesson/bin hello world",
+        "bbox": [
+            0,
+            182,
+            370,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e8c81764006d9941c5a2f1fb4a12bfc2e4a5e4103760a69d841eec89fa5000c5.jpg",
+        "text": "$$\n\\boxed { \\bullet } \\boxed { \\bullet } \\boxed { \\bullet }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            130,
+            360,
+            192,
+            396
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#include <stdio.h>",
+        "bbox": [
+            496,
+            64,
+            654,
+            100
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 19:33",
+        "bbox": [
+            476,
+            0,
+            535,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            164,
+            33,
+            332,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "三 □ +",
+        "bbox": [
+            387,
+            25,
+            535,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            33,
+            833,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ x",
+        "bbox": [
+            887,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "\"1.c\" 10L, 95C",
+        "bbox": [
+            499,
+            956,
+            619,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            837,
+            956,
+            887,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            956,
+            958,
+            984,
+            987
+        ],
+        "page_idx": 0
+    }
+]

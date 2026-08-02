@@ -1,0 +1,377 @@
+[
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/#include <stdio.h> licenses/gpl.html>"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "This is free software: you are free to change and redistrib int main(void) ute it."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                64,
+                654,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There is NO WARRANTY, to the extent permitted by law. Type \"show copying\" and \"show warranty\" for details. This GDB was configured as \"x86 64-linux-gnu\". Type \"show configuration\" for configuration details. For bug reporting instructions, please see: <http://www.gnu.org/software/gdb/bugs/>. Find the GDB manual and other documentation resources onlin e at: <http://www.gnu.org/software/gdb/documentation/>."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                182,
+                494,
+                463
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "For help, type \"help\"."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Type \"apropos word\" to search for commands related to \"word Reading symbols from ./bin..."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(gdb) q"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "murphy@ubuntu:/home/workspace/lesson$ cler"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                479,
+                494,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Command 'cler' not found, did you mean:"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                688,
+                329,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "command 'cleo' from deb cleo (0.004-2) command 'clear' from deb ncurses-bin (6.2-0ubuntu2.1) command 'clex' from deb clex (4.6.patch8-1) command 'cver' from deb gplcver (2.12a-1.1build1)"
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                747,
+                463,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Try: sudo apt install <deb name>"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                896,
+                272,
+                935
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "int b;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b = 20;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "printf(\"hello world \\n\");"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "return 0;"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                177,
+                746,
+                340
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                109,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Sep 1 19:32"
+                    }
+                ]
+            },
+            "bbox": [
+                474,
+                0,
+                536,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu: /home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                163,
+                33,
+                334,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q 三 - □ x 用 -"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                25,
+                536,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                33,
+                833,
+                59
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ x"
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                28,
+                998,
+                61
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ c"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                956,
+                337,
+                992
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "\"1.c\" 10L, 95C"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                956,
+                620,
+                989
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "5,1-4"
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                956,
+                888,
+                989
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "All"
+                    }
+                ]
+            },
+            "bbox": [
+                955,
+                958,
+                985,
+                987
+            ]
+        }
+    ]
+]

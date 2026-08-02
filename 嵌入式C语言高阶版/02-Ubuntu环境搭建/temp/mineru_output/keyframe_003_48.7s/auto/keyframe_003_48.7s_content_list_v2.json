@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.1 VMware安装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                167,
+                277,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一路「默认」安装即可"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                224,
+                253,
+                260
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf7e0864c9c1666cc4341d451ca857bb33c3fc4e92dc8b055aa631bd89a49034.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                275,
+                561,
+                927
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.2 ubuntu虚拟机安装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                966,
+                325,
+                1000
+            ]
+        }
+    ]
+]

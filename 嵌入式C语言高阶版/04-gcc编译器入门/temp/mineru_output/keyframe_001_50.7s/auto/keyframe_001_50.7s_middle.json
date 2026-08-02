@@ -1,0 +1,408 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9496,
+                    "bbox": [
+                        66,
+                        15,
+                        196,
+                        33
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                15,
+                                194,
+                                33
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        15,
+                                        194,
+                                        33
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3 代码编译器gcc",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9481,
+                    "bbox": [
+                        66,
+                        49,
+                        161,
+                        65
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                48,
+                                159,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        48,
+                                        159,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3.1 gcc简介",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9813,
+                    "bbox": [
+                        64,
+                        70,
+                        614,
+                        120
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                73,
+                                612,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        73,
+                                        612,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc是GNU Compiler Collection的简称，是GNU(GNU's Not Unix)开源项目的编译器套件。gcc的初衷是为GNU操作系",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                90,
+                                607,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        90,
+                                        607,
+                                        99
+                                    ],
+                                    "type": "text",
+                                    "content": "统专门编写的一款编译器，用于编译C代码。现如今已扩展为可以编译C++、Java、Objective-C等多种编程语言的集合。",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                104,
+                                592,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        104,
+                                        592,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc本身也遵循GPL发行许可证，大名鼎鼎的linux就是基于gcc搭建的编译系统。gcc 官方网站(https://gcc.gnu.org/)",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        67,
+                        130,
+                        615,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7316,
+                            "bbox": [
+                                67,
+                                130,
+                                615,
+                                388
+                            ],
+                            "index": 4,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        130,
+                                        615,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                130,
+                                                615,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d2824c1363e59bf3027de11432b466543f587c5e466a20ce1b25ddf234adee27.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "score": 0.7316
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                691,
+                388
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9496,
+                    "bbox": [
+                        66,
+                        15,
+                        196,
+                        33
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                15,
+                                194,
+                                33
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        15,
+                                        194,
+                                        33
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3 代码编译器gcc",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9481,
+                    "bbox": [
+                        66,
+                        49,
+                        161,
+                        65
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                48,
+                                159,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        48,
+                                        159,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3.1 gcc简介",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9813,
+                    "bbox": [
+                        64,
+                        70,
+                        614,
+                        120
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                73,
+                                612,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        73,
+                                        612,
+                                        82
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc是GNU Compiler Collection的简称，是GNU(GNU's Not Unix)开源项目的编译器套件。gcc的初衷是为GNU操作系",
+                                    "score": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                90,
+                                607,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        90,
+                                        607,
+                                        99
+                                    ],
+                                    "type": "text",
+                                    "content": "统专门编写的一款编译器，用于编译C代码。现如今已扩展为可以编译C++、Java、Objective-C等多种编程语言的集合。",
+                                    "score": 0.999
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                104,
+                                592,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        104,
+                                        592,
+                                        118
+                                    ],
+                                    "type": "text",
+                                    "content": "gcc本身也遵循GPL发行许可证，大名鼎鼎的linux就是基于gcc搭建的编译系统。gcc 官方网站(https://gcc.gnu.org/)",
+                                    "score": 0.987
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        67,
+                        73,
+                        612,
+                        118
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        67,
+                        130,
+                        615,
+                        388
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7316,
+                            "bbox": [
+                                67,
+                                130,
+                                615,
+                                388
+                            ],
+                            "index": 4,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        130,
+                                        615,
+                                        388
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                130,
+                                                615,
+                                                388
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d2824c1363e59bf3027de11432b466543f587c5e466a20ce1b25ddf234adee27.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "score": 0.7316
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

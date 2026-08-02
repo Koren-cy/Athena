@@ -1,0 +1,467 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5875,
+                "bbox": [
+                    3,
+                    3,
+                    210,
+                    23
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6722,
+                "bbox": [
+                    910,
+                    3,
+                    1034,
+                    24
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7081,
+                "bbox": [
+                    798,
+                    39,
+                    1119,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7805,
+                "bbox": [
+                    1708,
+                    32,
+                    1915,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9718,
+                "bbox": [
+                    71,
+                    73,
+                    1187,
+                    143
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    71,
+                    168,
+                    1173,
+                    269
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711,
+                "bbox": [
+                    71,
+                    296,
+                    1170,
+                    367
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5062,
+                "bbox": [
+                    376,
+                    424,
+                    739,
+                    461
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9531,
+                "bbox": [
+                    200,
+                    520,
+                    1048,
+                    557
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.5994,
+                "bbox": [
+                    103,
+                    587,
+                    332,
+                    748
+                ],
+                "index": 10,
+                "latex": "\\frac { 1 } { 2 } + \\frac { 1 } { 2 } = \\frac { 1 } { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4638,
+                "bbox": [
+                    440,
+                    615,
+                    1156,
+                    718
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609,
+                "bbox": [
+                    25,
+                    776,
+                    770,
+                    813
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    25,
+                    841,
+                    659,
+                    877
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9606,
+                "bbox": [
+                    6,
+                    905,
+                    675,
+                    940
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9591,
+                "bbox": [
+                    24,
+                    969,
+                    770,
+                    1004
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3,
+                    4,
+                    209,
+                    22
+                ],
+                "score": 0.976,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    909,
+                    2,
+                    1033,
+                    25
+                ],
+                "score": 0.973,
+                "text": "Aug 31 05:33"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    40,
+                    1116,
+                    62
+                ],
+                "score": 0.995,
+                "text": "murphy@ubuntu: /home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1705,
+                    31,
+                    1916,
+                    71
+                ],
+                "score": 0.746,
+                "text": "Q ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    73,
+                    1166,
+                    105
+                ],
+                "score": 1.0,
+                "text": "每一节的命令操作将会更改本文。推荐您复制本文的一个副本，然后在副本上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    101,
+                    1183,
+                    140
+                ],
+                "score": 0.988,
+                "text": "进行训练(如果您是通过\"vimtutor\"来启动教程的，那么本文就已经是副本了)。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    164,
+                    832,
+                    269
+                ],
+                "score": 0.524,
+                "text": "很是达，的这计的整角使用中染其是；"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    842,
+                    166,
+                    988,
+                    237
+                ],
+                "score": 0.721,
+                "text": "也而就不是说作，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1003,
+                    166,
+                    1167,
+                    237
+                ],
+                "score": 0.896,
+                "text": "您需要可过能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    193,
+                    850,
+                    235
+                ],
+                "score": 1.0,
+                "text": "读"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    294,
+                    1169,
+                    334
+                ],
+                "score": 1.0,
+                "text": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    78,
+                    323,
+                    1105,
+                    366
+                ],
+                "score": 1.0,
+                "text": "的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    375,
+                    422,
+                    739,
+                    462
+                ],
+                "score": 0.996,
+                "text": "第一讲第一节：移动光标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    520,
+                    1048,
+                    557
+                ],
+                "score": 0.925,
+                "text": "** 要移动光标，请依照说明分别按下 h、j、k、l键。 **"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    442,
+                    616,
+                    514,
+                    652
+                ],
+                "score": 1.0,
+                "text": "提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    554,
+                    617,
+                    582,
+                    717
+                ],
+                "score": 0.783,
+                "text": "hしj"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    587,
+                    612,
+                    797,
+                    718
+                ],
+                "score": 0.618,
+                "text": "的件子在边"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    611,
+                    1147,
+                    719
+                ],
+                "score": 0.615,
+                "text": "次下就会的。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    785,
+                    647,
+                    809,
+                    683
+                ],
+                "score": 0.947,
+                "text": "，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    681,
+                    810,
+                    711
+                ],
+                "score": 0.896,
+                "text": "一"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1134,
+                    666,
+                    1149,
+                    679
+                ],
+                "score": 0.682,
+                "text": "o"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    25,
+                    776,
+                    768,
+                    813
+                ],
+                "score": 0.991,
+                "text": "1.请随意在屏幕内移动光标，直至您觉得舒服为止。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    25,
+                    841,
+                    658,
+                    877
+                ],
+                "score": 0.972,
+                "text": "2. 按下下行键(j)，直到出现光标重复下行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    5,
+                    905,
+                    675,
+                    940
+                ],
+                "score": 0.992,
+                "text": "--> 现在您应该已经学会如何移动到下一讲吧。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    24,
+                    969,
+                    769,
+                    1003
+                ],
+                "score": 0.984,
+                "text": "3.现在请使用下行键，将光标移动到第一讲第二节。"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

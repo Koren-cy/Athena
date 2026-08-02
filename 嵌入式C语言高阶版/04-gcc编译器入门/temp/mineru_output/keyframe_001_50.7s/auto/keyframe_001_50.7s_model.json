@@ -1,0 +1,114 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9496,
+                "bbox": [
+                    185,
+                    44,
+                    547,
+                    94
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9481,
+                "bbox": [
+                    185,
+                    137,
+                    448,
+                    183
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9813,
+                "bbox": [
+                    179,
+                    197,
+                    1708,
+                    334
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7316,
+                "bbox": [
+                    187,
+                    363,
+                    1710,
+                    1080
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    44,
+                    541,
+                    94
+                ],
+                "score": 0.986,
+                "text": "2.3 代码编译器gcc"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    135,
+                    443,
+                    186
+                ],
+                "score": 1.0,
+                "text": "2.3.1 gcc简介"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    249,
+                    204,
+                    1700,
+                    230
+                ],
+                "score": 0.994,
+                "text": "gcc是GNU Compiler Collection的简称，是GNU(GNU's Not Unix)开源项目的编译器套件。gcc的初衷是为GNU操作系"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    251,
+                    1688,
+                    277
+                ],
+                "score": 0.999,
+                "text": "统专门编写的一款编译器，用于编译C代码。现如今已扩展为可以编译C++、Java、Objective-C等多种编程语言的集合。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    187,
+                    291,
+                    1646,
+                    330
+                ],
+                "score": 0.987,
+                "text": "gcc本身也遵循GPL发行许可证，大名鼎鼎的linux就是基于gcc搭建的编译系统。gcc 官方网站(https://gcc.gnu.org/)"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

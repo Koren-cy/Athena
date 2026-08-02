@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/10c69a3bc53f5fac05d97cf23d3e8c05ab25dc2d0fb7f8adfcbb6fda7dc83724.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                96,
+                701,
+                897,
+                1000
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/6de6c0e25291c636c2696e977857d34333958431ebaaea289cc7c5d9a6600512.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                96,
+                0,
+                561,
+                554
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1.2 ubuntu虚拟机安装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                592,
+                325,
+                634
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 打开VMware 选择“创建新虚拟机”"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                96,
+                649,
+                363,
+                685
+            ]
+        }
+    ]
+]

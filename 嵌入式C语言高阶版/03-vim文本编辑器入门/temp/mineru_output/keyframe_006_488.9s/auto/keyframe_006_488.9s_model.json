@@ -1,0 +1,434 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.4764,
+                "bbox": [
+                    4,
+                    3,
+                    210,
+                    23
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7205,
+                "bbox": [
+                    910,
+                    3,
+                    1034,
+                    24
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7975,
+                "bbox": [
+                    798,
+                    39,
+                    1120,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7852,
+                "bbox": [
+                    1708,
+                    32,
+                    1915,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9744,
+                "bbox": [
+                    71,
+                    104,
+                    1173,
+                    205
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9693,
+                "bbox": [
+                    72,
+                    232,
+                    1171,
+                    303
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7873,
+                "bbox": [
+                    376,
+                    360,
+                    740,
+                    397
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9458,
+                "bbox": [
+                    200,
+                    456,
+                    1049,
+                    494
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 5,
+                "label": "display_formula",
+                "score": 0.5106,
+                "bbox": [
+                    102,
+                    523,
+                    333,
+                    684
+                ],
+                "index": 9,
+                "latex": "\\frac { 1 } { 2 } + \\frac { 1 } { 2 } = \\frac { 1 } { 2 }"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8303,
+                "bbox": [
+                    441,
+                    551,
+                    1156,
+                    655
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9577,
+                "bbox": [
+                    25,
+                    712,
+                    771,
+                    749
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.959,
+                "bbox": [
+                    25,
+                    777,
+                    659,
+                    813
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9584,
+                "bbox": [
+                    5,
+                    841,
+                    675,
+                    877
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9591,
+                "bbox": [
+                    24,
+                    905,
+                    771,
+                    941
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9688,
+                "bbox": [
+                    0,
+                    968,
+                    1123,
+                    1037
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    4,
+                    209,
+                    22
+                ],
+                "score": 1.0,
+                "text": "ActivitiesTerminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    909,
+                    2,
+                    1033,
+                    25
+                ],
+                "score": 0.972,
+                "text": "Aug 31 05:33"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    799,
+                    40,
+                    1118,
+                    61
+                ],
+                "score": 0.986,
+                "text": "murphy@ubuntu: /home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1705,
+                    31,
+                    1916,
+                    71
+                ],
+                "score": 0.738,
+                "text": "α ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    842,
+                    101,
+                    988,
+                    173
+                ],
+                "score": 0.858,
+                "text": "也而就是说，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1004,
+                    102,
+                    1169,
+                    173
+                ],
+                "score": 0.786,
+                "text": "您那需要可过能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    129,
+                    850,
+                    171
+                ],
+                "score": 1.0,
+                "text": "读"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    231,
+                    1170,
+                    269
+                ],
+                "score": 1.0,
+                "text": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    78,
+                    259,
+                    1109,
+                    300
+                ],
+                "score": 1.0,
+                "text": "的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    376,
+                    360,
+                    739,
+                    397
+                ],
+                "score": 0.998,
+                "text": "第一讲第一节：移动光标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    457,
+                    1048,
+                    493
+                ],
+                "score": 0.95,
+                "text": "** 要移动光标，请依照说明分别按下 h、j、k、l键。**"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    445,
+                    551,
+                    514,
+                    587
+                ],
+                "score": 1.0,
+                "text": "提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    554,
+                    553,
+                    583,
+                    654
+                ],
+                "score": 0.811,
+                "text": "hしj"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    586,
+                    548,
+                    798,
+                    655
+                ],
+                "score": 0.742,
+                "text": "的子左边，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    812,
+                    549,
+                    1105,
+                    654
+                ],
+                "score": 0.871,
+                "text": "次下就"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    784,
+                    617,
+                    811,
+                    648
+                ],
+                "score": 0.779,
+                "text": "一"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    25,
+                    712,
+                    769,
+                    749
+                ],
+                "score": 0.992,
+                "text": "1.请随意在屏幕内移动光标，直至您觉得舒服为止。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    25,
+                    777,
+                    658,
+                    813
+                ],
+                "score": 0.973,
+                "text": "2. 按下下行键(j)，直到出现光标重复下行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    841,
+                    675,
+                    877
+                ],
+                "score": 0.964,
+                "text": "---> 现在您应该已经学会如何移动到下一讲吧。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    23,
+                    905,
+                    770,
+                    941
+                ],
+                "score": 0.988,
+                "text": "3.现在请使用下行键，将光标移动到第一讲第二节。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    968,
+                    1118,
+                    999
+                ],
+                "score": 0.998,
+                "text": "提示：如果您不敢确定您所按下的字母，请按下<ESC>键回到正常(Normal)模式。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    93,
+                    1002,
+                    591,
+                    1033
+                ],
+                "score": 1.0,
+                "text": "然后再次从键盘输入您想要的命令。"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

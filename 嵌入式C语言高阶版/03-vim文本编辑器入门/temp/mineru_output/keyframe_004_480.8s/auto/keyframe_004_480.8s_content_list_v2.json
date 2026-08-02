@@ -1,0 +1,259 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "=欢迎阅读《VIM教程》— 版本 1.7"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                92,
+                597,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "就些 要 的于篇本幅 令 在本教程好中这Vim 当作一个通用编辑器来使用了"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                185,
+                610,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "完成本教程的内容大约需要25-30分钟，取决于您训练的时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                301,
+                493,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在行训的（如果想是会改木文。推来后教在的，的那么本文就日经在到本了）。"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                389,
+                616,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "很来计的整角使用葉是而， 您需要过能"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                479,
+                610,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。"
+                    }
+                ]
+            },
+            "bbox": [
+                36,
+                597,
+                609,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第一讲第一节：移动光标"
+                    }
+                ]
+            },
+            "bbox": [
+                195,
+                719,
+                384,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "**要移动光标，请依照说明分别按下h、j、k、l键。**"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                806,
+                547,
+                842
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "提示：h 的键位于左边，每次按下就会向左移动。"
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                896,
+                600,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "的键位于右边，每次按下就会向右移动。"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                927,
+                600,
+                958
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "\"/tmp/tutorivFBWa\" 996 lines, 38811 characters"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                958,
+                387,
+                989
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                108,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Aug 31 05:33"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                2,
+                538,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                415,
+                36,
+                583,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ☆"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                998,
+                61
+            ]
+        }
+    ]
+]

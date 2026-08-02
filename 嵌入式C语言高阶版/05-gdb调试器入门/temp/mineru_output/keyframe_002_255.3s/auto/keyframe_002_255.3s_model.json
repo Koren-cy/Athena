@@ -1,0 +1,291 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5434,
+                "bbox": [
+                    1,
+                    2,
+                    213,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6293,
+                "bbox": [
+                    913,
+                    3,
+                    1031,
+                    23
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7766,
+                "bbox": [
+                    796,
+                    38,
+                    1122,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6948,
+                "bbox": [
+                    1706,
+                    31,
+                    1917,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5802,
+                "bbox": [
+                    0,
+                    73,
+                    1249,
+                    595
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    3,
+                    211,
+                    23
+                ],
+                "score": 0.978,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    911,
+                    2,
+                    1031,
+                    22
+                ],
+                "score": 0.988,
+                "text": "Sep 1 19:29"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    796,
+                    39,
+                    1120,
+                    61
+                ],
+                "score": 0.995,
+                "text": "murphy@ubuntu: /home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1704,
+                    31,
+                    1917,
+                    68
+                ],
+                "score": 0.731,
+                "text": "Q ≡ - □ ☆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    74,
+                    995,
+                    108
+                ],
+                "score": 0.994,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gbd"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2,
+                    108,
+                    432,
+                    140
+                ],
+                "score": 1.0,
+                "text": "[sudo] password for murphy:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    138,
+                    994,
+                    170
+                ],
+                "score": 0.995,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install gdb"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    169,
+                    432,
+                    204
+                ],
+                "score": 1.0,
+                "text": "[sudo] password for murphy:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    202,
+                    469,
+                    234
+                ],
+                "score": 0.997,
+                "text": "Reading package lists... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    234,
+                    390,
+                    266
+                ],
+                "score": 0.999,
+                "text": "Building dependency tree"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    266,
+                    533,
+                    298
+                ],
+                "score": 0.994,
+                "text": "Reading state information... Done"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    298,
+                    910,
+                    330
+                ],
+                "score": 0.994,
+                "text": "gdb is already the newest version (9.2-0ubuntul~20.04.2)."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    331,
+                    1005,
+                    363
+                ],
+                "score": 0.986,
+                "text": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    363,
+                    820,
+                    395
+                ],
+                "score": 0.999,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ gdb --version"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    394,
+                    661,
+                    426
+                ],
+                "score": 0.995,
+                "text": "GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.2) 9.2"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    427,
+                    783,
+                    459
+                ],
+                "score": 0.989,
+                "text": "Copyright (C) 2020 Free Software Foundation, Inc."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    456,
+                    1234,
+                    491
+                ],
+                "score": 0.991,
+                "text": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    491,
+                    1057,
+                    523
+                ],
+                "score": 0.997,
+                "text": "This is free software: you are free to change and redistribute it."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    523,
+                    848,
+                    555
+                ],
+                "score": 1.0,
+                "text": "There is NO WARRANTY, to the extent permitted by law."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1,
+                    555,
+                    644,
+                    588
+                ],
+                "score": 0.99,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ g■"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6323,
+                "bbox": [
+                    4,
+                    3,
+                    209,
+                    23
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5933,
+                "bbox": [
+                    801,
+                    40,
+                    1118,
+                    61
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.694,
+                "bbox": [
+                    1710,
+                    32,
+                    1915,
+                    66
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5583,
+                "bbox": [
+                    0,
+                    75,
+                    730,
+                    107
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6055,
+                "bbox": [
+                    0,
+                    108,
+                    730,
+                    139
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6204,
+                "bbox": [
+                    1,
+                    139,
+                    786,
+                    173
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    4,
+                    4,
+                    208,
+                    22
+                ],
+                "score": 1.0,
+                "text": "ActivitiesTerminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    41,
+                    1116,
+                    60
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1708,
+                    31,
+                    1915,
+                    68
+                ],
+                "score": 0.755,
+                "text": "Q ≡ - □ ×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -2,
+                    73,
+                    730,
+                    107
+                ],
+                "score": 0.996,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    109,
+                    728,
+                    137
+                ],
+                "score": 0.994,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vim 1.c"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -1,
+                    140,
+                    781,
+                    172
+                ],
+                "score": 0.992,
+                "text": "murphy@ubuntu:/home/workspace/lesson$ vimtutor z"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

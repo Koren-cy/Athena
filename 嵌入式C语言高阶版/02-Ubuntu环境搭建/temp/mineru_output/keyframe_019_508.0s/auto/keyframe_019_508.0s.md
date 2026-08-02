@@ -1,0 +1,3 @@
+<table><tr><td>drwxr-xr-x 15 murphy murphy drwxr-xr-x 4 root  root -rw------- 1 murphy murphy 26516 Aug 31 02:21 .bash_history -rw-r--r-- 1 murphy murphy -rw-r--r-- 1 murphy murphy drwxrwxr-x 13 murphy murphy drwx------ 13 murphy murphy drwxr-xr-x 2 murphy murphy drwxr-xr-x 2 murphy murphy drwxr-xr-x 2 murphy murphy drwx------ drwxr-xr-x 3 murphy murphy drwx- drwxr-xr-x 2 murphy murphy drwxr-xr-x 2 murphy murphy -rw-r--r-- 1 murphy murphy drwxr-xr-x 2 murphy murphy -rw-r--r-- 1 murphy murphy drwxr-xr-x 2 murphy murphy drwxr-xr-x 2 murphy murphy - rw -</td></tr></table>
+
+murphy@ubuntu:\~\$ murphy@ubuntu:\~\$ murphy@ubuntu:\~\$ murphy@ubuntu:\~\$

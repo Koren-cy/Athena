@@ -1,0 +1,90 @@
+[
+    {
+        "type": "text",
+        "text": "ubuntu®",
+        "bbox": [
+            445,
+            868,
+            567,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)",
+        "bbox": [
+            2,
+            0,
+            192,
+            18
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Player(P)Ⅱ",
+        "bbox": [
+            1,
+            23,
+            131,
+            46
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Aug 31 02:35",
+        "bbox": [
+            473,
+            54,
+            525,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "方、 凸物 ①、",
+        "bbox": [
+            905,
+            54,
+            997,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "搜索",
+        "bbox": [
+            28,
+            971,
+            62,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "WCAT",
+        "bbox": [
+            136,
+            961,
+            248,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "29℃ 局部晴朗 17:35",
+        "bbox": [
+            785,
+            966,
+            969,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

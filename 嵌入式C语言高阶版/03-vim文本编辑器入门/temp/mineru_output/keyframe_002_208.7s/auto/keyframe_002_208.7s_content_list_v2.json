@@ -1,0 +1,191 @@
+[
+    [
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Activities Terminal"
+                    }
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                108,
+                20
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson"
+                    }
+                ]
+            },
+            "bbox": [
+                415,
+                36,
+                583,
+                56
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Q ≡ - □ ×"
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                28,
+                998,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$ sudo apt-get install vim"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                67,
+                520,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "[sudo] password for murphy:"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                97,
+                228,
+                128
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Reading package lists... Done"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                128,
+                246,
+                157
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Building dependency tree"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                157,
+                205,
+                188
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Reading state information... Done"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                185,
+                280,
+                216
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "vim is already the newest version (2:8.1.2269-1ubuntu5.23)."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                216,
+                493,
+                247
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "0 upgraded, 0 newly installed, 0 to remove and 99 not upgraded."
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                244,
+                526,
+                278
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "murphy@ubuntu:/home/workspace/lesson$"
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                278,
+                312,
+                306
+            ]
+        }
+    ]
+]

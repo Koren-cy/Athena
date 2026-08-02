@@ -1,0 +1,149 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.4864,
+                "bbox": [
+                    3,
+                    27,
+                    254,
+                    51
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7545,
+                "bbox": [
+                    5,
+                    2,
+                    372,
+                    20
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.6736,
+                "bbox": [
+                    1836,
+                    1,
+                    1909,
+                    17
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6353,
+                "bbox": [
+                    56,
+                    1049,
+                    120,
+                    1070
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.838,
+                "bbox": [
+                    261,
+                    1040,
+                    479,
+                    1078
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6835,
+                "bbox": [
+                    1510,
+                    1046,
+                    1794,
+                    1070
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    6,
+                    26,
+                    251,
+                    53
+                ],
+                "score": 0.914,
+                "text": "Player(P)Ⅱ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    5,
+                    3,
+                    368,
+                    18
+                ],
+                "score": 0.975,
+                "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1840,
+                    2,
+                    1860,
+                    18
+                ],
+                "score": 0.845,
+                "text": "凸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1885,
+                    2,
+                    1905,
+                    18
+                ],
+                "score": 0.903,
+                "text": "×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1045,
+                    122,
+                    1073
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1509,
+                    1044,
+                    1794,
+                    1071
+                ],
+                "score": 0.765,
+                "text": "29℃ 局部晴朗 ∧  小) 简体"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

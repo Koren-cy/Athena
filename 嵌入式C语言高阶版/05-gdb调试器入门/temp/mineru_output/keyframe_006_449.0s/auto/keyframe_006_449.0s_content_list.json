@@ -1,0 +1,189 @@
+[
+    {
+        "type": "text",
+        "text": "License GPLv3+: GNU GPL version 3 or later <http://gnu.org/#include <stdio.h> licenses/gpl.html>   \nThis is free software: you are free to change and redistrib int main(void) ute it.",
+        "bbox": [
+            0,
+            64,
+            654,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is NO WARRANTY, to the extent permitted by law. Type \"show copying\" and \"show warranty\" for details. This GDB was configured as \"x86 64-linux-gnu\". Type \"show configuration\" for configuration details. For bug reporting instructions, please see: <http://www.gnu.org/software/gdb/bugs/>. Find the GDB manual and other documentation resources onlin e at: <http://www.gnu.org/software/gdb/documentation/>.",
+        "bbox": [
+            0,
+            182,
+            494,
+            463
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For help, type \"help\".   \nType \"apropos word\" to search for commands related to \"word Reading symbols from ./bin...   \n(gdb) q   \nmurphy@ubuntu:/home/workspace/lesson\\$ cler",
+        "bbox": [
+            0,
+            479,
+            494,
+            672
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Command 'cler' not found, did you mean:",
+        "bbox": [
+            0,
+            688,
+            329,
+            726
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "command 'cleo' from deb cleo (0.004-2) command 'clear' from deb ncurses-bin (6.2-0ubuntu2.1) command 'clex' from deb clex (4.6.patch8-1) command 'cver' from deb gplcver (2.12a-1.1build1)",
+        "bbox": [
+            8,
+            747,
+            463,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Try: sudo apt install <deb name>",
+        "bbox": [
+            0,
+            896,
+            272,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "int b;   \nb = 20;   \nprintf(\"hello world \\n\");   \nreturn 0;",
+        "bbox": [
+            519,
+            177,
+            746,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Activities Terminal",
+        "bbox": [
+            0,
+            0,
+            109,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Sep 1 19:32",
+        "bbox": [
+            474,
+            0,
+            536,
+            20
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu: /home/workspace/lesson",
+        "bbox": [
+            163,
+            33,
+            334,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q 三 - □ x 用 -",
+        "bbox": [
+            386,
+            25,
+            536,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "murphy@ubuntu:/home/workspace/lesson",
+        "bbox": [
+            665,
+            33,
+            833,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Q ≡ - □ x",
+        "bbox": [
+            887,
+            28,
+            998,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "murphy@ubuntu:/home/workspace/lesson\\$ c",
+        "bbox": [
+            0,
+            956,
+            337,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "\"1.c\" 10L, 95C",
+        "bbox": [
+            499,
+            956,
+            620,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "5,1-4",
+        "bbox": [
+            836,
+            956,
+            888,
+            989
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "All",
+        "bbox": [
+            955,
+            958,
+            985,
+            987
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,1104 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9096,
+                "bbox": [
+                    9,
+                    2,
+                    372,
+                    20
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5691,
+                "bbox": [
+                    1836,
+                    1,
+                    1909,
+                    18
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.7407,
+                "bbox": [
+                    4,
+                    27,
+                    254,
+                    52
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5678,
+                "bbox": [
+                    911,
+                    61,
+                    1033,
+                    82
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.8055,
+                "bbox": [
+                    1808,
+                    60,
+                    1914,
+                    81
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7106,
+                "bbox": [
+                    800,
+                    114,
+                    936,
+                    137
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8382,
+                "bbox": [
+                    449,
+                    227,
+                    527,
+                    318
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8941,
+                "bbox": [
+                    449,
+                    324,
+                    524,
+                    345
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9134,
+                "bbox": [
+                    626,
+                    223,
+                    722,
+                    317
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8951,
+                "bbox": [
+                    650,
+                    325,
+                    698,
+                    342
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8998,
+                "bbox": [
+                    813,
+                    222,
+                    913,
+                    318
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9038,
+                "bbox": [
+                    803,
+                    324,
+                    924,
+                    342
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8742,
+                "bbox": [
+                    1000,
+                    231,
+                    1104,
+                    310
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9013,
+                "bbox": [
+                    995,
+                    324,
+                    1108,
+                    342
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9196,
+                "bbox": [
+                    1191,
+                    219,
+                    1290,
+                    318
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9033,
+                "bbox": [
+                    1203,
+                    324,
+                    1274,
+                    342
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9122,
+                "bbox": [
+                    1386,
+                    223,
+                    1468,
+                    317
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9063,
+                "bbox": [
+                    1385,
+                    324,
+                    1470,
+                    343
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8918,
+                "bbox": [
+                    442,
+                    413,
+                    532,
+                    506
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8852,
+                "bbox": [
+                    444,
+                    512,
+                    528,
+                    530
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9138,
+                "bbox": [
+                    630,
+                    410,
+                    721,
+                    505
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9019,
+                "bbox": [
+                    644,
+                    512,
+                    705,
+                    531
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8788,
+                "bbox": [
+                    817,
+                    412,
+                    908,
+                    505
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8907,
+                "bbox": [
+                    830,
+                    512,
+                    895,
+                    530
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8503,
+                "bbox": [
+                    1003,
+                    410,
+                    1100,
+                    505
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9008,
+                "bbox": [
+                    991,
+                    511,
+                    1111,
+                    531
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8869,
+                "bbox": [
+                    1190,
+                    409,
+                    1288,
+                    505
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9045,
+                "bbox": [
+                    1177,
+                    512,
+                    1302,
+                    531
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8971,
+                "bbox": [
+                    1374,
+                    411,
+                    1477,
+                    506
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8929,
+                "bbox": [
+                    1367,
+                    512,
+                    1487,
+                    532
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8963,
+                "bbox": [
+                    430,
+                    593,
+                    526,
+                    694
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9026,
+                "bbox": [
+                    424,
+                    699,
+                    547,
+                    718
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9154,
+                "bbox": [
+                    630,
+                    600,
+                    720,
+                    692
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8948,
+                "bbox": [
+                    645,
+                    699,
+                    705,
+                    718
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8917,
+                "bbox": [
+                    812,
+                    606,
+                    912,
+                    686
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9038,
+                "bbox": [
+                    804,
+                    700,
+                    920,
+                    719
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8138,
+                "bbox": [
+                    1002,
+                    608,
+                    1097,
+                    684
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8802,
+                "bbox": [
+                    1018,
+                    699,
+                    1085,
+                    719
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8788,
+                "bbox": [
+                    1198,
+                    599,
+                    1281,
+                    695
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8985,
+                "bbox": [
+                    1199,
+                    700,
+                    1279,
+                    718
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9184,
+                "bbox": [
+                    1372,
+                    596,
+                    1484,
+                    698
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9078,
+                "bbox": [
+                    1367,
+                    699,
+                    1488,
+                    718
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8936,
+                "bbox": [
+                    446,
+                    786,
+                    530,
+                    882
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8873,
+                "bbox": [
+                    464,
+                    889,
+                    510,
+                    905
+                ],
+                "index": 44
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9093,
+                "bbox": [
+                    626,
+                    786,
+                    725,
+                    882
+                ],
+                "index": 45
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9173,
+                "bbox": [
+                    627,
+                    889,
+                    723,
+                    905
+                ],
+                "index": 46
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9024,
+                "bbox": [
+                    811,
+                    782,
+                    915,
+                    872
+                ],
+                "index": 47
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9233,
+                "bbox": [
+                    803,
+                    888,
+                    924,
+                    905
+                ],
+                "index": 48
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8854,
+                "bbox": [
+                    1000,
+                    794,
+                    1101,
+                    871
+                ],
+                "index": 49
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9057,
+                "bbox": [
+                    1023,
+                    888,
+                    1078,
+                    905
+                ],
+                "index": 50
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9131,
+                "bbox": [
+                    1189,
+                    783,
+                    1293,
+                    883
+                ],
+                "index": 51
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8837,
+                "bbox": [
+                    1221,
+                    888,
+                    1256,
+                    905
+                ],
+                "index": 52
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8642,
+                "bbox": [
+                    859,
+                    983,
+                    929,
+                    1002
+                ],
+                "index": 53
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.5724,
+                "bbox": [
+                    11,
+                    1049,
+                    38,
+                    1071
+                ],
+                "index": 54
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.846,
+                "bbox": [
+                    56,
+                    1049,
+                    120,
+                    1070
+                ],
+                "index": 55
+            },
+            {
+                "cls_id": 9,
+                "label": "footer_image",
+                "score": 0.9139,
+                "bbox": [
+                    261,
+                    1039,
+                    479,
+                    1078
+                ],
+                "index": 56
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9151,
+                "bbox": [
+                    1510,
+                    1046,
+                    1793,
+                    1071
+                ],
+                "index": 57
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.6253,
+                "bbox": [
+                    1800,
+                    1042,
+                    1862,
+                    1080
+                ],
+                "index": 58
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.6622,
+                "bbox": [
+                    1876,
+                    1048,
+                    1904,
+                    1076
+                ],
+                "index": 59
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    10,
+                    3,
+                    367,
+                    18
+                ],
+                "score": 0.974,
+                "text": "murphy - VMware Workstation 15 Player (仅用于非商业用途)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1840,
+                    2,
+                    1860,
+                    19
+                ],
+                "score": 0.805,
+                "text": "凸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1884,
+                    2,
+                    1905,
+                    19
+                ],
+                "score": 0.911,
+                "text": "×"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    8,
+                    27,
+                    251,
+                    52
+                ],
+                "score": 0.925,
+                "text": "Player(P)Ⅱ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    910,
+                    60,
+                    1032,
+                    83
+                ],
+                "score": 0.981,
+                "text": "Aug 31 02:36"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    114,
+                    934,
+                    137
+                ],
+                "score": 0.987,
+                "text": "Q Type to search"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    447,
+                    322,
+                    525,
+                    346
+                ],
+                "score": 1.0,
+                "text": "Mahjongg"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    649,
+                    320,
+                    698,
+                    344
+                ],
+                "score": 1.0,
+                "text": "Mines"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    802,
+                    323,
+                    924,
+                    342
+                ],
+                "score": 0.993,
+                "text": "Passwords and..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    994,
+                    324,
+                    1109,
+                    342
+                ],
+                "score": 0.998,
+                "text": "Power Statistics"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1201,
+                    323,
+                    1274,
+                    342
+                ],
+                "score": 1.0,
+                "text": "Remmina"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1383,
+                    322,
+                    1471,
+                    345
+                ],
+                "score": 1.0,
+                "text": "Rhythmbox"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    444,
+                    511,
+                    528,
+                    530
+                ],
+                "score": 1.0,
+                "text": "Screenshot"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    641,
+                    509,
+                    706,
+                    533
+                ],
+                "score": 1.0,
+                "text": "Settings"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    827,
+                    511,
+                    895,
+                    531
+                ],
+                "score": 0.998,
+                "text": "Shotwell"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    990,
+                    510,
+                    1111,
+                    532
+                ],
+                "score": 0.967,
+                "text": "Software & Up..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1176,
+                    512,
+                    1302,
+                    532
+                ],
+                "score": 0.962,
+                "text": "Software Upda..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1365,
+                    509,
+                    1488,
+                    533
+                ],
+                "score": 0.967,
+                "text": "Startup Applic..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    424,
+                    698,
+                    545,
+                    718
+                ],
+                "score": 0.994,
+                "text": "Startup Disk Cr..."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    644,
+                    696,
+                    706,
+                    720
+                ],
+                "score": 1.0,
+                "text": "Sudoku"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    803,
+                    700,
+                    919,
+                    720
+                ],
+                "score": 1.0,
+                "text": "System Monitor"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1015,
+                    698,
+                    1086,
+                    721
+                ],
+                "score": 1.0,
+                "text": "Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1198,
+                    699,
+                    1279,
+                    718
+                ],
+                "score": 1.0,
+                "text": "Text Editor"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1366,
+                    698,
+                    1487,
+                    718
+                ],
+                "score": 1.0,
+                "text": "Thunderbird Mail"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    461,
+                    887,
+                    512,
+                    907
+                ],
+                "score": 0.997,
+                "text": "To Do"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    627,
+                    889,
+                    722,
+                    905
+                ],
+                "score": 1.0,
+                "text": "Transmission"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    801,
+                    887,
+                    923,
+                    906
+                ],
+                "score": 0.981,
+                "text": "Ubuntu Software"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1021,
+                    883,
+                    1079,
+                    907
+                ],
+                "score": 1.0,
+                "text": "Videos"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1218,
+                    886,
+                    1257,
+                    907
+                ],
+                "score": 1.0,
+                "text": "Vim"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    858,
+                    982,
+                    929,
+                    1003
+                ],
+                "score": 1.0,
+                "text": "Frequent"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    7,
+                    1046,
+                    40,
+                    1075
+                ],
+                "score": 0.984,
+                "text": "田"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    52,
+                    1045,
+                    122,
+                    1073
+                ],
+                "score": 1.0,
+                "text": "搜索"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1510,
+                    1045,
+                    1793,
+                    1071
+                ],
+                "score": 0.871,
+                "text": "29℃ 局部晴朗  简体"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1811,
+                    1043,
+                    1849,
+                    1058
+                ],
+                "score": 1.0,
+                "text": "17:36"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1800,
+                    1061,
+                    1861,
+                    1079
+                ],
+                "score": 1.0,
+                "text": "2024/8/31"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]

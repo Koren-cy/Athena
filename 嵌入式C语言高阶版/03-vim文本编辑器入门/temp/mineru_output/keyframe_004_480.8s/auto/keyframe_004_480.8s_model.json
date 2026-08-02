@@ -1,0 +1,444 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.5506,
+                "bbox": [
+                    4,
+                    2,
+                    211,
+                    24
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6614,
+                "bbox": [
+                    909,
+                    3,
+                    1035,
+                    24
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8244,
+                "bbox": [
+                    798,
+                    39,
+                    1121,
+                    63
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 13,
+                "label": "header_image",
+                "score": 0.6896,
+                "bbox": [
+                    1707,
+                    31,
+                    1917,
+                    67
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5699,
+                "bbox": [
+                    1,
+                    102,
+                    1149,
+                    143
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9756,
+                "bbox": [
+                    70,
+                    200,
+                    1174,
+                    303
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9431,
+                "bbox": [
+                    71,
+                    327,
+                    949,
+                    367
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9138,
+                "bbox": [
+                    72,
+                    421,
+                    1186,
+                    496
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9728,
+                "bbox": [
+                    70,
+                    519,
+                    1173,
+                    622
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691,
+                "bbox": [
+                    71,
+                    647,
+                    1171,
+                    719
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7062,
+                "bbox": [
+                    376,
+                    776,
+                    740,
+                    813
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9488,
+                "bbox": [
+                    201,
+                    871,
+                    1050,
+                    910
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8957,
+                "bbox": [
+                    439,
+                    968,
+                    1155,
+                    1003
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8678,
+                "bbox": [
+                    553,
+                    1001,
+                    1155,
+                    1036
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5279,
+                "bbox": [
+                    1,
+                    1034,
+                    747,
+                    1067
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    5,
+                    3,
+                    209,
+                    23
+                ],
+                "score": 0.98,
+                "text": "Activities Terminal"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    907,
+                    2,
+                    1036,
+                    25
+                ],
+                "score": 0.965,
+                "text": "Aug 31 05:33"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    800,
+                    41,
+                    1117,
+                    61
+                ],
+                "score": 1.0,
+                "text": "murphy@ubuntu:/home/workspace/lesson"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1704,
+                    31,
+                    1918,
+                    68
+                ],
+                "score": 0.789,
+                "text": "Q ≡ - □ ☆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    -4,
+                    100,
+                    979,
+                    143
+                ],
+                "score": 0.959,
+                "text": "=欢迎阅读《VIM教程》—"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1004,
+                    102,
+                    1150,
+                    143
+                ],
+                "score": 0.978,
+                "text": "版本 1.7"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    811,
+                    198,
+                    947,
+                    272
+                ],
+                "score": 0.654,
+                "text": "的于篇本幅"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    973,
+                    196,
+                    1170,
+                    269
+                ],
+                "score": 0.892,
+                "text": "在本教程好中这"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    224,
+                    113,
+                    298
+                ],
+                "score": 1.0,
+                "text": "就些"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    227,
+                    815,
+                    270
+                ],
+                "score": 1.0,
+                "text": "要"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    942,
+                    231,
+                    974,
+                    267
+                ],
+                "score": 1.0,
+                "text": "令"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    502,
+                    258,
+                    994,
+                    304
+                ],
+                "score": 0.992,
+                "text": "Vim 当作一个通用编辑器来使用了"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    329,
+                    946,
+                    362
+                ],
+                "score": 1.0,
+                "text": "完成本教程的内容大约需要25-30分钟，取决于您训练的时间。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    53,
+                    395,
+                    1203,
+                    516
+                ],
+                "score": 0.564,
+                "text": "在行训的（如果想是会改木文。推来后教在的，的那么本文就日经在到本了）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    516,
+                    987,
+                    621
+                ],
+                "score": 0.592,
+                "text": "很来计的整角使用葉是而，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1004,
+                    519,
+                    1169,
+                    589
+                ],
+                "score": 0.904,
+                "text": "您需要过能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    647,
+                    1166,
+                    679
+                ],
+                "score": 0.999,
+                "text": "好了，现在请确定您的Shift-Lock(大小写锁定键)还没有按下，然后按键盘上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    678,
+                    1162,
+                    717
+                ],
+                "score": 0.998,
+                "text": "的字母键j足够多次来移动光标，直到第一节的内容能够完全充满屏幕。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    376,
+                    776,
+                    739,
+                    813
+                ],
+                "score": 0.998,
+                "text": "第一讲第一节：移动光标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    199,
+                    869,
+                    1050,
+                    910
+                ],
+                "score": 0.976,
+                "text": "**要移动光标，请依照说明分别按下h、j、k、l键。**"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    438,
+                    968,
+                    1155,
+                    1003
+                ],
+                "score": 0.979,
+                "text": "提示：h 的键位于左边，每次按下就会向左移动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    553,
+                    1001,
+                    1154,
+                    1036
+                ],
+                "score": 1.0,
+                "text": "的键位于右边，每次按下就会向右移动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    0,
+                    1034,
+                    746,
+                    1068
+                ],
+                "score": 0.999,
+                "text": "\"/tmp/tutorivFBWa\" 996 lines, 38811 characters"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1921,
+            "height": 1080
+        }
+    }
+]
