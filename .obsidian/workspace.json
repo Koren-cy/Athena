@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +96,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第2讲 数制与补码 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -165,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -204,9 +206,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:新建数据库": false,
-      "obsidian-kanban:创建新看板": false,
       "iconic:打开规则书": false,
-      "obsidian-trash-explorer:Open trash explorer": true,
       "hide-folders:Show hidden folders": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -214,17 +214,11 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-bible-reference:Bible Verse Lookup": true,
       "github-sync:Sync with Remote": false,
       "edge-tts:Read note aloud": true,
-      "obsidian-importer:Open Importer": false,
       "mathpad:Open Mathpad": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "757f70a862ceb29a",
