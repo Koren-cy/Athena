@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
+                "file": "Godot游戏开发/Godot游戏开发.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-引擎安装与瓦片系统基础"
+              "title": "Godot游戏开发"
             }
           }
         ]
@@ -211,12 +211,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b543ee5bc357f991",
+  "active": "772ec6f6275715fb",
   "lastOpenFiles": [
+    "数学建模/滤波器/Moving-Average",
+    "数学建模/滤波器",
+    "数学建模/滤波器/Savitzky-Golay",
+    "数学建模",
+    "Godot游戏开发/Godot游戏开发.md",
+    "未命名.md",
+    "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
     "Godot游戏开发/1-项目先导/1-项目先导.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/3-玩家角色动画与移动基础.md",
-    "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
-    "Godot游戏开发/Godot游戏开发.md",
     "虚幻引擎/虚幻引擎.md",
     "嵌入式C语言高阶版/嵌入式C语言高阶版.md",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
@@ -251,14 +256,9 @@
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_origin.pdf",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_model.json",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_middle.json",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_layout.pdf",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_content_list_v2.json",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s_content_list.json",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s.md",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_001_13.5s/hybrid_auto/keyframe_001_13.5s.md",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/_batch0_result/keyframe_005_93.2s/hybrid_auto/keyframe_005_93.2s.md",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/keyframe_006_98.7s/hybrid_auto/keyframe_006_98.7s.md",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/mineru_output/keyframe_001_13.5s/hybrid_auto/keyframe_001_13.5s.md",
     "未命名.canvas"
   ]
 }
