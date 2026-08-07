@@ -37,6 +37,30 @@
         "91905b4107a355f5"
       ]
     },
+    "6-电子设计": {
+      "icon": "lucide-microchip",
+      "unsynced": [
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
+      ],
+      "color": "orange"
+    },
+    "7-应用与数学": {
+      "icon": "math",
+      "color": "blue",
+      "unsynced": [
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
+      ]
+    },
+    "8-数学建模": {
+      "icon": "lucide-function-square",
+      "color": "blue",
+      "unsynced": [
+        "d717afd7fa91b737",
+        "91905b4107a355f5"
+      ]
+    },
     "9-程序设计": {
       "icon": "lucide-monitor-cog",
       "color": "purple",
@@ -51,6 +75,63 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [
+    {
+      "id": "bLkGp",
+      "name": "笔记规范",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-笔记规范.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notepad-text",
+      "color": "green"
+    },
+    {
+      "id": "GULIb",
+      "name": "网页收藏",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-网页收藏.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-newspaper",
+      "color": "yellow"
+    },
+    {
+      "id": "hYEov",
+      "name": "电子设计",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-电子设计.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "orange",
+      "icon": "lucide-notebook-pen"
+    },
     {
       "id": "VAPu0",
       "name": "Markdown文件",
@@ -74,6 +155,45 @@
       "icon": "lucide-notebook"
     }
   ],
-  "folderRules": [],
+  "folderRules": [
+    {
+      "id": "reNzE",
+      "name": "电子设计",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-电子设计/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "orange",
+      "icon": "lucide-folder"
+    },
+    {
+      "id": "wjmaP",
+      "name": "网页收藏",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "matches",
+          "value": "[0-9]+-网页收藏/.*"
+        },
+        {
+          "source": "icon",
+          "operator": "!hasValue"
+        }
+      ],
+      "enabled": true,
+      "color": "yellow",
+      "icon": "lucide-folder"
+    }
+  ],
   "rememberDeletedItems": false
 }

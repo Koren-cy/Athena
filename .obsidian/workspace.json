@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b543ee5bc357f991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Godot游戏开发/Godot游戏开发.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Godot游戏开发"
-            }
-          },
-          {
             "id": "f03d73c0daab65ea",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "time-series-filtering-algorithms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -225,8 +212,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "772ec6f6275715fb",
+  "active": "54e6b97626da5075",
   "lastOpenFiles": [
+    "Godot游戏开发/Godot游戏开发.md",
+    "docs/time-series-filtering-algorithms.md",
     "数学建模/时间序列滤波器/Rank-Order",
     "数学建模/时间序列滤波器/Morphological Filters",
     "数学建模/时间序列滤波器/Median Filter",
@@ -237,10 +226,7 @@
     "数学建模/时间序列滤波器/Filter Bank",
     "数学建模/时间序列滤波器/Savitzky Golay",
     "数学建模/时间序列滤波器/Infinite Impulse Response",
-    "数学建模/时间序列滤波器/Finite Impulse Response",
-    "docs/time-series-filtering-algorithms.md",
     "未命名.md",
-    "Godot游戏开发/Godot游戏开发.md",
     "Godot游戏开发/2-引擎安装与瓦片系统基础/2-引擎安装与瓦片系统基础.md",
     "Godot游戏开发/1-项目先导/1-项目先导.md",
     "Godot游戏开发/3-玩家角色动画与移动基础/3-玩家角色动画与移动基础.md",
