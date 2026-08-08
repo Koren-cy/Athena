@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
+                "file": "嵌入式C语言高阶版/04-gcc编译器入门/04-gcc编译器入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-课程内容和理念介绍"
+              "title": "04-gcc编译器入门"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "f03d73c0daab65ea",
   "lastOpenFiles": [
+    "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
     "docs/time-series-filtering-algorithms.md",
     "Godot游戏开发/Godot游戏开发.md",
     "数学建模/时间序列滤波器/Rank-Order",
@@ -232,7 +233,6 @@
     "Godot游戏开发/3-玩家角色动画与移动基础/3-玩家角色动画与移动基础.md",
     "虚幻引擎/虚幻引擎.md",
     "嵌入式C语言高阶版/嵌入式C语言高阶版.md",
-    "嵌入式C语言高阶版/01-课程内容和理念介绍/01-课程内容和理念介绍.md",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/keyframes/keyframe_012_262.1s.jpg",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/keyframes/keyframe_011_235.3s.jpg",
     "嵌入式C语言高阶版/01-课程内容和理念介绍/temp/keyframes/keyframe_010_195.9s.jpg",
